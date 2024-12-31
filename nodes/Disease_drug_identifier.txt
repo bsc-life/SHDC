@@ -1,0 +1,363 @@
+term	category
+4-ap	drug
+5-aza-2'-deoxycytidine	drug
+5-azacytidine	drug
+5-fu	drug
+6-mercaptopurine	drug
+acarbose	drug
+acetaminophen	drug
+acitretin	drug
+adapalene	drug
+alogliptin	drug
+alosetron	drug
+amantadine	drug
+amcinonide	drug
+amiodarone	drug
+amisulpride	drug
+amlodipine	drug
+ampicillin	drug
+anagrelide	drug
+apomorphine	drug
+apremilast	drug
+argatroban	drug
+arginine	drug
+aripiprazole	drug
+atenolol	drug
+atorvastatin	drug
+atropine	drug
+auranofin	drug
+azathioprine	drug
+azithromycin	drug
+baclofen	drug
+balsalazide	drug
+bcnu	drug
+benztropine	drug
+betamethasone	drug
+betaxolol	drug
+bexarotene	drug
+bicalutamide	drug
+bisoprolol	drug
+bivalirudin	drug
+bortezomib	drug
+brimonidine	drug
+bromocriptine	drug
+budesonide	drug
+bupropion	drug
+buspirone	drug
+cabazitaxel	drug
+calcipotriol	drug
+capecitabine	drug
+captopril	drug
+carfilzomib	drug
+celecoxib	drug
+celiprolol	drug
+cerivastatin	drug
+cevimeline	drug
+choline	drug
+ciclesonide	drug
+cilostazol	drug
+ciprofloxacin	drug
+cisplatin	drug
+citalopram	drug
+clodronate	drug
+clofarabine	drug
+clomipramine	drug
+clopidogrel	drug
+cyanocobalamin	drug
+cyclizine	drug
+cyclophosphamide	drug
+cytarabine	drug
+dabrafenib	drug
+dacarbazine	drug
+dantrolene	drug
+darifenacin	drug
+dexrazoxane	drug
+diclofenac	drug
+dicyclomine	drug
+diflunisal	drug
+digoxin	drug
+dihydroergotamine	drug
+domperidone	drug
+donepezil	drug
+doxorubicin	drug
+doxycycline	drug
+dronedarone	drug
+droperidol	drug
+duloxetine	drug
+dyphylline	drug
+eaca	drug
+entacapone	drug
+ephedrine	drug
+eplerenone	drug
+eprosartan	drug
+eptifibatide	drug
+eribulin	drug
+erythromycin	drug
+etodolac	drug
+etoposide	drug
+etoricoxib	drug
+everolimus	drug
+exenatide	drug
+fenofibrate	drug
+fenoprofen	drug
+finasteride	drug
+flecainide	drug
+fludrocortisone	drug
+flunisolide	drug
+fluocinonide	drug
+fluoxetine	drug
+flurbiprofen	drug
+flutamide	drug
+fluvastatin	drug
+formoterol	drug
+fospropofol	drug
+furosemide	drug
+galantamine	drug
+gemcitabine	drug
+gliclazide	drug
+glimepiride	drug
+glipizide	drug
+glucagon	drug
+goserelin	drug
+halcinonide	drug
+haloperidol	drug
+histamine	drug
+hydrocortisone	drug
+hydromorphone	drug
+hydroxocobalamin	drug
+hydroxychloroquine	drug
+hydroxyurea	drug
+ibandronate	drug
+idarubicin	drug
+iloperidone	drug
+indacaterol	drug
+indomethacin	drug
+irinotecan	drug
+isosorbide	drug
+itraconazole	drug
+ixabepilone	drug
+ketoprofen	drug
+ketorolac	drug
+ketotifen	drug
+labetalol	drug
+lamotrigine	drug
+latanoprost	drug
+leflunomide	drug
+lenalidomide	drug
+levomepromazine	drug
+linagliptin	drug
+liraglutide	drug
+lisinopril	drug
+lisuride	drug
+lomefloxacin	drug
+lorcaserin	drug
+losartan	drug
+loteprednol	drug
+lubiprostone	drug
+lurasidone	drug
+maprotiline	drug
+meclofenamate	drug
+meloxicam	drug
+memantine	drug
+metaproterenol	drug
+metformin	drug
+methacholine	drug
+methotrexate	drug
+methylprednisolone	drug
+metoclopramide	drug
+metoprolol	drug
+metronidazole	drug
+midodrine	drug
+mifepristone	drug
+miglitol	drug
+minocycline	drug
+mitoxantrone	drug
+molindone	drug
+mometasone	drug
+montelukast	drug
+morphine	drug
+moxifloxacin	drug
+n-acetylcysteine	drug
+nabumetone	drug
+naproxen	drug
+nateglinide	drug
+niacin	drug
+nicotine	drug
+nilotinib	drug
+norethisterone	drug
+norfloxacin	drug
+nortriptyline	drug
+octreotide	drug
+ofloxacin	drug
+olodaterol	drug
+olsalazine	drug
+omeprazole	drug
+orlistat	drug
+oseltamivir	drug
+oxaprozin	drug
+oxymetholone	drug
+paliperidone	drug
+pamidronate	drug
+papaverine	drug
+pemetrexed	drug
+pentoxifylline	drug
+pergolide	drug
+perphenazine	drug
+phentermine	drug
+phenylpropanolamine	drug
+pilocarpine	drug
+pindolol	drug
+pioglitazone	drug
+pirbuterol	drug
+pirfenidone	drug
+piroxicam	drug
+pomalidomide	drug
+pralatrexate	drug
+pramipexole	drug
+prasugrel	drug
+pravastatin	drug
+prazosin	drug
+prednisolone	drug
+prednisone	drug
+procainamide	drug
+procarbazine	drug
+prochlorperazine	drug
+propafenone	drug
+propericiazine	drug
+propranolol	drug
+pyridoxine	drug
+raltitrexed	drug
+ramipril	drug
+ranitidine	drug
+rapamycin	drug
+rasagiline	drug
+repaglinide	drug
+rescinnamine	drug
+reserpine	drug
+retinol	drug
+ribavirin	drug
+riluzole	drug
+risperidone	drug
+rivastigmine	drug
+rofecoxib	drug
+ropinirole	drug
+rosiglitazone	drug
+rotigotine	drug
+roxithromycin	drug
+ruxolitinib	drug
+salbutamol	drug
+salmeterol	drug
+salsalate	drug
+saxagliptin	drug
+simvastatin	drug
+sitagliptin	drug
+sulindac	drug
+sumatriptan	drug
+sunitinib	drug
+tacrolimus	drug
+tapentadol	drug
+tazarotene	drug
+tegaserod	drug
+telmisartan	drug
+teniposide	drug
+tenoxicam	drug
+terbutaline	drug
+tetrabenazine	drug
+tetracycline	drug
+thiothixene	drug
+ticagrelor	drug
+ticlopidine	drug
+tizanidine	drug
+tolcapone	drug
+tolmetin	drug
+topiramate	drug
+topotecan	drug
+tramadol	drug
+trametinib	drug
+trandolapril	drug
+triamcinolone	drug
+trifluoperazine	drug
+udca	drug
+ustekinumab	drug
+valdecoxib	drug
+valsartan	drug
+varenicline	drug
+verapamil	drug
+vildagliptin	drug
+vincristine	drug
+vinorelbine	drug
+zileuton	drug
+ziprasidone	drug
+zuclopenthixol	drug
+A71 (Trachoma)	disease
+B19 (Hepatitis B)	disease
+B44 (Aspergillus colonization of lung allograft)	disease
+C11 (Nasopharingeal cancer)	disease
+C14 (Oral cavity cancer)	disease
+C15 (Esophageal cancer)	disease
+C16 (Gastric cancer)	disease
+C18 (Colon cancer)	disease
+C22 (Liver cancer)	disease
+C25 (Pancreatic cancer)	disease
+C34 (Lung cancer)	disease
+C43 (Melanoma)	disease
+C49 (Rhabdoid cancer)	disease
+C50 (Breast cancer)	disease
+C53 (Cervix cancer)	disease
+C61 (Prostate cancer)	disease
+C64 (Kidney cancer)	disease
+C67 (Bladder cancer)	disease
+C71 (Brain cancer)	disease
+C73 (Thyroid cancer)	disease
+C74 (Adrenal cancer)	disease
+C84 (T-cell lymphoma)	disease
+C90 (Myeloma)	disease
+C92 (Myeloid leukemia)	disease
+C93 (JMML)	disease
+D45 (Polycythemia vera)	disease
+D46 (Myelodysplastic syndromes)	disease
+D47 (Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue)	disease
+D56 (Thalassemia)	disease
+D72 (Autosomal dominant monocytopenia)	disease
+D75 (Primary myelofibrosis)	disease
+D82 (Job's syndrome)	disease
+D86 (Sarcoidosis)	disease
+E10 (Type 1 diabetes mellitus)	disease
+E11 (Type 2 diabetes mellitus)	disease
+F17 (Smoker)	disease
+F20 (Schizophrenia)	disease
+F31 (Bipolar disorder)	disease
+F33 (Major depression)	disease
+F84 (Autism)	disease
+G12 (Amyotrophic lateral sclerosis)	disease
+G20 (Parkinson's disease)	disease
+G30 (Alzheimer's disease)	disease
+G31 (Leigh syndrome)	disease
+G35 (Multiple sclerosis)	disease
+G71 (Tibial muscular dystrophy)	disease
+I21 (Acute myocardial infarction)	disease
+I63 (Cerebral infarction)	disease
+I73 (Peripheral arterial disease)	disease
+J32 (Chronic sinusitis)	disease
+J45 (Asthma)	disease
+J84 (Other interstitial pulmonary diseases)	disease
+K12 (Aphthous stomatitis)	disease
+K13 (Oral dysplasia)	disease
+K50 (Crohn's disease)	disease
+K51 (Ulcerative colitis)	disease
+K58 (Irritable bowel syndrome)	disease
+K70 (Alcoholic liver disease)	disease
+L40 (Psoriasis)	disease
+L70 (Acne)	disease
+L71 (Rosacea)	disease
+L82 (Seborrheic keratosis)	disease
+M33 (Dermatomyositis)	disease
+M35 (Other systemic involvement of connective tissue)	disease
+M47 (Axial Spondyloarthropathy)	disease
+M60 (Myositis)	disease
+N02 (IgA nephropathy)	disease
+N30 (Cystitis)	disease
+N80 (Endometriosis)	disease
+Q87 (Other specified congenital malformation syndromes affecting multiple systems)	disease
+R65 (Septic Shock)	disease
+T86 (Chronic lung allograft dysfunction)	disease

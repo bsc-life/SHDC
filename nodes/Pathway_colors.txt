@@ -1,0 +1,1678 @@
+pathway	colors
+interleukin 6 signaling	#8A814C
+apoptosis	#EE01ED
+hemostasis	#FEE7BA
+intrinsic pathway for apoptosis	#EE01ED
+mapk3 erk1 activation	#648f6e
+translesion synthesis by y family dna polymerases bypasses lesions on dna template	#FFC0CA
+recognition of dna damage by pcna containing replication complex	#FFC0CA
+translesion synthesis by polh	#FFC0CA
+recognition and association of dna glycosylase with site containing an affected purine	#FFC0CA
+displacement of dna glycosylase by apex1	#FFC0CA
+polb dependent long patch base excision repair	#FFC0CA
+resolution of ap sites via the multiple nucleotide patch replacement pathway	#FFC0CA
+activation of bad and translocation to mitochondria	#EE01ED
+activation of noxa and translocation to mitochondria	#EE01ED
+bh3 only proteins associate with and inactivate anti apoptotic bcl 2 members	#EE01ED
+release of apoptotic factors from the mitochondria	#EE01ED
+formation of apoptosome	#EE01ED
+activation of caspases through apoptosome mediated cleavage	#EE01ED
+cytochrome c mediated apoptotic response	#EE01ED
+apoptotic cleavage of cellular proteins	#EE01ED
+smac xiap regulated apoptotic response	#EE01ED
+apoptotic factor mediated response	#EE01ED
+opioid signalling	#648f6e
+pka mediated phosphorylation of creb	#648f6e
+camk iv mediated phosphorylation of creb	#648f6e
+ca dependent events	#648f6e
+g protein mediated events	#648f6e
+electric transmission across gap junctions	#8B6915
+presynaptic depolarization and calcium channel opening	#8B6915
+neurotransmitter release cycle	#8B6915
+neurotransmitter clearance	#8B6915
+neurotransmitter receptors and postsynaptic signal transmission	#8B6915
+transmission across chemical synapses	#8B6915
+neuronal system	#8B6915
+formation of rna pol ii elongation complex	#4A708A
+irs mediated signalling	#648f6e
+raf independent mapk1 3 activation	#648f6e
+mapk1 erk2 activation	#648f6e
+sos mediated signalling	#648f6e
+formation of the early elongation complex	#4A708A
+inhibition of replication initiation of damaged dna by rb1 e2f1	#CC2626
+e2f enabled inhibition of pre replication complex formation	#CC2626
+e2f mediated regulation of dna replication	#CC2626
+activation of bh3 only proteins	#EE01ED
+effects of pip2 hydrolysis	#FEE7BA
+effects of pip2 hydrolysis	#648f6e
+disinhibition of snare formation	#FEE7BA
+gpvi mediated activation cascade	#FEE7BA
+downstream signaling events of b cell receptor bcr	#8A814C
+activation of ras in b cells	#8A814C
+antiviral mechanism by ifn stimulated genes	#8A814C
+prolactin receptor signaling	#8A814C
+signaling by nodal	#CDC8A5
+fertilization	#828B8B
+meiotic synapsis	#828B8B
+meiotic synapsis	#CC2626
+ros and rns production in phagocytes	#8A814C
+signaling by fgfr in disease	#ED2C2C
+signaling by erbb2	#648f6e
+signaling by erbb2 in cancer	#ED2C2C
+regulation of gene expression by hypoxia inducible factor	#3A5382
+cellular response to hypoxia	#3A5382
+constitutive signaling by ligand responsive egfr cancer variants	#ED2C2C
+signaling by erbb4	#648f6e
+cross presentation of particulate exogenous antigens phagosomes	#8A814C
+antigen processing cross presentation	#8A814C
+endosomal vacuolar pathway	#8A814C
+cross presentation of soluble exogenous antigens endosomes	#8A814C
+erythrocytes take up carbon dioxide and release oxygen	#ED6AA7
+methionine salvage pathway	#cfc5e8
+erythrocytes take up oxygen and release carbon dioxide	#ED6AA7
+shc1 events in erbb2 signaling	#648f6e
+pi3k events in erbb4 signaling	#648f6e
+shc1 events in erbb4 signaling	#648f6e
+nuclear signaling by erbb4	#648f6e
+downregulation of erbb4 signaling	#648f6e
+interleukin 7 signaling	#8A814C
+developmental biology	#CDC8A5
+mitochondrial protein import	#FFF0F5
+cytokine signaling in immune system	#8A814C
+adaptive immune system	#8A814C
+spry regulation of fgf signaling	#648f6e
+ca2 activated k channels	#8B6915
+inwardly rectifying k channels	#8B6915
+potassium channels	#8B6915
+voltage gated potassium channels	#8B6915
+tandem pore domain potassium channels	#8B6915
+sperm motility and taxes	#828B8B
+acrosome reaction and sperm oocyte membrane binding	#828B8B
+grb7 events in erbb2 signaling	#648f6e
+downregulation of erbb2 erbb3 signaling	#648f6e
+transcription of e2f targets under negative control by dream complex	#CC2626
+transcription of e2f targets under negative control by p107 rbl1 and p130 rbl2 in complex with hdac1	#CC2626
+mitochondrial iron sulfur cluster biogenesis	#cfc5e8
+rora activates gene expression	#FFF68F
+bmal1 clock npas2 activates circadian gene expression	#FFF68F
+abc transporters in lipid homeostasis	#ED6AA7
+elevation of cytosolic ca2 levels	#FEE7BA
+activation of puma and translocation to mitochondria	#EE01ED
+apoptosis induced dna fragmentation	#EE01ED
+caspase activation via death receptors in the presence of ligand	#EE01ED
+extrinsic pathway of fibrin clot formation	#FEE7BA
+intrinsic pathway of fibrin clot formation	#FEE7BA
+common pathway of fibrin clot formation	#FEE7BA
+formation of fibrin clot clotting cascade	#FEE7BA
+inhibition of the proteolytic activity of apc c required for the onset of anaphase by mitotic spindle checkpoint components	#CC2626
+the citric acid tca cycle and respiratory electron transport	#cfc5e8
+signaling by scf kit	#648f6e
+regulation of kit signaling	#648f6e
+regulation of signaling by nodal	#CDC8A5
+collagen degradation	#ED8262
+translocation of slc2a4 glut4 to the plasma membrane	#daeddd
+beta defensins	#8A814C
+defensins	#8A814C
+alpha defensins	#8A814C
+tetrahydrobiopterin bh4 synthesis recycling salvage and regulation	#cfc5e8
+reproduction	#828B8B
+degradation of the extracellular matrix	#ED8262
+extracellular matrix organization	#ED8262
+collagen formation	#ED8262
+reversible hydration of carbon dioxide	#cfc5e8
+acyl chain remodelling of pc	#cfc5e8
+acyl chain remodeling of cl	#cfc5e8
+acyl chain remodelling of ps	#cfc5e8
+acyl chain remodelling of pe	#cfc5e8
+acyl chain remodeling of dag and tag	#cfc5e8
+acyl chain remodelling of pi	#cfc5e8
+acyl chain remodelling of pg	#cfc5e8
+hydrolysis of lpc	#cfc5e8
+synthesis of pg	#cfc5e8
+synthesis of pa	#cfc5e8
+synthesis of pc	#cfc5e8
+glycerophospholipid biosynthesis	#cfc5e8
+synthesis of pe	#cfc5e8
+synthesis of pi	#cfc5e8
+synthesis of pips at the er membrane	#cfc5e8
+inositol phosphate metabolism	#cfc5e8
+pi metabolism	#cfc5e8
+phospholipid metabolism	#cfc5e8
+dag and ip3 signaling	#648f6e
+meiosis	#828B8B
+meiosis	#CC2626
+cell cell communication	#9ACC9B
+signaling by activin	#648f6e
+g0 and early g1	#CC2626
+phase ii conjugation of compounds	#cfc5e8
+methylation	#cfc5e8
+cytosolic sulfonation of small molecules	#cfc5e8
+amino acid conjugation	#cfc5e8
+glucuronidation	#cfc5e8
+glutathione conjugation	#cfc5e8
+elastic fibre formation	#ED8262
+fibronectin matrix formation	#ED8262
+polo like kinase mediated events	#CC2626
+eukaryotic translation elongation	#dfe66c
+signaling by notch	#648f6e
+telomere maintenance	#CC2626
+gap junction trafficking and regulation	#daeddd
+metabolism of nucleotides	#cfc5e8
+mitochondrial biogenesis	#DA7093
+transport of the slbp dependant mature mrna	#C9E1FF
+transport of mature mrnas derived from intronless transcripts	#C9E1FF
+activation of matrix metalloproteinases	#ED8262
+recycling of bile acids and salts	#cfc5e8
+removal of aminoterminal propeptides from gamma carboxylated proteins	#dfe66c
+gamma carboxylation transport and amino terminal cleavage of proteins	#dfe66c
+zbp1 dai mediated induction of type i ifns	#8A814C
+irf3 mediated activation of type 1 ifn	#8A814C
+sulfide oxidation to sulfate	#cfc5e8
+degradation of cysteine and homocysteine	#cfc5e8
+sulfur amino acid metabolism	#cfc5e8
+hiv life cycle	#ED2C2C
+budding and maturation of hiv virion	#ED2C2C
+integration of provirus	#ED2C2C
+early phase of hiv life cycle	#ED2C2C
+golgi cisternae pericentriolar stack reorganization	#CC2626
+synthesis of glycosylphosphatidylinositol gpi	#dfe66c
+attachment of gpi anchor to upar	#dfe66c
+hiv infection	#ED2C2C
+host interactions of hiv factors	#ED2C2C
+glycosaminoglycan metabolism	#cfc5e8
+post translational modification synthesis of gpi anchored proteins	#dfe66c
+respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	#cfc5e8
+formation of atp by chemiosmotic coupling	#cfc5e8
+pka mediated phosphorylation of key metabolic factors	#cfc5e8
+glucagon signaling in metabolic regulation	#cfc5e8
+triglyceride catabolism	#cfc5e8
+ampk inhibits chrebp transcriptional activation activity	#cfc5e8
+integration of energy metabolism	#cfc5e8
+chrebp activates metabolic gene expression	#cfc5e8
+pp2a mediated dephosphorylation of key metabolic factors	#cfc5e8
+keratan sulfate keratin metabolism	#cfc5e8
+heparan sulfate heparin hs gag metabolism	#cfc5e8
+gamma carboxylation hypusine formation and arylsulfatase activation	#dfe66c
+cell cycle	#CC2626
+signaling by egfr in cancer	#ED2C2C
+pka activation in glucagon signalling	#cfc5e8
+2 ltr circle formation	#ED2C2C
+nef mediates down modulation of cell surface receptors by recruiting them to clathrin adapters	#ED2C2C
+nef mediated downregulation of mhc class i complex cell surface expression	#ED2C2C
+nef and signal transduction	#ED2C2C
+the role of nef in hiv 1 replication and disease pathogenesis	#ED2C2C
+collagen biosynthesis and modifying enzymes	#ED8262
+mtor signalling	#648f6e
+regulation of cholesterol biosynthesis by srebp srebf	#cfc5e8
+synthesis of pips at the plasma membrane	#cfc5e8
+synthesis of pips at the golgi membrane	#cfc5e8
+synthesis of pips at the early endosome membrane	#cfc5e8
+synthesis of pips at the late endosome membrane	#cfc5e8
+sphingolipid de novo biosynthesis	#cfc5e8
+glycosphingolipid metabolism	#cfc5e8
+myd88 independent tlr4 cascade	#8A814C
+mitochondrial uncoupling	#cfc5e8
+mtorc1 mediated signalling	#648f6e
+the activation of arylsulfatases	#dfe66c
+signaling by ntrks	#648f6e
+complement cascade	#8A814C
+lectin pathway of complement activation	#8A814C
+initial triggering of complement	#8A814C
+terminal pathway of complement	#8A814C
+creation of c4 and c2 activators	#8A814C
+signalling to ras	#648f6e
+hiv transcription initiation	#ED2C2C
+hiv transcription elongation	#ED2C2C
+transcription of the hiv genome	#ED2C2C
+abortive elongation of hiv 1 transcript in the absence of tat	#ED2C2C
+hiv elongation arrest and recovery	#ED2C2C
+nef mediated cd4 down regulation	#ED2C2C
+the fatty acid cycling model	#cfc5e8
+trafficking and processing of endosomal tlr	#8A814C
+toll like receptor 9 tlr9 cascade	#8A814C
+toll like receptor tlr1 tlr2 cascade	#8A814C
+innate immune system	#8A814C
+influenza infection	#ED2C2C
+export of viral ribonucleoproteins from nucleus	#ED2C2C
+ns1 mediated effects on host pathways	#ED2C2C
+viral messenger rna synthesis	#ED2C2C
+nod1 2 signaling pathway	#8A814C
+nucleotide binding domain leucine rich repeat containing receptor nlr signaling pathways	#8A814C
+neurotoxicity of clostridium toxins	#ED2C2C
+toll like receptor cascades	#8A814C
+ticam1 rip1 mediated ikk complex recruitment	#8A814C
+ddx58 ifih1 mediated induction of interferon alpha beta	#8A814C
+prolonged erk activation events	#648f6e
+adenylate cyclase activating pathway	#648f6e
+adenylate cyclase inhibitory pathway	#648f6e
+adenylate cyclase inhibitory pathway	#8B6915
+regulation of glucokinase by glucokinase regulatory protein	#cfc5e8
+signaling by tgf beta receptor complex	#648f6e
+arms mediated activation	#648f6e
+p38mapk events	#648f6e
+telomere extension by telomerase	#CC2626
+alternative complement activation	#8A814C
+apc c cdc20 mediated degradation of cyclin b	#CC2626
+scf beta trcp mediated degradation of emi1	#CC2626
+apc c mediated degradation of cell cycle proteins	#CC2626
+apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	#CC2626
+transport and synthesis of paps	#cfc5e8
+glutathione synthesis and recycling	#cfc5e8
+polymerase switching on the c strand of the telomere	#CC2626
+processive synthesis on the c strand of the telomere	#CC2626
+telomere c strand lagging strand synthesis	#CC2626
+telomere c strand synthesis initiation	#CC2626
+activation of c3 and c5	#8A814C
+plasma lipoprotein assembly remodeling and clearance	#ED6AA7
+assembly of the hiv virion	#ED2C2C
+interactions of vpr with host cellular proteins	#ED2C2C
+activation of atr in response to replication stress	#CC2626
+conversion from apc c cdc20 to apc c cdh1 in late anaphase	#CC2626
+phosphorylation of the apc c	#CC2626
+phosphorylation of emi1	#CC2626
+unwinding of dna	#CC2626
+unwinding of dna	#8B018B
+conjugation of benzoate with glycine	#cfc5e8
+interactions of rev with host cellular proteins	#ED2C2C
+retrograde neurotrophin signalling	#648f6e
+signaling by egfr	#648f6e
+chondroitin sulfate dermatan sulfate metabolism	#cfc5e8
+apc cdc20 mediated degradation of nek2a	#CC2626
+srp dependent cotranslational protein targeting to membrane	#dfe66c
+darpp 32 events	#648f6e
+gab1 signalosome	#648f6e
+shc1 events in egfr signaling	#648f6e
+apobec3g mediated resistance to hiv 1 infection	#ED2C2C
+nuclear import of rev protein	#ED2C2C
+extension of telomeres	#CC2626
+rip mediated nfkb activation via zbp1	#8A814C
+serotonin neurotransmitter release cycle	#8B6915
+norepinephrine neurotransmitter release cycle	#8B6915
+acetylcholine binding and downstream events	#8B6915
+nef mediated cd8 down regulation	#ED2C2C
+egfr downregulation	#648f6e
+sting mediated induction of host immune responses	#8A814C
+cytosolic sensors of pathogen associated dna	#8A814C
+signaling by cytosolic fgfr1 fusion mutants	#ED2C2C
+fgfr1 mutant receptor activation	#ED2C2C
+fgfr2 mutant receptor activation	#ED2C2C
+organelle biogenesis and maintenance	#DA7093
+synthesis of pyrophosphates in the cytosol	#cfc5e8
+synthesis of ip2 ip and ins in the cytosol	#cfc5e8
+synthesis of ip3 and ip4 in the cytosol	#cfc5e8
+regulation of beta cell development	#CDC8A5
+downstream signal transduction	#648f6e
+signaling by pdgf	#648f6e
+activation of trka receptors	#648f6e
+ngf independant trka activation	#648f6e
+scf skp2 mediated degradation of p27 p21	#CC2626
+signalling to erks	#648f6e
+signalling to p38 via rit and rin	#648f6e
+digestion of dietary carbohydrate	#1001EE
+cellular hexose transport	#ED6AA7
+metabolism of porphyrins	#cfc5e8
+heme biosynthesis	#cfc5e8
+heme degradation	#cfc5e8
+signaling by fgfr	#648f6e
+fgfr3 ligand binding and activation	#648f6e
+fgfr2 ligand binding and activation	#648f6e
+fgfr1 ligand binding and activation	#648f6e
+fgfr1b ligand binding and activation	#648f6e
+fgfr3b ligand binding and activation	#648f6e
+fgfr1c ligand binding and activation	#648f6e
+fgfr2c ligand binding and activation	#648f6e
+fgfr2b ligand binding and activation	#648f6e
+gap junction assembly	#daeddd
+transport of connexons to the plasma membrane	#daeddd
+gap junction degradation	#daeddd
+pre notch processing in the endoplasmic reticulum	#648f6e
+pre notch processing in golgi	#648f6e
+pre notch expression and processing	#648f6e
+cholesterol biosynthesis	#cfc5e8
+snrnp assembly	#C9E1FF
+synthesis of bile acids and bile salts	#cfc5e8
+digestion of dietary lipid	#1001EE
+androgen biosynthesis	#cfc5e8
+estrogen biosynthesis	#cfc5e8
+synthesis of bile acids and bile salts via 7alpha hydroxycholesterol	#cfc5e8
+p75ntr signals via nf kb	#648f6e
+nrage signals death through jnk	#648f6e
+p75ntr negatively regulates cell cycle via sc1	#648f6e
+regulated proteolysis of p75ntr	#648f6e
+p75ntr regulates axonogenesis	#648f6e
+p75 ntr receptor mediated signalling	#648f6e
+synthesis of bile acids and bile salts via 24 hydroxycholesterol	#cfc5e8
+synthesis of bile acids and bile salts via 27 hydroxycholesterol	#cfc5e8
+mineralocorticoid biosynthesis	#cfc5e8
+glucocorticoid biosynthesis	#cfc5e8
+bile acid and bile salt metabolism	#cfc5e8
+signaling by vegf	#648f6e
+vegf ligand receptor interactions	#648f6e
+degradation of beta catenin by the destruction complex	#648f6e
+rho gtpase effectors	#648f6e
+signaling by wnt	#648f6e
+metabolism of steroid hormones	#cfc5e8
+pregnenolone biosynthesis	#cfc5e8
+beta catenin phosphorylation cascade	#648f6e
+grb2 events in erbb2 signaling	#648f6e
+pi3k events in erbb2 signaling	#648f6e
+cobalamin cbl vitamin b12 transport and metabolism	#cfc5e8
+metabolism of folate and pterines	#cfc5e8
+biotin transport and metabolism	#cfc5e8
+coenzyme a biosynthesis	#cfc5e8
+vitamin d calciferol metabolism	#cfc5e8
+nicotinate metabolism	#cfc5e8
+vitamin b1 thiamin metabolism	#cfc5e8
+vitamin c ascorbate metabolism	#cfc5e8
+vitamin b2 riboflavin metabolism	#cfc5e8
+metabolism of water soluble vitamins and cofactors	#cfc5e8
+metabolism of vitamins and cofactors	#cfc5e8
+a tetrasaccharide linker sequence is required for gag synthesis	#cfc5e8
+nicotinamide salvaging	#cfc5e8
+signaling by notch1	#648f6e
+signaling by notch2	#648f6e
+pi3k akt activation	#648f6e
+akt phosphorylates targets in the cytosol	#648f6e
+akt phosphorylates targets in the nucleus	#648f6e
+nuclear events kinase and transcription factor activation	#648f6e
+erk mapk targets	#648f6e
+erk mapk targets	#8A814C
+immunoregulatory interactions between a lymphoid and a non lymphoid cell	#8A814C
+vitamin b5 pantothenate metabolism	#cfc5e8
+negative regulation of the pi3k akt network	#648f6e
+creb phosphorylation	#648f6e
+creb phosphorylation	#8A814C
+er to golgi anterograde transport	#dfe66c
+er to golgi anterograde transport	#daeddd
+membrane trafficking	#daeddd
+trans golgi network vesicle budding	#daeddd
+carnitine metabolism	#cfc5e8
+signaling by bmp	#648f6e
+signaling by alk	#648f6e
+tcf dependent signaling in response to wnt	#648f6e
+wnt mediated activation of dvl	#648f6e
+formation of the beta catenin tcf transactivating complex	#648f6e
+g protein activation	#648f6e
+metabolism of nitric oxide nos3 activation and regulation	#cfc5e8
+assembly of collagen fibrils and other multimeric structures	#ED8262
+metabolism of angiotensinogen to angiotensins	#dfe66c
+keratan sulfate biosynthesis	#cfc5e8
+keratan sulfate degradation	#cfc5e8
+chondroitin sulfate biosynthesis	#cfc5e8
+dermatan sulfate biosynthesis	#cfc5e8
+hs gag biosynthesis	#cfc5e8
+tcr signaling	#8A814C
+hs gag degradation	#cfc5e8
+cs ds degradation	#cfc5e8
+generation of second messenger molecules	#8A814C
+calcineurin activates nfat	#8A814C
+erks are inactivated	#648f6e
+erks are inactivated	#8A814C
+cell surface interactions at the vascular wall	#FEE7BA
+signaling by hippo	#648f6e
+fcgamma receptor fcgr dependent phagocytosis	#8A814C
+fcgr activation	#8A814C
+role of phospholipids in phagocytosis	#8A814C
+yap1 and wwtr1 taz stimulated gene expression	#4A708A
+enos activation	#cfc5e8
+nostrin mediated enos trafficking	#cfc5e8
+microrna mirna biogenesis	#4A708A
+copii mediated vesicle transport	#dfe66c
+copii mediated vesicle transport	#daeddd
+regulation of pyruvate dehydrogenase pdh complex	#cfc5e8
+alpha linolenic omega3 and linoleic omega6 acid metabolism	#cfc5e8
+linoleic acid la metabolism	#cfc5e8
+cell death signalling via nrage nrif and nade	#648f6e
+nade modulates death signalling	#648f6e
+nrif signals cell death from the nucleus	#648f6e
+p75ntr recruits signalling complexes	#648f6e
+nf kb is activated and signals survival	#648f6e
+metabolism of amine derived hormones	#cfc5e8
+serotonin and melatonin biosynthesis	#cfc5e8
+peptide hormone biosynthesis	#dfe66c
+thyroxine biosynthesis	#cfc5e8
+glutamate neurotransmitter release cycle	#8B6915
+regulation of gene expression in late stage branching morphogenesis pancreatic bud precursor cells	#CDC8A5
+regulation of gene expression in beta cells	#CDC8A5
+regulation of gene expression in endocrine committed neurog3 progenitor cells	#CDC8A5
+regulation of gene expression in early pancreatic precursor cells	#CDC8A5
+pecam1 interactions	#FEE7BA
+basigin interactions	#FEE7BA
+tie2 signaling	#FEE7BA
+gene silencing by rna	#4A708A
+biological oxidations	#cfc5e8
+cytochrome p450 arranged by substrate type	#cfc5e8
+vitamins	#cfc5e8
+fatty acids	#cfc5e8
+phase i functionalization of compounds	#cfc5e8
+miscellaneous substrates	#cfc5e8
+endogenous sterols	#cfc5e8
+eicosanoids	#cfc5e8
+xenobiotics	#cfc5e8
+cyp2e1 reactions	#cfc5e8
+epigenetic regulation of gene expression	#4A708A
+notch1 intracellular domain regulates transcription	#648f6e
+activated notch1 transmits signal to the nucleus	#648f6e
+prc2 methylates histones and dna	#4A708A
+dopamine neurotransmitter release cycle	#8B6915
+egfr interacts with phospholipase c gamma	#648f6e
+molecules associated with elastic fibres	#ED8262
+mhc class ii antigen presentation	#8A814C
+synthesis of epoxy eet and dihydroxyeicosatrienoic acids dhet	#cfc5e8
+synthesis of 5 eicosatetraenoic acids	#cfc5e8
+synthesis of leukotrienes lt and eoxins ex	#cfc5e8
+synthesis of lipoxins lx	#cfc5e8
+synthesis of 12 eicosatetraenoic acid derivatives	#cfc5e8
+arachidonic acid metabolism	#cfc5e8
+synthesis of 15 eicosatetraenoic acid derivatives	#cfc5e8
+ubiquinol biosynthesis	#cfc5e8
+synthesis of 16 20 hydroxyeicosatetraenoic acids hete	#cfc5e8
+hyaluronan metabolism	#cfc5e8
+hyaluronan biosynthesis and export	#cfc5e8
+transcriptional activation of mitochondrial biogenesis	#DA7093
+activation of ppargc1a pgc 1alpha by phosphorylation	#DA7093
+integrin cell surface interactions	#ED8262
+hyaluronan uptake and degradation	#cfc5e8
+abacavir transmembrane transport	#95A4BC
+abacavir adme	#95A4BC
+synthesis of prostaglandins pg and thromboxanes tx	#cfc5e8
+scavenging of heme from plasma	#daeddd
+dap12 interactions	#8A814C
+binding and uptake of ligands by scavenger receptors	#daeddd
+downregulation of tgf beta receptor signaling	#648f6e
+tgf beta receptor signaling activates smads	#648f6e
+tgf beta receptor signaling in emt epithelial to mesenchymal transition	#648f6e
+transcriptional activity of smad2 smad3 smad4 heterotrimer	#4A708A
+transcriptional activity of smad2 smad3 smad4 heterotrimer	#648f6e
+downregulation of smad2 3 smad4 transcriptional activity	#4A708A
+downregulation of smad2 3 smad4 transcriptional activity	#648f6e
+smad2 smad3 smad4 heterotrimer regulates transcription	#4A708A
+smad2 smad3 smad4 heterotrimer regulates transcription	#648f6e
+egfr transactivation by gastrin	#648f6e
+the retinoid cycle in cones daylight vision	#19787F
+visual phototransduction	#19787F
+notch2 intracellular domain regulates transcription	#648f6e
+mucopolysaccharidoses	#ED2C2C
+anchoring fibril formation	#ED8262
+pi3k akt signaling in cancer	#ED2C2C
+constitutive signaling by aberrant pi3k in cancer	#ED2C2C
+crosslinking of collagen fibrils	#ED8262
+condensation of prophase chromosomes	#CC2626
+phosphate bond hydrolysis by nudt proteins	#cfc5e8
+signaling by type 1 insulin like growth factor 1 receptor igf1r	#648f6e
+metabolism of ingested semet sec mesec into h2se	#cfc5e8
+selenoamino acid metabolism	#cfc5e8
+dap12 signaling	#8A814C
+activation of gene expression by srebf srebp	#cfc5e8
+shc related events triggered by igf1r	#648f6e
+retinoid cycle disease events	#ED2C2C
+the canonical retinoid cycle in rods twilight vision	#19787F
+fc epsilon receptor fceri signaling	#8A814C
+mastl facilitates mitotic progression	#CC2626
+separation of sister chromatids	#CC2626
+establishment of sister chromatid cohesion	#CC2626
+cohesin loading onto chromatin	#CC2626
+activation of the phototransduction cascade	#19787F
+resolution of sister chromatid cohesion	#CC2626
+condensation of prometaphase chromosomes	#CC2626
+the phototransduction cascade	#19787F
+interaction with cumulus cells and the zona pellucida	#828B8B
+mitotic metaphase and anaphase	#CC2626
+oxidative stress induced senescence	#3A5382
+senescence associated secretory phenotype sasp	#3A5382
+cellular senescence	#3A5382
+formation of senescence associated heterochromatin foci sahf	#3A5382
+oncogene induced senescence	#3A5382
+dna damage telomere stress induced senescence	#3A5382
+trif mediated programmed cell death	#8A814C
+cytosolic iron sulfur cluster assembly	#cfc5e8
+regulation of plk1 activity at g2 m transition	#CC2626
+signaling by leptin	#648f6e
+signaling by notch1 pest domain mutants in cancer	#ED2C2C
+fbxw7 mutants and notch1 in cancer	#ED2C2C
+acetylcholine neurotransmitter release cycle	#8B6915
+caspase mediated cleavage of cytoskeletal proteins	#EE01ED
+insulin processing	#dfe66c
+signaling by notch1 t 7 9 notch1 m1580 k2555 translocation mutant	#ED2C2C
+stimuli sensing channels	#ED6AA7
+eph ephrin signaling	#CDC8A5
+signaling by notch1 hd domain mutants in cancer	#ED2C2C
+role of lat2 ntal lab on calcium mobilization	#8A814C
+ficolins bind to repetitive carbohydrate structures on the target cell surface	#8A814C
+fceri mediated mapk activation	#8A814C
+fceri mediated ca 2 mobilization	#8A814C
+fceri mediated nf kb activation	#8A814C
+pou5f1 oct4 sox2 nanog repress genes related to differentiation	#CDC8A5
+pou5f1 oct4 sox2 nanog activate genes related to proliferation	#CDC8A5
+notch2 activation and transmission of signal to the nucleus	#648f6e
+peptide hormone metabolism	#dfe66c
+nuclear envelope breakdown	#CC2626
+activation of nima kinases nek9 nek6 nek7	#CC2626
+sumoylation	#dfe66c
+initiation of nuclear envelope ne reformation	#CC2626
+nuclear envelope ne reassembly	#CC2626
+laminin interactions	#ED8262
+syndecan interactions	#ED8262
+non integrin membrane ecm interactions	#ED8262
+ecm proteoglycans	#ED8262
+scavenging by class b receptors	#daeddd
+scavenging by class a receptors	#daeddd
+scavenging by class f receptors	#daeddd
+sumo is conjugated to e1 uba2 sae1	#dfe66c
+sumo is transferred from e1 to e2 ube2i ubc9	#dfe66c
+sumo is proteolytically processed	#dfe66c
+sumoylation of dna damage response and repair proteins	#dfe66c
+dex h box helicases activate type i ifn and inflammatory cytokines production	#8A814C
+lrr flii interacting protein 1 lrrfip1 activates type i ifn production	#8A814C
+regulation of innate immune responses to cytosolic dna	#8A814C
+hdacs deacetylate histones	#19787F
+pkmts methylate histone lysines	#19787F
+hdms demethylate histones	#19787F
+hats acetylate histones	#19787F
+rmts methylate histone arginines	#19787F
+processing and activation of sumo	#dfe66c
+glycogen storage diseases	#ED2C2C
+sumoylation of transcription factors	#dfe66c
+sumoylation of ubiquitinylation proteins	#dfe66c
+wnt ligand biogenesis and trafficking	#648f6e
+chromatin modifying enzymes	#19787F
+irf3 mediated induction of type i ifn	#8A814C
+trp channels	#ED6AA7
+defects in cobalamin b12 metabolism	#ED2C2C
+defects in vitamin and cofactor metabolism	#ED2C2C
+detoxification of reactive oxygen species	#3A5382
+nuclear pore complex npc disassembly	#CC2626
+loss of function of smad2 3 in cancer	#ED2C2C
+signaling by tgf beta receptor complex in cancer	#ED2C2C
+glycogen synthesis	#cfc5e8
+defects in biotin btn metabolism	#ED2C2C
+regulation by c flip	#EE01ED
+regulation of hsf1 mediated heat shock response	#3A5382
+hsp90 chaperone cycle for steroid hormone receptors shr in the presence of ligand	#3A5382
+hsf1 activation	#3A5382
+cellular response to heat stress	#3A5382
+attenuation phase	#3A5382
+hsf1 dependent transactivation	#3A5382
+notch hlh transcription pathway	#4A708A
+metabolism of polyamines	#cfc5e8
+apoptotic cleavage of cell adhesion proteins	#EE01ED
+amino acid transport across the plasma membrane	#ED6AA7
+integrin signaling	#FEE7BA
+integrin signaling	#648f6e
+grb2 sos provides linkage to mapk signaling for integrins	#FEE7BA
+grb2 sos provides linkage to mapk signaling for integrins	#648f6e
+diseases associated with glycosaminoglycan metabolism	#ED2C2C
+defective b4galt7 causes eds progeroid type	#ED2C2C
+defective chst3 causes sedcjd	#ED2C2C
+defective chst14 causes eds musculocontractural type	#ED2C2C
+defective chsy1 causes tpbs	#ED2C2C
+defective chst6 causes mcdc1	#ED2C2C
+defective ext2 causes exostoses 2	#ED2C2C
+defective st3gal3 causes mct12 and eiee15	#ED2C2C
+defective b4galt1 causes b4galt1 cdg cdg 2d	#ED2C2C
+transcriptional regulation by tp53	#4A708A
+p130cas linkage to mapk signaling for integrins	#FEE7BA
+p130cas linkage to mapk signaling for integrins	#648f6e
+signaling by gpcr	#648f6e
+class a 1 rhodopsin like receptors	#648f6e
+class b 2 secretin family receptors	#648f6e
+netrin 1 signaling	#CDC8A5
+nephrin family interactions	#9ACC9B
+semaphorin interactions	#CDC8A5
+l1cam interactions	#CDC8A5
+ncam signaling for neurite out growth	#CDC8A5
+peptide ligand binding receptors	#648f6e
+amine ligand binding receptors	#648f6e
+hormone ligand binding receptors	#648f6e
+dscam interactions	#CDC8A5
+signaling by robo receptors	#CDC8A5
+deactivation of the beta catenin transactivating complex	#648f6e
+negative regulation of tcf dependent signaling by wnt ligand antagonists	#648f6e
+diseases associated with n glycosylation of proteins	#ED2C2C
+diseases of glycosylation	#ED2C2C
+myoclonic epilepsy of lafora	#ED2C2C
+dopamine clearance from the synaptic cleft	#8B6915
+cytosolic trna aminoacylation	#dfe66c
+trna aminoacylation	#dfe66c
+mitochondrial trna aminoacylation	#dfe66c
+tachykinin receptors bind tachykinins	#648f6e
+chemokine receptors bind chemokines	#648f6e
+recruitment of mitotic centrosome proteins and complexes	#CC2626
+recruitment of numa to mitotic centrosomes	#CC2626
+energy dependent regulation of mtor by lkb1 ampk	#648f6e
+atf4 activates genes in response to endoplasmic reticulum stress	#3A5382
+atf6 atf6 alpha activates chaperones	#3A5382
+perk regulates gene expression	#3A5382
+ire1alpha activates chaperones	#3A5382
+unfolded protein response upr	#3A5382
+atf6 atf6 alpha activates chaperone genes	#3A5382
+transcriptional regulation of white adipocyte differentiation	#CDC8A5
+regulation of insulin like growth factor igf transport and uptake by insulin like growth factor binding proteins igfbps	#dfe66c
+glucagon like peptide 1 glp1 regulates insulin secretion	#cfc5e8
+olfactory signaling pathway	#19787F
+synthesis secretion and inactivation of glucagon like peptide 1 glp 1	#dfe66c
+transport of small molecules	#ED6AA7
+abc family proteins mediated transport	#ED6AA7
+nuclear receptor transcription pathway	#4A708A
+beta catenin independent wnt signaling	#648f6e
+vasopressin like receptors	#648f6e
+costimulation by the cd28 family	#8A814C
+receptor type tyrosine protein phosphatases	#8B6915
+cd28 co stimulation	#8A814C
+cd28 dependent pi3k akt signaling	#8A814C
+cd28 dependent vav1 pathway	#8A814C
+orexin and neuropeptides ff and qrfp bind to their respective receptors	#648f6e
+ctla4 inhibitory signaling	#8A814C
+alpha oxidation of phytanate	#cfc5e8
+glyoxylate metabolism and glycine degradation	#cfc5e8
+beta oxidation of pristanoyl coa	#cfc5e8
+sumoylation of transcription cofactors	#dfe66c
+pd 1 signaling	#8A814C
+cooperation of prefoldin and tric cct in actin and tubulin folding	#dfe66c
+formation of tubulin folding intermediates by cct tric	#dfe66c
+post chaperonin tubulin folding pathway	#dfe66c
+beta oxidation of very long chain fatty acids	#cfc5e8
+folding of actin by cct tric	#dfe66c
+association of tric cct with target proteins during biosynthesis	#dfe66c
+striated muscle contraction	#66d4cd
+muscarinic acetylcholine receptors	#648f6e
+dopamine receptors	#648f6e
+serotonin receptors	#648f6e
+adrenoceptors	#648f6e
+diseases associated with o glycosylation of proteins	#ED2C2C
+peroxisomal lipid metabolism	#cfc5e8
+signal regulatory protein family interactions	#9ACC9B
+protein folding	#dfe66c
+eicosanoid ligand binding receptors	#648f6e
+leukotriene receptors	#648f6e
+prostanoid ligand receptors	#648f6e
+nitric oxide stimulates guanylate cyclase	#FEE7BA
+adp signalling through p2y purinoceptor 12	#FEE7BA
+g beta gamma signalling through pi3kgamma	#648f6e
+rap1 signalling	#8A814C
+signal amplification	#FEE7BA
+prostacyclin signalling through prostacyclin receptor	#FEE7BA
+ephb mediated forward signaling	#CDC8A5
+epha mediated growth cone collapse	#CDC8A5
+ephrin signaling	#CDC8A5
+eph ephrin mediated repulsion of cells	#CDC8A5
+muscle contraction	#66d4cd
+g protein beta gamma signalling	#648f6e
+trafficking of ampa receptors	#8B6915
+sema3a pak dependent axon repulsion	#CDC8A5
+sema3a plexin repulsion signaling by inhibiting integrin adhesion	#CDC8A5
+crmps in sema3a signaling	#CDC8A5
+acetylcholine regulates insulin secretion	#cfc5e8
+adrenaline noradrenaline inhibits insulin secretion	#cfc5e8
+regulation of lipid metabolism by pparalpha	#cfc5e8
+circadian clock	#FFF68F
+free fatty acids regulate insulin secretion	#cfc5e8
+incretin synthesis secretion and inactivation	#dfe66c
+synthesis secretion and inactivation of glucose dependent insulinotropic polypeptide gip	#dfe66c
+sema4d in semaphorin signaling	#CDC8A5
+sialic acid metabolism	#dfe66c
+sumoylation of sumoylation proteins	#dfe66c
+ca2 pathway	#648f6e
+pcp ce pathway	#648f6e
+sumoylation of intracellular receptors	#dfe66c
+g alpha q signalling events	#648f6e
+g alpha 12 13 signalling events	#648f6e
+sema4d mediated inhibition of cell attachment and migration	#CDC8A5
+sema4d induced cell migration and growth cone collapse	#CDC8A5
+other semaphorin interactions	#CDC8A5
+trafficking of glur2 containing ampa receptors	#8B6915
+p2y receptors	#648f6e
+nucleotide like purinergic receptors	#648f6e
+platelet homeostasis	#FEE7BA
+reduction of cytosolic ca levels	#FEE7BA
+platelet calcium homeostasis	#FEE7BA
+cgmp effects	#FEE7BA
+g alpha s signalling events	#648f6e
+adp signalling through p2y purinoceptor 1	#FEE7BA
+g alpha i signalling events	#648f6e
+g alpha z signalling events	#648f6e
+dcc mediated attractive signaling	#CDC8A5
+netrin mediated repulsion signals	#CDC8A5
+caspase activation via dependence receptors in the absence of ligand	#EE01ED
+role of second messengers in netrin 1 signaling	#CDC8A5
+adherens junctions interactions	#9ACC9B
+ncam1 interactions	#CDC8A5
+lysosphingolipid and lpa receptors	#648f6e
+opsins	#648f6e
+calcitonin like ligand receptors	#648f6e
+tight junction interactions	#9ACC9B
+glucagon type ligand receptors	#648f6e
+class c 3 metabotropic glutamate pheromone receptors	#648f6e
+nectin necl trans heterodimerization	#9ACC9B
+cell cell junction organization	#9ACC9B
+synthesis secretion and deacylation of ghrelin	#dfe66c
+regulation of insulin secretion	#cfc5e8
+transport of bile salts and organic acids metal ions and amine compounds	#ED6AA7
+bicarbonate transporters	#ED6AA7
+transport of inorganic cations anions and amino acids oligopeptides	#ED6AA7
+transport of vitamins nucleosides and related molecules	#ED6AA7
+slc mediated transmembrane transport	#ED6AA7
+metal ion slc transporters	#ED6AA7
+sodium calcium exchangers	#ED6AA7
+sodium proton exchangers	#ED6AA7
+arachidonate production from dag	#FEE7BA
+arachidonate production from dag	#648f6e
+cation coupled chloride cotransporters	#ED6AA7
+small interfering rna sirna biogenesis	#4A708A
+post transcriptional silencing by small rnas	#4A708A
+sirt1 negatively regulates rrna expression	#4A708A
+ercc6 csb and ehmt2 g9a positively regulate rrna expression	#4A708A
+multifunctional anion exchangers	#ED6AA7
+sodium coupled phosphate cotransporters	#ED6AA7
+sphingolipid metabolism	#cfc5e8
+activation of rac1	#CDC8A5
+regulation of commissural axon pathfinding by slit and robo	#CDC8A5
+inactivation of cdc42 and rac1	#CDC8A5
+organic anion transporters	#ED6AA7
+role of abl in robo slit signaling	#CDC8A5
+thromboxane signalling through tp receptor	#FEE7BA
+deadenylation dependent mrna decay	#C9E1FF
+deadenylation of mrna	#C9E1FF
+mrna decay by 3 to 5 exoribonuclease	#C9E1FF
+mrna decay by 5 to 3 exoribonuclease	#C9E1FF
+gp1b ix v activation signalling	#FEE7BA
+vasopressin regulates renal water homeostasis via aquaporins	#ED6AA7
+passive transport by aquaporins	#ED6AA7
+platelet sensitization by ldl	#FEE7BA
+lysosome vesicle biogenesis	#daeddd
+golgi associated vesicle biogenesis	#daeddd
+sodium coupled sulphate di and tri carboxylate transporters	#ED6AA7
+proton coupled monocarboxylate transport	#ED6AA7
+fatty acids bound to gpr40 ffar1 regulate insulin secretion	#cfc5e8
+zinc transporters	#ED6AA7
+zinc efflux and compartmentalization by the slc30 family	#ED6AA7
+recycling pathway of l1	#CDC8A5
+unblocking of nmda receptors glutamate binding and activation	#8B6915
+binding of tcf lef ctnnb1 to target gene promoters	#648f6e
+depolymerisation of the nuclear lamina	#CC2626
+zinc influx into cells by the slc39 gene family	#ED6AA7
+na cl dependent neurotransmitter transporters	#ED6AA7
+creb1 phosphorylation through the activation of adenylate cyclase	#8B6915
+creb1 phosphorylation through the activation of camkii camkk camkiv cascasde	#8B6915
+creb1 phosphorylation through nmda receptor mediated activation of ras signaling	#8B6915
+activation of nmda receptors and postsynaptic events	#8B6915
+ras activation upon ca2 influx through nmda receptor	#8B6915
+free fatty acid receptors	#648f6e
+rsk activation	#8B6915
+formyl peptide receptors bind formyl peptides and many other ligands	#648f6e
+relaxin receptors	#648f6e
+interaction between l1 and ankyrins	#CDC8A5
+signal transduction by l1	#CDC8A5
+smooth muscle contraction	#66d4cd
+aquaporin mediated transport	#ED6AA7
+tak1 dependent ikk and nf kappa b activation	#8A814C
+type i hemidesmosome assembly	#9ACC9B
+biosynthesis of the n glycan precursor dolichol lipid linked oligosaccharide llo and transfer to a nascent protein	#dfe66c
+synthesis of dolichyl phosphate	#dfe66c
+asparagine n linked glycosylation	#dfe66c
+synthesis of gdp mannose	#dfe66c
+synthesis of udp n acetyl glucosamine	#dfe66c
+synthesis of substrates in n glycan biosythesis	#dfe66c
+cell extracellular matrix interactions	#9ACC9B
+regulation of cytoskeletal remodeling and cell spreading by ipp complex components	#9ACC9B
+interleukin 1 family signaling	#8A814C
+cell junction organization	#9ACC9B
+nrcam interactions	#CDC8A5
+chl1 interactions	#CDC8A5
+neurofascin interactions	#CDC8A5
+interleukin 12 family signaling	#8A814C
+interleukin 17 signaling	#8A814C
+interleukin 1 processing	#8A814C
+signaling by interleukins	#8A814C
+other interleukin signaling	#8A814C
+mapk targets nuclear events mediated by map kinases	#8A814C
+activated tak1 mediates p38 mapk activation	#8A814C
+jnk c jun kinases phosphorylation and activation mediated by activated human tak1	#8A814C
+activation of the ap 1 family of transcription factors	#8A814C
+butyrate response factor 1 brf1 binds and destabilizes mrna	#C9E1FF
+auf1 hnrnp d0 binds and destabilizes mrna	#C9E1FF
+tristetraprolin ttp zfp36 binds and destabilizes mrna	#C9E1FF
+hur elavl1 binds and stabilizes mrna	#C9E1FF
+regulation of mrna stability by proteins that bind au rich elements	#C9E1FF
+ksrp khsrp binds and destabilizes mrna	#C9E1FF
+ionotropic activity of kainate receptors	#8B6915
+activation of kainate receptors upon glutamate binding	#8B6915
+interleukin 2 family signaling	#8A814C
+transcriptional regulation of pluripotent stem cells	#CDC8A5
+mitotic g2 g2 m phases	#CC2626
+mitotic g1 phase and g1 s transition	#CC2626
+sumoylation of chromatin organization proteins	#dfe66c
+thrombin signalling through proteinase activated receptors pars	#FEE7BA
+sumoylation of rna binding proteins	#dfe66c
+asymmetric localization of pcp proteins	#648f6e
+sumoylation of dna replication proteins	#dfe66c
+degradation of axin	#648f6e
+degradation of dvl	#648f6e
+disassembly of the destruction complex and recruitment of axin to the membrane	#648f6e
+regulation of fzd by ubiquitination	#648f6e
+repression of wnt target genes	#648f6e
+sumoylation of dna methylation proteins	#dfe66c
+sumoylation of immune response proteins	#dfe66c
+signaling by wnt in cancer	#ED2C2C
+signaling by ctnnb1 phospho site mutants	#ED2C2C
+interconversion of nucleotide di and triphosphates	#cfc5e8
+presynaptic function of kainate receptors	#8B6915
+gpcr ligand binding	#648f6e
+defective galnt3 causes hftc	#ED2C2C
+defective lfng causes scdo3	#ED2C2C
+defective c1galt1c1 causes tnps	#ED2C2C
+wnt5a dependent internalization of fzd4	#648f6e
+interleukin 3 interleukin 5 and gm csf signaling	#8A814C
+wnt5a dependent internalization of fzd2 fzd5 and ror2	#648f6e
+o linked glycosylation	#dfe66c
+o glycosylation of tsr domain containing proteins	#dfe66c
+mitophagy	#8B5A2B
+pink1 prkn mediated mitophagy	#8B5A2B
+uptake and function of anthrax toxins	#ED2C2C
+ripk1 mediated regulated necrosis	#EE01ED
+regulated necrosis	#EE01ED
+vegfr2 mediated vascular permeability	#648f6e
+vegfr2 mediated cell proliferation	#648f6e
+miscellaneous transport and binding events	#ED6AA7
+positive epigenetic regulation of rrna expression	#4A708A
+b wich complex positively regulates rrna expression	#4A708A
+negative epigenetic regulation of rrna expression	#4A708A
+toxicity of botulinum toxin type d botd	#ED2C2C
+myogenesis	#CDC8A5
+diseases of immune system	#ED2C2C
+n glycan trimming in the er and calnexin calreticulin cycle	#dfe66c
+dna methylation	#4A708A
+uptake and function of diphtheria toxin	#ED2C2C
+uptake and actions of bacterial toxins	#ED2C2C
+signaling by lrp5 mutants	#ED2C2C
+signaling by rnf43 mutants	#ED2C2C
+caspase activation via extrinsic apoptotic signalling pathway	#EE01ED
+tnfr1 induced proapoptotic signaling	#648f6e
+programmed cell death	#EE01ED
+tnfr1 induced nfkappab signaling pathway	#648f6e
+hedgehog ligand biogenesis	#648f6e
+signaling by hedgehog	#648f6e
+synthesis of diphthamide eef2	#dfe66c
+mismatch repair	#FFC0CA
+signaling by retinoic acid	#648f6e
+release of hh np from the secreting cell	#648f6e
+ra biosynthesis pathway	#648f6e
+mitochondrial translation	#dfe66c
+negative regulation of tcf dependent signaling by dvl interacting proteins	#648f6e
+diseases of mismatch repair mmr	#ED2C2C
+aflatoxin activation and detoxification	#cfc5e8
+organic cation transport	#ED6AA7
+organic cation anion zwitterion transport	#ED6AA7
+metabolism of lipids	#cfc5e8
+phase 4 resting membrane potential	#66d4cd
+phase 3 rapid repolarisation	#66d4cd
+cardiac conduction	#66d4cd
+phase 0 rapid depolarisation	#66d4cd
+phase 2 plateau phase	#66d4cd
+phase 1 inactivation of fast na channels	#66d4cd
+transcriptional regulation by small rnas	#4A708A
+physiological factors	#66d4cd
+ion homeostasis	#66d4cd
+metabolic disorders of biological oxidation enzymes	#ED2C2C
+piwi interacting rna pirna biogenesis	#4A708A
+ikba variant leads to eda id	#ED2C2C
+irak4 deficiency tlr2 4	#ED2C2C
+dectin 1 mediated noncanonical nf kb signaling	#8A814C
+clec7a dectin 1 induces nfat activation	#8A814C
+clec7a dectin 1 signaling	#8A814C
+diseases associated with glycosylation precursor biosynthesis	#ED2C2C
+organic anion transport	#ED6AA7
+degradation of gli1 by the proteasome	#648f6e
+hedgehog off state	#648f6e
+activation of anterior hox genes in hindbrain development during early embryogenesis	#CDC8A5
+cilium assembly	#DA7093
+abc transporter disorders	#ED2C2C
+slc transporter disorders	#ED2C2C
+disorders of transmembrane transporters	#ED2C2C
+anchoring of the basal body to the plasma membrane	#DA7093
+vxpx cargo targeting to cilium	#DA7093
+cargo trafficking to the periciliary membrane	#DA7093
+bbsome mediated cargo targeting to cilium	#DA7093
+intraflagellar transport	#DA7093
+pyroptosis	#EE01ED
+dectin 2 family	#8A814C
+c type lectin receptors clrs	#8A814C
+cd209 dc sign signaling	#8A814C
+trafficking of myristoylated proteins to the cilium	#DA7093
+rho gtpases activate pkns	#648f6e
+activated pkn1 stimulates transcription of ar androgen receptor regulated genes klk2 and klk3	#648f6e
+rho gtpases activate cit	#648f6e
+rho gtpases activate ktn1	#648f6e
+rho gtpases activate iqgaps	#648f6e
+tnfr1 mediated ceramide production	#648f6e
+rho gtpases activate rocks	#648f6e
+rho gtpases activate paks	#648f6e
+tp53 regulates metabolic genes	#4A708A
+ligand receptor interactions	#648f6e
+hedgehog on state	#648f6e
+regulation of tp53 activity	#4A708A
+tp53 regulates transcription of cell death genes	#4A708A
+activation of smo	#648f6e
+gli proteins bind promoters of hh responsive genes to promote transcription	#648f6e
+constitutive signaling by egfrviii	#ED2C2C
+apex1 independent resolution of ap sites via the single nucleotide replacement pathway	#FFC0CA
+pcna dependent long patch base excision repair	#FFC0CA
+fructose metabolism	#cfc5e8
+vesicle mediated transport	#daeddd
+phospholipase c mediated cascade fgfr2	#648f6e
+phospholipase c mediated cascade fgfr4	#648f6e
+downstream signaling of activated fgfr1	#648f6e
+shc mediated cascade fgfr1	#648f6e
+pi 3k cascade fgfr1	#648f6e
+frs mediated fgfr1 signaling	#648f6e
+pi 3k cascade fgfr2	#648f6e
+downstream signaling of activated fgfr2	#648f6e
+frs mediated fgfr2 signaling	#648f6e
+shc mediated cascade fgfr3	#648f6e
+frs mediated fgfr3 signaling	#648f6e
+downstream signaling of activated fgfr3	#648f6e
+pi 3k cascade fgfr3	#648f6e
+frs mediated fgfr4 signaling	#648f6e
+downstream signaling of activated fgfr4	#648f6e
+shc mediated cascade fgfr4	#648f6e
+pi 3k cascade fgfr4	#648f6e
+negative regulation of fgfr1 signaling	#648f6e
+negative regulation of fgfr2 signaling	#648f6e
+negative regulation of fgfr3 signaling	#648f6e
+negative regulation of fgfr4 signaling	#648f6e
+signaling by fgfr1	#648f6e
+signaling by fgfr2	#648f6e
+signaling by fgfr3	#648f6e
+signaling by fgfr4	#648f6e
+signaling by fgfr2 in disease	#ED2C2C
+signaling by fgfr4 in disease	#ED2C2C
+signaling by fgfr1 in disease	#ED2C2C
+translesion synthesis by polk	#FFC0CA
+termination of translesion dna synthesis	#FFC0CA
+regulation of ras by gaps	#648f6e
+fgfrl1 modulation of fgfr1 signaling	#648f6e
+response to metal ions	#3A5382
+clec7a inflammasome pathway	#8A814C
+metallothioneins bind metals	#3A5382
+formation of xylulose 5 phosphate	#cfc5e8
+melanin biosynthesis	#cfc5e8
+diseases of carbohydrate metabolism	#ED2C2C
+diseases of signal transduction by growth factor receptors and second messengers	#ED2C2C
+infectious disease	#ED2C2C
+rho gtpases activate wasps and waves	#648f6e
+rho gtpases activate formins	#648f6e
+rho gtpases activate rhotekin and rhophilins	#648f6e
+tnfr2 non canonical nf kb pathway	#8A814C
+rho gtpases activate nadph oxidases	#648f6e
+diseases of metabolism	#ED2C2C
+tnfs bind their physiological receptors	#8A814C
+raf activation	#648f6e
+map2k and mapk activation	#648f6e
+constitutive signaling by akt1 e17k in cancer	#ED2C2C
+negative feedback regulation of mapk pathway	#648f6e
+negative regulation of mapk pathway	#648f6e
+tnf receptor superfamily tnfsf members mediating non canonical nf kb pathway	#8A814C
+protein repair	#dfe66c
+defective cftr causes cystic fibrosis	#ED2C2C
+lgi adam interactions	#CDC8A5
+mapk family signaling cascades	#648f6e
+surfactant metabolism	#dfe66c
+map3k8 tpl2 dependent mapk1 3 activation	#8A814C
+hdr through single strand annealing ssa	#FFC0CA
+hdr through mmej alt nhej	#FFC0CA
+hdr through homologous recombination hrr	#FFC0CA
+regulation of tlr by endogenous ligand	#8A814C
+mapk6 mapk4 signaling	#648f6e
+diseases associated with surfactant metabolism	#ED2C2C
+deubiquitination	#dfe66c
+defective csf2rb causes smdp5	#ED2C2C
+uch proteinases	#dfe66c
+josephin domain dubs	#dfe66c
+ub specific processing proteases	#dfe66c
+ovarian tumor domain proteases	#dfe66c
+metalloprotease dubs	#dfe66c
+cd22 mediated bcr regulation	#8A814C
+dna double strand break repair	#FFC0CA
+resolution of d loop structures	#FFC0CA
+homology directed repair	#FFC0CA
+sensing of dna double strand breaks	#FFC0CA
+resolution of d loop structures through synthesis dependent strand annealing sdsa	#FFC0CA
+nonhomologous end joining nhej	#FFC0CA
+homologous dna pairing and strand exchange	#FFC0CA
+dna double strand break response	#FFC0CA
+processing of dna double strand break ends	#FFC0CA
+cargo concentration in the er	#dfe66c
+cargo concentration in the er	#daeddd
+dna damage recognition in gg ner	#FFC0CA
+formation of incision complex in gg ner	#FFC0CA
+gap filling dna repair synthesis and ligation in gg ner	#FFC0CA
+nucleotide excision repair	#FFC0CA
+global genome nucleotide excision repair gg ner	#FFC0CA
+dual incision in gg ner	#FFC0CA
+post translational protein modification	#dfe66c
+deposition of new cenpa containing nucleosomes at the centromere	#CC2626
+respiratory electron transport	#cfc5e8
+inflammasomes	#8A814C
+highly sodium permeable postsynaptic acetylcholine nicotinic receptors	#8B6915
+highly calcium permeable postsynaptic nicotinic acetylcholine receptors	#8B6915
+highly calcium permeable nicotinic acetylcholine receptors	#8B6915
+rna polymerase ii pre transcription events	#4A708A
+formation of tc ner pre incision complex	#FFC0CA
+transcription coupled nucleotide excision repair tc ner	#FFC0CA
+dual incision in tc ner	#FFC0CA
+trna modification in the nucleus and cytosol	#C9E1FF
+synthesis of wybutosine at g37 of trna phe	#C9E1FF
+fanconi anemia pathway	#FFC0CA
+interleukin 6 family signaling	#8A814C
+interleukin 10 signaling	#8A814C
+trna processing in the nucleus	#C9E1FF
+trna processing in the mitochondrion	#C9E1FF
+erbb2 regulates cell motility	#648f6e
+interleukin 4 and interleukin 13 signaling	#8A814C
+trna modification in the mitochondrion	#C9E1FF
+gdp fucose biosynthesis	#dfe66c
+il 6 type cytokine receptor ligand interactions	#8A814C
+rrna modification in the nucleus and cytosol	#C9E1FF
+tp53 regulates transcription of cell cycle genes	#4A708A
+rrna modification in the mitochondrion	#C9E1FF
+neurexins and neuroligins	#8B6915
+protein protein interactions at synapses	#8B6915
+tp53 regulates transcription of dna repair genes	#4A708A
+choline catabolism	#cfc5e8
+neutrophil degranulation	#8A814C
+complex i biogenesis	#cfc5e8
+metal sequestration by antimicrobial proteins	#8A814C
+signaling by moderate kinase activity braf mutants	#ED2C2C
+signaling by braf and raf1 fusions	#ED2C2C
+ras signaling downstream of nf1 loss of function variants	#ED2C2C
+oncogenic mapk signaling	#ED2C2C
+antimicrobial peptides	#8A814C
+tp53 regulates transcription of genes involved in cytochrome c release	#4A708A
+tp53 regulates transcription of several additional cell death genes whose specific roles in p53 dependent apoptosis remain uncertain	#4A708A
+tp53 regulates transcription of caspase activators and caspases	#4A708A
+tp53 regulates transcription of death receptors and ligands	#4A708A
+fgfr2 alternative splicing	#648f6e
+tp53 regulates transcription of genes involved in g2 cell cycle arrest	#4A708A
+tp53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain	#4A708A
+tp53 regulates transcription of genes involved in g1 cell cycle arrest	#4A708A
+regulation of tp53 activity through phosphorylation	#4A708A
+regulation of tp53 activity through acetylation	#4A708A
+regulation of tp53 activity through association with co factors	#4A708A
+regulation of tp53 activity through methylation	#4A708A
+keratinization	#CDC8A5
+regulation of tp53 expression and degradation	#4A708A
+metabolism of fat soluble vitamins	#cfc5e8
+signaling by met	#648f6e
+met receptor activation	#648f6e
+negative regulation of met activity	#648f6e
+pten regulation	#648f6e
+rna polymerase ii transcribes snrna genes	#4A708A
+copi mediated anterograde transport	#dfe66c
+copi mediated anterograde transport	#daeddd
+formation of the cornified envelope	#CDC8A5
+copi dependent golgi to er retrograde traffic	#daeddd
+copi independent golgi to er retrograde traffic	#daeddd
+intra golgi traffic	#daeddd
+retrograde transport at the trans golgi network	#daeddd
+intra golgi and retrograde golgi to er traffic	#daeddd
+pi5p regulates tp53 acetylation	#4A708A
+cooperation of pdcl phlp1 and tric cct in g protein beta folding	#dfe66c
+glycerophospholipid catabolism	#cfc5e8
+assembly of the orc complex at the origin of replication	#8B018B
+cdc6 association with the orc origin complex	#8B018B
+mitotic prophase	#CC2626
+mitotic prometaphase	#CC2626
+mitotic telophase cytokinesis	#CC2626
+m phase	#CC2626
+g2 phase	#CC2626
+orc1 removal from chromatin	#CC2626
+orc1 removal from chromatin	#8B018B
+dna replication initiation	#CC2626
+dna replication initiation	#8B018B
+activation of the pre replicative complex	#CC2626
+activation of the pre replicative complex	#8B018B
+dna replication pre initiation	#8B018B
+switching of origins to a post replicative state	#CC2626
+switching of origins to a post replicative state	#8B018B
+polymerase switching	#CC2626
+polymerase switching	#8B018B
+processive synthesis on the lagging strand	#CC2626
+processive synthesis on the lagging strand	#8B018B
+lagging strand synthesis	#CC2626
+lagging strand synthesis	#8B018B
+dna strand elongation	#CC2626
+dna strand elongation	#8B018B
+g1 s specific transcription	#CC2626
+cyclin d associated events in g1	#CC2626
+synthesis of dna	#CC2626
+synthesis of dna	#8B018B
+s phase	#CC2626
+cyclin a b1 b2 associated events during g2 m transition	#CC2626
+cell cycle mitotic	#CC2626
+dna replication	#8B018B
+g2 m dna damage checkpoint	#CC2626
+g2 m dna replication checkpoint	#CC2626
+g2 m checkpoints	#CC2626
+stabilization of p53	#CC2626
+g1 s dna damage checkpoints	#CC2626
+mitotic spindle checkpoint	#CC2626
+cell cycle checkpoints	#CC2626
+cyclin a cdk2 associated events at s phase entry	#CC2626
+glycolysis	#cfc5e8
+glycogen breakdown glycogenolysis	#cfc5e8
+gluconeogenesis	#cfc5e8
+pyruvate metabolism	#cfc5e8
+glucose metabolism	#cfc5e8
+fructose catabolism	#cfc5e8
+urea cycle	#cfc5e8
+branched chain amino acid catabolism	#cfc5e8
+histidine catabolism	#cfc5e8
+propionyl coa catabolism	#cfc5e8
+lysine catabolism	#cfc5e8
+tryptophan catabolism	#cfc5e8
+creatine metabolism	#cfc5e8
+metabolism of amino acids and derivatives	#cfc5e8
+pentose phosphate pathway	#cfc5e8
+ethanol oxidation	#cfc5e8
+metabolism of carbohydrates	#cfc5e8
+citric acid cycle tca cycle	#cfc5e8
+pyruvate metabolism and citric acid tca cycle	#cfc5e8
+mrna capping	#C9E1FF
+mrna splicing minor pathway	#C9E1FF
+mrna splicing	#C9E1FF
+mrna editing c to u conversion	#C9E1FF
+transport of mature transcript to cytoplasm	#C9E1FF
+processing of capped intron containing pre mrna	#C9E1FF
+trna processing	#C9E1FF
+rrna processing	#C9E1FF
+eukaryotic translation initiation	#dfe66c
+activation of the mrna upon binding of the cap binding complex and eifs and subsequent binding to 43s	#dfe66c
+recycling of eif2 gdp	#dfe66c
+translation	#dfe66c
+transport of nucleotide sugars	#ED6AA7
+pyrimidine salvage	#cfc5e8
+pyrimidine catabolism	#cfc5e8
+rna polymerase i transcription initiation	#4A708A
+rna polymerase i promoter escape	#4A708A
+rna polymerase iii chain elongation	#4A708A
+purine ribonucleoside monophosphate biosynthesis	#cfc5e8
+rna polymerase ii transcription termination	#4A708A
+rna polymerase ii transcription	#4A708A
+rna polymerase i transcription termination	#4A708A
+rna polymerase i transcription	#4A708A
+base excision repair	#FFC0CA
+chromosome maintenance	#CC2626
+death receptor signaling	#648f6e
+dna damage bypass	#FFC0CA
+dna repair	#FFC0CA
+base excision repair ap site formation	#FFC0CA
+resolution of abasic sites ap sites	#FFC0CA
+dna damage reversal	#FFC0CA
+rna polymerase iii transcription termination	#4A708A
+rna polymerase iii transcription	#4A708A
+ketone body metabolism	#cfc5e8
+purine salvage	#cfc5e8
+purine catabolism	#cfc5e8
+irs activation	#648f6e
+signal attenuation	#648f6e
+insulin receptor signalling cascade	#648f6e
+signaling by insulin receptor	#648f6e
+chk1 chk2 cds1 mediated inactivation of cyclin b cdk1 complex	#CC2626
+processing of capped intronless pre mrna	#C9E1FF
+mrna editing	#C9E1FF
+fatty acyl coa biosynthesis	#cfc5e8
+triglyceride biosynthesis	#cfc5e8
+apoptotic execution phase	#EE01ED
+fasl cd95l signaling	#648f6e
+trail signaling	#648f6e
+dissolution of fibrin clot	#FEE7BA
+synthesis of very long chain fatty acyl coas	#cfc5e8
+platelet adhesion to exposed collagen	#FEE7BA
+tnf signaling	#648f6e
+platelet activation signaling and aggregation	#FEE7BA
+response to elevated platelet cytosolic ca2	#FEE7BA
+platelet aggregation plug formation	#FEE7BA
+rna polymerase iii transcription initiation from type 1 promoter	#4A708A
+rna polymerase iii transcription initiation from type 3 promoter	#4A708A
+synthesis of ketone bodies	#cfc5e8
+mitochondrial fatty acid beta oxidation of saturated fatty acids	#cfc5e8
+mitochondrial fatty acid beta oxidation of unsaturated fatty acids	#cfc5e8
+mitochondrial fatty acid beta oxidation	#cfc5e8
+beta oxidation of lauroyl coa to decanoyl coa coa	#cfc5e8
+beta oxidation of decanoyl coa to octanoyl coa coa	#cfc5e8
+beta oxidation of octanoyl coa to hexanoyl coa	#cfc5e8
+beta oxidation of hexanoyl coa to butanoyl coa	#cfc5e8
+beta oxidation of butanoyl coa to acetyl coa	#cfc5e8
+insulin receptor recycling	#648f6e
+slbp dependent processing of replication dependent histone pre mrnas	#C9E1FF
+processing of intronless pre mrnas	#C9E1FF
+transport of fatty acids	#ED6AA7
+transport of nucleosides and free purine and pyrimidine bases across the plasma membrane	#ED6AA7
+the nlrp3 inflammasome	#8A814C
+interferon gamma signaling	#8A814C
+regulation of ifng signaling	#8A814C
+advanced glycosylation endproduct receptor signaling	#8A814C
+transport of organic anions	#ED6AA7
+gastrin creb signalling pathway via pkc and mapk	#648f6e
+erbb2 activates ptk6 signaling	#648f6e
+signaling by ptk6	#648f6e
+wax and plasmalogen biosynthesis	#cfc5e8
+ptk6 regulates proteins involved in rna processing	#648f6e
+ptk6 regulates rtks and their effectors akt1 and dok1	#648f6e
+ptk6 regulates cell cycle	#648f6e
+ptk6 regulates rho gtpases ras gtpase and map kinases	#648f6e
+ptk6 expression	#648f6e
+synaptic adhesion like molecules	#8B6915
+phosphate bond hydrolysis by ntpdase proteins	#cfc5e8
+butyrophilin btn family interactions	#8A814C
+signaling by fgfr2 iiia tm	#ED2C2C
+met activates ras signaling	#648f6e
+met activates pi3k akt signaling	#648f6e
+protein ubiquitination	#dfe66c
+the role of gtse1 in g2 m progression after g2 checkpoint	#CC2626
+signaling by mst1	#648f6e
+ret signaling	#CDC8A5
+transcriptional regulation by ventx	#4A708A
+tbc rabgaps	#daeddd
+aurka activation by tpx2	#CC2626
+interleukin 20 family signaling	#8A814C
+golgi to er retrograde transport	#daeddd
+cargo recognition for clathrin mediated endocytosis	#daeddd
+clathrin mediated endocytosis	#daeddd
+ptk6 promotes hif1a stabilization	#648f6e
+downregulation of erbb2 signaling	#648f6e
+transcriptional regulation by the ap 2 tfap2 family of transcription factors	#4A708A
+met activates ptpn11	#648f6e
+reelin signalling pathway	#CDC8A5
+vldl assembly	#ED6AA7
+vldlr internalisation and degradation	#ED6AA7
+synthesis of active ubiquitin roles of e1 and e2 enzymes	#dfe66c
+e3 ubiquitin ligases ubiquitinate target proteins	#dfe66c
+negative regulation of activity of tfap2 ap 2 family transcription factors	#4A708A
+activation of the tfap2 ap 2 family of transcription factors	#4A708A
+tfap2 ap 2 family regulates transcription of growth factors and their receptors	#4A708A
+tfap2 ap 2 family regulates transcription of cell cycle factors	#4A708A
+rrna processing in the mitochondrion	#C9E1FF
+tfap2a acts as a transcriptional repressor during retinoic acid induced cell differentiation	#4A708A
+rab geranylgeranylation	#dfe66c
+met activates ptk2 signaling	#648f6e
+creb3 factors activate genes	#3A5382
+inlb mediated entry of listeria monocytogenes into host cell	#ED2C2C
+met interacts with tns proteins	#648f6e
+met activates rap1 and rac1	#648f6e
+met receptor recycling	#648f6e
+met promotes cell motility	#648f6e
+rab gefs exchange gtp for gdp on rabs	#daeddd
+listeria monocytogenes entry into host cells	#ED2C2C
+inla mediated entry of listeria monocytogenes into host cells	#ED2C2C
+protein methylation	#dfe66c
+runx1 and foxp3 control the development of regulatory t lymphocytes tregs	#4A708A
+transcriptional regulation by runx3	#4A708A
+transcriptional regulation by runx2	#4A708A
+transcriptional regulation by runx1	#4A708A
+gaba synthesis release reuptake and degradation	#8B6915
+runx1 regulates estrogen receptor mediated transcription	#4A708A
+regulation of runx1 expression and activity	#4A708A
+receptor mediated mitophagy	#8B5A2B
+digestion	#1001EE
+runx1 regulates expression of components of tight junctions	#4A708A
+runx1 regulates genes involved in megakaryocyte differentiation and platelet function	#4A708A
+aryl hydrocarbon receptor signalling	#cfc5e8
+esr mediated signaling	#648f6e
+runx1 regulates transcription of genes involved in differentiation of hscs	#4A708A
+runx1 regulates transcription of genes involved in differentiation of keratinocytes	#4A708A
+runx1 interacts with co factors whose precise effect on runx1 targets is not known	#4A708A
+runx1 regulates transcription of genes involved in bcr signaling	#4A708A
+runx1 regulates transcription of genes involved in differentiation of myeloid cells	#4A708A
+runx1 regulates transcription of genes involved in interleukin signaling	#4A708A
+runx1 regulates transcription of genes involved in wnt signaling	#4A708A
+regulation of runx2 expression and activity	#4A708A
+runx2 regulates osteoblast differentiation	#4A708A
+runx2 regulates chondrocyte maturation	#4A708A
+runx2 regulates bone development	#4A708A
+runx2 regulates genes involved in cell migration	#4A708A
+runx3 regulates cdkn1a transcription	#4A708A
+runx3 regulates notch signaling	#4A708A
+regulation of runx3 expression and activity	#4A708A
+regulation of pten mrna translation	#648f6e
+regulation of pten gene transcription	#648f6e
+collagen chain trimerization	#ED8262
+regulation of pten localization	#648f6e
+regulation of pten stability and activity	#648f6e
+mitochondrial calcium ion transport	#ED6AA7
+runx3 regulates immune response and cell migration	#4A708A
+cristae formation	#DA7093
+processing of smdt1	#ED6AA7
+gene and protein expression by jak stat signaling after interleukin 12 stimulation	#8A814C
+runx3 regulates wnt signaling	#4A708A
+neddylation	#dfe66c
+runx3 regulates yap1 mediated transcription	#4A708A
+runx3 regulates p14 arf	#4A708A
+runx3 regulates bcl2l11 bim transcription	#4A708A
+transcriptional regulation by e2f6	#4A708A
+metabolism of rna	#C9E1FF
+cellular responses to stimuli	#3A5382
+carboxyterminal post translational modifications of tubulin	#dfe66c
+nucleotide catabolism	#cfc5e8
+nucleotide biosynthesis	#cfc5e8
+nucleotide salvage	#cfc5e8
+metabolism of steroids	#cfc5e8
+intestinal absorption	#1001EE
+tyrosine catabolism	#cfc5e8
+phenylalanine and tyrosine metabolism	#cfc5e8
+aspartate and asparagine metabolism	#cfc5e8
+digestion and absorption	#1001EE
+chylomicron assembly	#ED6AA7
+assembly of active lpl and lipc lipase complexes	#ED6AA7
+hdl assembly	#ED6AA7
+plasma lipoprotein assembly	#ED6AA7
+plasma lipoprotein remodeling	#ED6AA7
+chylomicron remodeling	#ED6AA7
+hdl clearance	#ED6AA7
+chylomicron clearance	#ED6AA7
+ldl clearance	#ED6AA7
+ldl remodeling	#ED6AA7
+plasma lipoprotein clearance	#ED6AA7
+vldl clearance	#ED6AA7
+hdl remodeling	#ED6AA7
+phenylalanine metabolism	#cfc5e8
+glutamate and glutamine metabolism	#cfc5e8
+lipid particle organization	#cfc5e8
+g beta gamma signalling through cdc42	#648f6e
+fatty acid metabolism	#cfc5e8
+metabolism of cofactors	#cfc5e8
+triglyceride metabolism	#cfc5e8
+rhoa gtpase cycle	#648f6e
+glycogen metabolism	#cfc5e8
+interleukin 15 signaling	#8A814C
+oas antiviral response	#8A814C
+interleukin 35 signalling	#8A814C
+interleukin 9 signaling	#8A814C
+transcriptional regulation by mecp2	#4A708A
+loss of function of mecp2 in rett syndrome	#ED2C2C
+signaling by ntrk2 trkb	#648f6e
+signaling by erythropoietin	#648f6e
+intracellular signaling by second messengers	#648f6e
+signaling by nuclear receptors	#648f6e
+signaling by receptor tyrosine kinases	#648f6e
+signaling by tgfb family members	#648f6e
+rab regulation of trafficking	#daeddd
+interleukin 37 signaling	#8A814C
+extra nuclear estrogen signaling	#648f6e
+er quality control compartment erqc	#dfe66c
+calnexin calreticulin cycle	#dfe66c
+regulation of expression of slits and robos	#CDC8A5
+robo receptors bind akap5	#CDC8A5
+interleukin 18 signaling	#8A814C
+signaling by notch3	#648f6e
+rho gtpase cycle	#648f6e
+rhob gtpase cycle	#648f6e
+rhoc gtpase cycle	#648f6e
+cdc42 gtpase cycle	#648f6e
+rac1 gtpase cycle	#648f6e
+rac2 gtpase cycle	#648f6e
+rhod gtpase cycle	#648f6e
+rhoq gtpase cycle	#648f6e
+rhoh gtpase cycle	#648f6e
+rhog gtpase cycle	#648f6e
+rhoj gtpase cycle	#648f6e
+rhobtb2 gtpase cycle	#648f6e
+rhou gtpase cycle	#648f6e
+rhobtb1 gtpase cycle	#648f6e
+rac3 gtpase cycle	#648f6e
+rhov gtpase cycle	#648f6e
+rhot1 gtpase cycle	#648f6e
+notch3 activation and transmission of signal to the nucleus	#648f6e
+notch3 intracellular domain regulates transcription	#648f6e
+signaling by notch4	#648f6e
+notch4 intracellular domain regulates transcription	#648f6e
+notch4 activation and transmission of signal to the nucleus	#648f6e
+tlr3 mediated ticam1 dependent programmed cell death	#8A814C
+ticam1 dependent activation of irf3 irf7	#8A814C
+ticam1 traf6 dependent induction of tak1 complex	#8A814C
+interleukin 36 pathway	#8A814C
+noncanonical activation of notch3	#648f6e
+estrogen dependent gene expression	#648f6e
+biosynthesis of specialized proresolving mediators spms	#cfc5e8
+biosynthesis of epa derived spms	#cfc5e8
+biosynthesis of maresins	#cfc5e8
+interleukin 2 signaling	#8A814C
+interleukin 12 signaling	#8A814C
+interleukin 1 signaling	#8A814C
+interleukin 23 signaling	#8A814C
+interleukin 27 signaling	#8A814C
+interleukin 21 signaling	#8A814C
+loss of mecp2 binding ability to the ncor smrt complex	#ED2C2C
+regulation of mecp2 expression and activity	#4A708A
+mecp2 regulates neuronal receptors and channels	#4A708A
+mecp2 regulates transcription of neuronal ligands	#4A708A
+mecp2 regulates transcription factors	#4A708A
+nr1h2 and nr1h3 mediated signaling	#648f6e
+activated ntrk2 signals through ras	#648f6e
+erythropoietin activates phosphoinositide 3 kinase pi3k	#648f6e
+erythropoietin activates phospholipase c gamma plcg	#648f6e
+erythropoietin activates stat5	#648f6e
+erythropoietin activates ras	#648f6e
+biosynthesis of maresin like spms	#cfc5e8
+activated ntrk2 signals through pi3k	#648f6e
+activated ntrk2 signals through frs2 and frs3	#648f6e
+nr1h2 nr1h3 regulate gene expression linked to lipogenesis	#648f6e
+nr1h3 nr1h2 regulate gene expression linked to cholesterol transport and efflux	#648f6e
+nr1h2 nr1h3 regulate gene expression to limit cholesterol uptake	#648f6e
+nr1h2 nr1h3 regulate gene expression linked to triglyceride lipolysis in adipose	#648f6e
+ngf stimulated transcription	#648f6e
+activated ntrk2 signals through fyn	#648f6e
+ntrk2 activates rac1	#648f6e
+activated ntrk2 signals through cdk5	#648f6e
+peroxisomal protein import	#FFF0F5
+tysnd1 cleaves peroxisomal proteins	#FFF0F5
+blood group systems biosynthesis	#cfc5e8
+signaling by ntrk3 trkc	#648f6e
+activated ntrk3 signals through ras	#648f6e
+rhof gtpase cycle	#648f6e
+interferon alpha beta signaling	#8A814C
+meiotic recombination	#828B8B
+meiotic recombination	#CC2626
+interleukin receptor shc signaling	#8A814C
+regulation of signaling by cbl	#8A814C
+regulation of ifna ifnb signaling	#8A814C
+interferon signaling	#8A814C
+o linked glycosylation of mucins	#dfe66c
+endosomal sorting complex required for transport escrt	#daeddd
+iron uptake and transport	#ED6AA7
+transferrin endocytosis and recycling	#ED6AA7
+traf3 dependent irf activation pathway	#8A814C
+nonsense mediated decay nmd	#C9E1FF
+traf6 mediated irf7 activation	#8A814C
+traf6 mediated nf kb activation	#8A814C
+nf kb activation through fadd rip 1 pathway mediated by caspase 8 and 10	#8A814C
+negative regulators of ddx58 ifih1 signaling	#8A814C
+ion transport by p type atpases	#ED6AA7
+activation of irf3 irf7 mediated by tbk1 ikk epsilon	#8A814C
+irak1 recruits ikk complex	#8A814C
+ikk complex recruitment mediated by rip1	#8A814C
+irak2 mediated activation of tak1 complex	#8A814C
+traf6 mediated induction of tak1 complex within tlr4 complex	#8A814C
+molybdenum cofactor biosynthesis	#cfc5e8
+transport to the golgi and subsequent modification	#dfe66c
+activated ntrk3 signals through pi3k	#648f6e
+class i peroxisomal membrane protein import	#FFF0F5
+negative regulation of notch4 signaling	#648f6e
+diseases of base excision repair	#ED2C2C
+flt3 signaling	#8A814C
+protein localization	#FFF0F5
+insertion of tail anchored proteins into the endoplasmic reticulum membrane	#FFF0F5
+hcmv infection	#ED2C2C
+hcmv early events	#ED2C2C
+assembly and cell surface presentation of nmda receptors	#8B6915
+hcmv late events	#ED2C2C
+autophagy	#8B5A2B
+lipophagy	#8B5A2B
+chaperone mediated autophagy	#8B5A2B
+foxo mediated transcription	#4A708A
+regulation of localization of foxo transcription factors	#4A708A
+foxo mediated transcription of cell death genes	#4A708A
+foxo mediated transcription of oxidative stress metabolic and neuronal genes	#4A708A
+late endosomal microautophagy	#8B5A2B
+postmitotic nuclear pore complex npc reformation	#CC2626
+transcriptional regulation of granulopoiesis	#CDC8A5
+negative regulation of nmda receptor mediated neuronal transmission	#8B6915
+regulation of foxo transcriptional activity by acetylation	#4A708A
+foxo mediated transcription of cell cycle genes	#4A708A
+activation of rac1 downstream of nmdars	#8B6915
+activation of ampk downstream of nmdars	#8B6915
+egr2 and sox10 mediated initiation of schwann cell myelination	#CDC8A5
+long term potentiation	#8B6915
+nr1h2 nr1h3 regulate gene expression to control bile acid homeostasis	#648f6e
+nr1h2 nr1h3 regulate gene expression linked to gluconeogenesis	#648f6e
+response of eif2ak4 gcn2 to amino acid deficiency	#3A5382
+constitutive signaling by overexpressed erbb2	#ED2C2C
+gper1 signaling	#648f6e
+regulation of glycolysis by fructose 2 6 bisphosphate metabolism	#cfc5e8
+estrogen stimulated signaling through prkcz	#648f6e
+estrogen dependent nuclear events downstream of esr membrane signaling	#648f6e
+transcriptional regulation by npas4	#4A708A
+suppression of apoptosis	#ED2C2C
+infection with mycobacterium tuberculosis	#ED2C2C
+prevention of phagosomal lysosomal fusion	#ED2C2C
+modulation by mtb of host immune system	#ED2C2C
+suppression of phagosomal maturation	#ED2C2C
+response of mtb to phagocytosis	#ED2C2C
+amino acids regulate mtorc1	#3A5382
+stat5 activation	#8A814C
+alpha protein kinase 1 signaling pathway	#8A814C
+diseases of programmed cell death	#ED2C2C
+aggrephagy	#8B5A2B
+n glycan trimming and elongation in the cis golgi	#dfe66c
+ras processing	#648f6e
+response of eif2ak1 hri to heme deficiency	#3A5382
+defects of contact activation system cas and kallikrein kinin system kks	#ED2C2C
+signaling by mapk mutants	#ED2C2C
+leishmania infection	#ED2C2C
+sensory processing of sound	#19787F
+aberrant regulation of mitotic g1 s transition in cancer due to rb1 defects	#ED2C2C
+signaling by mras complex mutants	#ED2C2C
+adora2b mediated anti inflammatory cytokines production	#ED2C2C
+purinergic signaling in leishmaniasis infection	#ED2C2C
+defective factor viii causes hemophilia a	#ED2C2C
+sensory processing of sound by outer hair cells of the cochlea	#19787F
+cd163 mediating an anti inflammatory response	#ED2C2C
+anti inflammatory response favouring leishmania parasite infection	#ED2C2C
+selective autophagy	#8B5A2B
+fcgr3a mediated il10 synthesis	#ED2C2C
+parasite infection	#ED2C2C
+killing mechanisms	#ED2C2C
+ltc4 cysltr mediated il4 production	#ED2C2C
+pexophagy	#8B5A2B
+signaling by erbb2 ecd mutants	#ED2C2C
+acetylcholine inhibits contraction of outer hair cells	#19787F
+defective factor ix causes hemophilia b	#ED2C2C
+sealing of the nuclear envelope ne by escrt iii	#CC2626
+signaling by kit in disease	#ED2C2C
+inhibition of dna recombination at telomere	#CC2626
+signaling by pdgfr in disease	#ED2C2C
+defective f9 activation	#ED2C2C
+signaling by pdgfra transmembrane juxtamembrane and kinase domain mutants	#ED2C2C
+signaling by membrane tethered fusions of pdgfra or pdgfrb	#ED2C2C
+signaling by csf3 g csf	#8A814C
+nervous system development	#CDC8A5
+diseases of mitotic cell cycle	#ED2C2C
+diseases of dna repair	#ED2C2C
+sars cov 1 infection	#ED2C2C
+potential therapeutics for sars	#ED2C2C
+sars cov infections	#ED2C2C
+signaling by csf1 m csf in myeloid cells	#8A814C
+flt3 signaling in disease	#ED2C2C
+maturation of protein 3a	#ED2C2C
+aberrant regulation of mitotic exit in cancer due to rb1 defects	#ED2C2C
+transcriptional regulation of testis differentiation	#CDC8A5
+sars cov 1 host interactions	#ED2C2C
+sars cov 1 activates modulates innate immune responses	#ED2C2C
+defective ripk1 mediated regulated necrosis	#ED2C2C
+sars cov 2 infection	#ED2C2C
+attachment and entry	#ED2C2C
+translation of replicase and assembly of the replication transcription complex	#ED2C2C
+rnd3 gtpase cycle	#648f6e
+rnd2 gtpase cycle	#648f6e
+rnd1 gtpase cycle	#648f6e
+signaling by alk in cancer	#ED2C2C
+alk mutants bind tkis	#ED2C2C
+stat3 nuclear events downstream of alk signaling	#648f6e
+stat5 activation downstream of flt3 itd mutants	#ED2C2C
+signaling by flt3 fusion proteins	#ED2C2C
+signaling by flt3 itd and tkd mutants	#ED2C2C
+inactivation of csf3 g csf signaling	#8A814C
+sars cov 2 activates modulates innate and adaptive immune responses	#ED2C2C
+sars cov 2 targets pdz proteins in cell cell junction	#ED2C2C
+sars cov 2 host interactions	#ED2C2C
+rhobtb3 atpase cycle	#648f6e
+negative regulation of flt3	#8A814C
+flt3 signaling through src family kinases	#8A814C
+flt3 signaling by cbl mutants	#ED2C2C
+rhobtb gtpase cycle	#648f6e
+cytoprotection by hmox1	#3A5382
+regulation of hmox1 expression and activity	#3A5382
+heme signaling	#3A5382
+regulation of bach1 activity	#3A5382
+sensory perception	#19787F
+cellular response to starvation	#3A5382
+cellular response to chemical stress	#3A5382
+miro gtpase cycle	#648f6e
+signaling by rho gtpases miro gtpases and rhobtb3	#648f6e
+sensory perception of taste	#19787F
+nuclear events stimulated by alk signaling in cancer	#ED2C2C
+sensory perception of salty taste	#19787F
+induction of cell cell fusion	#ED2C2C
+defective intrinsic pathway for apoptosis	#ED2C2C
+sars cov 1 modulates host translation machinery	#ED2C2C
+sars cov 1 targets host intracellular signalling and regulatory pathways	#ED2C2C
+drug adme	#95A4BC
+azathioprine adme	#95A4BC
+aspirin adme	#95A4BC
+traf6 mediated irf7 activation in tlr7 8 or 9 signaling	#8A814C
+paracetamol adme	#95A4BC
+drug mediated inhibition of cdk4 cdk6 activity	#CC2626
+germ layer formation at gastrulation	#CDC8A5
+sars cov 2 modulates autophagy	#ED2C2C
+sars cov 2 modulates host translation machinery	#ED2C2C
+atorvastatin adme	#95A4BC
+ribavirin adme	#95A4BC
+keap1 nfe2l2 pathway	#3A5382
+n glycan antennae elongation in the medial trans golgi	#dfe66c
+n glycan antennae elongation	#dfe66c
+sars cov 2 targets host intracellular signalling and regulatory pathways	#ED2C2C
+reactions specific to the complex n glycan synthesis pathway	#dfe66c
+prednisone adme	#95A4BC
+regulation of nf kappa b signaling	#8A814C
+uptake of dietary cobalamins into enterocytes	#cfc5e8
+transport of rcbl within the body	#cfc5e8
+epithelial mesenchymal transition emt during gastrulation	#CDC8A5
+formation of lateral plate mesoderm	#CDC8A5
+gastrulation	#CDC8A5
+nuclear events mediated by nfe2l2	#3A5382
+cobalamin cbl metabolism	#cfc5e8
+regulation of npas4 gene expression	#4A708A
+regulation of npas4 gene transcription	#4A708A
+regulation of npas4 mrna translation	#4A708A
+npas4 regulates expression of target genes	#4A708A
+termination of o glycan biosynthesis	#dfe66c
+amyloid fiber formation	#dfe66c
+early sars cov 2 infection events	#ED2C2C
+late sars cov 2 infection events	#ED2C2C
+serine biosynthesis	#cfc5e8
+gaba receptor activation	#8B6915
+gaba b receptor activation	#8B6915
+formation of paraxial mesoderm	#CDC8A5
+ciprofloxacin adme	#95A4BC
+formation of axial mesoderm	#CDC8A5
+nfe2l2 regulating anti oxidant detoxification enzymes	#3A5382
+nfe2l2 regulates pentose phosphate pathway genes	#3A5382
+growth hormone receptor signaling	#8A814C
+antigen processing ubiquitination proteasome degradation	#8A814C
+class i mhc mediated antigen processing presentation	#8A814C
+antigen presentation folding assembly and peptide loading of class i mhc	#8A814C
+kinesins	#FEE7BA
+factors involved in megakaryocyte development and platelet production	#FEE7BA
+antigen activates b cell receptor bcr leading to generation of second messengers	#8A814C
+signaling by the b cell receptor bcr	#8A814C
+ion channel transport	#ED6AA7

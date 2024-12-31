@@ -1,0 +1,149 @@
+ICD10	ICD10_our_names	ICD10_name	ICD10_category	ICD10_colors
+L70	Acne	Acne	Diseases of the skin and subcutaneous tissue	#5045F3
+D76	Hemophagocytic lymphohistiocytosis	Other specified diseases with participation of lymphoreticular and reticulohistiocytic tissue	Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism	#758F55
+L20	Atopic dermatitis	Atopic dermatitis	Diseases of the skin and subcutaneous tissue	#5045F3
+C92	Myeloid leukemia	Myeloid leukemia	Neoplasms	#570892
+I21	Acute myocardial infarction	Acute myocardial infarction	Diseases of the circulatory system	#0BF57B
+C74	Adrenal cancer	Malignant neoplasm of adrenal gland	Neoplasms	#570892
+C91	Lymphoid leukemia	Lymphoid leukemia	Neoplasms	#570892
+-			Unclassified diseases and risk factors	#97F52C
+K70	Alcoholic liver disease	Alcoholic liver disease	Diseases of the digestive system	#82DD7A
+L65	Alopecia	Other nonscarring hair loss	Diseases of the skin and subcutaneous tissue	#5045F3
+G30	Alzheimer's disease	Alzheimer's disease	Diseases of the nervous system	#75C0D9
+G12	Amyotrophic lateral sclerosis	Spinal muscular atrophy and related syndromes	Diseases of the nervous system	#75C0D9
+N01	ANCA crescentic glomerulonephritis	Rapidly progressive nephritic syndrome	Diseases of the genitourinary system	#42223B
+K12	Aphthous stomatitis	Stomatitis and related lesions	Diseases of the digestive system	#82DD7A
+I42	Cardiomyopathy	Cardiomyopathy	Diseases of the circulatory system	#0BF57B
+J45	Asthma	Asthma	Diseases of the respiratory system	#FE1659
+C71	Brain cancer	Malignant neoplasm of brain	Neoplasms	#570892
+L20	Atopic dermatitis	Atopic dermatitis	Diseases of the skin and subcutaneous tissue	#5045F3
+I48	Atrial fibrillation	Atrial fibrillation and flutter	Diseases of the circulatory system	#0BF57B
+F84	Autism	Pervasive developmental disorders	Mental and behavioural disorders	#03A412
+D72	Autosomal dominant monocytopenia	Other disorders of white blood cells	Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism	#758F55
+M47	Axial Spondyloarthropathy	Spondylosis	Diseases of the musculoskeletal system and connective tissue	#1E5448
+C34	Lung cancer	Malignant neoplasm of bronchus and lung	Neoplasms	#570892
+M35	Other systemic involvement of connective tissue	Other systemic involvement of connective tissue	Diseases of the musculoskeletal system and connective tissue	#1E5448
+C67	Bladder cancer	Malignant neoplasm of bladder	Neoplasms	#570892
+C50	Breast cancer	Malignant neoplasm of breast	Neoplasms	#570892
+A04	Campylobacter Jenuni Infection	Other bacterial intestinal infections	Certain infectious and parasitic diseases	#4EF9EA
+I63	Cerebral infarction	Cerebral infarction	Diseases of the circulatory system	#0BF57B
+Q87	Other specified congenital malformation syndromes affecting multiple systems	Other specified congenital malformation syndromes affecting multiple systems	Congenital malformations, deformations and chromosomal abnormalities	#272399
+C53	Cervix cancer	Malignant neoplasm of cervix uteri	Neoplasms	#570892
+H31	Choroideremia	Other disorders of choroid	Diseases of the eye and adnexa	#FFC9DE
+L20	Atopic dermatitis	Atopic dermatitis	Diseases of the skin and subcutaneous tissue	#5045F3
+C91	Lymphoid leukemia	Lymphoid leukemia	Neoplasms	#570892
+J44	Chronic Obstructive Pulmonary Disease	Other chronic obstructive pulmonary disease	Diseases of the respiratory system	#FE1659
+J32	Chronic sinusitis	Chronic sinusitis	Diseases of the respiratory system	#FE1659
+E88	Other and unspecified metabolic disorders	Other and unspecified metabolic disorders	Endocrine, nutritional and metabolic diseases	#C55F1B
+C18	Colon cancer	Malignant neoplasm of colon	Neoplasms	#570892
+K50	Crohn's disease	Crohn's disease	Diseases of the digestive system	#82DD7A
+D86	Sarcoidosis	Sarcoidosis	Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism	#758F55
+A90	Dengue fever	Dengue fever	Certain infectious and parasitic diseases	#4EF9EA
+M33	Dermatomyositis	Dermatopolymyositis	Diseases of the musculoskeletal system and connective tissue	#1E5448
+C50	Breast cancer	Malignant neoplasm of breast	Neoplasms	#570892
+N80	Endometriosis	Endometriosis	Diseases of the genitourinary system	#42223B
+C71	Brain cancer	Malignant neoplasm of brain	Neoplasms	#570892
+C15	Esophageal cancer	Malignant neoplasm of esophagus	Neoplasms	#570892
+D47	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Neoplasms	#570892
+A81	Fatal Familial Insomnia	Atypical virus infections of central nervous system	Certain infectious and parasitic diseases	#4EF9EA
+C82	Follicular lymphoma	Follicular lymphoma	Neoplasms	#570892
+C16	Gastric cancer	Malignant neoplasm of stomach	Neoplasms	#570892
+C71	Brain cancer	Malignant neoplasm of brain	Neoplasms	#570892
+B17	Hepatitis C	Other acute viral hepatitis	Certain infectious and parasitic diseases	#4EF9EA
+B19	Hepatitis B	Unspecified viral hepatitis	Certain infectious and parasitic diseases	#4EF9EA
+C22	Liver cancer	Malignant neoplasm of liver and intrahepatic bile ducts	Neoplasms	#570892
+C22	Liver cancer	Malignant neoplasm of liver and intrahepatic bile ducts	Neoplasms	#570892
+C22	Liver cancer	Malignant neoplasm of liver and intrahepatic bile ducts	Neoplasms	#570892
+A63	human papillomavirus	Other predominantly sexually transmitted diseases, not elsewhere classified	Certain infectious and parasitic diseases	#4EF9EA
+G10	Huntington's disease	Huntington's disease	Diseases of the nervous system	#75C0D9
+E34	Hutchinson Gilford Progeria	Other endocrine disorders	Endocrine, nutritional and metabolic diseases	#C55F1B
+J84	Other interstitial pulmonary diseases	Other interstitial pulmonary diseases	Diseases of the respiratory system	#FE1659
+N30	Cystitis	Cystitis	Diseases of the genitourinary system	#42223B
+J84	Other interstitial pulmonary diseases	Other interstitial pulmonary diseases	Diseases of the respiratory system	#FE1659
+K58	Irritable bowel syndrome	Irritable bowel syndrome	Diseases of the digestive system	#82DD7A
+I25	Ischemic Heart	Chronic ischemic heart disease	Diseases of the circulatory system	#0BF57B
+I63	Cerebral infarction	Cerebral infarction	Diseases of the circulatory system	#0BF57B
+G72	ISCU Myopathy	Other and unspecified myopathies	Diseases of the nervous system	#75C0D9
+C93	JMML	Monocytic leukemia	Neoplasms	#570892
+D82	Job's syndrome	Immunodeficiency associated with other major defects	Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism	#758F55
+Q98	Klinefelter's syndrome	Other sex chromosome abnormalities, male phenotype, not elsewhere classified	Congenital malformations, deformations and chromosomal abnormalities	#272399
+G31	Leigh syndrome	Other degenerative diseases of nervous system, not elsewhere classified	Diseases of the nervous system	#75C0D9
+B55	Leishmaniasis	Leishmaniasis	Certain infectious and parasitic diseases	#4EF9EA
+C50	Breast cancer	Malignant neoplasm of breast	Neoplasms	#570892
+C34	Lung cancer	Malignant neoplasm of bronchus and lung	Neoplasms	#570892
+C34	Lung cancer	Malignant neoplasm of bronchus and lung	Neoplasms	#570892
+F33	Major depression	Major depressive disorder, recurrent	Mental and behavioural disorders	#03A412
+C38	Mesothelioma	Malignant neoplasm of heart, mediastinum and pleura	Neoplasms	#570892
+C71	Brain cancer	Malignant neoplasm of brain	Neoplasms	#570892
+D47	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Neoplasms	#570892
+C90	Myeloma	Multiple myeloma and malignant plasma cell neoplasms	Neoplasms	#570892
+G35	Multiple sclerosis	Multiple sclerosis	Diseases of the nervous system	#75C0D9
+A15	Mycobacterium Tuberculosis	Respiratory tuberculosis	Certain infectious and parasitic diseases	#4EF9EA
+D46	Myelodysplastic syndromes	Myelodysplastic syndromes	Neoplasms	#570892
+C90	Myeloma	Multiple myeloma and malignant plasma cell neoplasms	Neoplasms	#570892
+I21	Acute myocardial infarction	Acute myocardial infarction	Diseases of the circulatory system	#0BF57B
+M60	Myositis	Myositis	Diseases of the musculoskeletal system and connective tissue	#1E5448
+C11	Nasopharingeal cancer	Malignant neoplasm of nasopharynx	Neoplasms	#570892
+C34	Lung cancer	Malignant neoplasm of bronchus and lung	Neoplasms	#570892
+C71	Brain cancer	Malignant neoplasm of brain	Neoplasms	#570892
+C14	Oral cavity cancer	Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx	Neoplasms	#570892
+K13	Oral dysplasia	Other diseases of lip and oral mucosa	Diseases of the digestive system	#82DD7A
+M19	Osteoarthritis	Other and unspecified osteoarthritis	Diseases of the musculoskeletal system and connective tissue	#1E5448
+C41	Osteosarcoma	Malignant neoplasm of bone and articular cartilage of other and unspecified sites	Neoplasms	#570892
+C56	Ovary cancer	Malignant neoplasm of ovary	Neoplasms	#570892
+C25	Pancreatic cancer	Malignant neoplasm of pancreas	Neoplasms	#570892
+C25	Pancreatic cancer	Malignant neoplasm of pancreas	Neoplasms	#570892
+G20	Parkinson's disease	Parkinson's disease	Diseases of the nervous system	#75C0D9
+E28	PCOS	Ovarian dysfunction	Endocrine, nutritional and metabolic diseases	#C55F1B
+I73	Peripheral arterial disease	Other peripheral vascular diseases	Diseases of the circulatory system	#0BF57B
+C71	Brain cancer	Malignant neoplasm of brain	Neoplasms	#570892
+J30	Polen allergy	Vasomotor and allergic rhinitis	Diseases of the respiratory system	#FE1659
+E88	Other and unspecified metabolic disorders	Other and unspecified metabolic disorders	Endocrine, nutritional and metabolic diseases	#C55F1B
+D45	Polycythemia vera	Polycythemia vera	Neoplasms	#570892
+D75	Primary myelofibrosis	Other and unspecified diseases of blood and blood-forming organs	Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism	#758F55
+C61	Prostate cancer	Malignant neoplasm of prostate	Neoplasms	#570892
+L40	Psoriasis	Psoriasis	Diseases of the skin and subcutaneous tissue	#5045F3
+C64	Kidney cancer	Malignant neoplasm of kidney, except renal pelvis	Neoplasms	#570892
+C49	Rhabdoid cancer	Malignant neoplasm of other connective and soft tissue	Neoplasms	#570892
+L71	Rosacea	Rosacea	Diseases of the skin and subcutaneous tissue	#5045F3
+L71	Rosacea	Rosacea	Diseases of the skin and subcutaneous tissue	#5045F3
+L71	Rosacea	Rosacea	Diseases of the skin and subcutaneous tissue	#5045F3
+D86	Sarcoidosis	Sarcoidosis	Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism	#758F55
+F20	Schizophrenia	Schizophrenia	Mental and behavioural disorders	#03A412
+L82	Seborrheic keratosis	Seborrheic keratosis	Diseases of the skin and subcutaneous tissue	#5045F3
+R65	Septic Shock	Symptoms and signs specifically associated with systemic inflammation and infection	Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified	#D1EB04
+Q82	Setleis syndrome	Other congenital malformations of skin	Congenital malformations, deformations and chromosomal abnormalities	#272399
+D57	Sickle-cell anemia	Sickle-cell disorders	Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism	#758F55
+M35	Other systemic involvement of connective tissue	Other systemic involvement of connective tissue	Diseases of the musculoskeletal system and connective tissue	#1E5448
+M32	Systemic lupus erythematosus	Systemic lupus erythematosus (SLE)	Diseases of the musculoskeletal system and connective tissue	#1E5448
+F17	Smoker	Nicotine dependence	Mental and behavioural disorders	#03A412
+C90	Myeloma	Multiple myeloma and malignant plasma cell neoplasms	Neoplasms	#570892
+Q87	Other specified congenital malformation syndromes affecting multiple systems	Other specified congenital malformation syndromes affecting multiple systems	Congenital malformations, deformations and chromosomal abnormalities	#272399
+Q05	Spina bifida	Spina bifida	Congenital malformations, deformations and chromosomal abnormalities	#272399
+-			Unclassified diseases and risk factors	#97F52C
+C84	T-cell lymphoma	Mature T/NK-cell lymphomas	Neoplasms	#570892
+D56	Thalassemia	Thalassemia	Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism	#758F55
+D69	Thrombocytopenia	Purpura and other hemorrhagic conditions	Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism	#758F55
+C73	Thyroid cancer	Malignant neoplasm of thyroid gland	Neoplasms	#570892
+G71	Tibial muscular dystrophy	Primary disorders of muscles	Diseases of the nervous system	#75C0D9
+A71	Trachoma	Trachoma	Certain infectious and parasitic diseases	#4EF9EA
+-			Unclassified diseases and risk factors	#97F52C
+Q96	Turner's syndrome	Turner's syndrome	Congenital malformations, deformations and chromosomal abnormalities	#272399
+E10	Type 1 diabetes mellitus	Type 1 diabetes mellitus	Endocrine, nutritional and metabolic diseases	#C55F1B
+E11	Type 2 diabetes mellitus	Type 2 diabetes mellitus	Endocrine, nutritional and metabolic diseases	#C55F1B
+K51	Ulcerative colitis	Ulcerative colitis	Diseases of the digestive system	#82DD7A
+N19	Uremia	Unspecified kidney failure	Diseases of the genitourinary system	#42223B
+L80	Vitiligo	Vitiligo	Diseases of the skin and subcutaneous tissue	#5045F3
+Q87	Other specified congenital malformation syndromes affecting multiple systems	Other specified congenital malformation syndromes affecting multiple systems	Congenital malformations, deformations and chromosomal abnormalities	#272399
+B44	Aspergillus colonization of lung allograft	Aspergillosis	Certain infectious and parasitic diseases	#4EF9EA
+F31	Bipolar disorder	Bipolar disorder	Mental and behavioural disorders	#03A412
+T86	Chronic lung allograft dysfunction	Complications of transplanted organs and tissue	Injury, poisoning and certain other consequences of external causes	#DCD41E
+C57	Fallopian tube epithelium carcinoma	Malignant neoplasm of other and unspecified female genital organs	Neoplasms	#570892
+B19	Hepatitis B	Unspecified viral hepatitis	Certain infectious and parasitic diseases	#4EF9EA
+-			Unclassified diseases and risk factors	#97F52C
+N02	IgA nephropathy	Recurrent and persistent hematuria	Diseases of the genitourinary system	#42223B
+C43	Melanoma	Malignant melanoma of skin	Neoplasms	#570892
+C79	Melanoma metastasis	Secondary malignant neoplasm of other and unspecified sites	Neoplasms	#570892
+M35	Other systemic involvement of connective tissue	Other systemic involvement of connective tissue	Diseases of the musculoskeletal system and connective tissue	#1E5448
+B97	Respiratory syncytial virus	Viral agents as the cause of diseases classified elsewhere	Certain infectious and parasitic diseases	#4EF9EA
+-			Unclassified diseases and risk factors	#97F52C

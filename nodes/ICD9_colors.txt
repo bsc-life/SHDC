@@ -1,0 +1,100 @@
+ICD9	ICD9_our_names	ICD9_category	ICD9_colors
+706	Acne	Diseases of the skin and subcutaneous tissue	#5045F3
+288	Diseases of white blood cells	Diseases of the blood and blood-forming organs	#758F55
+691	Atopic dermatitis	Diseases of the skin and subcutaneous tissue	#5045F3
+205	Acute myeloid leukemia	Neoplasms	#570892
+410	Acute myocardial infarction	Diseases of the circulatory system	#0BF57B
+194	Adrenocortical carcinoma	Neoplasms	#570892
+204	Lymphoid leukemia	Neoplasms	#570892
+-	Other phenotypes	Unclassified diseases and risk factors	#97F52C
+571	Alcoholic hepatitis	Diseases of the digestive system	#82DD7A
+704	Alopecia	Diseases of the skin and subcutaneous tissue	#5045F3
+331	Alzheimer's disease	Diseases of the nervous system and sense organs	#75C0D9
+335	Amyotrophic lateral sclerosis	Diseases of the nervous system and sense organs	#75C0D9
+580	ANCA crescentic glomerulonephritis	Diseases of the genitourinary system	#42223B
+528	Oral diseases	Diseases of the digestive system	#82DD7A
+425	Ventricular cardiomyopathy	Diseases of the circulatory system	#0BF57B
+493	Asthma	Diseases of the respiratory system	#FE1659
+191	Brain tumors	Neoplasms	#570892
+427	Atrial fibrillation	Diseases of the circulatory system	#0BF57B
+299	Autism	Mental disorders	#03A412
+721	Axial spondyloarthropathy	Diseases of the musculoskeletal system and connective tissue	#1E5448
+162	Lung cancer	Neoplasms	#570892
+136	Behcet's disease	Infectious and parasitic diseases	#4EF9EA
+188	Bladder cancer	Neoplasms	#570892
+174	Breast cancer	Neoplasms	#570892
+8	Campylobacter jenuni infection	Infectious and parasitic diseases	#4EF9EA
+434	Stroke	Diseases of the circulatory system	#0BF57B
+759	Congenital anomalies	Congenital anomalies	#272399
+180	Cervix cancer	Neoplasms	#570892
+363	Choroideremia	Diseases of the nervous system and sense organs	#75C0D9
+496	COPD	Diseases of the respiratory system	#FE1659
+473	Chronic rhinosinusitis	Diseases of the respiratory system	#FE1659
+277	Unspecified disorders of metabolism	Endocrine, nutritional and metabolic diseases, and immunity disorders	#C55F1B
+153	Colon cancer	Neoplasms	#570892
+555	Crohns disease	Diseases of the digestive system	#82DD7A
+135	Sarcoidosis	Infectious and parasitic diseases	#4EF9EA
+61	Dengue	Infectious and parasitic diseases	#4EF9EA
+710	Diffuse diseases of connective tissue	Diseases of the musculoskeletal system and connective tissue	#1E5448
+617	Endometriosis	Diseases of the genitourinary system	#42223B
+150	Esophagus cancer	Neoplasms	#570892
+238	Other neoplasms	Neoplasms	#570892
+46	Fatal familian insomnia	Infectious and parasitic diseases	#4EF9EA
+202	Lymphoma	Neoplasms	#570892
+151	Gastric cancer	Neoplasms	#570892
+70	Viral hepatitis	Infectious and parasitic diseases	#4EF9EA
+155	Liver cancer	Neoplasms	#570892
+79	Human papillomavirus	Infectious and parasitic diseases	#4EF9EA
+333	Huntington's disease	Diseases of the nervous system and sense organs	#75C0D9
+259	Progeria	Endocrine, nutritional and metabolic diseases, and immunity disorders	#C55F1B
+516	Other alveolar and parietoalveolar pneumonopathy	Diseases of the respiratory system	#FE1659
+595	Cystitis	Diseases of the genitourinary system	#42223B
+564	Irritable bowel syndrome	Diseases of the digestive system	#82DD7A
+414	Ischemia	Diseases of the circulatory system	#0BF57B
+758	Chromosomal anomalies (turner / klinefelter)	Congenital anomalies	#272399
+330	Leigh syndrome	Diseases of the nervous system and sense organs	#75C0D9
+85	Leishmaniasis	Infectious and parasitic diseases	#4EF9EA
+296	Mood disorders (depression / bipolar disorder)	Mental disorders	#03A412
+163	Pleura cancer	Neoplasms	#570892
+273	MGUS	Endocrine, nutritional and metabolic diseases, and immunity disorders	#C55F1B
+203	Multiple myeloma	Neoplasms	#570892
+340	Multiple sclerosis	Diseases of the nervous system and sense organs	#75C0D9
+31	Tuberculosis (mycobacterium)	Infectious and parasitic diseases	#4EF9EA
+729	Myositis	Diseases of the musculoskeletal system and connective tissue	#1E5448
+147	Nasopharingeal cancer	Neoplasms	#570892
+149	Oral cavity cancer	Neoplasms	#570892
+715	Osteoarthritis	Diseases of the musculoskeletal system and connective tissue	#1E5448
+170	Osteosarcoma	Neoplasms	#570892
+183	Ovary cancer	Neoplasms	#570892
+157	Pancreas cancer	Neoplasms	#570892
+332	Parkinson's disease	Diseases of the nervous system and sense organs	#75C0D9
+256	Polycystic ovary syndrome	Endocrine, nutritional and metabolic diseases, and immunity disorders	#C55F1B
+443	Peripheral arterial disease	Diseases of the circulatory system	#0BF57B
+477	Polen allergy	Diseases of the respiratory system	#FE1659
+289	Primary myelofibrosis	Diseases of the blood and blood-forming organs	#758F55
+185	Prostate cancer	Neoplasms	#570892
+696	Psoriasis	Diseases of the skin and subcutaneous tissue	#5045F3
+189	Kidney cancer	Neoplasms	#570892
+695	Rosacea	Diseases of the skin and subcutaneous tissue	#5045F3
+295	Schizophrenia	Mental disorders	#03A412
+702	Seborrheic keratosis	Diseases of the skin and subcutaneous tissue	#5045F3
+785	Septic shock	Symptoms, signs, and ill-defined conditions	#D1EB04
+757	Setleis syndrome	Congenital anomalies	#272399
+282	Hereditary hemolytic anemias (Sickle / Thalassemia)	Diseases of the blood and blood-forming organs	#758F55
+305	Smoking	Mental disorders	#03A412
+253	Sotos syndrome	Endocrine, nutritional and metabolic diseases, and immunity disorders	#C55F1B
+741	Spina bifida	Congenital anomalies	#272399
+287	Thrombocytopenia	Diseases of the blood and blood-forming organs	#758F55
+193	Thyroid cancer	Neoplasms	#570892
+359	Muscular dystrophy	Diseases of the nervous system and sense organs	#75C0D9
+76	Trachoma	Infectious and parasitic diseases	#4EF9EA
+250	Diabetes mellitus	Endocrine, nutritional and metabolic diseases, and immunity disorders	#C55F1B
+556	Ulcerative enterocolitis	Diseases of the digestive system	#82DD7A
+586	Uremia	Diseases of the genitourinary system	#42223B
+709	Vitiligo	Diseases of the skin and subcutaneous tissue	#5045F3
+484	Lung allograft infection by aspergillus	Diseases of the respiratory system	#FE1659
+996	Lung allograft dysfunction	Injury and poisoning	#DCD41E
+583	IgA nephropathy	Diseases of the genitourinary system	#42223B
+172	Melanoma	Neoplasms	#570892
+198	Melanoma metastasis	Neoplasms	#570892
+725	Polymyalgia rheumatica	Diseases of the musculoskeletal system and connective tissue	#1E5448

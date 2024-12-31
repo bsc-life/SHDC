@@ -1,0 +1,95 @@
+disease	colors
+Polycythaemia vera	#570892
+Myelofibrosis	#758F55
+Acute myocardial infarction	#0BF57B
+Systemic lupus erythematosus	#1E5448
+Type 1 diabetes mellitus	#C55F1B
+Type 2 diabetes mellitus	#C55F1B
+Collagen-vascular disease	#1E5448
+Breast cancer	#570892
+Psoriasis	#5045F3
+Endometriosis	#42223B
+Hepatitis C	#4EF9EA
+Malignant neoplasm of esophagus	#570892
+Malignant neoplasm of pancreas	#570892
+Lung neoplasm malignant	#570892
+Gastric cancer	#570892
+Hepatic cancer	#570892
+Prostate cancer	#570892
+Bladder cancer	#570892
+Thyroid cancer	#570892
+Plasma cell myeloma	#570892
+Acute myeloid leukaemia	#570892
+Multiple sclerosis	#75C0D9
+Asthma	#FE1659
+Systemic mastocytosis	#570892
+Leukocytosis	#758F55
+Osteoarthritis	#1E5448
+Heparin-induced thrombocytopenia	#758F55
+Premature menopause	#C55F1B
+Peripheral vascular disorder	#0BF57B
+Schizophrenia	#03A412
+Parkinson's disease	#75C0D9
+Dementia Alzheimer's type	#75C0D9
+Acrocyanosis	#0BF57B
+Sinusitis	#FE1659
+Acne	#5045F3
+Alcoholic liver disease	#82DD7A
+Interstitial lung disease	#FE1659
+Colitis ulcerative	#82DD7A
+Cystitis	#42223B
+Trachoma	#4EF9EA
+Rosacea	#5045F3
+Gastrointestinal stromal tumour	#570892
+Blood disorder	#758F55
+Bipolar I disorder	#03A412
+Irritable bowel syndrome	#82DD7A
+Psoriatic arthropathy	#5045F3
+Chronic myeloid leukaemia	#570892
+Bronchopulmonary aspergillosis allergic	#4EF9EA
+Mycosis fungoides	#570892
+Sarcoidosis	#758F55
+Organising pneumonia	#FE1659
+Crohn's disease	#82DD7A
+Dermatomyositis	#1E5448
+Polymyalgia rheumatica	#1E5448
+Brain neoplasm malignant	#570892
+Adrenal gland cancer	#570892
+Colon cancer	#570892
+Seborrhoeic keratosis	#5045F3
+Malignant neoplasm of islets of Langerhans	#570892
+Leukaemia monocytic	#570892
+Lymphoproliferative disorder	#570892
+X-linked lymphoproliferative syndrome	#758F55
+Myeloproliferative disorder	#570892
+Sickle cell anaemia	#758F55
+Peripheral T-cell lymphoma unspecified	#570892
+Chronic myelomonocytic leukaemia	#570892
+Refractory anaemia with an excess of blasts	#570892
+Kidney transplant rejection	#DCD41E
+Leukopenia	#758F55
+Chronic atrial fibrillation	#0BF57B
+Atrial fibrillation and flutter	#0BF57B
+Intermittent claudication	#0BF57B
+Cheilosis	#82DD7A
+Acne vulgaris	#5045F3
+Mixed connective tissue disease	#1E5448
+Motor neurone disease	#75C0D9
+Neurodegenerative disorder	#75C0D9
+Nicotine dependence	#03A412
+Thromboangiitis obliterans	#0BF57B
+Bipolar disorder	#03A412
+Recurrent depressive disorder	#03A412
+Paroxysmal atrial fibrillation	#0BF57B
+Sjogren's syndrome	#1E5448
+Dementia with Lewy bodies	#75C0D9
+Autism	#03A412
+Cerebral infarction	#0BF57B
+Idiopathic pulmonary fibrosis	#FE1659
+Schizophreniform disorder	#03A412
+Huntington's disease	#75C0D9
+Insulin resistant diabetes	#C55F1B
+Persistent atrial fibrillation	#0BF57B
+Aspergillosis	#4EF9EA
+Hemangioma simplex	#272399
+Raynaud's phenomenon	#0BF57B

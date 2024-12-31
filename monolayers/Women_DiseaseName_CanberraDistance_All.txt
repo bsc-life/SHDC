@@ -1,0 +1,1987 @@
+Disease1	Disease2	weight	comorbid	colors
+Trachoma	Dengue fever	0.300956367492627	no	#4A74A9
+Trachoma	Hepatitis C	-0.154947720244877	no	#B64539
+Trachoma	Aspergillus colonization of lung allograft	0.242691613015693	no	#4A74A9
+Trachoma	Nasopharingeal cancer	-0.0922251894856843	no	#B64539
+Trachoma	Oral cavity cancer	0.268559603222777	no	#4A74A9
+Trachoma	Liver cancer	-0.0903849310834504	no	#B64539
+Trachoma	Lung cancer	0.11428570090828	no	#4A74A9
+Trachoma	Mesothelioma	0.289346973785503	no	#4A74A9
+Trachoma	Melanoma	0.280253076489893	no	#4A74A9
+Trachoma	Breast cancer	0.20928053970599	no	#4A74A9
+Trachoma	Cervix cancer	-0.0380276119399339	no	#B64539
+Trachoma	Ovary cancer	0.197363143653365	no	#4A74A9
+Trachoma	Kidney cancer	0.170168835969586	no	#4A74A9
+Trachoma	Bladder cancer	0.3379226914413	no	#4A74A9
+Trachoma	Thyroid cancer	0.546816515765471	no	#4A74A9
+Trachoma	Adrenal cancer	0.150042077580293	no	#4A74A9
+Trachoma	Melanoma metastasis	0.199674808048517	no	#4A74A9
+Trachoma	Myeloid leukemia	-0.198828651821012	no	#B64539
+Trachoma	Polycythemia vera	0.0665056959442866	no	#4A74A9
+Trachoma	Myelodysplastic syndromes	0.0420008307046546	no	#4A74A9
+Trachoma	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	0.0626299401341364	no	#4A74A9
+Trachoma	Sickle-cell anemia	-0.172307702354902	no	#B64539
+Trachoma	Autosomal dominant monocytopenia	-0.101492437050417	no	#B64539
+Trachoma	Primary myelofibrosis	-0.108651199317595	no	#B64539
+Trachoma	Job's syndrome	0.164876755776129	no	#4A74A9
+Trachoma	Sarcoidosis	0.168203337213219	no	#4A74A9
+Trachoma	Type 1 diabetes mellitus	0.135071242335961	no	#4A74A9
+Trachoma	Type 2 diabetes mellitus	-0.128790437774997	no	#B64539
+Trachoma	Other and unspecified metabolic disorders	-0.186524999400786	no	#B64539
+Trachoma	Smoker	0.427571444352283	no	#4A74A9
+Trachoma	Schizophrenia	0.166403505664745	no	#4A74A9
+Trachoma	Bipolar disorder	0.0821985412412862	no	#4A74A9
+Trachoma	Major depression	0.060300110132643	no	#4A74A9
+Trachoma	Huntington's disease	0.105675413705323	no	#4A74A9
+Trachoma	Amyotrophic lateral sclerosis	-0.121280957678866	no	#B64539
+Trachoma	Parkinson's disease	-0.0495818170253255	no	#B64539
+Trachoma	Alzheimer's disease	0.209415169212321	no	#4A74A9
+Trachoma	Multiple sclerosis	0.0654494788702672	no	#4A74A9
+Trachoma	Acute myocardial infarction	0.255947053166046	no	#4A74A9
+Trachoma	Cardiomyopathy	-0.0816023488734191	no	#B64539
+Trachoma	Peripheral arterial disease	0.129543518509219	no	#4A74A9
+Trachoma	Chronic sinusitis	0.308793474234899	no	#4A74A9
+Trachoma	Chronic Obstructive Pulmonary Disease	0.162099690014888	no	#4A74A9
+Trachoma	Asthma	-0.247314653578974	no	#B64539
+Trachoma	Other interstitial pulmonary diseases	0.108748730187171	no	#4A74A9
+Trachoma	Aphthous stomatitis	0.111719701165724	no	#4A74A9
+Trachoma	Oral dysplasia	0.191625966103834	no	#4A74A9
+Trachoma	Crohn's disease	0.380179353634487	no	#4A74A9
+Trachoma	Ulcerative colitis	0.350559492358096	no	#4A74A9
+Trachoma	Irritable bowel syndrome	0.339221070264378	no	#4A74A9
+Trachoma	Atopic dermatitis	0.393529158651749	no	#4A74A9
+Trachoma	Psoriasis	0.324850685488686	no	#4A74A9
+Trachoma	Rosacea	0.296511845792527	no	#4A74A9
+Trachoma	Osteoarthritis	0.0506638671788882	no	#4A74A9
+Trachoma	Systemic lupus erythematosus	0.251762802965038	no	#4A74A9
+Trachoma	Other systemic involvement of connective tissue	-0.150497230458418	no	#B64539
+Trachoma	Axial Spondyloarthropathy	0.170338869821249	no	#4A74A9
+Trachoma	Myositis	0.244491427807124	no	#4A74A9
+Trachoma	Uremia	0.175250492844621	no	#4A74A9
+Trachoma	Cystitis	0.567548503952994	no	#4A74A9
+Trachoma	Endometriosis	0.493340847151208	no	#4A74A9
+Trachoma	Setleis syndrome	-0.0880346974609515	no	#B64539
+Trachoma	Turner's syndrome	0.30398476231221	no	#4A74A9
+Trachoma	Septic Shock	0.316148299028452	no	#4A74A9
+Dengue fever	Aspergillus colonization of lung allograft	0.149348067995576	no	#4A74A9
+Dengue fever	Nasopharingeal cancer	0.0531129595244268	no	#4A74A9
+Dengue fever	Oral cavity cancer	0.235601111813524	no	#4A74A9
+Dengue fever	Pancreatic cancer	0.0473256221013503	no	#4A74A9
+Dengue fever	Lung cancer	0.133567327324818	no	#4A74A9
+Dengue fever	Mesothelioma	0.157133943627074	no	#4A74A9
+Dengue fever	Melanoma	0.106143481522468	no	#4A74A9
+Dengue fever	Breast cancer	0.140790875983796	no	#4A74A9
+Dengue fever	Cervix cancer	0.0404071059913126	no	#4A74A9
+Dengue fever	Ovary cancer	0.144698904556914	no	#4A74A9
+Dengue fever	Kidney cancer	0.0463946082280767	no	#4A74A9
+Dengue fever	Bladder cancer	0.186592699911071	no	#4A74A9
+Dengue fever	Brain cancer	0.0728649431950589	no	#4A74A9
+Dengue fever	Thyroid cancer	0.242125667709364	no	#4A74A9
+Dengue fever	Adrenal cancer	0.0759303824070945	no	#4A74A9
+Dengue fever	Melanoma metastasis	0.148813242442717	no	#4A74A9
+Dengue fever	Polycythemia vera	0.221141030273456	no	#4A74A9
+Dengue fever	Myelodysplastic syndromes	0.0817655882297772	no	#4A74A9
+Dengue fever	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	0.134967974447206	no	#4A74A9
+Dengue fever	Sickle-cell anemia	0.0581102599731091	no	#4A74A9
+Dengue fever	Primary myelofibrosis	0.189831023800668	no	#4A74A9
+Dengue fever	Job's syndrome	0.20356907004604	no	#4A74A9
+Dengue fever	Sarcoidosis	0.286186903471519	no	#4A74A9
+Dengue fever	Other and unspecified metabolic disorders	-0.0594970683109042	no	#B64539
+Dengue fever	Smoker	0.124065943206113	no	#4A74A9
+Dengue fever	Schizophrenia	0.0533327886694032	no	#4A74A9
+Dengue fever	Huntington's disease	-0.0654328971875042	no	#B64539
+Dengue fever	Alzheimer's disease	0.0666682641916572	no	#4A74A9
+Dengue fever	Acute myocardial infarction	0.119904001180993	no	#4A74A9
+Dengue fever	Cardiomyopathy	-0.0443004196029919	no	#B64539
+Dengue fever	Cerebral infarction	0.0838407714762576	no	#4A74A9
+Dengue fever	Peripheral arterial disease	0.160348946126703	no	#4A74A9
+Dengue fever	Chronic sinusitis	0.0543200401261872	no	#4A74A9
+Dengue fever	Chronic Obstructive Pulmonary Disease	0.140869627315964	no	#4A74A9
+Dengue fever	Asthma	0.0437737454431772	no	#4A74A9
+Dengue fever	Other interstitial pulmonary diseases	-0.0628579177817175	no	#B64539
+Dengue fever	Aphthous stomatitis	0.0769899627481916	no	#4A74A9
+Dengue fever	Oral dysplasia	0.159919914046614	no	#4A74A9
+Dengue fever	Crohn's disease	0.320921579416862	no	#4A74A9
+Dengue fever	Ulcerative colitis	0.147690758088345	no	#4A74A9
+Dengue fever	Irritable bowel syndrome	0.185550437814937	no	#4A74A9
+Dengue fever	Atopic dermatitis	0.0776955838008183	no	#4A74A9
+Dengue fever	Psoriasis	0.305314953473278	no	#4A74A9
+Dengue fever	Rosacea	0.206160778755588	no	#4A74A9
+Dengue fever	Systemic lupus erythematosus	0.435874962053855	no	#4A74A9
+Dengue fever	Myositis	0.195273212140233	no	#4A74A9
+Dengue fever	Uremia	0.16791271435862	no	#4A74A9
+Dengue fever	Cystitis	0.258615517859727	no	#4A74A9
+Dengue fever	Endometriosis	0.0938308647504968	no	#4A74A9
+Dengue fever	Other specified congenital malformation syndromes affecting multiple systems	0.0851852500144099	no	#4A74A9
+Dengue fever	Septic Shock	0.58893220200972	no	#4A74A9
+Hepatitis C	Aspergillus colonization of lung allograft	-0.0429514739410838	no	#B64539
+Hepatitis C	Nasopharingeal cancer	0.124543405304311	no	#4A74A9
+Hepatitis C	Gastric cancer	0.0845081012760212	no	#4A74A9
+Hepatitis C	Colon cancer	0.0489532714220188	no	#4A74A9
+Hepatitis C	Liver cancer	0.0606933373590712	no	#4A74A9
+Hepatitis C	Pancreatic cancer	0.119962554931199	no	#4A74A9
+Hepatitis C	Mesothelioma	-0.085356296909632	no	#B64539
+Hepatitis C	Breast cancer	0.0771608468589399	no	#4A74A9
+Hepatitis C	Cervix cancer	0.144771179462528	no	#4A74A9
+Hepatitis C	Ovary cancer	-0.0762486096409225	no	#B64539
+Hepatitis C	Kidney cancer	0.100733221308933	no	#4A74A9
+Hepatitis C	Bladder cancer	-0.118535740072564	no	#B64539
+Hepatitis C	Brain cancer	0.0592922601301284	no	#4A74A9
+Hepatitis C	Thyroid cancer	-0.0603984579607153	no	#B64539
+Hepatitis C	Lymphoid leukemia	-0.0550108786677635	no	#B64539
+Hepatitis C	Myeloid leukemia	0.102214208740979	no	#4A74A9
+Hepatitis C	Polycythemia vera	-0.0845985808676238	no	#B64539
+Hepatitis C	Myelodysplastic syndromes	-0.19989943956414	no	#B64539
+Hepatitis C	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	-0.135251340481982	no	#B64539
+Hepatitis C	Thalassemia	0.0632072807458538	no	#4A74A9
+Hepatitis C	Sickle-cell anemia	0.124346479181328	no	#4A74A9
+Hepatitis C	Autosomal dominant monocytopenia	0.0781944500387362	no	#4A74A9
+Hepatitis C	Job's syndrome	-0.0443779633143209	no	#B64539
+Hepatitis C	Sarcoidosis	0.0543683796172472	no	#4A74A9
+Hepatitis C	Type 1 diabetes mellitus	-0.175623231079635	no	#B64539
+Hepatitis C	Type 2 diabetes mellitus	0.154229030571694	no	#4A74A9
+Hepatitis C	Other and unspecified metabolic disorders	0.224908887999746	no	#4A74A9
+Hepatitis C	Smoker	-0.14457348368708	no	#B64539
+Hepatitis C	Bipolar disorder	-0.0456095552118324	no	#B64539
+Hepatitis C	Major depression	-0.0445724970081608	no	#B64539
+Hepatitis C	Huntington's disease	-0.209552672662768	no	#B64539
+Hepatitis C	Amyotrophic lateral sclerosis	0.14399903597437	no	#4A74A9
+Hepatitis C	Acute myocardial infarction	-0.222089031468206	no	#B64539
+Hepatitis C	Cardiomyopathy	0.0664110935633192	no	#4A74A9
+Hepatitis C	Chronic sinusitis	-0.0892386047359098	no	#B64539
+Hepatitis C	Asthma	0.0988557820238909	no	#4A74A9
+Hepatitis C	Other interstitial pulmonary diseases	-0.040501312956397	no	#B64539
+Hepatitis C	Aphthous stomatitis	0.0921971899410638	no	#4A74A9
+Hepatitis C	Atopic dermatitis	-0.0705687044774871	no	#B64539
+Hepatitis C	Systemic lupus erythematosus	-0.210902638641542	no	#B64539
+Hepatitis C	Other systemic involvement of connective tissue	0.441733887132552	no	#4A74A9
+Hepatitis C	Axial Spondyloarthropathy	-0.158870940591416	no	#B64539
+Hepatitis C	Uremia	-0.117888948114919	no	#B64539
+Hepatitis C	Endometriosis	-0.278877104379567	no	#B64539
+Hepatitis C	Setleis syndrome	0.131981971294811	no	#4A74A9
+Hepatitis C	Turner's syndrome	-0.218244519785096	no	#B64539
+Hepatitis C	Septic Shock	-0.062217647786175	no	#B64539
+Hepatitis C	Chronic lung allograft dysfunction	0.0764992502843085	no	#4A74A9
+Aspergillus colonization of lung allograft	Nasopharingeal cancer	-0.0881783013954163	no	#B64539
+Aspergillus colonization of lung allograft	Oral cavity cancer	0.0537568792739039	no	#4A74A9
+Aspergillus colonization of lung allograft	Gastric cancer	-0.0601268614917954	no	#B64539
+Aspergillus colonization of lung allograft	Liver cancer	-0.133382348026437	no	#B64539
+Aspergillus colonization of lung allograft	Pancreatic cancer	-0.0459606072573879	no	#B64539
+Aspergillus colonization of lung allograft	Breast cancer	-0.0447052882805188	no	#B64539
+Aspergillus colonization of lung allograft	Cervix cancer	-0.0439644005504167	no	#B64539
+Aspergillus colonization of lung allograft	Ovary cancer	0.0640242707031999	no	#4A74A9
+Aspergillus colonization of lung allograft	Bladder cancer	0.0709245105903199	no	#4A74A9
+Aspergillus colonization of lung allograft	Thyroid cancer	0.156730679872952	no	#4A74A9
+Aspergillus colonization of lung allograft	Adrenal cancer	0.0527158804664854	no	#4A74A9
+Aspergillus colonization of lung allograft	Lymphoid leukemia	-0.091798445446189	no	#B64539
+Aspergillus colonization of lung allograft	Myeloid leukemia	-0.109385299272144	no	#B64539
+Aspergillus colonization of lung allograft	Polycythemia vera	0.0956824463949259	no	#4A74A9
+Aspergillus colonization of lung allograft	Myelodysplastic syndromes	-0.0738058657662809	no	#B64539
+Aspergillus colonization of lung allograft	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	0.114460712516396	no	#4A74A9
+Aspergillus colonization of lung allograft	Sickle-cell anemia	-0.0458187155866136	no	#B64539
+Aspergillus colonization of lung allograft	Autosomal dominant monocytopenia	-0.0640819087932158	no	#B64539
+Aspergillus colonization of lung allograft	Primary myelofibrosis	-0.0433451384852577	no	#B64539
+Aspergillus colonization of lung allograft	Job's syndrome	0.195403005365599	no	#4A74A9
+Aspergillus colonization of lung allograft	Sarcoidosis	0.201637100261232	no	#4A74A9
+Aspergillus colonization of lung allograft	Type 1 diabetes mellitus	0.171088397034393	no	#4A74A9
+Aspergillus colonization of lung allograft	Type 2 diabetes mellitus	-0.0412912842103347	no	#B64539
+Aspergillus colonization of lung allograft	Other and unspecified metabolic disorders	-0.0508810648864666	no	#B64539
+Aspergillus colonization of lung allograft	Smoker	0.167815166617458	no	#4A74A9
+Aspergillus colonization of lung allograft	Schizophrenia	0.137937809829966	no	#4A74A9
+Aspergillus colonization of lung allograft	Bipolar disorder	0.0600722963663416	no	#4A74A9
+Aspergillus colonization of lung allograft	Huntington's disease	0.0968586213757289	no	#4A74A9
+Aspergillus colonization of lung allograft	Amyotrophic lateral sclerosis	-0.0872778891356046	no	#B64539
+Aspergillus colonization of lung allograft	Alzheimer's disease	0.164813572074201	no	#4A74A9
+Aspergillus colonization of lung allograft	Multiple sclerosis	0.072352989475952	no	#4A74A9
+Aspergillus colonization of lung allograft	Acute myocardial infarction	0.170279533738637	no	#4A74A9
+Aspergillus colonization of lung allograft	Cerebral infarction	0.0520298795782206	no	#4A74A9
+Aspergillus colonization of lung allograft	Peripheral arterial disease	0.0497485476760196	no	#4A74A9
+Aspergillus colonization of lung allograft	Chronic sinusitis	0.0380445422538648	no	#4A74A9
+Aspergillus colonization of lung allograft	Chronic Obstructive Pulmonary Disease	0.0798869043344563	yes	#4A74A9
+Aspergillus colonization of lung allograft	Asthma	-0.120645192587808	no	#B64539
+Aspergillus colonization of lung allograft	Other interstitial pulmonary diseases	-0.0731194083547728	no	#B64539
+Aspergillus colonization of lung allograft	Aphthous stomatitis	0.0541609106075967	no	#4A74A9
+Aspergillus colonization of lung allograft	Oral dysplasia	0.117370483747887	no	#4A74A9
+Aspergillus colonization of lung allograft	Crohn's disease	0.0902893325441357	no	#4A74A9
+Aspergillus colonization of lung allograft	Ulcerative colitis	0.0490047347435638	no	#4A74A9
+Aspergillus colonization of lung allograft	Irritable bowel syndrome	0.111421705384906	no	#4A74A9
+Aspergillus colonization of lung allograft	Psoriasis	0.0845201018030639	no	#4A74A9
+Aspergillus colonization of lung allograft	Rosacea	0.135126699424443	no	#4A74A9
+Aspergillus colonization of lung allograft	Systemic lupus erythematosus	0.177797373289253	no	#4A74A9
+Aspergillus colonization of lung allograft	Axial Spondyloarthropathy	0.0614970446263738	no	#4A74A9
+Aspergillus colonization of lung allograft	Myositis	0.117815792349224	no	#4A74A9
+Aspergillus colonization of lung allograft	Uremia	0.116457861001976	no	#4A74A9
+Aspergillus colonization of lung allograft	Cystitis	0.159238901012365	no	#4A74A9
+Aspergillus colonization of lung allograft	Endometriosis	0.207041307704358	no	#4A74A9
+Aspergillus colonization of lung allograft	Setleis syndrome	-0.050166279892954	no	#B64539
+Aspergillus colonization of lung allograft	Other specified congenital malformation syndromes affecting multiple systems	0.0575189807251723	no	#4A74A9
+Aspergillus colonization of lung allograft	Turner's syndrome	0.049827690458505	no	#4A74A9
+Aspergillus colonization of lung allograft	Septic Shock	0.224901168385166	no	#4A74A9
+Aspergillus colonization of lung allograft	Chronic lung allograft dysfunction	0.205447187801644	yes	#4A74A9
+Nasopharingeal cancer	Oral cavity cancer	0.363463667957166	yes	#4A74A9
+Nasopharingeal cancer	Gastric cancer	0.393241596700108	no	#4A74A9
+Nasopharingeal cancer	Colon cancer	0.374581901482642	no	#4A74A9
+Nasopharingeal cancer	Liver cancer	0.265480972166044	no	#4A74A9
+Nasopharingeal cancer	Pancreatic cancer	0.234636706604784	no	#4A74A9
+Nasopharingeal cancer	Lung cancer	0.261931836230798	no	#4A74A9
+Nasopharingeal cancer	Mesothelioma	0.13389219456754	no	#4A74A9
+Nasopharingeal cancer	Melanoma	0.194309980882937	no	#4A74A9
+Nasopharingeal cancer	Breast cancer	0.268459443800136	no	#4A74A9
+Nasopharingeal cancer	Cervix cancer	0.580736317461242	no	#4A74A9
+Nasopharingeal cancer	Ovary cancer	0.071368969315552	no	#4A74A9
+Nasopharingeal cancer	Kidney cancer	0.264232739018943	no	#4A74A9
+Nasopharingeal cancer	Brain cancer	0.176142642229524	no	#4A74A9
+Nasopharingeal cancer	Thyroid cancer	0.113247357991626	no	#4A74A9
+Nasopharingeal cancer	Adrenal cancer	0.194022857573484	no	#4A74A9
+Nasopharingeal cancer	Melanoma metastasis	0.304144149340757	no	#4A74A9
+Nasopharingeal cancer	Myeloid leukemia	0.191627129251255	no	#4A74A9
+Nasopharingeal cancer	Thalassemia	0.0584006376169938	no	#4A74A9
+Nasopharingeal cancer	Sickle-cell anemia	0.114870633839592	no	#4A74A9
+Nasopharingeal cancer	Autosomal dominant monocytopenia	0.161600559518423	no	#4A74A9
+Nasopharingeal cancer	Primary myelofibrosis	0.14229546575162	no	#4A74A9
+Nasopharingeal cancer	Job's syndrome	-0.0797243266323445	no	#B64539
+Nasopharingeal cancer	Type 1 diabetes mellitus	-0.0578938335118289	no	#B64539
+Nasopharingeal cancer	Type 2 diabetes mellitus	0.142629464363703	no	#4A74A9
+Nasopharingeal cancer	Other and unspecified metabolic disorders	0.199291270208764	no	#4A74A9
+Nasopharingeal cancer	Smoker	-0.125884524135909	no	#B64539
+Nasopharingeal cancer	Major depression	-0.0530681144621484	no	#B64539
+Nasopharingeal cancer	Huntington's disease	-0.0592932980308237	no	#B64539
+Nasopharingeal cancer	Amyotrophic lateral sclerosis	0.197449281913306	no	#4A74A9
+Nasopharingeal cancer	Parkinson's disease	0.0394157170880549	no	#4A74A9
+Nasopharingeal cancer	Alzheimer's disease	-0.0454446912151536	no	#B64539
+Nasopharingeal cancer	Acute myocardial infarction	-0.101721032367042	no	#B64539
+Nasopharingeal cancer	Cardiomyopathy	0.0557022611122976	no	#4A74A9
+Nasopharingeal cancer	Atrial fibrillation	0.0827924175881292	no	#4A74A9
+Nasopharingeal cancer	Cerebral infarction	0.0430101059349603	no	#4A74A9
+Nasopharingeal cancer	Peripheral arterial disease	-0.0377269949248114	no	#B64539
+Nasopharingeal cancer	Chronic sinusitis	0.131351645583562	no	#4A74A9
+Nasopharingeal cancer	Chronic Obstructive Pulmonary Disease	-0.0333604827802463	no	#B64539
+Nasopharingeal cancer	Asthma	0.257925677882492	no	#4A74A9
+Nasopharingeal cancer	Aphthous stomatitis	0.0418715844057426	no	#4A74A9
+Nasopharingeal cancer	Oral dysplasia	0.224360891293754	no	#4A74A9
+Nasopharingeal cancer	Ulcerative colitis	0.0627530748029748	no	#4A74A9
+Nasopharingeal cancer	Irritable bowel syndrome	0.0924126652367354	no	#4A74A9
+Nasopharingeal cancer	Atopic dermatitis	0.0463937358208238	no	#4A74A9
+Nasopharingeal cancer	Psoriasis	0.0779720276104269	no	#4A74A9
+Nasopharingeal cancer	Osteoarthritis	0.0439602102896992	no	#4A74A9
+Nasopharingeal cancer	Systemic lupus erythematosus	-0.0549391827223444	no	#B64539
+Nasopharingeal cancer	Other systemic involvement of connective tissue	0.20738551696292	no	#4A74A9
+Nasopharingeal cancer	Axial Spondyloarthropathy	-0.069692510186843	no	#B64539
+Nasopharingeal cancer	Uremia	-0.0900437802450341	no	#B64539
+Nasopharingeal cancer	Cystitis	0.0819064541806019	no	#4A74A9
+Nasopharingeal cancer	Endometriosis	-0.188415689817652	no	#B64539
+Nasopharingeal cancer	Setleis syndrome	0.137114195444572	no	#4A74A9
+Nasopharingeal cancer	Turner's syndrome	-0.114399988721954	no	#B64539
+Nasopharingeal cancer	Chronic lung allograft dysfunction	0.0635234656370468	no	#4A74A9
+Oral cavity cancer	Gastric cancer	0.612559703540949	no	#4A74A9
+Oral cavity cancer	Colon cancer	0.65872618893215	no	#4A74A9
+Oral cavity cancer	Liver cancer	0.34692498961453	no	#4A74A9
+Oral cavity cancer	Pancreatic cancer	0.433518857263284	no	#4A74A9
+Oral cavity cancer	Lung cancer	0.562594730670979	no	#4A74A9
+Oral cavity cancer	Mesothelioma	0.239259664792081	no	#4A74A9
+Oral cavity cancer	Melanoma	0.547642438476827	no	#4A74A9
+Oral cavity cancer	Breast cancer	0.57612149918646	no	#4A74A9
+Oral cavity cancer	Cervix cancer	0.447437866292049	no	#4A74A9
+Oral cavity cancer	Ovary cancer	0.418638053396644	no	#4A74A9
+Oral cavity cancer	Kidney cancer	0.506332368654819	no	#4A74A9
+Oral cavity cancer	Bladder cancer	0.335493371767816	no	#4A74A9
+Oral cavity cancer	Brain cancer	0.303563898848946	no	#4A74A9
+Oral cavity cancer	Thyroid cancer	0.499861802232053	no	#4A74A9
+Oral cavity cancer	Adrenal cancer	0.3603741142834	no	#4A74A9
+Oral cavity cancer	Melanoma metastasis	0.543440385791137	no	#4A74A9
+Oral cavity cancer	Lymphoid leukemia	0.0730863399403127	no	#4A74A9
+Oral cavity cancer	Myeloid leukemia	0.0467486845944412	no	#4A74A9
+Oral cavity cancer	Myelodysplastic syndromes	0.206271879741111	no	#4A74A9
+Oral cavity cancer	Autosomal dominant monocytopenia	0.0645092790771912	no	#4A74A9
+Oral cavity cancer	Primary myelofibrosis	0.0489717085387671	no	#4A74A9
+Oral cavity cancer	Sarcoidosis	0.111842055138544	no	#4A74A9
+Oral cavity cancer	Type 2 diabetes mellitus	0.138980065363961	no	#4A74A9
+Oral cavity cancer	PCOS	0.0462594829769647	no	#4A74A9
+Oral cavity cancer	Smoker	0.0875208763823958	no	#4A74A9
+Oral cavity cancer	Huntington's disease	-0.0600848674092158	no	#B64539
+Oral cavity cancer	Amyotrophic lateral sclerosis	0.0909950352493491	no	#4A74A9
+Oral cavity cancer	Parkinson's disease	-0.0548366111158537	no	#B64539
+Oral cavity cancer	Acute myocardial infarction	0.0312752932809142	no	#4A74A9
+Oral cavity cancer	Atrial fibrillation	0.0461458835193245	no	#4A74A9
+Oral cavity cancer	Peripheral arterial disease	0.16776077502825	no	#4A74A9
+Oral cavity cancer	Chronic sinusitis	0.169620825238988	no	#4A74A9
+Oral cavity cancer	Chronic Obstructive Pulmonary Disease	0.147745206199249	no	#4A74A9
+Oral cavity cancer	Asthma	0.112591776661633	no	#4A74A9
+Oral cavity cancer	Aphthous stomatitis	0.221212096976197	no	#4A74A9
+Oral cavity cancer	Oral dysplasia	0.857914938487061	no	#4A74A9
+Oral cavity cancer	Crohn's disease	0.192725220449141	no	#4A74A9
+Oral cavity cancer	Ulcerative colitis	0.396064845819113	no	#4A74A9
+Oral cavity cancer	Irritable bowel syndrome	0.444699265011978	no	#4A74A9
+Oral cavity cancer	Atopic dermatitis	0.423249919393096	no	#4A74A9
+Oral cavity cancer	Psoriasis	0.390039303607505	no	#4A74A9
+Oral cavity cancer	Rosacea	0.154517779400043	no	#4A74A9
+Oral cavity cancer	Osteoarthritis	0.212540046663418	no	#4A74A9
+Oral cavity cancer	Systemic lupus erythematosus	0.187363691702495	no	#4A74A9
+Oral cavity cancer	Other systemic involvement of connective tissue	0.0747596614682028	no	#4A74A9
+Oral cavity cancer	Myositis	0.35042208207121	no	#4A74A9
+Oral cavity cancer	Cystitis	0.339557181466333	no	#4A74A9
+Oral cavity cancer	Endometriosis	0.118985847978839	no	#4A74A9
+Oral cavity cancer	Other specified congenital malformation syndromes affecting multiple systems	0.0986442507583358	no	#4A74A9
+Oral cavity cancer	Turner's syndrome	0.0612545685953007	no	#4A74A9
+Oral cavity cancer	Septic Shock	0.168308068050792	no	#4A74A9
+Oral cavity cancer	Chronic lung allograft dysfunction	0.0583645054208442	no	#4A74A9
+Gastric cancer	Colon cancer	0.896059209885819	no	#4A74A9
+Gastric cancer	Liver cancer	0.720430345704212	no	#4A74A9
+Gastric cancer	Pancreatic cancer	0.920267018660398	no	#4A74A9
+Gastric cancer	Lung cancer	0.318718529755799	no	#4A74A9
+Gastric cancer	Mesothelioma	0.104895287356772	no	#4A74A9
+Gastric cancer	Melanoma	0.38958911870693	no	#4A74A9
+Gastric cancer	Breast cancer	0.508507373789373	no	#4A74A9
+Gastric cancer	Cervix cancer	0.376148469058071	no	#4A74A9
+Gastric cancer	Ovary cancer	0.202807448767938	no	#4A74A9
+Gastric cancer	Kidney cancer	0.679187818711873	no	#4A74A9
+Gastric cancer	Bladder cancer	0.188954646819338	no	#4A74A9
+Gastric cancer	Brain cancer	0.52130685690641	no	#4A74A9
+Gastric cancer	Thyroid cancer	0.209135855012394	no	#4A74A9
+Gastric cancer	Adrenal cancer	0.179255397084194	no	#4A74A9
+Gastric cancer	Melanoma metastasis	0.344042666677995	yes	#4A74A9
+Gastric cancer	Lymphoid leukemia	0.13208161630654	no	#4A74A9
+Gastric cancer	Myeloid leukemia	0.16455671621922	no	#4A74A9
+Gastric cancer	Polycythemia vera	-0.0704366490477416	no	#B64539
+Gastric cancer	Myelodysplastic syndromes	0.233400059253461	no	#4A74A9
+Gastric cancer	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	-0.195792310014873	no	#B64539
+Gastric cancer	Autosomal dominant monocytopenia	0.109397899665415	no	#4A74A9
+Gastric cancer	Job's syndrome	-0.0660846422333335	no	#B64539
+Gastric cancer	Sarcoidosis	-0.0730639671996391	no	#B64539
+Gastric cancer	Type 1 diabetes mellitus	-0.0542418600668245	no	#B64539
+Gastric cancer	Type 2 diabetes mellitus	0.302901548892347	no	#4A74A9
+Gastric cancer	PCOS	0.0529139152708547	no	#4A74A9
+Gastric cancer	Other and unspecified metabolic disorders	0.209497767145539	no	#4A74A9
+Gastric cancer	Smoker	-0.218939923024121	no	#B64539
+Gastric cancer	Major depression	-0.0678873995205102	no	#B64539
+Gastric cancer	Huntington's disease	-0.0976670671537684	no	#B64539
+Gastric cancer	Amyotrophic lateral sclerosis	0.192701826521006	no	#4A74A9
+Gastric cancer	Multiple sclerosis	-0.0967122587588695	no	#B64539
+Gastric cancer	Acute myocardial infarction	-0.0805052479023664	no	#B64539
+Gastric cancer	Cardiomyopathy	0.0404236149443697	no	#4A74A9
+Gastric cancer	Atrial fibrillation	0.0872532836249124	no	#4A74A9
+Gastric cancer	Peripheral arterial disease	0.0779574677639097	no	#4A74A9
+Gastric cancer	Chronic sinusitis	0.0739085270152656	no	#4A74A9
+Gastric cancer	Chronic Obstructive Pulmonary Disease	-0.102591613545592	no	#B64539
+Gastric cancer	Asthma	0.187759870920019	no	#4A74A9
+Gastric cancer	Other interstitial pulmonary diseases	0.151444556596416	no	#4A74A9
+Gastric cancer	Aphthous stomatitis	0.12688203987129	no	#4A74A9
+Gastric cancer	Oral dysplasia	0.160856184804267	no	#4A74A9
+Gastric cancer	Ulcerative colitis	0.255117558771896	no	#4A74A9
+Gastric cancer	Irritable bowel syndrome	0.290025922603752	no	#4A74A9
+Gastric cancer	Atopic dermatitis	0.272746697075354	no	#4A74A9
+Gastric cancer	Psoriasis	0.178140348964678	no	#4A74A9
+Gastric cancer	Osteoarthritis	0.185224969885842	no	#4A74A9
+Gastric cancer	Other systemic involvement of connective tissue	0.295565609997787	no	#4A74A9
+Gastric cancer	Axial Spondyloarthropathy	-0.0512484640678411	no	#B64539
+Gastric cancer	Myositis	0.16888058511884	no	#4A74A9
+Gastric cancer	Uremia	-0.0880531315917097	no	#B64539
+Gastric cancer	Cystitis	0.154570985237244	no	#4A74A9
+Gastric cancer	Endometriosis	-0.174246917556934	no	#B64539
+Gastric cancer	Setleis syndrome	0.0491594432190838	no	#4A74A9
+Gastric cancer	Chronic lung allograft dysfunction	0.038351778641089	no	#4A74A9
+Colon cancer	Liver cancer	0.55460689629749	no	#4A74A9
+Colon cancer	Pancreatic cancer	0.331398436050922	no	#4A74A9
+Colon cancer	Lung cancer	0.670825538586571	no	#4A74A9
+Colon cancer	Mesothelioma	0.182440160324548	no	#4A74A9
+Colon cancer	Melanoma	0.373358266803902	no	#4A74A9
+Colon cancer	Breast cancer	0.52957965493951	no	#4A74A9
+Colon cancer	Cervix cancer	0.261035888492901	no	#4A74A9
+Colon cancer	Ovary cancer	0.42643344371004	no	#4A74A9
+Colon cancer	Kidney cancer	0.4506616634425	no	#4A74A9
+Colon cancer	Bladder cancer	0.268592996460955	no	#4A74A9
+Colon cancer	Brain cancer	0.325814137394903	no	#4A74A9
+Colon cancer	Thyroid cancer	0.185264954799829	no	#4A74A9
+Colon cancer	Adrenal cancer	0.355114232201818	no	#4A74A9
+Colon cancer	Melanoma metastasis	0.403886748383061	yes	#4A74A9
+Colon cancer	Lymphoid leukemia	0.0827451629728788	no	#4A74A9
+Colon cancer	Myeloid leukemia	0.199971473226005	no	#4A74A9
+Colon cancer	Polycythemia vera	-0.0444674441522769	no	#B64539
+Colon cancer	Myelodysplastic syndromes	0.218337430523637	no	#4A74A9
+Colon cancer	Sickle-cell anemia	0.0532739835004531	no	#4A74A9
+Colon cancer	Autosomal dominant monocytopenia	0.111074040507663	no	#4A74A9
+Colon cancer	Primary myelofibrosis	0.0962903679127178	no	#4A74A9
+Colon cancer	Job's syndrome	-0.0806433835323972	no	#B64539
+Colon cancer	Sarcoidosis	-0.0595182655660086	no	#B64539
+Colon cancer	Type 2 diabetes mellitus	0.0818920173818457	no	#4A74A9
+Colon cancer	Other and unspecified metabolic disorders	0.0478690691271158	no	#4A74A9
+Colon cancer	Amyotrophic lateral sclerosis	0.119928283200742	no	#4A74A9
+Colon cancer	Alzheimer's disease	-0.0453873508304522	no	#B64539
+Colon cancer	Multiple sclerosis	0.0805073107750726	no	#4A74A9
+Colon cancer	Atrial fibrillation	0.0500105815238201	no	#4A74A9
+Colon cancer	Cerebral infarction	-0.0521500640010808	no	#B64539
+Colon cancer	Peripheral arterial disease	0.0581320470905718	no	#4A74A9
+Colon cancer	Chronic sinusitis	0.11240797774695	no	#4A74A9
+Colon cancer	Asthma	0.117643259366596	no	#4A74A9
+Colon cancer	Oral dysplasia	0.188790294787581	no	#4A74A9
+Colon cancer	Ulcerative colitis	0.490027157799797	no	#4A74A9
+Colon cancer	Irritable bowel syndrome	0.506354460407396	no	#4A74A9
+Colon cancer	Atopic dermatitis	0.211712956939451	no	#4A74A9
+Colon cancer	Psoriasis	0.199905929883049	no	#4A74A9
+Colon cancer	Rosacea	0.0746296592284663	no	#4A74A9
+Colon cancer	Osteoarthritis	0.0924418982006803	no	#4A74A9
+Colon cancer	Other systemic involvement of connective tissue	0.0570647064697005	no	#4A74A9
+Colon cancer	Myositis	0.0871897520021605	no	#4A74A9
+Colon cancer	Cystitis	0.0928030730764836	no	#4A74A9
+Colon cancer	Septic Shock	-0.0522156753563777	no	#B64539
+Colon cancer	Chronic lung allograft dysfunction	0.0908974962103906	no	#4A74A9
+Liver cancer	Pancreatic cancer	0.658620644078193	yes	#4A74A9
+Liver cancer	Lung cancer	0.436308148075463	no	#4A74A9
+Liver cancer	Mesothelioma	0.0753878111243219	no	#4A74A9
+Liver cancer	Melanoma	0.331141703235339	no	#4A74A9
+Liver cancer	Breast cancer	0.622424005867623	no	#4A74A9
+Liver cancer	Cervix cancer	0.228612146882094	no	#4A74A9
+Liver cancer	Ovary cancer	0.251861713938528	no	#4A74A9
+Liver cancer	Kidney cancer	0.576756699120654	no	#4A74A9
+Liver cancer	Bladder cancer	0.106712824521065	no	#4A74A9
+Liver cancer	Brain cancer	0.39806350543938	no	#4A74A9
+Liver cancer	Adrenal cancer	0.371035331572045	no	#4A74A9
+Liver cancer	Melanoma metastasis	0.281996450537538	no	#4A74A9
+Liver cancer	Lymphoid leukemia	0.217674582630549	no	#4A74A9
+Liver cancer	Myeloid leukemia	0.240915259416898	no	#4A74A9
+Liver cancer	Polycythemia vera	-0.0969833191510944	no	#B64539
+Liver cancer	Myelodysplastic syndromes	0.221518251268925	no	#4A74A9
+Liver cancer	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	-0.175605251833067	no	#B64539
+Liver cancer	Thalassemia	0.0555813295556023	no	#4A74A9
+Liver cancer	Autosomal dominant monocytopenia	0.119886841132929	no	#4A74A9
+Liver cancer	Job's syndrome	-0.0983045534521853	no	#B64539
+Liver cancer	Sarcoidosis	-0.167219299666008	no	#B64539
+Liver cancer	Type 1 diabetes mellitus	-0.0619075762787505	no	#B64539
+Liver cancer	Type 2 diabetes mellitus	0.192957784461949	no	#4A74A9
+Liver cancer	Other and unspecified metabolic disorders	0.195812520353759	no	#4A74A9
+Liver cancer	Smoker	-0.196213825128661	no	#B64539
+Liver cancer	Schizophrenia	-0.0676053213828538	no	#B64539
+Liver cancer	Bipolar disorder	-0.0407255434064431	no	#B64539
+Liver cancer	Major depression	-0.0384350175527747	no	#B64539
+Liver cancer	Huntington's disease	-0.0661941068056713	no	#B64539
+Liver cancer	Amyotrophic lateral sclerosis	0.181506411420503	no	#4A74A9
+Liver cancer	Parkinson's disease	0.0499896081263815	no	#4A74A9
+Liver cancer	Alzheimer's disease	-0.0885436408574448	no	#B64539
+Liver cancer	Multiple sclerosis	-0.0711108456091695	no	#B64539
+Liver cancer	Acute myocardial infarction	-0.098086966709744	no	#B64539
+Liver cancer	Cardiomyopathy	0.0448307644628886	no	#4A74A9
+Liver cancer	Cerebral infarction	-0.049645561757055	no	#B64539
+Liver cancer	Chronic Obstructive Pulmonary Disease	-0.180728890521834	no	#B64539
+Liver cancer	Asthma	0.164030559445092	no	#4A74A9
+Liver cancer	Other interstitial pulmonary diseases	0.140724967733663	no	#4A74A9
+Liver cancer	Aphthous stomatitis	-0.0775483354477417	no	#B64539
+Liver cancer	Crohn's disease	-0.0620175577489796	no	#B64539
+Liver cancer	Ulcerative colitis	0.0721367804747194	no	#4A74A9
+Liver cancer	Atopic dermatitis	0.214621478624341	no	#4A74A9
+Liver cancer	Psoriasis	0.0899171901690471	no	#4A74A9
+Liver cancer	Rosacea	-0.057989881911999	no	#B64539
+Liver cancer	Osteoarthritis	0.117979628385639	no	#4A74A9
+Liver cancer	Systemic lupus erythematosus	-0.07791052825633	no	#B64539
+Liver cancer	Other systemic involvement of connective tissue	0.20886768558413	no	#4A74A9
+Liver cancer	Uremia	-0.0648444053225018	no	#B64539
+Liver cancer	Endometriosis	-0.202205308366702	no	#B64539
+Liver cancer	Setleis syndrome	0.0916072401114794	no	#4A74A9
+Liver cancer	Other specified congenital malformation syndromes affecting multiple systems	-0.0952425571350177	no	#B64539
+Liver cancer	Turner's syndrome	0.0473652832262414	no	#4A74A9
+Liver cancer	Septic Shock	-0.0814935176690731	no	#B64539
+Pancreatic cancer	Lung cancer	0.060208589368536	no	#4A74A9
+Pancreatic cancer	Melanoma	0.285963079246595	no	#4A74A9
+Pancreatic cancer	Breast cancer	0.4383435514502	no	#4A74A9
+Pancreatic cancer	Cervix cancer	0.274815409011255	no	#4A74A9
+Pancreatic cancer	Ovary cancer	-0.0466941938977233	no	#B64539
+Pancreatic cancer	Kidney cancer	0.688382991851713	no	#4A74A9
+Pancreatic cancer	Bladder cancer	0.0644460543750564	no	#4A74A9
+Pancreatic cancer	Brain cancer	0.455389208273307	no	#4A74A9
+Pancreatic cancer	Thyroid cancer	0.284390787195727	no	#4A74A9
+Pancreatic cancer	Adrenal cancer	0.0985644783552814	no	#4A74A9
+Pancreatic cancer	Melanoma metastasis	0.135811182574977	no	#4A74A9
+Pancreatic cancer	Lymphoid leukemia	0.0968483749953178	no	#4A74A9
+Pancreatic cancer	Myeloid leukemia	0.0793521191624746	no	#4A74A9
+Pancreatic cancer	Polycythemia vera	-0.0630805472554616	no	#B64539
+Pancreatic cancer	Myelodysplastic syndromes	0.140079294670364	no	#4A74A9
+Pancreatic cancer	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	-0.280698610585694	no	#B64539
+Pancreatic cancer	Thalassemia	0.089366316228122	no	#4A74A9
+Pancreatic cancer	Autosomal dominant monocytopenia	0.077197113491064	no	#4A74A9
+Pancreatic cancer	Type 1 diabetes mellitus	-0.0710828819623965	no	#B64539
+Pancreatic cancer	Type 2 diabetes mellitus	0.392398704478382	yes	#4A74A9
+Pancreatic cancer	PCOS	0.0496129869566459	no	#4A74A9
+Pancreatic cancer	Other and unspecified metabolic disorders	0.394007851786313	no	#4A74A9
+Pancreatic cancer	Smoker	-0.182610176680422	no	#B64539
+Pancreatic cancer	Major depression	-0.0625563443791679	no	#B64539
+Pancreatic cancer	Huntington's disease	-0.10585609538319	no	#B64539
+Pancreatic cancer	Amyotrophic lateral sclerosis	0.154383714221902	no	#4A74A9
+Pancreatic cancer	Alzheimer's disease	0.100033712175873	no	#4A74A9
+Pancreatic cancer	Multiple sclerosis	-0.133240444493508	no	#B64539
+Pancreatic cancer	Acute myocardial infarction	-0.132460409446001	no	#B64539
+Pancreatic cancer	Cardiomyopathy	0.0713923005961529	no	#4A74A9
+Pancreatic cancer	Atrial fibrillation	0.0765343928269284	no	#4A74A9
+Pancreatic cancer	Chronic sinusitis	0.0771359187645051	no	#4A74A9
+Pancreatic cancer	Chronic Obstructive Pulmonary Disease	-0.144335713679921	no	#B64539
+Pancreatic cancer	Asthma	0.272564350896394	no	#4A74A9
+Pancreatic cancer	Other interstitial pulmonary diseases	0.338719930995263	no	#4A74A9
+Pancreatic cancer	Aphthous stomatitis	0.148908847422135	no	#4A74A9
+Pancreatic cancer	Oral dysplasia	0.141585467873658	no	#4A74A9
+Pancreatic cancer	Ulcerative colitis	0.219581870676767	no	#4A74A9
+Pancreatic cancer	Irritable bowel syndrome	0.260690237239285	no	#4A74A9
+Pancreatic cancer	Atopic dermatitis	0.192043682751023	no	#4A74A9
+Pancreatic cancer	Psoriasis	0.085291892285702	no	#4A74A9
+Pancreatic cancer	Osteoarthritis	0.184555884651131	no	#4A74A9
+Pancreatic cancer	Systemic lupus erythematosus	-0.0543726860911406	no	#B64539
+Pancreatic cancer	Other systemic involvement of connective tissue	0.474993815745084	no	#4A74A9
+Pancreatic cancer	Axial Spondyloarthropathy	-0.0535028629182976	no	#B64539
+Pancreatic cancer	Myositis	0.287777131582673	no	#4A74A9
+Pancreatic cancer	Uremia	-0.145514705265872	no	#B64539
+Pancreatic cancer	Cystitis	0.135450177359888	no	#4A74A9
+Pancreatic cancer	Endometriosis	-0.360407395225519	no	#B64539
+Pancreatic cancer	Setleis syndrome	0.100217712330315	no	#4A74A9
+Pancreatic cancer	Turner's syndrome	-0.0644135808673477	no	#B64539
+Pancreatic cancer	Septic Shock	0.0516790517182463	no	#4A74A9
+Lung cancer	Mesothelioma	0.53642454508844	yes	#4A74A9
+Lung cancer	Melanoma	0.382556327557848	no	#4A74A9
+Lung cancer	Breast cancer	0.956075882581319	no	#4A74A9
+Lung cancer	Cervix cancer	0.113127398110539	no	#4A74A9
+Lung cancer	Ovary cancer	0.873860644437652	no	#4A74A9
+Lung cancer	Kidney cancer	0.0862879654295052	no	#4A74A9
+Lung cancer	Bladder cancer	0.364514804919085	no	#4A74A9
+Lung cancer	Brain cancer	0.125777453340711	yes	#4A74A9
+Lung cancer	Thyroid cancer	0.248907024708928	no	#4A74A9
+Lung cancer	Adrenal cancer	0.558405606357543	yes	#4A74A9
+Lung cancer	Melanoma metastasis	0.437286550366637	yes	#4A74A9
+Lung cancer	Lymphoid leukemia	0.0946627498952402	no	#4A74A9
+Lung cancer	Myeloid leukemia	0.262841576475979	no	#4A74A9
+Lung cancer	Myelodysplastic syndromes	0.264185829566445	no	#4A74A9
+Lung cancer	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	0.160132384524871	no	#4A74A9
+Lung cancer	Sickle-cell anemia	0.085304398027112	no	#4A74A9
+Lung cancer	Autosomal dominant monocytopenia	0.121387077460526	no	#4A74A9
+Lung cancer	Primary myelofibrosis	0.180638631867465	no	#4A74A9
+Lung cancer	Job's syndrome	-0.0847170637047271	no	#B64539
+Lung cancer	Sarcoidosis	-0.0406053617129668	no	#B64539
+Lung cancer	Type 2 diabetes mellitus	-0.0460737684863291	no	#B64539
+Lung cancer	Other and unspecified metabolic disorders	-0.0895503035479426	no	#B64539
+Lung cancer	Smoker	0.198788932288509	yes	#4A74A9
+Lung cancer	Schizophrenia	-0.0603128207547095	no	#B64539
+Lung cancer	Major depression	0.0619865801229383	no	#4A74A9
+Lung cancer	Amyotrophic lateral sclerosis	0.112719766635928	no	#4A74A9
+Lung cancer	Alzheimer's disease	-0.0995612593811087	no	#B64539
+Lung cancer	Multiple sclerosis	0.160679078011963	no	#4A74A9
+Lung cancer	Acute myocardial infarction	0.0564250873664924	no	#4A74A9
+Lung cancer	Atrial fibrillation	0.0726998049466804	no	#4A74A9
+Lung cancer	Chronic sinusitis	0.175022482941617	no	#4A74A9
+Lung cancer	Chronic Obstructive Pulmonary Disease	0.130830439771476	yes	#4A74A9
+Lung cancer	Asthma	0.081786767036759	no	#4A74A9
+Lung cancer	Other interstitial pulmonary diseases	-0.0744012270954388	no	#B64539
+Lung cancer	Aphthous stomatitis	-0.163242376848643	no	#B64539
+Lung cancer	Oral dysplasia	0.103875836682709	no	#4A74A9
+Lung cancer	Crohn's disease	0.184006631708849	no	#4A74A9
+Lung cancer	Ulcerative colitis	0.146480794187969	no	#4A74A9
+Lung cancer	Irritable bowel syndrome	0.0709581473979751	no	#4A74A9
+Lung cancer	Atopic dermatitis	0.276864845602521	no	#4A74A9
+Lung cancer	Psoriasis	0.468370313001601	no	#4A74A9
+Lung cancer	Rosacea	0.226717663800035	no	#4A74A9
+Lung cancer	Osteoarthritis	0.0724586677830936	no	#4A74A9
+Lung cancer	Systemic lupus erythematosus	0.119070215667024	no	#4A74A9
+Lung cancer	Other systemic involvement of connective tissue	-0.186512394705992	no	#B64539
+Lung cancer	Myositis	0.045410818790713	no	#4A74A9
+Lung cancer	Uremia	0.0809979851419152	no	#4A74A9
+Lung cancer	Endometriosis	0.239020667717082	no	#4A74A9
+Lung cancer	Turner's syndrome	0.0722775362487293	no	#4A74A9
+Lung cancer	Chronic lung allograft dysfunction	0.156007670747754	no	#4A74A9
+Mesothelioma	Melanoma	0.273393557001257	no	#4A74A9
+Mesothelioma	Breast cancer	0.345811257354186	no	#4A74A9
+Mesothelioma	Cervix cancer	-0.0498452862227985	no	#B64539
+Mesothelioma	Ovary cancer	0.260695238749576	no	#4A74A9
+Mesothelioma	Kidney cancer	0.0741200924127236	no	#4A74A9
+Mesothelioma	Bladder cancer	0.191678808239276	no	#4A74A9
+Mesothelioma	Brain cancer	0.0860752159244613	no	#4A74A9
+Mesothelioma	Thyroid cancer	0.310499544480937	no	#4A74A9
+Mesothelioma	Adrenal cancer	0.219142158481387	no	#4A74A9
+Mesothelioma	Melanoma metastasis	0.31466470769478	yes	#4A74A9
+Mesothelioma	Lymphoid leukemia	0.0596809631073749	no	#4A74A9
+Mesothelioma	Myeloid leukemia	0.0479068982703723	no	#4A74A9
+Mesothelioma	Polycythemia vera	0.100479029363462	no	#4A74A9
+Mesothelioma	Myelodysplastic syndromes	0.10861340923846	no	#4A74A9
+Mesothelioma	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	0.17565095513413	no	#4A74A9
+Mesothelioma	Thalassemia	-0.0423364578450703	no	#B64539
+Mesothelioma	Primary myelofibrosis	0.132346979007776	no	#4A74A9
+Mesothelioma	Sarcoidosis	0.0547184664753287	no	#4A74A9
+Mesothelioma	Type 2 diabetes mellitus	-0.120506604385234	no	#B64539
+Mesothelioma	Other and unspecified metabolic disorders	-0.094612683794637	no	#B64539
+Mesothelioma	Smoker	0.173065321357117	no	#4A74A9
+Mesothelioma	Schizophrenia	0.0401878478113455	no	#4A74A9
+Mesothelioma	Major depression	0.0524498442498823	no	#4A74A9
+Mesothelioma	Huntington's disease	0.0669766555966288	no	#4A74A9
+Mesothelioma	Amyotrophic lateral sclerosis	-0.0583136144028007	no	#B64539
+Mesothelioma	Alzheimer's disease	0.0694807126923573	no	#4A74A9
+Mesothelioma	Multiple sclerosis	0.0604363734966156	no	#4A74A9
+Mesothelioma	Acute myocardial infarction	0.156254399208421	no	#4A74A9
+Mesothelioma	Cardiomyopathy	-0.0687029110766371	no	#B64539
+Mesothelioma	Peripheral arterial disease	0.0743608320493555	no	#4A74A9
+Mesothelioma	Chronic sinusitis	0.350923440691792	no	#4A74A9
+Mesothelioma	Chronic Obstructive Pulmonary Disease	0.0331708673119399	no	#4A74A9
+Mesothelioma	Asthma	-0.0753202769424938	no	#B64539
+Mesothelioma	Other interstitial pulmonary diseases	0.103984195799004	no	#4A74A9
+Mesothelioma	Oral dysplasia	0.142034228022999	no	#4A74A9
+Mesothelioma	Crohn's disease	0.174270575069778	no	#4A74A9
+Mesothelioma	Ulcerative colitis	0.167900877037035	no	#4A74A9
+Mesothelioma	Irritable bowel syndrome	0.162498832243268	no	#4A74A9
+Mesothelioma	Atopic dermatitis	0.237078439235735	no	#4A74A9
+Mesothelioma	Psoriasis	0.265093003457247	no	#4A74A9
+Mesothelioma	Rosacea	0.152493126261611	no	#4A74A9
+Mesothelioma	Osteoarthritis	0.0733026315746562	no	#4A74A9
+Mesothelioma	Systemic lupus erythematosus	0.221651310270366	no	#4A74A9
+Mesothelioma	Other systemic involvement of connective tissue	-0.175147648361327	no	#B64539
+Mesothelioma	Axial Spondyloarthropathy	0.0604399527072643	no	#4A74A9
+Mesothelioma	Myositis	0.11937508486489	no	#4A74A9
+Mesothelioma	Uremia	0.251255176697691	no	#4A74A9
+Mesothelioma	Cystitis	0.214024203319253	no	#4A74A9
+Mesothelioma	Endometriosis	0.377915404977285	no	#4A74A9
+Mesothelioma	Turner's syndrome	0.117004498264761	no	#4A74A9
+Mesothelioma	Septic Shock	0.0705112313002434	no	#4A74A9
+Mesothelioma	Chronic lung allograft dysfunction	0.0369804474800517	no	#4A74A9
+Melanoma	Breast cancer	0.614326691950344	no	#4A74A9
+Melanoma	Cervix cancer	0.212656403640682	no	#4A74A9
+Melanoma	Ovary cancer	0.287059637961491	no	#4A74A9
+Melanoma	Kidney cancer	0.295278378400649	no	#4A74A9
+Melanoma	Bladder cancer	0.192956233323905	no	#4A74A9
+Melanoma	Brain cancer	0.189293097362812	yes	#4A74A9
+Melanoma	Thyroid cancer	0.284273915737967	no	#4A74A9
+Melanoma	Adrenal cancer	0.297957206876441	no	#4A74A9
+Melanoma	Melanoma metastasis	0.746652575197684	yes	#4A74A9
+Melanoma	Lymphoid leukemia	0.108695567452343	no	#4A74A9
+Melanoma	Myelodysplastic syndromes	0.126292583775528	no	#4A74A9
+Melanoma	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	-0.048338783503253	no	#B64539
+Melanoma	Autosomal dominant monocytopenia	0.0421661792421861	no	#4A74A9
+Melanoma	Type 2 diabetes mellitus	0.0672843651059231	no	#4A74A9
+Melanoma	Smoker	0.072567033634062	no	#4A74A9
+Melanoma	Major depression	0.0517511426388259	no	#4A74A9
+Melanoma	Huntington's disease	-0.0531611806105318	no	#B64539
+Melanoma	Amyotrophic lateral sclerosis	0.1101055375219	no	#4A74A9
+Melanoma	Acute myocardial infarction	0.0295969767032954	no	#4A74A9
+Melanoma	Cardiomyopathy	-0.0491315919111451	no	#B64539
+Melanoma	Peripheral arterial disease	0.0395695681404558	no	#4A74A9
+Melanoma	Chronic sinusitis	0.183881376517278	no	#4A74A9
+Melanoma	Other interstitial pulmonary diseases	0.183604230529761	no	#4A74A9
+Melanoma	Aphthous stomatitis	0.124650228664601	no	#4A74A9
+Melanoma	Oral dysplasia	0.195829334981916	no	#4A74A9
+Melanoma	Crohn's disease	0.131868355375116	no	#4A74A9
+Melanoma	Ulcerative colitis	0.36550106211868	no	#4A74A9
+Melanoma	Irritable bowel syndrome	0.344842553640352	no	#4A74A9
+Melanoma	Atopic dermatitis	0.481956497889789	no	#4A74A9
+Melanoma	Psoriasis	0.461824457258489	no	#4A74A9
+Melanoma	Rosacea	0.266818945907189	no	#4A74A9
+Melanoma	Osteoarthritis	0.181448227963626	no	#4A74A9
+Melanoma	Systemic lupus erythematosus	0.117755910753159	no	#4A74A9
+Melanoma	Axial Spondyloarthropathy	0.10509415893287	no	#4A74A9
+Melanoma	Myositis	0.228044955588116	no	#4A74A9
+Melanoma	Cystitis	0.29914231002478	no	#4A74A9
+Melanoma	Endometriosis	0.0969568620337384	no	#4A74A9
+Melanoma	Turner's syndrome	0.114557858944961	no	#4A74A9
+Breast cancer	Cervix cancer	0.265426638883294	no	#4A74A9
+Breast cancer	Ovary cancer	0.553983382160754	no	#4A74A9
+Breast cancer	Kidney cancer	0.364839636955722	no	#4A74A9
+Breast cancer	Bladder cancer	0.215926124914436	no	#4A74A9
+Breast cancer	Brain cancer	0.251055337575518	no	#4A74A9
+Breast cancer	Thyroid cancer	0.339921610947968	no	#4A74A9
+Breast cancer	Adrenal cancer	0.489465153138105	no	#4A74A9
+Breast cancer	Melanoma metastasis	0.480386467363452	yes	#4A74A9
+Breast cancer	Lymphoid leukemia	0.0747996613592236	no	#4A74A9
+Breast cancer	Myeloid leukemia	0.150413633922412	no	#4A74A9
+Breast cancer	Myelodysplastic syndromes	0.15784364578458	no	#4A74A9
+Breast cancer	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	-0.0572832446440305	no	#B64539
+Breast cancer	Autosomal dominant monocytopenia	0.074441737862543	no	#4A74A9
+Breast cancer	Primary myelofibrosis	0.0835607893028138	no	#4A74A9
+Breast cancer	Job's syndrome	-0.0333349461562176	no	#B64539
+Breast cancer	Type 1 diabetes mellitus	-0.0539216844365676	no	#B64539
+Breast cancer	Type 2 diabetes mellitus	0.102087856011454	no	#4A74A9
+Breast cancer	Other and unspecified metabolic disorders	0.07826114410934	no	#4A74A9
+Breast cancer	Smoker	0.142829264018959	no	#4A74A9
+Breast cancer	Bipolar disorder	-0.0396747019934775	no	#B64539
+Breast cancer	Huntington's disease	-0.0529488420081856	no	#B64539
+Breast cancer	Amyotrophic lateral sclerosis	0.177513929136234	no	#4A74A9
+Breast cancer	Atrial fibrillation	0.106301160350283	no	#4A74A9
+Breast cancer	Chronic sinusitis	0.107080833126189	no	#4A74A9
+Breast cancer	Other interstitial pulmonary diseases	0.100657188774115	no	#4A74A9
+Breast cancer	Oral dysplasia	0.117955337610851	no	#4A74A9
+Breast cancer	Crohn's disease	0.168493766391211	no	#4A74A9
+Breast cancer	Ulcerative colitis	0.175754779662993	no	#4A74A9
+Breast cancer	Irritable bowel syndrome	0.147189860890135	no	#4A74A9
+Breast cancer	Atopic dermatitis	0.431929626278972	no	#4A74A9
+Breast cancer	Psoriasis	0.457745479617332	no	#4A74A9
+Breast cancer	Rosacea	0.188513713712786	no	#4A74A9
+Breast cancer	Osteoarthritis	0.144454951061414	no	#4A74A9
+Breast cancer	Systemic lupus erythematosus	0.0500984956471802	no	#4A74A9
+Breast cancer	Other systemic involvement of connective tissue	0.158656806634467	no	#4A74A9
+Breast cancer	Myositis	0.209889758682105	no	#4A74A9
+Breast cancer	Cystitis	0.191119799568432	no	#4A74A9
+Breast cancer	Endometriosis	0.0741290017078049	no	#4A74A9
+Breast cancer	Setleis syndrome	0.0608771584724473	no	#4A74A9
+Breast cancer	Turner's syndrome	0.0705731241876363	no	#4A74A9
+Breast cancer	Chronic lung allograft dysfunction	0.0902978786528734	no	#4A74A9
+Cervix cancer	Kidney cancer	0.355242033891446	no	#4A74A9
+Cervix cancer	Brain cancer	0.14881856883404	no	#4A74A9
+Cervix cancer	Thyroid cancer	0.0825352854504474	no	#4A74A9
+Cervix cancer	Adrenal cancer	0.192839795746058	no	#4A74A9
+Cervix cancer	Melanoma metastasis	0.400921162919223	yes	#4A74A9
+Cervix cancer	Myeloid leukemia	0.101707054614241	no	#4A74A9
+Cervix cancer	Myelodysplastic syndromes	-0.0798003942325219	no	#B64539
+Cervix cancer	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	-0.108142402919856	no	#B64539
+Cervix cancer	Thalassemia	0.136369857312113	no	#4A74A9
+Cervix cancer	Sickle-cell anemia	0.0849533973761838	no	#4A74A9
+Cervix cancer	Autosomal dominant monocytopenia	0.0792998597390417	no	#4A74A9
+Cervix cancer	Primary myelofibrosis	0.036396813395005	no	#4A74A9
+Cervix cancer	Sarcoidosis	0.0443300898785926	no	#4A74A9
+Cervix cancer	Type 2 diabetes mellitus	0.167562078009275	no	#4A74A9
+Cervix cancer	Other and unspecified metabolic disorders	0.267419164226213	no	#4A74A9
+Cervix cancer	Smoker	-0.133962875892113	no	#B64539
+Cervix cancer	Major depression	-0.0398461724755592	no	#B64539
+Cervix cancer	Huntington's disease	-0.0494931575418918	no	#B64539
+Cervix cancer	Amyotrophic lateral sclerosis	0.201607076886513	no	#4A74A9
+Cervix cancer	Acute myocardial infarction	-0.126458885976886	no	#B64539
+Cervix cancer	Cardiomyopathy	0.0875601071746564	no	#4A74A9
+Cervix cancer	Atrial fibrillation	0.0718295486548678	no	#4A74A9
+Cervix cancer	Peripheral arterial disease	-0.104244457116455	no	#B64539
+Cervix cancer	Chronic Obstructive Pulmonary Disease	-0.0329871605412786	no	#B64539
+Cervix cancer	Asthma	0.151885589485121	no	#4A74A9
+Cervix cancer	Other interstitial pulmonary diseases	-0.0471290546549595	no	#B64539
+Cervix cancer	Aphthous stomatitis	0.183724009242196	no	#4A74A9
+Cervix cancer	Oral dysplasia	0.237480629665785	no	#4A74A9
+Cervix cancer	Ulcerative colitis	0.0954855104474478	no	#4A74A9
+Cervix cancer	Irritable bowel syndrome	0.152462205763612	no	#4A74A9
+Cervix cancer	Osteoarthritis	0.0485671594304984	no	#4A74A9
+Cervix cancer	Systemic lupus erythematosus	-0.151877095458176	no	#B64539
+Cervix cancer	Other systemic involvement of connective tissue	0.343221857179967	no	#4A74A9
+Cervix cancer	Axial Spondyloarthropathy	-0.0607318959586805	no	#B64539
+Cervix cancer	Myositis	0.0985855411898132	no	#4A74A9
+Cervix cancer	Uremia	-0.173551527699454	no	#B64539
+Cervix cancer	Cystitis	0.229010013851841	no	#4A74A9
+Cervix cancer	Endometriosis	-0.280147068872856	no	#B64539
+Cervix cancer	Setleis syndrome	0.178186297235538	no	#4A74A9
+Cervix cancer	Turner's syndrome	-0.112424529058637	no	#B64539
+Cervix cancer	Chronic lung allograft dysfunction	0.0634657329712017	no	#4A74A9
+Ovary cancer	Bladder cancer	0.428684801398915	no	#4A74A9
+Ovary cancer	Thyroid cancer	0.207107870992411	no	#4A74A9
+Ovary cancer	Adrenal cancer	0.415071398500602	no	#4A74A9
+Ovary cancer	Melanoma metastasis	0.308566331664081	yes	#4A74A9
+Ovary cancer	Lymphoid leukemia	0.0966779627490819	no	#4A74A9
+Ovary cancer	Myeloid leukemia	0.127294927553741	no	#4A74A9
+Ovary cancer	Polycythemia vera	0.0590029221465522	no	#4A74A9
+Ovary cancer	Myelodysplastic syndromes	0.255701872527121	no	#4A74A9
+Ovary cancer	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	0.185294040631729	no	#4A74A9
+Ovary cancer	Thalassemia	-0.0461440662277905	no	#B64539
+Ovary cancer	Sickle-cell anemia	0.0387144263243377	no	#4A74A9
+Ovary cancer	Autosomal dominant monocytopenia	0.0554511790605121	no	#4A74A9
+Ovary cancer	Primary myelofibrosis	0.157923847065643	no	#4A74A9
+Ovary cancer	Type 2 diabetes mellitus	-0.0800923712650665	no	#B64539
+Ovary cancer	Other and unspecified metabolic disorders	-0.226024872540858	no	#B64539
+Ovary cancer	Smoker	0.167189994230348	no	#4A74A9
+Ovary cancer	Schizophrenia	-0.048290575618337	no	#B64539
+Ovary cancer	Major depression	0.0626935825887156	no	#4A74A9
+Ovary cancer	Amyotrophic lateral sclerosis	0.0540646997810428	no	#4A74A9
+Ovary cancer	Alzheimer's disease	-0.0552886195449531	no	#B64539
+Ovary cancer	Multiple sclerosis	0.0665700963478855	no	#4A74A9
+Ovary cancer	Acute myocardial infarction	0.132080258847047	no	#4A74A9
+Ovary cancer	Cardiomyopathy	-0.0598383386110135	no	#B64539
+Ovary cancer	Atrial fibrillation	0.0763800180586362	no	#4A74A9
+Ovary cancer	Cerebral infarction	-0.0645626683632319	no	#B64539
+Ovary cancer	Peripheral arterial disease	0.131155679141514	no	#4A74A9
+Ovary cancer	Chronic sinusitis	0.0864130476294126	no	#4A74A9
+Ovary cancer	Chronic Obstructive Pulmonary Disease	0.121134042706961	no	#4A74A9
+Ovary cancer	Asthma	-0.0423954432700216	no	#B64539
+Ovary cancer	Other interstitial pulmonary diseases	-0.0953100754720914	no	#B64539
+Ovary cancer	Aphthous stomatitis	-0.0563657290433204	no	#B64539
+Ovary cancer	Oral dysplasia	0.0817770739446691	no	#4A74A9
+Ovary cancer	Crohn's disease	0.194919811463456	no	#4A74A9
+Ovary cancer	Ulcerative colitis	0.117454700435629	no	#4A74A9
+Ovary cancer	Irritable bowel syndrome	0.097384889692816	no	#4A74A9
+Ovary cancer	Atopic dermatitis	0.293114639591242	no	#4A74A9
+Ovary cancer	Psoriasis	0.410937260831734	no	#4A74A9
+Ovary cancer	Rosacea	0.173260992706694	no	#4A74A9
+Ovary cancer	Osteoarthritis	0.0542340464484374	no	#4A74A9
+Ovary cancer	Systemic lupus erythematosus	0.275398392487954	no	#4A74A9
+Ovary cancer	Other systemic involvement of connective tissue	-0.298453851753861	no	#B64539
+Ovary cancer	Axial Spondyloarthropathy	0.0499285344909154	no	#4A74A9
+Ovary cancer	Uremia	0.13928277658372	no	#4A74A9
+Ovary cancer	Cystitis	0.0525247238195123	no	#4A74A9
+Ovary cancer	Endometriosis	0.359951241464484	no	#4A74A9
+Ovary cancer	Setleis syndrome	-0.0563028013221371	no	#B64539
+Ovary cancer	Other specified congenital malformation syndromes affecting multiple systems	0.0711569312378607	no	#4A74A9
+Ovary cancer	Turner's syndrome	0.145519427869228	no	#4A74A9
+Ovary cancer	Septic Shock	0.108086116745482	no	#4A74A9
+Ovary cancer	Chronic lung allograft dysfunction	0.0963067092888318	no	#4A74A9
+Kidney cancer	Bladder cancer	0.133207318870781	yes	#4A74A9
+Kidney cancer	Brain cancer	0.52108622180679	no	#4A74A9
+Kidney cancer	Thyroid cancer	0.36200939045486	no	#4A74A9
+Kidney cancer	Adrenal cancer	0.249873829942938	no	#4A74A9
+Kidney cancer	Melanoma metastasis	0.236196530341308	yes	#4A74A9
+Kidney cancer	Lymphoid leukemia	0.0526558997854809	no	#4A74A9
+Kidney cancer	Myeloid leukemia	0.0580003033405087	no	#4A74A9
+Kidney cancer	Polycythemia vera	-0.0732987116506928	no	#B64539
+Kidney cancer	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	-0.203204554084861	no	#B64539
+Kidney cancer	Thalassemia	0.0472358203814918	no	#4A74A9
+Kidney cancer	Primary myelofibrosis	-0.0665009224858545	no	#B64539
+Kidney cancer	Job's syndrome	0.045539891602939	no	#4A74A9
+Kidney cancer	Type 2 diabetes mellitus	0.215817391242192	no	#4A74A9
+Kidney cancer	PCOS	0.0748391941427734	no	#4A74A9
+Kidney cancer	Other and unspecified metabolic disorders	0.299407363142363	no	#4A74A9
+Kidney cancer	Smoker	-0.104894130329679	no	#B64539
+Kidney cancer	Schizophrenia	0.0889611855113508	no	#4A74A9
+Kidney cancer	Major depression	-0.0419853855836499	no	#B64539
+Kidney cancer	Amyotrophic lateral sclerosis	0.0482979069488184	no	#4A74A9
+Kidney cancer	Alzheimer's disease	0.124477711182929	no	#4A74A9
+Kidney cancer	Multiple sclerosis	-0.070688765689757	no	#B64539
+Kidney cancer	Acute myocardial infarction	-0.0690723849867703	no	#B64539
+Kidney cancer	Cardiomyopathy	0.070517165249344	no	#4A74A9
+Kidney cancer	Atrial fibrillation	0.0777150886318643	no	#4A74A9
+Kidney cancer	Chronic sinusitis	0.0858711487677626	no	#4A74A9
+Kidney cancer	Asthma	0.0719012240931134	no	#4A74A9
+Kidney cancer	Other interstitial pulmonary diseases	0.155407878151967	no	#4A74A9
+Kidney cancer	Aphthous stomatitis	0.152587065059936	no	#4A74A9
+Kidney cancer	Oral dysplasia	0.180927300359201	no	#4A74A9
+Kidney cancer	Ulcerative colitis	0.285159277703766	no	#4A74A9
+Kidney cancer	Irritable bowel syndrome	0.390503291473017	no	#4A74A9
+Kidney cancer	Atopic dermatitis	0.213595219673521	no	#4A74A9
+Kidney cancer	Psoriasis	0.0637982203575946	no	#4A74A9
+Kidney cancer	Osteoarthritis	0.139710178440366	no	#4A74A9
+Kidney cancer	Systemic lupus erythematosus	-0.072545088049998	no	#B64539
+Kidney cancer	Other systemic involvement of connective tissue	0.348171554520653	no	#4A74A9
+Kidney cancer	Myositis	0.285840509951894	no	#4A74A9
+Kidney cancer	Uremia	-0.10637755526582	no	#B64539
+Kidney cancer	Cystitis	0.354776022101473	no	#4A74A9
+Kidney cancer	Endometriosis	-0.129851523319296	no	#B64539
+Kidney cancer	Setleis syndrome	0.107951128526786	no	#4A74A9
+Kidney cancer	Septic Shock	0.0537814819809828	no	#4A74A9
+Bladder cancer	Thyroid cancer	0.270474965412076	no	#4A74A9
+Bladder cancer	Adrenal cancer	0.261434416107502	no	#4A74A9
+Bladder cancer	Melanoma metastasis	0.136368860666761	yes	#4A74A9
+Bladder cancer	Lymphoid leukemia	0.0782209999891501	no	#4A74A9
+Bladder cancer	Polycythemia vera	0.0460195864650721	no	#4A74A9
+Bladder cancer	Myelodysplastic syndromes	0.27530258566739	no	#4A74A9
+Bladder cancer	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	0.13181295804616	no	#4A74A9
+Bladder cancer	Job's syndrome	0.0898991909429106	no	#4A74A9
+Bladder cancer	Sarcoidosis	0.0883901220652999	no	#4A74A9
+Bladder cancer	Type 1 diabetes mellitus	0.0864736744542406	no	#4A74A9
+Bladder cancer	Type 2 diabetes mellitus	-0.0662866065960647	no	#B64539
+Bladder cancer	Other and unspecified metabolic disorders	-0.142033394635923	no	#B64539
+Bladder cancer	Smoker	0.202078031661536	no	#4A74A9
+Bladder cancer	Amyotrophic lateral sclerosis	-0.0645275640184915	no	#B64539
+Bladder cancer	Parkinson's disease	-0.0447838349575471	no	#B64539
+Bladder cancer	Alzheimer's disease	0.0582342542861704	no	#4A74A9
+Bladder cancer	Multiple sclerosis	0.0503054416464266	no	#4A74A9
+Bladder cancer	Acute myocardial infarction	0.145171754696514	no	#4A74A9
+Bladder cancer	Cardiomyopathy	-0.0436832881851215	no	#B64539
+Bladder cancer	Peripheral arterial disease	0.170658667054288	no	#4A74A9
+Bladder cancer	Chronic sinusitis	0.20932936897397	no	#4A74A9
+Bladder cancer	Chronic Obstructive Pulmonary Disease	0.122662571053578	no	#4A74A9
+Bladder cancer	Oral dysplasia	0.165246147939153	no	#4A74A9
+Bladder cancer	Crohn's disease	0.213215389718861	no	#4A74A9
+Bladder cancer	Ulcerative colitis	0.195379695077469	no	#4A74A9
+Bladder cancer	Irritable bowel syndrome	0.162412505680451	no	#4A74A9
+Bladder cancer	Atopic dermatitis	0.187361760673514	no	#4A74A9
+Bladder cancer	Psoriasis	0.292324994357886	no	#4A74A9
+Bladder cancer	Rosacea	0.0998261074572099	no	#4A74A9
+Bladder cancer	Systemic lupus erythematosus	0.28018643923022	no	#4A74A9
+Bladder cancer	Other systemic involvement of connective tissue	-0.184452074265844	no	#B64539
+Bladder cancer	Uremia	0.149076837057412	no	#4A74A9
+Bladder cancer	Cystitis	0.183741549433217	yes	#4A74A9
+Bladder cancer	Endometriosis	0.319367184088551	no	#4A74A9
+Bladder cancer	Setleis syndrome	-0.0951116014621775	no	#B64539
+Bladder cancer	Other specified congenital malformation syndromes affecting multiple systems	0.0514755539420444	no	#4A74A9
+Bladder cancer	Turner's syndrome	0.125862723555403	no	#4A74A9
+Bladder cancer	Septic Shock	0.23946387382076	no	#4A74A9
+Brain cancer	Thyroid cancer	0.0626421571074481	no	#4A74A9
+Brain cancer	Melanoma metastasis	0.215389873980035	yes	#4A74A9
+Brain cancer	Lymphoid leukemia	0.143614099854156	no	#4A74A9
+Brain cancer	Myeloid leukemia	0.197581284153162	no	#4A74A9
+Brain cancer	Myelodysplastic syndromes	0.197768477737077	no	#4A74A9
+Brain cancer	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	-0.152999187202839	no	#B64539
+Brain cancer	Autosomal dominant monocytopenia	0.0789694966467323	no	#4A74A9
+Brain cancer	Job's syndrome	-0.0309720937588783	no	#B64539
+Brain cancer	Type 2 diabetes mellitus	0.225085490237519	no	#4A74A9
+Brain cancer	Other and unspecified metabolic disorders	0.226269648633372	no	#4A74A9
+Brain cancer	Smoker	-0.138646626340375	no	#B64539
+Brain cancer	Schizophrenia	0.19659840460419	no	#4A74A9
+Brain cancer	Bipolar disorder	0.0676460053291583	no	#4A74A9
+Brain cancer	Major depression	-0.0461632587870395	no	#B64539
+Brain cancer	Huntington's disease	-0.0579422474382018	no	#B64539
+Brain cancer	Amyotrophic lateral sclerosis	0.109346597341235	no	#4A74A9
+Brain cancer	Parkinson's disease	0.0641010701163258	no	#4A74A9
+Brain cancer	Alzheimer's disease	0.421900078887197	no	#4A74A9
+Brain cancer	Multiple sclerosis	-0.0582567384586695	no	#B64539
+Brain cancer	Acute myocardial infarction	-0.0304589964117759	no	#B64539
+Brain cancer	Atrial fibrillation	0.0837066412971847	no	#4A74A9
+Brain cancer	Peripheral arterial disease	0.0596645646544758	no	#4A74A9
+Brain cancer	Chronic Obstructive Pulmonary Disease	-0.0461466134634121	no	#B64539
+Brain cancer	Asthma	0.138615040260287	no	#4A74A9
+Brain cancer	Other interstitial pulmonary diseases	0.104942800211307	no	#4A74A9
+Brain cancer	Aphthous stomatitis	0.0998340592366705	no	#4A74A9
+Brain cancer	Ulcerative colitis	0.145737831917301	no	#4A74A9
+Brain cancer	Irritable bowel syndrome	0.175272283263458	no	#4A74A9
+Brain cancer	Atopic dermatitis	0.180784970474991	no	#4A74A9
+Brain cancer	Psoriasis	0.110097435061397	no	#4A74A9
+Brain cancer	Rosacea	0.0815145663924147	no	#4A74A9
+Brain cancer	Osteoarthritis	0.157801044776635	no	#4A74A9
+Brain cancer	Other systemic involvement of connective tissue	0.209866692895805	no	#4A74A9
+Brain cancer	Axial Spondyloarthropathy	-0.0447496054779778	no	#B64539
+Brain cancer	Myositis	0.206874000725619	no	#4A74A9
+Brain cancer	Uremia	-0.0452391851690248	no	#B64539
+Brain cancer	Cystitis	0.10959947507967	no	#4A74A9
+Brain cancer	Endometriosis	-0.104585706014992	no	#B64539
+Brain cancer	Setleis syndrome	0.0487216549425059	no	#4A74A9
+Brain cancer	Turner's syndrome	-0.0572044138441161	no	#B64539
+Thyroid cancer	Adrenal cancer	0.243532240253553	no	#4A74A9
+Thyroid cancer	Melanoma metastasis	0.235906251523194	yes	#4A74A9
+Thyroid cancer	Myeloid leukemia	-0.144021655934261	no	#B64539
+Thyroid cancer	Polycythemia vera	0.123986118543822	no	#4A74A9
+Thyroid cancer	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	0.151074870771602	no	#4A74A9
+Thyroid cancer	Sickle-cell anemia	-0.100122505938005	no	#B64539
+Thyroid cancer	Job's syndrome	0.104954977216615	no	#4A74A9
+Thyroid cancer	Sarcoidosis	0.250243975828149	no	#4A74A9
+Thyroid cancer	Type 1 diabetes mellitus	0.0585884513692667	no	#4A74A9
+Thyroid cancer	Smoker	0.356112488388377	no	#4A74A9
+Thyroid cancer	Schizophrenia	0.197549795451377	no	#4A74A9
+Thyroid cancer	Bipolar disorder	0.0844247822652163	no	#4A74A9
+Thyroid cancer	Major depression	0.0926123491471883	no	#4A74A9
+Thyroid cancer	Huntington's disease	0.0485467135616328	no	#4A74A9
+Thyroid cancer	Amyotrophic lateral sclerosis	-0.0626215045330554	no	#B64539
+Thyroid cancer	Alzheimer's disease	0.280223507677187	no	#4A74A9
+Thyroid cancer	Multiple sclerosis	0.0631423643645467	no	#4A74A9
+Thyroid cancer	Acute myocardial infarction	0.154382741591074	no	#4A74A9
+Thyroid cancer	Cardiomyopathy	-0.08852849443364	no	#B64539
+Thyroid cancer	Cerebral infarction	0.080423903124115	no	#4A74A9
+Thyroid cancer	Peripheral arterial disease	0.082868574936238	no	#4A74A9
+Thyroid cancer	Chronic sinusitis	0.380015269023165	no	#4A74A9
+Thyroid cancer	Chronic Obstructive Pulmonary Disease	0.163868600848171	no	#4A74A9
+Thyroid cancer	Asthma	-0.0671731098283959	no	#B64539
+Thyroid cancer	Other interstitial pulmonary diseases	0.136815736467476	no	#4A74A9
+Thyroid cancer	Aphthous stomatitis	0.117097379706344	no	#4A74A9
+Thyroid cancer	Oral dysplasia	0.317755750629564	no	#4A74A9
+Thyroid cancer	Crohn's disease	0.311605268158679	no	#4A74A9
+Thyroid cancer	Ulcerative colitis	0.329300105070053	no	#4A74A9
+Thyroid cancer	Irritable bowel syndrome	0.315241470292851	no	#4A74A9
+Thyroid cancer	Atopic dermatitis	0.357671610693966	no	#4A74A9
+Thyroid cancer	Psoriasis	0.260661503604337	no	#4A74A9
+Thyroid cancer	Rosacea	0.215846758454269	no	#4A74A9
+Thyroid cancer	Osteoarthritis	0.075233466926659	no	#4A74A9
+Thyroid cancer	Systemic lupus erythematosus	0.208192561529818	no	#4A74A9
+Thyroid cancer	Axial Spondyloarthropathy	0.0900525751274826	no	#4A74A9
+Thyroid cancer	Myositis	0.337802440375893	no	#4A74A9
+Thyroid cancer	Uremia	0.135277991181807	no	#4A74A9
+Thyroid cancer	Cystitis	0.49117484150549	no	#4A74A9
+Thyroid cancer	Endometriosis	0.336265675921626	no	#4A74A9
+Thyroid cancer	Other specified congenital malformation syndromes affecting multiple systems	0.0595832892497507	no	#4A74A9
+Thyroid cancer	Turner's syndrome	0.128191713501777	no	#4A74A9
+Thyroid cancer	Septic Shock	0.261446506547121	no	#4A74A9
+Adrenal cancer	Melanoma metastasis	0.336004060751549	yes	#4A74A9
+Adrenal cancer	Lymphoid leukemia	0.0753352506539143	no	#4A74A9
+Adrenal cancer	Myeloid leukemia	0.061231695505737	no	#4A74A9
+Adrenal cancer	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	0.110224974976807	no	#4A74A9
+Adrenal cancer	Autosomal dominant monocytopenia	0.0478038503997935	no	#4A74A9
+Adrenal cancer	Primary myelofibrosis	0.0672394047777018	no	#4A74A9
+Adrenal cancer	Sarcoidosis	0.0703729714021027	no	#4A74A9
+Adrenal cancer	Type 1 diabetes mellitus	0.0535211232742754	no	#4A74A9
+Adrenal cancer	Type 2 diabetes mellitus	-0.056987921592782	no	#B64539
+Adrenal cancer	Smoker	0.128460169290375	no	#4A74A9
+Adrenal cancer	Major depression	0.0444530045319953	no	#4A74A9
+Adrenal cancer	Huntington's disease	0.0605830520213915	no	#4A74A9
+Adrenal cancer	Amyotrophic lateral sclerosis	0.0417306723242298	no	#4A74A9
+Adrenal cancer	Multiple sclerosis	0.0744055537247069	no	#4A74A9
+Adrenal cancer	Cardiomyopathy	0.0536277204430792	no	#4A74A9
+Adrenal cancer	Atrial fibrillation	0.0475500732073796	no	#4A74A9
+Adrenal cancer	Chronic sinusitis	0.144079424715233	no	#4A74A9
+Adrenal cancer	Asthma	0.0733277527753842	no	#4A74A9
+Adrenal cancer	Aphthous stomatitis	-0.0732729846016727	no	#B64539
+Adrenal cancer	Oral dysplasia	0.130372969721118	no	#4A74A9
+Adrenal cancer	Crohn's disease	0.0707125545630894	no	#4A74A9
+Adrenal cancer	Ulcerative colitis	0.0856822265238839	no	#4A74A9
+Adrenal cancer	Irritable bowel syndrome	0.0813950643428688	no	#4A74A9
+Adrenal cancer	Atopic dermatitis	0.16199437763557	no	#4A74A9
+Adrenal cancer	Psoriasis	0.189443558909362	no	#4A74A9
+Adrenal cancer	Rosacea	0.0528230194563017	no	#4A74A9
+Adrenal cancer	Myositis	0.0568864751978351	no	#4A74A9
+Adrenal cancer	Uremia	0.0379947888593405	no	#4A74A9
+Adrenal cancer	Cystitis	0.115693634467608	no	#4A74A9
+Adrenal cancer	Endometriosis	0.128927534710133	no	#4A74A9
+Adrenal cancer	Setleis syndrome	0.0862618558905635	no	#4A74A9
+Adrenal cancer	Turner's syndrome	0.0631456727103004	no	#4A74A9
+Adrenal cancer	Septic Shock	0.0650159037737546	no	#4A74A9
+Melanoma metastasis	Lymphoid leukemia	0.107303110216717	no	#4A74A9
+Melanoma metastasis	Myeloid leukemia	0.115012214663658	no	#4A74A9
+Melanoma metastasis	Myelodysplastic syndromes	0.17424359416656	no	#4A74A9
+Melanoma metastasis	Autosomal dominant monocytopenia	0.0740831104616234	no	#4A74A9
+Melanoma metastasis	Primary myelofibrosis	0.100216468861655	no	#4A74A9
+Melanoma metastasis	Smoker	0.0799594069038407	no	#4A74A9
+Melanoma metastasis	Amyotrophic lateral sclerosis	0.120096032757214	no	#4A74A9
+Melanoma metastasis	Parkinson's disease	0.0360604197110211	no	#4A74A9
+Melanoma metastasis	Alzheimer's disease	-0.0618705380441964	no	#B64539
+Melanoma metastasis	Acute myocardial infarction	0.038073234846818	no	#4A74A9
+Melanoma metastasis	Atrial fibrillation	0.0789594437202343	no	#4A74A9
+Melanoma metastasis	Peripheral arterial disease	0.0366440565418967	no	#4A74A9
+Melanoma metastasis	Chronic sinusitis	0.0824706399602624	no	#4A74A9
+Melanoma metastasis	Asthma	0.0641407203120574	no	#4A74A9
+Melanoma metastasis	Other interstitial pulmonary diseases	0.0623070725084081	no	#4A74A9
+Melanoma metastasis	Aphthous stomatitis	0.11575679714102	no	#4A74A9
+Melanoma metastasis	Oral dysplasia	0.128752636102476	no	#4A74A9
+Melanoma metastasis	Crohn's disease	0.0993027438698135	no	#4A74A9
+Melanoma metastasis	Ulcerative colitis	0.268735205417327	no	#4A74A9
+Melanoma metastasis	Irritable bowel syndrome	0.295524509417961	no	#4A74A9
+Melanoma metastasis	Atopic dermatitis	0.252617611822355	no	#4A74A9
+Melanoma metastasis	Psoriasis	0.271666852603088	no	#4A74A9
+Melanoma metastasis	Rosacea	0.228242290943763	no	#4A74A9
+Melanoma metastasis	Osteoarthritis	0.145679047659403	no	#4A74A9
+Melanoma metastasis	Systemic lupus erythematosus	0.129443815230094	no	#4A74A9
+Melanoma metastasis	Myositis	0.171049179534796	no	#4A74A9
+Melanoma metastasis	Cystitis	0.308787510771385	no	#4A74A9
+Melanoma metastasis	Endometriosis	0.111618328361631	no	#4A74A9
+Melanoma metastasis	Septic Shock	0.0493489524015689	no	#4A74A9
+Lymphoid leukemia	Myeloid leukemia	0.165279158583011	yes	#4A74A9
+Lymphoid leukemia	Polycythemia vera	-0.0940943571407049	no	#B64539
+Lymphoid leukemia	Myelodysplastic syndromes	0.244002823797114	yes	#4A74A9
+Lymphoid leukemia	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	-0.104921940587002	no	#B64539
+Lymphoid leukemia	Thalassemia	0.0389532529727588	no	#4A74A9
+Lymphoid leukemia	Sickle-cell anemia	-0.0415570025182022	no	#B64539
+Lymphoid leukemia	Primary myelofibrosis	-0.0473766353996801	no	#B64539
+Lymphoid leukemia	Sarcoidosis	-0.149293422760209	no	#B64539
+Lymphoid leukemia	Type 1 diabetes mellitus	-0.039235783643102	no	#B64539
+Lymphoid leukemia	Alzheimer's disease	-0.0444981829770685	no	#B64539
+Lymphoid leukemia	Multiple sclerosis	-0.0831817548779895	no	#B64539
+Lymphoid leukemia	Peripheral arterial disease	0.0419953625286301	no	#4A74A9
+Lymphoid leukemia	Chronic sinusitis	0.0554074372736719	no	#4A74A9
+Lymphoid leukemia	Chronic Obstructive Pulmonary Disease	-0.0467517915519851	no	#B64539
+Lymphoid leukemia	Asthma	0.0728774909906631	no	#4A74A9
+Lymphoid leukemia	Other interstitial pulmonary diseases	0.177560606833013	no	#4A74A9
+Lymphoid leukemia	Aphthous stomatitis	-0.0335969507168586	no	#B64539
+Lymphoid leukemia	Ulcerative colitis	0.0417211479598143	no	#4A74A9
+Lymphoid leukemia	Atopic dermatitis	0.138665344138434	no	#4A74A9
+Lymphoid leukemia	Psoriasis	0.0535626793553029	no	#4A74A9
+Lymphoid leukemia	Osteoarthritis	0.0990488134899243	no	#4A74A9
+Lymphoid leukemia	Other systemic involvement of connective tissue	-0.0597855584581012	no	#B64539
+Lymphoid leukemia	Myositis	-0.0424917701235266	no	#B64539
+Lymphoid leukemia	Endometriosis	0.0414360824039406	no	#4A74A9
+Lymphoid leukemia	Other specified congenital malformation syndromes affecting multiple systems	-0.037235183850374	no	#B64539
+Lymphoid leukemia	Turner's syndrome	0.136010743437596	no	#4A74A9
+Lymphoid leukemia	Chronic lung allograft dysfunction	-0.0758659224278369	no	#B64539
+Myeloid leukemia	Polycythemia vera	-0.0845463916091073	no	#B64539
+Myeloid leukemia	Myelodysplastic syndromes	0.306578054909465	yes	#4A74A9
+Myeloid leukemia	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	-0.047526365498791	no	#B64539
+Myeloid leukemia	Thalassemia	0.148338805170343	no	#4A74A9
+Myeloid leukemia	Sickle-cell anemia	0.15081661281255	no	#4A74A9
+Myeloid leukemia	Autosomal dominant monocytopenia	0.0955244282063031	yes	#4A74A9
+Myeloid leukemia	Primary myelofibrosis	0.11228748291584	yes	#4A74A9
+Myeloid leukemia	Job's syndrome	-0.126606592852255	no	#B64539
+Myeloid leukemia	Sarcoidosis	-0.0812448954396785	no	#B64539
+Myeloid leukemia	Type 1 diabetes mellitus	-0.115851440640531	no	#B64539
+Myeloid leukemia	Type 2 diabetes mellitus	0.145670310473797	no	#4A74A9
+Myeloid leukemia	Other and unspecified metabolic disorders	0.0885337629480051	no	#4A74A9
+Myeloid leukemia	Smoker	-0.134224699493972	no	#B64539
+Myeloid leukemia	Schizophrenia	-0.104137264895647	no	#B64539
+Myeloid leukemia	Bipolar disorder	-0.0517132106413609	no	#B64539
+Myeloid leukemia	Major depression	-0.0491460975760103	no	#B64539
+Myeloid leukemia	Amyotrophic lateral sclerosis	0.142917816331709	no	#4A74A9
+Myeloid leukemia	Parkinson's disease	0.109400659590693	no	#4A74A9
+Myeloid leukemia	Alzheimer's disease	-0.114400462348087	no	#B64539
+Myeloid leukemia	Acute myocardial infarction	-0.103319771105926	no	#B64539
+Myeloid leukemia	Cardiomyopathy	0.0893574051370563	no	#4A74A9
+Myeloid leukemia	Atrial fibrillation	0.186603062879696	no	#4A74A9
+Myeloid leukemia	Cerebral infarction	0.0557578976146797	no	#4A74A9
+Myeloid leukemia	Peripheral arterial disease	0.0374485822810751	no	#4A74A9
+Myeloid leukemia	Chronic sinusitis	-0.0923960968431883	no	#B64539
+Myeloid leukemia	Chronic Obstructive Pulmonary Disease	-0.112502061108048	no	#B64539
+Myeloid leukemia	Asthma	0.200412124528919	no	#4A74A9
+Myeloid leukemia	Other interstitial pulmonary diseases	0.0629180909517311	no	#4A74A9
+Myeloid leukemia	Crohn's disease	-0.07875445951422	no	#B64539
+Myeloid leukemia	Ulcerative colitis	-0.0457354156665987	no	#B64539
+Myeloid leukemia	Atopic dermatitis	-0.0584112830619768	no	#B64539
+Myeloid leukemia	Axial Spondyloarthropathy	-0.0533973726275902	no	#B64539
+Myeloid leukemia	Myositis	-0.0392668676062174	no	#B64539
+Myeloid leukemia	Uremia	-0.0419715598843192	no	#B64539
+Myeloid leukemia	Cystitis	-0.107699966072565	no	#B64539
+Myeloid leukemia	Endometriosis	-0.129127781696754	no	#B64539
+Myeloid leukemia	Setleis syndrome	0.115463626197743	no	#4A74A9
+Myeloid leukemia	Other specified congenital malformation syndromes affecting multiple systems	0.0449688107511702	no	#4A74A9
+Myeloid leukemia	Turner's syndrome	-0.0898581006308396	no	#B64539
+Myeloid leukemia	Septic Shock	-0.145001259022089	no	#B64539
+Myeloid leukemia	Chronic lung allograft dysfunction	0.0691232939657082	yes	#4A74A9
+Polycythemia vera	Myelodysplastic syndromes	0.082884861089263	yes	#4A74A9
+Polycythemia vera	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	0.983399365815341	yes	#4A74A9
+Polycythemia vera	Sickle-cell anemia	0.106011775631305	no	#4A74A9
+Polycythemia vera	Primary myelofibrosis	0.657221122711319	yes	#4A74A9
+Polycythemia vera	Job's syndrome	0.105680990385328	no	#4A74A9
+Polycythemia vera	Sarcoidosis	0.284958394799387	no	#4A74A9
+Polycythemia vera	Type 1 diabetes mellitus	0.0481594266289364	no	#4A74A9
+Polycythemia vera	Smoker	0.096548821828928	no	#4A74A9
+Polycythemia vera	Schizophrenia	0.0725250612724773	no	#4A74A9
+Polycythemia vera	Bipolar disorder	0.0439917871705076	no	#4A74A9
+Polycythemia vera	Alzheimer's disease	0.0727420010042462	no	#4A74A9
+Polycythemia vera	Multiple sclerosis	0.104954483601055	no	#4A74A9
+Polycythemia vera	Acute myocardial infarction	0.206870891694642	no	#4A74A9
+Polycythemia vera	Cardiomyopathy	-0.0559148878802104	no	#B64539
+Polycythemia vera	Cerebral infarction	0.16037482854352	no	#4A74A9
+Polycythemia vera	Chronic Obstructive Pulmonary Disease	0.091444119947159	no	#4A74A9
+Polycythemia vera	Other interstitial pulmonary diseases	-0.054522097814848	no	#B64539
+Polycythemia vera	Aphthous stomatitis	0.0591289886455574	no	#4A74A9
+Polycythemia vera	Oral dysplasia	0.0770336722260534	no	#4A74A9
+Polycythemia vera	Crohn's disease	0.121055733049515	no	#4A74A9
+Polycythemia vera	Irritable bowel syndrome	0.0485707242879213	no	#4A74A9
+Polycythemia vera	Atopic dermatitis	0.0675463677413485	no	#4A74A9
+Polycythemia vera	Psoriasis	0.0478265118877663	no	#4A74A9
+Polycythemia vera	Systemic lupus erythematosus	0.29496817600268	no	#4A74A9
+Polycythemia vera	Myositis	0.0500957592510637	no	#4A74A9
+Polycythemia vera	Uremia	0.24664869203328	no	#4A74A9
+Polycythemia vera	Cystitis	0.0426235915890648	no	#4A74A9
+Polycythemia vera	Endometriosis	0.130016984986332	no	#4A74A9
+Polycythemia vera	Setleis syndrome	-0.0406498108628064	no	#B64539
+Polycythemia vera	Other specified congenital malformation syndromes affecting multiple systems	0.078675244246679	no	#4A74A9
+Polycythemia vera	Septic Shock	0.298918807489575	no	#4A74A9
+Polycythemia vera	Chronic lung allograft dysfunction	0.0701309953080231	no	#4A74A9
+Myelodysplastic syndromes	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	0.100770312561639	yes	#4A74A9
+Myelodysplastic syndromes	Thalassemia	-0.0767033519216595	no	#B64539
+Myelodysplastic syndromes	Sickle-cell anemia	0.0650508526276894	no	#4A74A9
+Myelodysplastic syndromes	Autosomal dominant monocytopenia	0.0704994168314639	yes	#4A74A9
+Myelodysplastic syndromes	Primary myelofibrosis	0.236238445964317	yes	#4A74A9
+Myelodysplastic syndromes	Job's syndrome	-0.0304586099693254	no	#B64539
+Myelodysplastic syndromes	Type 2 diabetes mellitus	0.136953715573901	no	#4A74A9
+Myelodysplastic syndromes	Other and unspecified metabolic disorders	-0.096561787760698	no	#B64539
+Myelodysplastic syndromes	Schizophrenia	-0.0838559971248671	no	#B64539
+Myelodysplastic syndromes	Bipolar disorder	-0.0695894971097473	no	#B64539
+Myelodysplastic syndromes	Major depression	-0.0729814971289201	no	#B64539
+Myelodysplastic syndromes	Huntington's disease	0.0478660030203714	no	#4A74A9
+Myelodysplastic syndromes	Alzheimer's disease	-0.109971966793544	no	#B64539
+Myelodysplastic syndromes	Acute myocardial infarction	0.0797988271598754	no	#4A74A9
+Myelodysplastic syndromes	Cardiomyopathy	-0.0397135657377247	no	#B64539
+Myelodysplastic syndromes	Atrial fibrillation	0.18283344442369	no	#4A74A9
+Myelodysplastic syndromes	Cerebral infarction	0.149518854004731	no	#4A74A9
+Myelodysplastic syndromes	Peripheral arterial disease	0.154084265035835	no	#4A74A9
+Myelodysplastic syndromes	Asthma	0.123835939949051	no	#4A74A9
+Myelodysplastic syndromes	Other interstitial pulmonary diseases	0.154730013336897	no	#4A74A9
+Myelodysplastic syndromes	Crohn's disease	0.0738410349315285	no	#4A74A9
+Myelodysplastic syndromes	Ulcerative colitis	0.0994682646341784	no	#4A74A9
+Myelodysplastic syndromes	Irritable bowel syndrome	0.0657819070538442	no	#4A74A9
+Myelodysplastic syndromes	Atopic dermatitis	0.130155841987649	no	#4A74A9
+Myelodysplastic syndromes	Psoriasis	0.175850969903159	no	#4A74A9
+Myelodysplastic syndromes	Rosacea	0.107617081253574	no	#4A74A9
+Myelodysplastic syndromes	Osteoarthritis	0.111891286673635	no	#4A74A9
+Myelodysplastic syndromes	Systemic lupus erythematosus	0.392338666124659	no	#4A74A9
+Myelodysplastic syndromes	Other systemic involvement of connective tissue	-0.167153106775021	no	#B64539
+Myelodysplastic syndromes	Uremia	0.077068507030513	no	#4A74A9
+Myelodysplastic syndromes	Cystitis	-0.06718367180259	no	#B64539
+Myelodysplastic syndromes	Endometriosis	0.123813953884949	no	#4A74A9
+Myelodysplastic syndromes	Setleis syndrome	-0.0793896833394404	no	#B64539
+Myelodysplastic syndromes	Other specified congenital malformation syndromes affecting multiple systems	0.0501824782067991	no	#4A74A9
+Myelodysplastic syndromes	Turner's syndrome	0.0662287814560955	no	#4A74A9
+Myelodysplastic syndromes	Septic Shock	0.130556942039795	no	#4A74A9
+Myelodysplastic syndromes	Chronic lung allograft dysfunction	0.0391862728896798	yes	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Thalassemia	-0.0596966682751706	no	#B64539
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Sickle-cell anemia	0.0901516961641349	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Primary myelofibrosis	0.592326585762645	yes	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Job's syndrome	0.048570594402652	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Sarcoidosis	0.315448004779349	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Type 1 diabetes mellitus	0.073163467002019	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Type 2 diabetes mellitus	-0.157940751646305	no	#B64539
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	PCOS	-0.0428628358379057	no	#B64539
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Other and unspecified metabolic disorders	-0.106740924433082	no	#B64539
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Smoker	0.252046431960791	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Schizophrenia	0.0522370502388609	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Bipolar disorder	0.0474022431769352	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Major depression	0.0593717619326994	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Huntington's disease	0.142929345388004	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Amyotrophic lateral sclerosis	-0.112187014943514	no	#B64539
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Alzheimer's disease	0.105424260798474	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Multiple sclerosis	0.301190202555451	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Acute myocardial infarction	0.21287637763895	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Cardiomyopathy	-0.0724005534695625	no	#B64539
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Cerebral infarction	0.0906922711647899	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Chronic sinusitis	0.0701452305128513	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Chronic Obstructive Pulmonary Disease	0.0980408154691824	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Asthma	-0.0425543131035409	no	#B64539
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Other interstitial pulmonary diseases	-0.0828407376975081	no	#B64539
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Aphthous stomatitis	-0.0470134957809033	no	#B64539
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Oral dysplasia	0.0732599500206761	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Crohn's disease	0.0644126715415427	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Atopic dermatitis	0.0655990519337856	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Osteoarthritis	-0.0690775752962572	no	#B64539
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Systemic lupus erythematosus	0.307243209590946	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Other systemic involvement of connective tissue	-0.196647034592476	no	#B64539
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Axial Spondyloarthropathy	0.10726045237854	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Uremia	0.338214631819013	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Endometriosis	0.42716220587988	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Setleis syndrome	-0.0680625175189487	no	#B64539
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Other specified congenital malformation syndromes affecting multiple systems	0.0917686324719657	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Turner's syndrome	0.0823955179917905	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Septic Shock	0.212679759259644	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Chronic lung allograft dysfunction	0.0861039594018492	no	#4A74A9
+Thalassemia	Sickle-cell anemia	0.0590117329349603	no	#4A74A9
+Thalassemia	Type 1 diabetes mellitus	-0.0519734771144405	no	#B64539
+Thalassemia	Type 2 diabetes mellitus	0.0920790631114998	no	#4A74A9
+Thalassemia	PCOS	-0.0345542135693732	no	#B64539
+Thalassemia	Other and unspecified metabolic disorders	0.124586843867645	no	#4A74A9
+Thalassemia	Amyotrophic lateral sclerosis	0.0707610826439127	no	#4A74A9
+Thalassemia	Parkinson's disease	0.131240000240079	no	#4A74A9
+Thalassemia	Multiple sclerosis	0.0558150202878146	no	#4A74A9
+Thalassemia	Acute myocardial infarction	-0.0390879095836182	no	#B64539
+Thalassemia	Cardiomyopathy	0.0617560055563014	no	#4A74A9
+Thalassemia	Cerebral infarction	0.075307506638439	no	#4A74A9
+Thalassemia	Peripheral arterial disease	-0.0883046485870062	no	#B64539
+Thalassemia	Chronic sinusitis	-0.0544146897639127	no	#B64539
+Thalassemia	Chronic Obstructive Pulmonary Disease	-0.0516553189006528	no	#B64539
+Thalassemia	Other interstitial pulmonary diseases	0.0583806982759525	no	#4A74A9
+Thalassemia	Aphthous stomatitis	0.0458485451139101	no	#4A74A9
+Thalassemia	Ulcerative colitis	0.0461951168527426	no	#4A74A9
+Thalassemia	Atopic dermatitis	-0.0598083747647865	no	#B64539
+Thalassemia	Rosacea	-0.0938175045998858	no	#B64539
+Thalassemia	Osteoarthritis	-0.0387765146788299	no	#B64539
+Thalassemia	Other systemic involvement of connective tissue	0.149298269173789	no	#4A74A9
+Thalassemia	Axial Spondyloarthropathy	0.0414053768323842	no	#4A74A9
+Thalassemia	Endometriosis	-0.125801839539778	no	#B64539
+Thalassemia	Setleis syndrome	0.0611949722414396	no	#4A74A9
+Thalassemia	Turner's syndrome	-0.0440338659691955	no	#B64539
+Thalassemia	Septic Shock	-0.0502790631881036	no	#B64539
+Sickle-cell anemia	Autosomal dominant monocytopenia	0.162605072930827	no	#4A74A9
+Sickle-cell anemia	Primary myelofibrosis	0.368950445680062	no	#4A74A9
+Sickle-cell anemia	Job's syndrome	-0.121160887376243	no	#B64539
+Sickle-cell anemia	Sarcoidosis	0.0951897495115299	no	#4A74A9
+Sickle-cell anemia	Type 2 diabetes mellitus	0.0817435879913909	no	#4A74A9
+Sickle-cell anemia	Other and unspecified metabolic disorders	0.100853692992536	no	#4A74A9
+Sickle-cell anemia	Smoker	-0.133030471843661	no	#B64539
+Sickle-cell anemia	Schizophrenia	-0.111202823257142	no	#B64539
+Sickle-cell anemia	Bipolar disorder	-0.0556921923312299	no	#B64539
+Sickle-cell anemia	Major depression	-0.0969409768541924	no	#B64539
+Sickle-cell anemia	Amyotrophic lateral sclerosis	0.106075031346171	no	#4A74A9
+Sickle-cell anemia	Alzheimer's disease	-0.136737092890951	no	#B64539
+Sickle-cell anemia	Multiple sclerosis	0.0594773913365305	no	#4A74A9
+Sickle-cell anemia	Acute myocardial infarction	-0.057639704961661	no	#B64539
+Sickle-cell anemia	Cardiomyopathy	0.0401568081038217	no	#4A74A9
+Sickle-cell anemia	Atrial fibrillation	0.16836062011373	no	#4A74A9
+Sickle-cell anemia	Chronic sinusitis	-0.0984177296572528	no	#B64539
+Sickle-cell anemia	Asthma	0.146185533362769	no	#4A74A9
+Sickle-cell anemia	Other interstitial pulmonary diseases	-0.0609532549967288	no	#B64539
+Sickle-cell anemia	Atopic dermatitis	-0.135611416400973	no	#B64539
+Sickle-cell anemia	Psoriasis	0.0708410081857346	no	#4A74A9
+Sickle-cell anemia	Other systemic involvement of connective tissue	0.117715134043835	no	#4A74A9
+Sickle-cell anemia	Axial Spondyloarthropathy	-0.118514100700744	no	#B64539
+Sickle-cell anemia	Uremia	0.0526403513774648	no	#4A74A9
+Sickle-cell anemia	Cystitis	-0.0704773850942284	no	#B64539
+Sickle-cell anemia	Endometriosis	-0.204248264968961	no	#B64539
+Sickle-cell anemia	Setleis syndrome	0.0533172221572421	no	#4A74A9
+Sickle-cell anemia	Other specified congenital malformation syndromes affecting multiple systems	0.095248927375576	no	#4A74A9
+Sickle-cell anemia	Turner's syndrome	-0.15599821372253	no	#B64539
+Sickle-cell anemia	Septic Shock	-0.048504985311176	no	#B64539
+Sickle-cell anemia	Chronic lung allograft dysfunction	0.115979441370964	no	#4A74A9
+Autosomal dominant monocytopenia	Primary myelofibrosis	0.223144888756909	yes	#4A74A9
+Autosomal dominant monocytopenia	Job's syndrome	-0.246308388851725	no	#B64539
+Autosomal dominant monocytopenia	Type 1 diabetes mellitus	-0.108669930615972	no	#B64539
+Autosomal dominant monocytopenia	Type 2 diabetes mellitus	0.0878333971111254	no	#4A74A9
+Autosomal dominant monocytopenia	Other and unspecified metabolic disorders	0.0774803399447637	no	#4A74A9
+Autosomal dominant monocytopenia	Smoker	-0.0796775893292609	no	#B64539
+Autosomal dominant monocytopenia	Schizophrenia	-0.0613587008481487	no	#B64539
+Autosomal dominant monocytopenia	Bipolar disorder	-0.0394712580746406	no	#B64539
+Autosomal dominant monocytopenia	Major depression	-0.0362735891491756	no	#B64539
+Autosomal dominant monocytopenia	Huntington's disease	-0.0369359225069647	no	#B64539
+Autosomal dominant monocytopenia	Amyotrophic lateral sclerosis	0.0780643550739959	no	#4A74A9
+Autosomal dominant monocytopenia	Alzheimer's disease	-0.0658458120005709	no	#B64539
+Autosomal dominant monocytopenia	Acute myocardial infarction	-0.0907694989830625	no	#B64539
+Autosomal dominant monocytopenia	Atrial fibrillation	0.0346331107411792	no	#4A74A9
+Autosomal dominant monocytopenia	Cerebral infarction	-0.0676275818215974	no	#B64539
+Autosomal dominant monocytopenia	Asthma	0.135295198999547	yes	#4A74A9
+Autosomal dominant monocytopenia	Psoriasis	0.0619332691793982	no	#4A74A9
+Autosomal dominant monocytopenia	Rosacea	0.0600674929150605	no	#4A74A9
+Autosomal dominant monocytopenia	Other systemic involvement of connective tissue	0.0391106809831374	no	#4A74A9
+Autosomal dominant monocytopenia	Axial Spondyloarthropathy	-0.0557280763607114	no	#B64539
+Autosomal dominant monocytopenia	Endometriosis	-0.0869613364122025	no	#B64539
+Autosomal dominant monocytopenia	Turner's syndrome	-0.0599516984664489	no	#B64539
+Autosomal dominant monocytopenia	Septic Shock	-0.0646151154607406	no	#B64539
+Autosomal dominant monocytopenia	Chronic lung allograft dysfunction	0.0986124021765705	no	#4A74A9
+Primary myelofibrosis	Job's syndrome	-0.0823392855557661	no	#B64539
+Primary myelofibrosis	Sarcoidosis	0.114175867308682	no	#4A74A9
+Primary myelofibrosis	Type 1 diabetes mellitus	-0.0570592266833799	no	#B64539
+Primary myelofibrosis	Type 2 diabetes mellitus	0.056844191707479	no	#4A74A9
+Primary myelofibrosis	PCOS	-0.0354118774086018	no	#B64539
+Primary myelofibrosis	Other and unspecified metabolic disorders	0.0706569152476208	no	#4A74A9
+Primary myelofibrosis	Schizophrenia	-0.0491119054182027	no	#B64539
+Primary myelofibrosis	Major depression	-0.030515950814394	no	#B64539
+Primary myelofibrosis	Amyotrophic lateral sclerosis	0.0848069644140791	no	#4A74A9
+Primary myelofibrosis	Alzheimer's disease	-0.0688192569880334	no	#B64539
+Primary myelofibrosis	Multiple sclerosis	0.0757801043409051	no	#4A74A9
+Primary myelofibrosis	Acute myocardial infarction	0.0560022877240677	no	#4A74A9
+Primary myelofibrosis	Cardiomyopathy	-0.0430333885806282	no	#B64539
+Primary myelofibrosis	Atrial fibrillation	0.0704735750433977	no	#4A74A9
+Primary myelofibrosis	Cerebral infarction	0.084950248570296	no	#4A74A9
+Primary myelofibrosis	Chronic sinusitis	-0.0387844130714652	no	#B64539
+Primary myelofibrosis	Asthma	0.159021864082446	no	#4A74A9
+Primary myelofibrosis	Other interstitial pulmonary diseases	-0.0400343085614409	no	#B64539
+Primary myelofibrosis	Crohn's disease	0.0702280830682717	no	#4A74A9
+Primary myelofibrosis	Psoriasis	0.104742311203223	no	#4A74A9
+Primary myelofibrosis	Systemic lupus erythematosus	0.265055145644588	no	#4A74A9
+Primary myelofibrosis	Axial Spondyloarthropathy	-0.04952777093078	no	#B64539
+Primary myelofibrosis	Uremia	0.195038658075668	no	#4A74A9
+Primary myelofibrosis	Cystitis	-0.0359161105028005	no	#B64539
+Primary myelofibrosis	Other specified congenital malformation syndromes affecting multiple systems	0.0426917931096156	no	#4A74A9
+Primary myelofibrosis	Turner's syndrome	-0.0769891910190246	no	#B64539
+Primary myelofibrosis	Septic Shock	0.14490968829075	no	#4A74A9
+Primary myelofibrosis	Chronic lung allograft dysfunction	0.180982690642968	no	#4A74A9
+Job's syndrome	Sarcoidosis	0.165923574956296	no	#4A74A9
+Job's syndrome	Type 1 diabetes mellitus	0.0870215227416143	no	#4A74A9
+Job's syndrome	Type 2 diabetes mellitus	-0.0368900232653473	no	#B64539
+Job's syndrome	Other and unspecified metabolic disorders	-0.0551066474742962	no	#B64539
+Job's syndrome	Smoker	0.0774864025551451	no	#4A74A9
+Job's syndrome	Schizophrenia	0.0360476631824834	no	#4A74A9
+Job's syndrome	Amyotrophic lateral sclerosis	-0.050549950747508	no	#B64539
+Job's syndrome	Alzheimer's disease	0.0932743332450929	no	#4A74A9
+Job's syndrome	Acute myocardial infarction	0.106768890235528	no	#4A74A9
+Job's syndrome	Atrial fibrillation	-0.0285797772528506	no	#B64539
+Job's syndrome	Cerebral infarction	0.0448566021416587	no	#4A74A9
+Job's syndrome	Peripheral arterial disease	0.0412281788417106	no	#4A74A9
+Job's syndrome	Chronic Obstructive Pulmonary Disease	0.0618422368060293	no	#4A74A9
+Job's syndrome	Asthma	-0.057509672708957	no	#B64539
+Job's syndrome	Other interstitial pulmonary diseases	-0.0778174308173512	no	#B64539
+Job's syndrome	Aphthous stomatitis	0.0328373969573419	no	#4A74A9
+Job's syndrome	Oral dysplasia	0.0502204621787158	no	#4A74A9
+Job's syndrome	Crohn's disease	0.0678059614741542	no	#4A74A9
+Job's syndrome	Irritable bowel syndrome	0.0583977974682369	no	#4A74A9
+Job's syndrome	Psoriasis	0.0349251894293507	no	#4A74A9
+Job's syndrome	Systemic lupus erythematosus	0.139975797167388	no	#4A74A9
+Job's syndrome	Myositis	0.0441548410088697	no	#4A74A9
+Job's syndrome	Uremia	0.120736576162547	no	#4A74A9
+Job's syndrome	Cystitis	0.11484671703152	no	#4A74A9
+Job's syndrome	Endometriosis	0.101514532032799	no	#4A74A9
+Job's syndrome	Setleis syndrome	-0.0368638286358491	no	#B64539
+Job's syndrome	Septic Shock	0.514505343053465	no	#4A74A9
+Job's syndrome	Chronic lung allograft dysfunction	-0.0786431708757221	no	#B64539
+Sarcoidosis	Smoker	0.262358383140279	no	#4A74A9
+Sarcoidosis	Schizophrenia	0.121585661707835	no	#4A74A9
+Sarcoidosis	Amyotrophic lateral sclerosis	-0.0594182691402881	no	#B64539
+Sarcoidosis	Parkinson's disease	-0.0774575481827262	no	#B64539
+Sarcoidosis	Alzheimer's disease	0.218674933070578	no	#4A74A9
+Sarcoidosis	Multiple sclerosis	0.137312826784637	no	#4A74A9
+Sarcoidosis	Acute myocardial infarction	0.130512072322348	no	#4A74A9
+Sarcoidosis	Atrial fibrillation	0.0416493505305723	no	#4A74A9
+Sarcoidosis	Cerebral infarction	0.207904809900749	no	#4A74A9
+Sarcoidosis	Peripheral arterial disease	0.159482388987421	no	#4A74A9
+Sarcoidosis	Chronic Obstructive Pulmonary Disease	0.17720762867565	no	#4A74A9
+Sarcoidosis	Aphthous stomatitis	0.0989027525075427	no	#4A74A9
+Sarcoidosis	Oral dysplasia	0.157005819175438	no	#4A74A9
+Sarcoidosis	Crohn's disease	0.176150052529341	no	#4A74A9
+Sarcoidosis	Irritable bowel syndrome	0.081189750406219	no	#4A74A9
+Sarcoidosis	Atopic dermatitis	-0.0848767179770893	no	#B64539
+Sarcoidosis	Psoriasis	0.0454787488116433	no	#4A74A9
+Sarcoidosis	Osteoarthritis	-0.0620360327065266	no	#B64539
+Sarcoidosis	Systemic lupus erythematosus	0.200734268855564	no	#4A74A9
+Sarcoidosis	Other systemic involvement of connective tissue	0.0941240833504063	no	#4A74A9
+Sarcoidosis	Axial Spondyloarthropathy	-0.0868859291720444	no	#B64539
+Sarcoidosis	Myositis	0.132222274505564	no	#4A74A9
+Sarcoidosis	Uremia	0.195486313214905	no	#4A74A9
+Sarcoidosis	Cystitis	0.144197821514897	no	#4A74A9
+Sarcoidosis	Endometriosis	0.0656059675788635	no	#4A74A9
+Sarcoidosis	Other specified congenital malformation syndromes affecting multiple systems	0.119984004187688	no	#4A74A9
+Sarcoidosis	Turner's syndrome	-0.116099383047603	no	#B64539
+Sarcoidosis	Septic Shock	0.401390578201425	no	#4A74A9
+Type 1 diabetes mellitus	Type 2 diabetes mellitus	-0.132976217394284	no	#B64539
+Type 1 diabetes mellitus	PCOS	0.0562268281474825	no	#4A74A9
+Type 1 diabetes mellitus	Other and unspecified metabolic disorders	-0.0790714981782347	no	#B64539
+Type 1 diabetes mellitus	Smoker	0.151067480566357	no	#4A74A9
+Type 1 diabetes mellitus	Schizophrenia	0.0869916609692421	no	#4A74A9
+Type 1 diabetes mellitus	Bipolar disorder	0.0980511811916729	no	#4A74A9
+Type 1 diabetes mellitus	Major depression	0.049680359506678	no	#4A74A9
+Type 1 diabetes mellitus	Huntington's disease	0.32371532838946	no	#4A74A9
+Type 1 diabetes mellitus	Amyotrophic lateral sclerosis	-0.101526814378515	no	#B64539
+Type 1 diabetes mellitus	Alzheimer's disease	0.0679643897678478	no	#4A74A9
+Type 1 diabetes mellitus	Multiple sclerosis	0.300011449968473	no	#4A74A9
+Type 1 diabetes mellitus	Acute myocardial infarction	0.189407059034602	yes	#4A74A9
+Type 1 diabetes mellitus	Cerebral infarction	0.13245441766846	no	#4A74A9
+Type 1 diabetes mellitus	Chronic sinusitis	0.0632710747108604	no	#4A74A9
+Type 1 diabetes mellitus	Chronic Obstructive Pulmonary Disease	0.107210809809039	no	#4A74A9
+Type 1 diabetes mellitus	Asthma	-0.061923633908564	no	#B64539
+Type 1 diabetes mellitus	Aphthous stomatitis	-0.0390749156564325	no	#B64539
+Type 1 diabetes mellitus	Ulcerative colitis	-0.0375437135593149	no	#B64539
+Type 1 diabetes mellitus	Psoriasis	-0.0383765836248655	no	#B64539
+Type 1 diabetes mellitus	Other systemic involvement of connective tissue	-0.0885498320358289	no	#B64539
+Type 1 diabetes mellitus	Axial Spondyloarthropathy	0.17104676621206	no	#4A74A9
+Type 1 diabetes mellitus	Cystitis	0.0571398674192782	no	#4A74A9
+Type 1 diabetes mellitus	Endometriosis	0.172204720193818	no	#4A74A9
+Type 1 diabetes mellitus	Turner's syndrome	0.146196604869301	no	#4A74A9
+Type 1 diabetes mellitus	Septic Shock	0.0979162916786048	no	#4A74A9
+Type 2 diabetes mellitus	PCOS	0.0314678683523338	yes	#4A74A9
+Type 2 diabetes mellitus	Other and unspecified metabolic disorders	0.230495648833348	no	#4A74A9
+Type 2 diabetes mellitus	Smoker	-0.179876174011606	no	#B64539
+Type 2 diabetes mellitus	Bipolar disorder	-0.0691329110603221	no	#B64539
+Type 2 diabetes mellitus	Major depression	-0.10843417850265	no	#B64539
+Type 2 diabetes mellitus	Huntington's disease	-0.172623243176609	no	#B64539
+Type 2 diabetes mellitus	Amyotrophic lateral sclerosis	0.202070195125619	no	#4A74A9
+Type 2 diabetes mellitus	Multiple sclerosis	-0.102262079476904	no	#B64539
+Type 2 diabetes mellitus	Acute myocardial infarction	-0.124410919514827	no	#B64539
+Type 2 diabetes mellitus	Cardiomyopathy	0.0476086497010188	no	#4A74A9
+Type 2 diabetes mellitus	Atrial fibrillation	0.138440037958133	no	#4A74A9
+Type 2 diabetes mellitus	Cerebral infarction	0.0494700609183817	no	#4A74A9
+Type 2 diabetes mellitus	Chronic sinusitis	-0.138119044365251	no	#B64539
+Type 2 diabetes mellitus	Chronic Obstructive Pulmonary Disease	-0.0776254388124921	no	#B64539
+Type 2 diabetes mellitus	Asthma	0.185570950363518	no	#4A74A9
+Type 2 diabetes mellitus	Other interstitial pulmonary diseases	0.0584426519912796	no	#4A74A9
+Type 2 diabetes mellitus	Aphthous stomatitis	0.136927938222388	no	#4A74A9
+Type 2 diabetes mellitus	Oral dysplasia	0.0391858521594218	no	#4A74A9
+Type 2 diabetes mellitus	Ulcerative colitis	0.0597207671570164	no	#4A74A9
+Type 2 diabetes mellitus	Irritable bowel syndrome	0.108348050387641	no	#4A74A9
+Type 2 diabetes mellitus	Atopic dermatitis	-0.0826718062982718	no	#B64539
+Type 2 diabetes mellitus	Psoriasis	0.0466537198854424	no	#4A74A9
+Type 2 diabetes mellitus	Osteoarthritis	0.070503897280597	no	#4A74A9
+Type 2 diabetes mellitus	Other systemic involvement of connective tissue	0.302851304310433	no	#4A74A9
+Type 2 diabetes mellitus	Axial Spondyloarthropathy	-0.12448610552319	no	#B64539
+Type 2 diabetes mellitus	Myositis	0.119413238127098	no	#4A74A9
+Type 2 diabetes mellitus	Uremia	-0.0871425853560678	no	#B64539
+Type 2 diabetes mellitus	Endometriosis	-0.285748888123366	no	#B64539
+Type 2 diabetes mellitus	Setleis syndrome	0.0913384001342825	no	#4A74A9
+Type 2 diabetes mellitus	Other specified congenital malformation syndromes affecting multiple systems	0.0770199998883252	no	#4A74A9
+Type 2 diabetes mellitus	Turner's syndrome	-0.186484846050136	no	#B64539
+Type 2 diabetes mellitus	Chronic lung allograft dysfunction	0.0697960924122187	no	#4A74A9
+PCOS	Multiple sclerosis	-0.0431394209590006	no	#B64539
+PCOS	Cardiomyopathy	0.04123706556712	no	#4A74A9
+PCOS	Chronic Obstructive Pulmonary Disease	0.042269106980738	no	#4A74A9
+PCOS	Aphthous stomatitis	0.0370565607055383	no	#4A74A9
+PCOS	Irritable bowel syndrome	0.0518671224663575	no	#4A74A9
+PCOS	Systemic lupus erythematosus	-0.0414936661097048	no	#B64539
+PCOS	Cystitis	0.0388317011006449	no	#4A74A9
+PCOS	Setleis syndrome	0.0365633085709649	no	#4A74A9
+PCOS	Turner's syndrome	0.0535520597393817	no	#4A74A9
+Other and unspecified metabolic disorders	Smoker	-0.225545683173538	no	#B64539
+Other and unspecified metabolic disorders	Schizophrenia	0.0542292546846779	no	#4A74A9
+Other and unspecified metabolic disorders	Major depression	-0.0488109760136608	no	#B64539
+Other and unspecified metabolic disorders	Huntington's disease	-0.0768404448391636	no	#B64539
+Other and unspecified metabolic disorders	Amyotrophic lateral sclerosis	0.10235336675604	no	#4A74A9
+Other and unspecified metabolic disorders	Parkinson's disease	0.131066727575704	no	#4A74A9
+Other and unspecified metabolic disorders	Alzheimer's disease	0.0824270295132759	no	#4A74A9
+Other and unspecified metabolic disorders	Acute myocardial infarction	-0.17460533242472	no	#B64539
+Other and unspecified metabolic disorders	Cardiomyopathy	0.134515055846887	no	#4A74A9
+Other and unspecified metabolic disorders	Cerebral infarction	0.0529849799341016	no	#4A74A9
+Other and unspecified metabolic disorders	Peripheral arterial disease	-0.156888640607736	no	#B64539
+Other and unspecified metabolic disorders	Chronic sinusitis	-0.0424776016796517	no	#B64539
+Other and unspecified metabolic disorders	Chronic Obstructive Pulmonary Disease	-0.153733879208438	no	#B64539
+Other and unspecified metabolic disorders	Asthma	0.161676269332272	no	#4A74A9
+Other and unspecified metabolic disorders	Other interstitial pulmonary diseases	0.114956600885866	no	#4A74A9
+Other and unspecified metabolic disorders	Aphthous stomatitis	0.0769797828711085	no	#4A74A9
+Other and unspecified metabolic disorders	Crohn's disease	-0.130641127555538	no	#B64539
+Other and unspecified metabolic disorders	Atopic dermatitis	-0.0874253312472415	no	#B64539
+Other and unspecified metabolic disorders	Psoriasis	-0.148928994000877	no	#B64539
+Other and unspecified metabolic disorders	Rosacea	-0.113030420711609	no	#B64539
+Other and unspecified metabolic disorders	Osteoarthritis	0.045421446882755	no	#4A74A9
+Other and unspecified metabolic disorders	Systemic lupus erythematosus	-0.206001807396408	no	#B64539
+Other and unspecified metabolic disorders	Other systemic involvement of connective tissue	0.538474995665111	no	#4A74A9
+Other and unspecified metabolic disorders	Axial Spondyloarthropathy	-0.0945173608516018	no	#B64539
+Other and unspecified metabolic disorders	Myositis	0.171421455380835	no	#4A74A9
+Other and unspecified metabolic disorders	Uremia	-0.115342881402225	no	#B64539
+Other and unspecified metabolic disorders	Endometriosis	-0.373631154178371	no	#B64539
+Other and unspecified metabolic disorders	Setleis syndrome	0.216484675537817	no	#4A74A9
+Other and unspecified metabolic disorders	Other specified congenital malformation syndromes affecting multiple systems	0.0571710510947836	no	#4A74A9
+Other and unspecified metabolic disorders	Turner's syndrome	-0.156462270526475	no	#B64539
+Other and unspecified metabolic disorders	Septic Shock	-0.09519397234111	no	#B64539
+Other and unspecified metabolic disorders	Chronic lung allograft dysfunction	0.0674525475087907	yes	#4A74A9
+Smoker	Schizophrenia	0.201359104393519	yes	#4A74A9
+Smoker	Bipolar disorder	0.0904344987661948	no	#4A74A9
+Smoker	Major depression	0.150750793586507	yes	#4A74A9
+Smoker	Huntington's disease	0.174316866594254	no	#4A74A9
+Smoker	Amyotrophic lateral sclerosis	-0.15486914951483	no	#B64539
+Smoker	Parkinson's disease	-0.0674585569955056	no	#B64539
+Smoker	Alzheimer's disease	0.251658439085881	no	#4A74A9
+Smoker	Multiple sclerosis	0.237929453662398	no	#4A74A9
+Smoker	Acute myocardial infarction	0.284626398514914	no	#4A74A9
+Smoker	Cardiomyopathy	-0.0790863294284169	no	#B64539
+Smoker	Cerebral infarction	0.0718901524175644	no	#4A74A9
+Smoker	Peripheral arterial disease	0.0884035414671574	yes	#4A74A9
+Smoker	Chronic sinusitis	0.21665425380775	no	#4A74A9
+Smoker	Chronic Obstructive Pulmonary Disease	0.309220144376146	yes	#4A74A9
+Smoker	Asthma	-0.164780175031674	no	#B64539
+Smoker	Aphthous stomatitis	-0.0580261944221221	no	#B64539
+Smoker	Oral dysplasia	0.129618159527951	no	#4A74A9
+Smoker	Crohn's disease	0.277433645442762	yes	#4A74A9
+Smoker	Ulcerative colitis	0.115570131531013	no	#4A74A9
+Smoker	Irritable bowel syndrome	0.0383955124363933	yes	#4A74A9
+Smoker	Atopic dermatitis	0.170891448379878	no	#4A74A9
+Smoker	Psoriasis	0.0948954383035851	no	#4A74A9
+Smoker	Rosacea	0.176585804569989	no	#4A74A9
+Smoker	Osteoarthritis	-0.0468678564789387	no	#B64539
+Smoker	Systemic lupus erythematosus	0.173884899736583	no	#4A74A9
+Smoker	Other systemic involvement of connective tissue	-0.284943333942358	no	#B64539
+Smoker	Axial Spondyloarthropathy	0.153688879708257	no	#4A74A9
+Smoker	Myositis	0.110528174739579	no	#4A74A9
+Smoker	Uremia	0.165244420807189	no	#4A74A9
+Smoker	Cystitis	0.188759643580679	no	#4A74A9
+Smoker	Endometriosis	0.645739668509478	no	#4A74A9
+Smoker	Setleis syndrome	-0.0709442107405066	no	#B64539
+Smoker	Other specified congenital malformation syndromes affecting multiple systems	0.0892766660066177	no	#4A74A9
+Smoker	Turner's syndrome	0.20216217545156	no	#4A74A9
+Smoker	Septic Shock	0.179049921229037	no	#4A74A9
+Schizophrenia	Bipolar disorder	0.836368924459879	yes	#4A74A9
+Schizophrenia	Major depression	0.510766971075577	yes	#4A74A9
+Schizophrenia	Huntington's disease	0.0839508241924171	no	#4A74A9
+Schizophrenia	Amyotrophic lateral sclerosis	-0.0861738516334195	no	#B64539
+Schizophrenia	Parkinson's disease	0.0946538226514562	no	#4A74A9
+Schizophrenia	Alzheimer's disease	0.846833480705069	no	#4A74A9
+Schizophrenia	Multiple sclerosis	0.0682992294935733	no	#4A74A9
+Schizophrenia	Acute myocardial infarction	0.0929048237051687	no	#4A74A9
+Schizophrenia	Atrial fibrillation	-0.103742876888304	no	#B64539
+Schizophrenia	Cerebral infarction	0.0584375308874171	no	#4A74A9
+Schizophrenia	Chronic sinusitis	0.116373067255159	no	#4A74A9
+Schizophrenia	Chronic Obstructive Pulmonary Disease	0.0934011642194432	yes	#4A74A9
+Schizophrenia	Asthma	-0.105088374315647	no	#B64539
+Schizophrenia	Oral dysplasia	0.07412772056561	no	#4A74A9
+Schizophrenia	Atopic dermatitis	0.15808689491876	no	#4A74A9
+Schizophrenia	Psoriasis	-0.0605017270445769	no	#B64539
+Schizophrenia	Other systemic involvement of connective tissue	0.0719229206179626	no	#4A74A9
+Schizophrenia	Axial Spondyloarthropathy	0.158646059155129	no	#4A74A9
+Schizophrenia	Myositis	0.0702153913664688	no	#4A74A9
+Schizophrenia	Uremia	0.0343370494425998	no	#4A74A9
+Schizophrenia	Cystitis	0.116206414690558	no	#4A74A9
+Schizophrenia	Endometriosis	0.173227328425985	no	#4A74A9
+Schizophrenia	Turner's syndrome	0.101565121514465	no	#4A74A9
+Schizophrenia	Septic Shock	0.0617218216698881	no	#4A74A9
+Bipolar disorder	Major depression	0.495411738029578	yes	#4A74A9
+Bipolar disorder	Huntington's disease	0.0952403600249328	no	#4A74A9
+Bipolar disorder	Amyotrophic lateral sclerosis	-0.0402276423629153	no	#B64539
+Bipolar disorder	Parkinson's disease	0.0398699365446792	no	#4A74A9
+Bipolar disorder	Alzheimer's disease	0.38166041915311	no	#4A74A9
+Bipolar disorder	Multiple sclerosis	0.0523720643206704	no	#4A74A9
+Bipolar disorder	Acute myocardial infarction	0.0706015171149854	no	#4A74A9
+Bipolar disorder	Atrial fibrillation	-0.0841850100635926	no	#B64539
+Bipolar disorder	Peripheral arterial disease	-0.0506656631009914	no	#B64539
+Bipolar disorder	Chronic sinusitis	0.0830242331400687	no	#4A74A9
+Bipolar disorder	Chronic Obstructive Pulmonary Disease	0.0533490119962951	no	#4A74A9
+Bipolar disorder	Asthma	-0.0605016533911399	no	#B64539
+Bipolar disorder	Oral dysplasia	0.0522669949415397	no	#4A74A9
+Bipolar disorder	Atopic dermatitis	0.0641471974918772	no	#4A74A9
+Bipolar disorder	Psoriasis	-0.0502372928688249	no	#B64539
+Bipolar disorder	Rosacea	-0.0504150432121484	no	#B64539
+Bipolar disorder	Axial Spondyloarthropathy	0.166027767620287	no	#4A74A9
+Bipolar disorder	Cystitis	0.0409541851796263	no	#4A74A9
+Bipolar disorder	Endometriosis	0.0833130053674508	no	#4A74A9
+Bipolar disorder	Turner's syndrome	0.0893666961851996	no	#4A74A9
+Major depression	Huntington's disease	0.0542789331613823	no	#4A74A9
+Major depression	Amyotrophic lateral sclerosis	-0.0508648768326257	no	#B64539
+Major depression	Parkinson's disease	0.0858961151110987	no	#4A74A9
+Major depression	Alzheimer's disease	0.201588505511459	no	#4A74A9
+Major depression	Multiple sclerosis	0.13048582695104	no	#4A74A9
+Major depression	Acute myocardial infarction	0.0858177525357523	no	#4A74A9
+Major depression	Atrial fibrillation	-0.147854959478423	no	#B64539
+Major depression	Peripheral arterial disease	-0.0709608445818067	no	#B64539
+Major depression	Chronic sinusitis	0.0925115573288034	no	#4A74A9
+Major depression	Asthma	-0.0718952385937872	no	#B64539
+Major depression	Irritable bowel syndrome	-0.0326539259937015	no	#B64539
+Major depression	Atopic dermatitis	0.0914246503664147	no	#4A74A9
+Major depression	Psoriasis	-0.0623188323776947	no	#B64539
+Major depression	Rosacea	-0.0637085739959655	no	#B64539
+Major depression	Osteoarthritis	-0.0265346620685471	no	#B64539
+Major depression	Other systemic involvement of connective tissue	-0.0831276472527693	no	#B64539
+Major depression	Axial Spondyloarthropathy	0.270995178116805	no	#4A74A9
+Major depression	Myositis	-0.0346674098523959	no	#B64539
+Major depression	Uremia	0.0433127778381265	no	#4A74A9
+Major depression	Endometriosis	0.188445502138391	no	#4A74A9
+Major depression	Turner's syndrome	0.123465846911744	no	#4A74A9
+Major depression	Chronic lung allograft dysfunction	-0.0332855252736508	no	#B64539
+Huntington's disease	Amyotrophic lateral sclerosis	-0.148354278019613	no	#B64539
+Huntington's disease	Alzheimer's disease	0.104345103708671	no	#4A74A9
+Huntington's disease	Multiple sclerosis	0.257954370964042	no	#4A74A9
+Huntington's disease	Acute myocardial infarction	0.140746864015124	no	#4A74A9
+Huntington's disease	Cerebral infarction	0.131965730240898	no	#4A74A9
+Huntington's disease	Peripheral arterial disease	-0.0918589242874244	no	#B64539
+Huntington's disease	Chronic sinusitis	0.0963376954747826	no	#4A74A9
+Huntington's disease	Asthma	-0.108841936241718	no	#B64539
+Huntington's disease	Aphthous stomatitis	-0.0838616525953827	no	#B64539
+Huntington's disease	Psoriasis	-0.0520165977219214	no	#B64539
+Huntington's disease	Other systemic involvement of connective tissue	-0.16063253201784	no	#B64539
+Huntington's disease	Axial Spondyloarthropathy	0.178169180878946	no	#4A74A9
+Huntington's disease	Uremia	0.0622824290848088	no	#4A74A9
+Huntington's disease	Endometriosis	0.211989273378874	no	#4A74A9
+Huntington's disease	Turner's syndrome	0.193228485751812	no	#4A74A9
+Amyotrophic lateral sclerosis	Parkinson's disease	0.0666569869490457	no	#4A74A9
+Amyotrophic lateral sclerosis	Alzheimer's disease	-0.108167302105741	no	#B64539
+Amyotrophic lateral sclerosis	Multiple sclerosis	-0.0823845696646243	no	#B64539
+Amyotrophic lateral sclerosis	Acute myocardial infarction	-0.103374073987899	no	#B64539
+Amyotrophic lateral sclerosis	Cardiomyopathy	0.0707562161449578	no	#4A74A9
+Amyotrophic lateral sclerosis	Atrial fibrillation	0.0604512941551198	no	#4A74A9
+Amyotrophic lateral sclerosis	Peripheral arterial disease	-0.0320082724108336	no	#B64539
+Amyotrophic lateral sclerosis	Chronic sinusitis	-0.131992133685685	no	#B64539
+Amyotrophic lateral sclerosis	Chronic Obstructive Pulmonary Disease	-0.0397771708950376	no	#B64539
+Amyotrophic lateral sclerosis	Asthma	0.167935050253696	no	#4A74A9
+Amyotrophic lateral sclerosis	Other interstitial pulmonary diseases	-0.0664031095087243	no	#B64539
+Amyotrophic lateral sclerosis	Irritable bowel syndrome	0.0380357196885704	no	#4A74A9
+Amyotrophic lateral sclerosis	Psoriasis	0.166789123713723	no	#4A74A9
+Amyotrophic lateral sclerosis	Rosacea	0.0452567248199867	no	#4A74A9
+Amyotrophic lateral sclerosis	Systemic lupus erythematosus	-0.0520637827118592	no	#B64539
+Amyotrophic lateral sclerosis	Other systemic involvement of connective tissue	0.205178939112634	no	#4A74A9
+Amyotrophic lateral sclerosis	Axial Spondyloarthropathy	-0.0610315569473447	no	#B64539
+Amyotrophic lateral sclerosis	Uremia	-0.074570452876707	no	#B64539
+Amyotrophic lateral sclerosis	Endometriosis	-0.263637764002742	no	#B64539
+Amyotrophic lateral sclerosis	Setleis syndrome	0.176101288510192	no	#4A74A9
+Amyotrophic lateral sclerosis	Turner's syndrome	-0.12027229936957	no	#B64539
+Amyotrophic lateral sclerosis	Septic Shock	-0.042649211103297	no	#B64539
+Amyotrophic lateral sclerosis	Chronic lung allograft dysfunction	0.0493124213483429	no	#4A74A9
+Parkinson's disease	Alzheimer's disease	0.0898819388628412	no	#4A74A9
+Parkinson's disease	Cardiomyopathy	0.115163611778285	no	#4A74A9
+Parkinson's disease	Cerebral infarction	0.0440387777296818	no	#4A74A9
+Parkinson's disease	Peripheral arterial disease	-0.085820522360263	no	#B64539
+Parkinson's disease	Chronic sinusitis	-0.0350021197781795	no	#B64539
+Parkinson's disease	Chronic Obstructive Pulmonary Disease	-0.0929893247078028	no	#B64539
+Parkinson's disease	Other interstitial pulmonary diseases	0.14075751630029	no	#4A74A9
+Parkinson's disease	Crohn's disease	-0.0451770338329161	no	#B64539
+Parkinson's disease	Atopic dermatitis	0.0412681307201957	no	#4A74A9
+Parkinson's disease	Psoriasis	-0.0387799910705226	no	#B64539
+Parkinson's disease	Axial Spondyloarthropathy	0.0901890496671191	no	#4A74A9
+Parkinson's disease	Endometriosis	-0.0505580191782212	no	#B64539
+Parkinson's disease	Setleis syndrome	0.0557407093208421	no	#4A74A9
+Parkinson's disease	Turner's syndrome	0.0581066318433076	no	#4A74A9
+Parkinson's disease	Septic Shock	-0.0658355897779062	no	#B64539
+Parkinson's disease	Chronic lung allograft dysfunction	0.0441174160413793	no	#4A74A9
+Alzheimer's disease	Multiple sclerosis	0.124463484419797	no	#4A74A9
+Alzheimer's disease	Acute myocardial infarction	0.0657797985763617	no	#4A74A9
+Alzheimer's disease	Atrial fibrillation	-0.091301568509958	no	#B64539
+Alzheimer's disease	Cerebral infarction	0.0765411517137186	no	#4A74A9
+Alzheimer's disease	Chronic sinusitis	0.181292362516222	no	#4A74A9
+Alzheimer's disease	Chronic Obstructive Pulmonary Disease	0.0620019657185051	no	#4A74A9
+Alzheimer's disease	Asthma	-0.127567692825556	no	#B64539
+Alzheimer's disease	Other interstitial pulmonary diseases	0.0957814880965321	no	#4A74A9
+Alzheimer's disease	Aphthous stomatitis	0.0581069501888046	no	#4A74A9
+Alzheimer's disease	Oral dysplasia	0.101959264654611	no	#4A74A9
+Alzheimer's disease	Crohn's disease	0.0434915523516333	no	#4A74A9
+Alzheimer's disease	Ulcerative colitis	0.0462299609233784	no	#4A74A9
+Alzheimer's disease	Atopic dermatitis	0.142720022615002	no	#4A74A9
+Alzheimer's disease	Psoriasis	-0.0964878653695003	no	#B64539
+Alzheimer's disease	Other systemic involvement of connective tissue	0.0669968185914142	no	#4A74A9
+Alzheimer's disease	Axial Spondyloarthropathy	0.126440904305801	no	#4A74A9
+Alzheimer's disease	Myositis	0.0783887624738553	no	#4A74A9
+Alzheimer's disease	Uremia	0.0872397680031892	no	#4A74A9
+Alzheimer's disease	Cystitis	0.184700906787873	no	#4A74A9
+Alzheimer's disease	Endometriosis	0.25304896135073	no	#4A74A9
+Alzheimer's disease	Turner's syndrome	0.123104689598808	no	#4A74A9
+Alzheimer's disease	Septic Shock	0.106401103279821	no	#4A74A9
+Alzheimer's disease	Chronic lung allograft dysfunction	-0.0475756446057365	no	#B64539
+Multiple sclerosis	Acute myocardial infarction	0.14715525992775	no	#4A74A9
+Multiple sclerosis	Atrial fibrillation	-0.0669907305987498	no	#B64539
+Multiple sclerosis	Cerebral infarction	-0.0492598026563918	no	#B64539
+Multiple sclerosis	Peripheral arterial disease	-0.0958960294057975	no	#B64539
+Multiple sclerosis	Chronic sinusitis	0.0680961839078296	no	#4A74A9
+Multiple sclerosis	Asthma	-0.045774871568357	no	#B64539
+Multiple sclerosis	Aphthous stomatitis	-0.0691466824587153	no	#B64539
+Multiple sclerosis	Psoriasis	-0.0436887219908941	no	#B64539
+Multiple sclerosis	Osteoarthritis	-0.0652960873620642	no	#B64539
+Multiple sclerosis	Systemic lupus erythematosus	0.0649467923849213	no	#4A74A9
+Multiple sclerosis	Axial Spondyloarthropathy	0.250021030366812	no	#4A74A9
+Multiple sclerosis	Uremia	0.1315807045563	no	#4A74A9
+Multiple sclerosis	Endometriosis	0.195979793079404	no	#4A74A9
+Multiple sclerosis	Turner's syndrome	0.0707603861481925	no	#4A74A9
+Multiple sclerosis	Chronic lung allograft dysfunction	0.0466657606712971	no	#4A74A9
+Acute myocardial infarction	Cardiomyopathy	-0.0622646606874965	no	#B64539
+Acute myocardial infarction	Cerebral infarction	0.103696553561083	no	#4A74A9
+Acute myocardial infarction	Peripheral arterial disease	0.111837985858931	yes	#4A74A9
+Acute myocardial infarction	Chronic sinusitis	0.099685123945718	no	#4A74A9
+Acute myocardial infarction	Chronic Obstructive Pulmonary Disease	0.173610085482859	no	#4A74A9
+Acute myocardial infarction	Asthma	-0.101237794357677	no	#B64539
+Acute myocardial infarction	Oral dysplasia	0.0798454123775812	no	#4A74A9
+Acute myocardial infarction	Crohn's disease	0.167071133937555	no	#4A74A9
+Acute myocardial infarction	Ulcerative colitis	0.0933286053213022	no	#4A74A9
+Acute myocardial infarction	Irritable bowel syndrome	0.0561352521684203	no	#4A74A9
+Acute myocardial infarction	Atopic dermatitis	0.13386128993293	no	#4A74A9
+Acute myocardial infarction	Psoriasis	0.109657378681677	no	#4A74A9
+Acute myocardial infarction	Rosacea	0.113927759867777	no	#4A74A9
+Acute myocardial infarction	Systemic lupus erythematosus	0.328368936863464	no	#4A74A9
+Acute myocardial infarction	Other systemic involvement of connective tissue	-0.244544676179303	no	#B64539
+Acute myocardial infarction	Axial Spondyloarthropathy	0.175199490336936	no	#4A74A9
+Acute myocardial infarction	Myositis	0.0321304936206099	no	#4A74A9
+Acute myocardial infarction	Uremia	0.246011382039031	yes	#4A74A9
+Acute myocardial infarction	Cystitis	0.0869509059678555	no	#4A74A9
+Acute myocardial infarction	Endometriosis	0.388937650760689	no	#4A74A9
+Acute myocardial infarction	Setleis syndrome	-0.0802805971274359	no	#B64539
+Acute myocardial infarction	Other specified congenital malformation syndromes affecting multiple systems	0.0396314908919844	no	#4A74A9
+Acute myocardial infarction	Turner's syndrome	0.149622529953382	no	#4A74A9
+Acute myocardial infarction	Septic Shock	0.180277187208917	no	#4A74A9
+Cardiomyopathy	Atrial fibrillation	0.0332000820505311	yes	#4A74A9
+Cardiomyopathy	Cerebral infarction	0.0357183010978031	no	#4A74A9
+Cardiomyopathy	Peripheral arterial disease	-0.0787676587868261	no	#B64539
+Cardiomyopathy	Chronic sinusitis	-0.0729731566828715	no	#B64539
+Cardiomyopathy	Asthma	0.141107495107431	no	#4A74A9
+Cardiomyopathy	Other interstitial pulmonary diseases	0.0419658779096637	no	#4A74A9
+Cardiomyopathy	Crohn's disease	-0.0949186627326372	no	#B64539
+Cardiomyopathy	Ulcerative colitis	-0.0954230308948801	no	#B64539
+Cardiomyopathy	Atopic dermatitis	-0.0859496983800832	no	#B64539
+Cardiomyopathy	Psoriasis	-0.111575872070945	no	#B64539
+Cardiomyopathy	Rosacea	-0.0634801965520526	no	#B64539
+Cardiomyopathy	Systemic lupus erythematosus	-0.161000639385377	no	#B64539
+Cardiomyopathy	Other systemic involvement of connective tissue	0.146012128122541	no	#4A74A9
+Cardiomyopathy	Uremia	-0.0880375461008742	no	#B64539
+Cardiomyopathy	Cystitis	-0.0880914596727196	no	#B64539
+Cardiomyopathy	Endometriosis	-0.147620871393839	no	#B64539
+Cardiomyopathy	Setleis syndrome	0.16684628078389	no	#4A74A9
+Cardiomyopathy	Septic Shock	-0.0552174302648228	no	#B64539
+Atrial fibrillation	Cerebral infarction	0.0806237359912579	no	#4A74A9
+Atrial fibrillation	Peripheral arterial disease	0.13351267869033	no	#4A74A9
+Atrial fibrillation	Chronic sinusitis	-0.0608895250228035	no	#B64539
+Atrial fibrillation	Asthma	0.0645811874582391	no	#4A74A9
+Atrial fibrillation	Other interstitial pulmonary diseases	0.0898017738106185	no	#4A74A9
+Atrial fibrillation	Aphthous stomatitis	0.0702628023977126	no	#4A74A9
+Atrial fibrillation	Crohn's disease	0.0484324043353561	no	#4A74A9
+Atrial fibrillation	Irritable bowel syndrome	0.0577068835692532	no	#4A74A9
+Atrial fibrillation	Psoriasis	0.0878593010898472	no	#4A74A9
+Atrial fibrillation	Rosacea	0.0826037572052117	no	#4A74A9
+Atrial fibrillation	Osteoarthritis	0.0408434732862416	no	#4A74A9
+Atrial fibrillation	Axial Spondyloarthropathy	-0.147377331888593	no	#B64539
+Atrial fibrillation	Setleis syndrome	0.0889528137491669	no	#4A74A9
+Atrial fibrillation	Other specified congenital malformation syndromes affecting multiple systems	0.0776057729716555	yes	#4A74A9
+Atrial fibrillation	Turner's syndrome	-0.0584679787706901	no	#B64539
+Atrial fibrillation	Chronic lung allograft dysfunction	0.0510998077176398	yes	#4A74A9
+Cerebral infarction	Chronic Obstructive Pulmonary Disease	0.128325580089852	no	#4A74A9
+Cerebral infarction	Asthma	0.0347631712669698	no	#4A74A9
+Cerebral infarction	Aphthous stomatitis	0.0822095376903132	no	#4A74A9
+Cerebral infarction	Oral dysplasia	0.0620836980794219	no	#4A74A9
+Cerebral infarction	Crohn's disease	0.0502263780342062	no	#4A74A9
+Cerebral infarction	Atopic dermatitis	-0.0664065521983497	no	#B64539
+Cerebral infarction	Systemic lupus erythematosus	0.130289234964309	yes	#4A74A9
+Cerebral infarction	Other systemic involvement of connective tissue	0.064162891778414	no	#4A74A9
+Cerebral infarction	Axial Spondyloarthropathy	-0.0605947158204972	no	#B64539
+Cerebral infarction	Myositis	0.0518963377361298	no	#4A74A9
+Cerebral infarction	Uremia	0.0485065881129746	no	#4A74A9
+Cerebral infarction	Setleis syndrome	0.0755165089235903	no	#4A74A9
+Cerebral infarction	Other specified congenital malformation syndromes affecting multiple systems	0.0719304132316676	no	#4A74A9
+Cerebral infarction	Turner's syndrome	-0.0510828327995703	no	#B64539
+Cerebral infarction	Septic Shock	0.167292592563222	no	#4A74A9
+Peripheral arterial disease	Chronic Obstructive Pulmonary Disease	0.18957403174531	no	#4A74A9
+Peripheral arterial disease	Other interstitial pulmonary diseases	0.0613343683639149	no	#4A74A9
+Peripheral arterial disease	Aphthous stomatitis	0.0634284354377451	no	#4A74A9
+Peripheral arterial disease	Oral dysplasia	0.0768729783310465	no	#4A74A9
+Peripheral arterial disease	Crohn's disease	0.162310719677706	no	#4A74A9
+Peripheral arterial disease	Ulcerative colitis	0.103865623830325	no	#4A74A9
+Peripheral arterial disease	Irritable bowel syndrome	0.119148760870301	no	#4A74A9
+Peripheral arterial disease	Atopic dermatitis	0.0789808026040299	no	#4A74A9
+Peripheral arterial disease	Psoriasis	0.192801164528823	no	#4A74A9
+Peripheral arterial disease	Rosacea	0.116805807044477	no	#4A74A9
+Peripheral arterial disease	Osteoarthritis	0.0427185831537146	no	#4A74A9
+Peripheral arterial disease	Systemic lupus erythematosus	0.313943427431108	yes	#4A74A9
+Peripheral arterial disease	Other systemic involvement of connective tissue	-0.189902108005814	no	#B64539
+Peripheral arterial disease	Axial Spondyloarthropathy	-0.0864856469813838	no	#B64539
+Peripheral arterial disease	Myositis	0.0806580491382883	no	#4A74A9
+Peripheral arterial disease	Uremia	0.0907623544014008	yes	#4A74A9
+Peripheral arterial disease	Cystitis	0.0449731947981822	no	#4A74A9
+Peripheral arterial disease	Endometriosis	0.162753366607559	no	#4A74A9
+Peripheral arterial disease	Setleis syndrome	-0.0790898405815886	no	#B64539
+Peripheral arterial disease	Other specified congenital malformation syndromes affecting multiple systems	0.0910811450781268	no	#4A74A9
+Peripheral arterial disease	Septic Shock	0.143178521338496	no	#4A74A9
+Chronic sinusitis	Asthma	-0.0556736811757293	no	#B64539
+Chronic sinusitis	Other interstitial pulmonary diseases	0.167661551975305	no	#4A74A9
+Chronic sinusitis	Oral dysplasia	0.151719137755949	no	#4A74A9
+Chronic sinusitis	Crohn's disease	0.117384233431116	no	#4A74A9
+Chronic sinusitis	Ulcerative colitis	0.179809754850442	no	#4A74A9
+Chronic sinusitis	Irritable bowel syndrome	0.130787179670036	no	#4A74A9
+Chronic sinusitis	Atopic dermatitis	0.282503483458056	no	#4A74A9
+Chronic sinusitis	Psoriasis	0.0778698325292042	no	#4A74A9
+Chronic sinusitis	Rosacea	0.0791905277677494	no	#4A74A9
+Chronic sinusitis	Osteoarthritis	0.0648086071267754	no	#4A74A9
+Chronic sinusitis	Systemic lupus erythematosus	0.0537859008475606	no	#4A74A9
+Chronic sinusitis	Other systemic involvement of connective tissue	-0.0956685960454438	no	#B64539
+Chronic sinusitis	Axial Spondyloarthropathy	0.123070168022937	no	#4A74A9
+Chronic sinusitis	Myositis	0.0998306203863856	no	#4A74A9
+Chronic sinusitis	Uremia	0.105024114016152	no	#4A74A9
+Chronic sinusitis	Cystitis	0.221336552110352	no	#4A74A9
+Chronic sinusitis	Endometriosis	0.270120487357077	no	#4A74A9
+Chronic sinusitis	Other specified congenital malformation syndromes affecting multiple systems	-0.0374894359542241	no	#B64539
+Chronic sinusitis	Turner's syndrome	0.210847683999126	no	#4A74A9
+Chronic sinusitis	Septic Shock	0.0840306659429651	no	#4A74A9
+Chronic sinusitis	Chronic lung allograft dysfunction	-0.040319863043096	no	#B64539
+Chronic Obstructive Pulmonary Disease	Asthma	-0.0312371994043678	no	#B64539
+Chronic Obstructive Pulmonary Disease	Other interstitial pulmonary diseases	-0.177818106064713	no	#B64539
+Chronic Obstructive Pulmonary Disease	Aphthous stomatitis	0.0658658783347421	no	#4A74A9
+Chronic Obstructive Pulmonary Disease	Oral dysplasia	0.0978784520885375	no	#4A74A9
+Chronic Obstructive Pulmonary Disease	Crohn's disease	0.235141491164403	no	#4A74A9
+Chronic Obstructive Pulmonary Disease	Atopic dermatitis	0.0498452482558467	no	#4A74A9
+Chronic Obstructive Pulmonary Disease	Psoriasis	0.111695201884365	no	#4A74A9
+Chronic Obstructive Pulmonary Disease	Rosacea	0.119047046651239	no	#4A74A9
+Chronic Obstructive Pulmonary Disease	Systemic lupus erythematosus	0.174475597494599	no	#4A74A9
+Chronic Obstructive Pulmonary Disease	Other systemic involvement of connective tissue	-0.0966595235161296	no	#B64539
+Chronic Obstructive Pulmonary Disease	Axial Spondyloarthropathy	-0.102612174081858	no	#B64539
+Chronic Obstructive Pulmonary Disease	Myositis	0.0523194208157868	no	#4A74A9
+Chronic Obstructive Pulmonary Disease	Uremia	0.04909644986253	no	#4A74A9
+Chronic Obstructive Pulmonary Disease	Cystitis	0.0838600926518442	no	#4A74A9
+Chronic Obstructive Pulmonary Disease	Endometriosis	0.206860755479751	no	#4A74A9
+Chronic Obstructive Pulmonary Disease	Setleis syndrome	-0.0623475430684038	no	#B64539
+Chronic Obstructive Pulmonary Disease	Other specified congenital malformation syndromes affecting multiple systems	0.163933218860331	no	#4A74A9
+Chronic Obstructive Pulmonary Disease	Septic Shock	0.206178260826726	no	#4A74A9
+Asthma	Other interstitial pulmonary diseases	0.0477062106262519	yes	#4A74A9
+Asthma	Oral dysplasia	0.0731490096044945	no	#4A74A9
+Asthma	Crohn's disease	-0.0632689978592747	no	#B64539
+Asthma	Atopic dermatitis	-0.127479665226591	no	#B64539
+Asthma	Rosacea	-0.0552410126157349	no	#B64539
+Asthma	Osteoarthritis	0.0911383818294351	no	#4A74A9
+Asthma	Other systemic involvement of connective tissue	0.119158239243248	no	#4A74A9
+Asthma	Axial Spondyloarthropathy	-0.105974994821418	no	#B64539
+Asthma	Uremia	-0.102059672705237	no	#B64539
+Asthma	Cystitis	-0.102042072185104	no	#B64539
+Asthma	Endometriosis	-0.298325950461211	no	#B64539
+Asthma	Setleis syndrome	0.139729005826272	no	#4A74A9
+Asthma	Other specified congenital malformation syndromes affecting multiple systems	0.0370431796668608	no	#4A74A9
+Asthma	Turner's syndrome	-0.175949292399607	no	#B64539
+Asthma	Septic Shock	0.0576464387003434	no	#4A74A9
+Other interstitial pulmonary diseases	Aphthous stomatitis	0.0885240459183136	no	#4A74A9
+Other interstitial pulmonary diseases	Oral dysplasia	0.0452123514045933	no	#4A74A9
+Other interstitial pulmonary diseases	Crohn's disease	-0.0410072622387324	no	#B64539
+Other interstitial pulmonary diseases	Ulcerative colitis	0.125491081453513	no	#4A74A9
+Other interstitial pulmonary diseases	Irritable bowel syndrome	0.121544757482985	no	#4A74A9
+Other interstitial pulmonary diseases	Atopic dermatitis	0.163520823697058	no	#4A74A9
+Other interstitial pulmonary diseases	Psoriasis	-0.0956647526621089	no	#B64539
+Other interstitial pulmonary diseases	Osteoarthritis	0.134563846683433	no	#4A74A9
+Other interstitial pulmonary diseases	Systemic lupus erythematosus	-0.0436049487043647	no	#B64539
+Other interstitial pulmonary diseases	Axial Spondyloarthropathy	0.0922172048320806	no	#4A74A9
+Other interstitial pulmonary diseases	Myositis	0.125796026980233	no	#4A74A9
+Other interstitial pulmonary diseases	Cystitis	0.0552966118126838	no	#4A74A9
+Other interstitial pulmonary diseases	Turner's syndrome	0.182185174031484	no	#4A74A9
+Other interstitial pulmonary diseases	Septic Shock	-0.088020904247286	no	#B64539
+Other interstitial pulmonary diseases	Chronic lung allograft dysfunction	-0.0840779858054796	no	#B64539
+Aphthous stomatitis	Oral dysplasia	0.220767304417047	yes	#4A74A9
+Aphthous stomatitis	Crohn's disease	0.0687957012673254	no	#4A74A9
+Aphthous stomatitis	Ulcerative colitis	0.2280136632395	no	#4A74A9
+Aphthous stomatitis	Irritable bowel syndrome	0.271653352615431	no	#4A74A9
+Aphthous stomatitis	Atopic dermatitis	0.0619627587079877	no	#4A74A9
+Aphthous stomatitis	Rosacea	0.0643672576418733	no	#4A74A9
+Aphthous stomatitis	Osteoarthritis	0.115176243775349	no	#4A74A9
+Aphthous stomatitis	Systemic lupus erythematosus	0.0872231573772053	no	#4A74A9
+Aphthous stomatitis	Other systemic involvement of connective tissue	0.193156388175304	no	#4A74A9
+Aphthous stomatitis	Myositis	0.230776893878138	no	#4A74A9
+Aphthous stomatitis	Cystitis	0.254101964642241	no	#4A74A9
+Aphthous stomatitis	Endometriosis	-0.0927882301258827	no	#B64539
+Aphthous stomatitis	Other specified congenital malformation syndromes affecting multiple systems	0.124567622739283	no	#4A74A9
+Aphthous stomatitis	Turner's syndrome	-0.0605566916897746	no	#B64539
+Aphthous stomatitis	Septic Shock	0.073190508628836	no	#4A74A9
+Aphthous stomatitis	Chronic lung allograft dysfunction	0.0449556252105609	no	#4A74A9
+Oral dysplasia	Crohn's disease	0.172713179713112	no	#4A74A9
+Oral dysplasia	Ulcerative colitis	0.276010628034514	no	#4A74A9
+Oral dysplasia	Irritable bowel syndrome	0.313168354380627	no	#4A74A9
+Oral dysplasia	Atopic dermatitis	0.141959688453212	no	#4A74A9
+Oral dysplasia	Psoriasis	0.251446098357518	no	#4A74A9
+Oral dysplasia	Rosacea	0.0815115630286298	no	#4A74A9
+Oral dysplasia	Osteoarthritis	0.0916096898655396	no	#4A74A9
+Oral dysplasia	Systemic lupus erythematosus	0.101117996675706	no	#4A74A9
+Oral dysplasia	Myositis	0.245091522178772	no	#4A74A9
+Oral dysplasia	Uremia	0.0380633403068536	no	#4A74A9
+Oral dysplasia	Cystitis	0.310587372238397	no	#4A74A9
+Oral dysplasia	Endometriosis	0.0554467827479648	no	#4A74A9
+Oral dysplasia	Other specified congenital malformation syndromes affecting multiple systems	0.129121257176273	no	#4A74A9
+Oral dysplasia	Septic Shock	0.12366252340697	no	#4A74A9
+Crohn's disease	Ulcerative colitis	0.19799361770734	yes	#4A74A9
+Crohn's disease	Irritable bowel syndrome	0.185456691748521	yes	#4A74A9
+Crohn's disease	Atopic dermatitis	0.188777871127025	no	#4A74A9
+Crohn's disease	Psoriasis	0.40516005864106	yes	#4A74A9
+Crohn's disease	Rosacea	0.300904060849973	yes	#4A74A9
+Crohn's disease	Osteoarthritis	0.0560198094729008	no	#4A74A9
+Crohn's disease	Systemic lupus erythematosus	0.272183432307001	no	#4A74A9
+Crohn's disease	Other systemic involvement of connective tissue	-0.0684464018748707	no	#B64539
+Crohn's disease	Myositis	0.182190673829719	no	#4A74A9
+Crohn's disease	Uremia	0.124190787414607	yes	#4A74A9
+Crohn's disease	Cystitis	0.297137663165307	no	#4A74A9
+Crohn's disease	Endometriosis	0.198275526550853	no	#4A74A9
+Crohn's disease	Setleis syndrome	-0.0754942384061341	no	#B64539
+Crohn's disease	Other specified congenital malformation syndromes affecting multiple systems	0.0738714604729116	no	#4A74A9
+Crohn's disease	Septic Shock	0.210058919513023	no	#4A74A9
+Ulcerative colitis	Irritable bowel syndrome	1	yes	#4A74A9
+Ulcerative colitis	Atopic dermatitis	0.223759409939203	no	#4A74A9
+Ulcerative colitis	Psoriasis	0.333692688564272	no	#4A74A9
+Ulcerative colitis	Rosacea	0.195181564572104	no	#4A74A9
+Ulcerative colitis	Osteoarthritis	0.102763646954539	no	#4A74A9
+Ulcerative colitis	Systemic lupus erythematosus	0.214372809562822	no	#4A74A9
+Ulcerative colitis	Axial Spondyloarthropathy	0.0814475138197397	no	#4A74A9
+Ulcerative colitis	Myositis	0.2876562327016	no	#4A74A9
+Ulcerative colitis	Uremia	0.0529887359498013	no	#4A74A9
+Ulcerative colitis	Cystitis	0.437354433058148	no	#4A74A9
+Ulcerative colitis	Endometriosis	0.11026152730795	no	#4A74A9
+Ulcerative colitis	Setleis syndrome	-0.0860078917827861	no	#B64539
+Ulcerative colitis	Turner's syndrome	0.0951122087924274	no	#4A74A9
+Ulcerative colitis	Septic Shock	0.0787297334349138	no	#4A74A9
+Ulcerative colitis	Chronic lung allograft dysfunction	0.0415906812488119	no	#4A74A9
+Irritable bowel syndrome	Atopic dermatitis	0.183474193283532	no	#4A74A9
+Irritable bowel syndrome	Psoriasis	0.279163264459802	no	#4A74A9
+Irritable bowel syndrome	Rosacea	0.166027207067653	no	#4A74A9
+Irritable bowel syndrome	Osteoarthritis	0.13676299660016	no	#4A74A9
+Irritable bowel syndrome	Systemic lupus erythematosus	0.188109674802719	no	#4A74A9
+Irritable bowel syndrome	Other systemic involvement of connective tissue	0.0636780185541701	no	#4A74A9
+Irritable bowel syndrome	Axial Spondyloarthropathy	0.0391302747298632	yes	#4A74A9
+Irritable bowel syndrome	Myositis	0.346445299899535	no	#4A74A9
+Irritable bowel syndrome	Cystitis	0.51305765629895	no	#4A74A9
+Irritable bowel syndrome	Setleis syndrome	-0.0386331931933224	no	#B64539
+Irritable bowel syndrome	Other specified congenital malformation syndromes affecting multiple systems	0.0469917600885989	no	#4A74A9
+Irritable bowel syndrome	Turner's syndrome	0.0512116040994094	no	#4A74A9
+Irritable bowel syndrome	Septic Shock	0.13841106364326	no	#4A74A9
+Irritable bowel syndrome	Chronic lung allograft dysfunction	0.0481727000652115	no	#4A74A9
+Atopic dermatitis	Psoriasis	0.371618031529395	no	#4A74A9
+Atopic dermatitis	Rosacea	0.173363157189378	yes	#4A74A9
+Atopic dermatitis	Osteoarthritis	0.148098530904921	no	#4A74A9
+Atopic dermatitis	Systemic lupus erythematosus	0.129934918623482	no	#4A74A9
+Atopic dermatitis	Axial Spondyloarthropathy	0.169127151263737	no	#4A74A9
+Atopic dermatitis	Myositis	0.15579831835398	no	#4A74A9
+Atopic dermatitis	Uremia	0.082441418045885	no	#4A74A9
+Atopic dermatitis	Cystitis	0.265940668716415	no	#4A74A9
+Atopic dermatitis	Endometriosis	0.375286494779965	no	#4A74A9
+Atopic dermatitis	Other specified congenital malformation syndromes affecting multiple systems	-0.0508478682963829	no	#B64539
+Atopic dermatitis	Turner's syndrome	0.301198043613483	no	#4A74A9
+Atopic dermatitis	Septic Shock	0.0429139141758538	no	#4A74A9
+Psoriasis	Rosacea	0.50799466746925	no	#4A74A9
+Psoriasis	Osteoarthritis	0.112101988803594	no	#4A74A9
+Psoriasis	Systemic lupus erythematosus	0.347027348562563	no	#4A74A9
+Psoriasis	Other systemic involvement of connective tissue	-0.0990170236160097	no	#B64539
+Psoriasis	Myositis	0.183728024471704	no	#4A74A9
+Psoriasis	Uremia	0.0894553634190004	no	#4A74A9
+Psoriasis	Cystitis	0.261050156956152	no	#4A74A9
+Psoriasis	Endometriosis	0.133422432267954	no	#4A74A9
+Psoriasis	Setleis syndrome	-0.0958354232864806	no	#B64539
+Psoriasis	Other specified congenital malformation syndromes affecting multiple systems	0.0519244380900518	no	#4A74A9
+Psoriasis	Septic Shock	0.180195919302463	no	#4A74A9
+Psoriasis	Chronic lung allograft dysfunction	0.0976589100475935	no	#4A74A9
+Rosacea	Systemic lupus erythematosus	0.172532554719818	yes	#4A74A9
+Rosacea	Other systemic involvement of connective tissue	-0.0711524391218528	no	#B64539
+Rosacea	Myositis	0.190533104213429	no	#4A74A9
+Rosacea	Uremia	0.0592079989196787	no	#4A74A9
+Rosacea	Cystitis	0.265438763180925	no	#4A74A9
+Rosacea	Endometriosis	0.161424735119175	no	#4A74A9
+Rosacea	Setleis syndrome	-0.07464586853476	no	#B64539
+Rosacea	Septic Shock	0.115293365417987	no	#4A74A9
+Rosacea	Chronic lung allograft dysfunction	0.0490588677844871	no	#4A74A9
+Osteoarthritis	Systemic lupus erythematosus	0.0436539281320698	no	#4A74A9
+Osteoarthritis	Other systemic involvement of connective tissue	0.068057126466225	no	#4A74A9
+Osteoarthritis	Axial Spondyloarthropathy	-0.0446183825540154	no	#B64539
+Osteoarthritis	Myositis	0.250301493266023	no	#4A74A9
+Osteoarthritis	Uremia	-0.0655404181593317	no	#B64539
+Osteoarthritis	Cystitis	0.100407185990574	no	#4A74A9
+Osteoarthritis	Endometriosis	-0.0312659573095939	no	#B64539
+Osteoarthritis	Other specified congenital malformation syndromes affecting multiple systems	0.0434074772667669	no	#4A74A9
+Systemic lupus erythematosus	Other systemic involvement of connective tissue	-0.275137796924514	no	#B64539
+Systemic lupus erythematosus	Axial Spondyloarthropathy	0.0630974853988319	no	#4A74A9
+Systemic lupus erythematosus	Myositis	0.112464649232104	no	#4A74A9
+Systemic lupus erythematosus	Uremia	0.346281123815586	yes	#4A74A9
+Systemic lupus erythematosus	Cystitis	0.110237618310684	no	#4A74A9
+Systemic lupus erythematosus	Endometriosis	0.364463805489412	no	#4A74A9
+Systemic lupus erythematosus	Setleis syndrome	-0.195925576476745	no	#B64539
+Systemic lupus erythematosus	Other specified congenital malformation syndromes affecting multiple systems	0.0756324568698661	no	#4A74A9
+Systemic lupus erythematosus	Turner's syndrome	0.063336288490631	no	#4A74A9
+Systemic lupus erythematosus	Septic Shock	0.43231104281529	no	#4A74A9
+Systemic lupus erythematosus	Chronic lung allograft dysfunction	0.0750414075505183	no	#4A74A9
+Other systemic involvement of connective tissue	Axial Spondyloarthropathy	-0.144762145870584	no	#B64539
+Other systemic involvement of connective tissue	Myositis	0.212296904080188	no	#4A74A9
+Other systemic involvement of connective tissue	Uremia	-0.194568735333829	no	#B64539
+Other systemic involvement of connective tissue	Cystitis	0.0790943510410889	no	#4A74A9
+Other systemic involvement of connective tissue	Endometriosis	-0.577122107490717	no	#B64539
+Other systemic involvement of connective tissue	Setleis syndrome	0.197411903476987	no	#4A74A9
+Other systemic involvement of connective tissue	Turner's syndrome	-0.237270624763398	no	#B64539
+Axial Spondyloarthropathy	Uremia	0.0949404327820768	no	#4A74A9
+Axial Spondyloarthropathy	Cystitis	0.0505201668498268	no	#4A74A9
+Axial Spondyloarthropathy	Endometriosis	0.186692716594853	no	#4A74A9
+Axial Spondyloarthropathy	Other specified congenital malformation syndromes affecting multiple systems	-0.0853947235167302	no	#B64539
+Axial Spondyloarthropathy	Turner's syndrome	0.385295448550909	no	#4A74A9
+Axial Spondyloarthropathy	Chronic lung allograft dysfunction	-0.0564927070503382	no	#B64539
+Myositis	Cystitis	0.361815580083674	no	#4A74A9
+Myositis	Other specified congenital malformation syndromes affecting multiple systems	0.101352644195186	no	#4A74A9
+Myositis	Septic Shock	0.154093510136738	no	#4A74A9
+Myositis	Chronic lung allograft dysfunction	0.0520058316454156	no	#4A74A9
+Uremia	Cystitis	0.0524559355276786	no	#4A74A9
+Uremia	Endometriosis	0.393780955872647	no	#4A74A9
+Uremia	Setleis syndrome	-0.0791511375033417	no	#B64539
+Uremia	Turner's syndrome	0.130947070207828	no	#4A74A9
+Uremia	Septic Shock	0.254467631596405	no	#4A74A9
+Cystitis	Endometriosis	0.155635746326355	no	#4A74A9
+Cystitis	Other specified congenital malformation syndromes affecting multiple systems	0.0699277596889946	no	#4A74A9
+Cystitis	Turner's syndrome	0.0998158676300183	no	#4A74A9
+Cystitis	Septic Shock	0.194259202365272	no	#4A74A9
+Endometriosis	Setleis syndrome	-0.175875875268365	no	#B64539
+Endometriosis	Turner's syndrome	0.354816063754742	no	#4A74A9
+Endometriosis	Septic Shock	0.181662515410669	no	#4A74A9
+Endometriosis	Chronic lung allograft dysfunction	0.0697808350397775	no	#4A74A9
+Setleis syndrome	Turner's syndrome	-0.048140816662781	no	#B64539
+Setleis syndrome	Septic Shock	-0.0500218041507577	no	#B64539
+Setleis syndrome	Chronic lung allograft dysfunction	0.0363771562457887	no	#4A74A9
+Other specified congenital malformation syndromes affecting multiple systems	Turner's syndrome	-0.0690293920435294	no	#B64539
+Other specified congenital malformation syndromes affecting multiple systems	Septic Shock	0.107215164907194	no	#4A74A9
+Septic Shock	Chronic lung allograft dysfunction	-0.0582692485381853	no	#B64539

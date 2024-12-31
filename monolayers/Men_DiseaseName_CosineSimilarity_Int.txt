@@ -1,0 +1,731 @@
+Disease1	Disease2	weight	comorbid	colors
+Trachoma	Dengue fever	0.398423307078851	no	#4A74A9
+Trachoma	Hepatitis C	-0.361516768788904	no	#B64539
+Trachoma	Hepatitis B	0.580316821213094	no	#4A74A9
+Trachoma	Nasopharingeal cancer	0.502995940158792	no	#4A74A9
+Trachoma	Oral cavity cancer	0.449950803345898	no	#4A74A9
+Trachoma	Esophageal cancer	0.41863946256046	no	#4A74A9
+Trachoma	Liver cancer	-0.121182052281719	no	#B64539
+Trachoma	Pancreatic cancer	0.0180787043742578	no	#4A74A9
+Trachoma	Lung cancer	0.0892203236842292	no	#4A74A9
+Trachoma	Mesothelioma	0.164756200784037	no	#4A74A9
+Trachoma	Rhabdoid cancer	0.144375789421812	no	#4A74A9
+Trachoma	Kidney cancer	0.256837925724669	no	#4A74A9
+Trachoma	Bladder cancer	0.710709787777716	no	#4A74A9
+Trachoma	Thyroid cancer	0.560194853169742	no	#4A74A9
+Trachoma	Follicular lymphoma	-0.565422920789354	no	#B64539
+Trachoma	Myelodysplastic syndromes	-0.454272677223846	no	#B64539
+Trachoma	Primary myelofibrosis	-0.281746814539876	no	#B64539
+Trachoma	Job's syndrome	0.25339289438578	no	#4A74A9
+Trachoma	Schizophrenia	0.450970069086363	no	#4A74A9
+Trachoma	Parkinson's disease	0.427565207289965	no	#4A74A9
+Trachoma	Alzheimer's disease	0.173672570190142	no	#4A74A9
+Trachoma	Tibial muscular dystrophy	0.305983560844772	no	#4A74A9
+Trachoma	Cardiomyopathy	-0.215874773237507	no	#B64539
+Trachoma	Cerebral infarction	0.21878290075796	no	#4A74A9
+Trachoma	Other interstitial pulmonary diseases	-0.297250148632903	no	#B64539
+Trachoma	Aphthous stomatitis	0.63993201597975	no	#4A74A9
+Trachoma	Oral dysplasia	0.321761435899432	no	#4A74A9
+Trachoma	Irritable bowel syndrome	0.823951485024975	no	#4A74A9
+Trachoma	Psoriasis	0.481943626281449	no	#4A74A9
+Trachoma	Acne	0.626979776779332	no	#4A74A9
+Trachoma	Rosacea	0.627590686130069	no	#4A74A9
+Trachoma	IgA nephropathy	0.15329272776774	no	#4A74A9
+Trachoma	Klinefelter's syndrome	0.0606366568679738	no	#4A74A9
+Trachoma	Septic Shock	0.320176994358763	no	#4A74A9
+Dengue fever	Hepatitis C	-0.41828936455506	no	#B64539
+Dengue fever	Hepatitis B	0.293887577112534	no	#4A74A9
+Dengue fever	Nasopharingeal cancer	0.610938960171501	no	#4A74A9
+Dengue fever	Oral cavity cancer	0.410802500320583	no	#4A74A9
+Dengue fever	Esophageal cancer	0.46378183461047	no	#4A74A9
+Dengue fever	Gastric cancer	0.0308911100737004	no	#4A74A9
+Dengue fever	Pancreatic cancer	0.160317276493643	no	#4A74A9
+Dengue fever	Lung cancer	0.217066399049875	no	#4A74A9
+Dengue fever	Rhabdoid cancer	0.31336560904358	no	#4A74A9
+Dengue fever	Kidney cancer	0.127629111425516	no	#4A74A9
+Dengue fever	Bladder cancer	0.531171660532983	no	#4A74A9
+Dengue fever	Brain cancer	0.250852588769012	no	#4A74A9
+Dengue fever	Thyroid cancer	0.379603043774674	no	#4A74A9
+Dengue fever	T-cell lymphoma	0.479880511171867	no	#4A74A9
+Dengue fever	JMML	0.68438104845321	no	#4A74A9
+Dengue fever	Polycythemia vera	0.493342507429417	no	#4A74A9
+Dengue fever	Myelodysplastic syndromes	0.650575527629608	no	#4A74A9
+Dengue fever	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	0.813052615113247	no	#4A74A9
+Dengue fever	Autosomal dominant monocytopenia	0.800320344154719	no	#4A74A9
+Dengue fever	Primary myelofibrosis	0.567204955753944	no	#4A74A9
+Dengue fever	Job's syndrome	0.179497354178956	no	#4A74A9
+Dengue fever	Type 1 diabetes mellitus	-0.649814641894488	no	#B64539
+Dengue fever	Schizophrenia	0.375774812900462	no	#4A74A9
+Dengue fever	Leigh syndrome	0.668718895939903	no	#4A74A9
+Dengue fever	Tibial muscular dystrophy	0.358333017121465	no	#4A74A9
+Dengue fever	Cardiomyopathy	-0.297029706688079	no	#B64539
+Dengue fever	Other interstitial pulmonary diseases	-0.314185460421647	no	#B64539
+Dengue fever	Aphthous stomatitis	0.458225766775758	no	#4A74A9
+Dengue fever	Oral dysplasia	0.28960934997488	no	#4A74A9
+Dengue fever	Psoriasis	0.507844284941013	no	#4A74A9
+Dengue fever	Acne	0.434194426142512	no	#4A74A9
+Dengue fever	Rosacea	0.425487471701285	no	#4A74A9
+Dengue fever	Septic Shock	0.613405258263841	no	#4A74A9
+Hepatitis C	Hepatitis B	-0.594017143945295	no	#B64539
+Hepatitis C	Rhabdoid cancer	0.223019255398468	no	#4A74A9
+Hepatitis C	Adrenal cancer	0.360974525101916	no	#4A74A9
+Hepatitis C	T-cell lymphoma	0.41895603778295	no	#4A74A9
+Hepatitis C	Polycythemia vera	-0.121741022297761	no	#B64539
+Hepatitis C	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	-0.119480967084676	no	#B64539
+Hepatitis C	Smoker	0.48101844808844	yes	#4A74A9
+Hepatitis C	Schizophrenia	0.889258550971544	no	#4A74A9
+Hepatitis C	Parkinson's disease	0.709024419322106	no	#4A74A9
+Hepatitis C	Alzheimer's disease	0.57544596741627	no	#4A74A9
+Hepatitis C	Tibial muscular dystrophy	-0.413175498300384	no	#B64539
+Hepatitis C	Chronic Obstructive Pulmonary Disease	0.910263956552054	no	#4A74A9
+Hepatitis C	Psoriasis	-0.341113293169221	no	#B64539
+Hepatitis C	Acne	-0.427172329218584	no	#B64539
+Hepatitis B	Nasopharingeal cancer	0.221291189596042	no	#4A74A9
+Hepatitis B	Oral cavity cancer	0.335558437166528	no	#4A74A9
+Hepatitis B	Esophageal cancer	0.215714171218625	no	#4A74A9
+Hepatitis B	Gastric cancer	0.188121374892626	no	#4A74A9
+Hepatitis B	Liver cancer	0.127588112093658	no	#4A74A9
+Hepatitis B	Pancreatic cancer	0.374344364499518	no	#4A74A9
+Hepatitis B	Kidney cancer	0.358009956939002	no	#4A74A9
+Hepatitis B	Bladder cancer	0.403652167100419	no	#4A74A9
+Hepatitis B	Thyroid cancer	0.502091079708812	no	#4A74A9
+Hepatitis B	T-cell lymphoma	0.250557975957248	no	#4A74A9
+Hepatitis B	Myeloid leukemia	-0.351392643205934	no	#B64539
+Hepatitis B	JMML	-0.411445816149015	no	#B64539
+Hepatitis B	Polycythemia vera	0.285792091200376	no	#4A74A9
+Hepatitis B	Myelodysplastic syndromes	-0.305855991030339	no	#B64539
+Hepatitis B	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	0.312367875663284	no	#4A74A9
+Hepatitis B	Job's syndrome	0.322927373508594	no	#4A74A9
+Hepatitis B	Schizophrenia	0.200241195684058	no	#4A74A9
+Hepatitis B	Alzheimer's disease	0.115898642756207	no	#4A74A9
+Hepatitis B	Tibial muscular dystrophy	0.463243099755843	no	#4A74A9
+Hepatitis B	Cardiomyopathy	-0.347735670386539	no	#B64539
+Hepatitis B	Atrial fibrillation	-0.369368869842818	no	#B64539
+Hepatitis B	Cerebral infarction	0.215878383790509	no	#4A74A9
+Hepatitis B	Aphthous stomatitis	0.515980298531307	no	#4A74A9
+Hepatitis B	Oral dysplasia	0.322476634959459	no	#4A74A9
+Hepatitis B	Irritable bowel syndrome	0.840119539453881	no	#4A74A9
+Hepatitis B	Alcoholic liver disease	0.417391957276824	yes	#4A74A9
+Hepatitis B	Psoriasis	0.225414674311522	no	#4A74A9
+Hepatitis B	Acne	0.509730911842001	no	#4A74A9
+Hepatitis B	Rosacea	0.242010413800454	no	#4A74A9
+Hepatitis B	IgA nephropathy	0.387711999210318	no	#4A74A9
+Hepatitis B	Uremia	0.00519883511349046	no	#4A74A9
+Hepatitis B	Septic Shock	0.390988108046164	no	#4A74A9
+Nasopharingeal cancer	Oral cavity cancer	0.621974531758159	yes	#4A74A9
+Nasopharingeal cancer	Esophageal cancer	0.478827169906639	no	#4A74A9
+Nasopharingeal cancer	Gastric cancer	0.484009847418966	no	#4A74A9
+Nasopharingeal cancer	Colon cancer	0.441968314177538	no	#4A74A9
+Nasopharingeal cancer	Liver cancer	0.32210883190376	no	#4A74A9
+Nasopharingeal cancer	Lung cancer	0.593857087125179	no	#4A74A9
+Nasopharingeal cancer	Mesothelioma	0.763963672359271	no	#4A74A9
+Nasopharingeal cancer	Rhabdoid cancer	0.494955496659771	no	#4A74A9
+Nasopharingeal cancer	Kidney cancer	0.38139020128345	no	#4A74A9
+Nasopharingeal cancer	Bladder cancer	0.734184854401769	no	#4A74A9
+Nasopharingeal cancer	Brain cancer	0.0491216762486348	no	#4A74A9
+Nasopharingeal cancer	Thyroid cancer	0.559735729007628	no	#4A74A9
+Nasopharingeal cancer	Adrenal cancer	0.630283048727395	no	#4A74A9
+Nasopharingeal cancer	T-cell lymphoma	0.122466652894367	no	#4A74A9
+Nasopharingeal cancer	Polycythemia vera	-0.295681063561164	no	#B64539
+Nasopharingeal cancer	Job's syndrome	-0.12988532896481	no	#B64539
+Nasopharingeal cancer	Smoker	-0.275636382347205	no	#B64539
+Nasopharingeal cancer	Aphthous stomatitis	0.14278301809151	no	#4A74A9
+Nasopharingeal cancer	Oral dysplasia	0.667738665401318	no	#4A74A9
+Nasopharingeal cancer	Psoriasis	0.203562111641154	no	#4A74A9
+Nasopharingeal cancer	Acne	0.244716967593323	no	#4A74A9
+Nasopharingeal cancer	Rosacea	0.268576154280011	no	#4A74A9
+Nasopharingeal cancer	IgA nephropathy	0.254816749414329	no	#4A74A9
+Nasopharingeal cancer	Klinefelter's syndrome	0.311723736919195	no	#4A74A9
+Oral cavity cancer	Esophageal cancer	0.66557744781231	no	#4A74A9
+Oral cavity cancer	Gastric cancer	0.522952614848783	no	#4A74A9
+Oral cavity cancer	Colon cancer	0.385756032180172	no	#4A74A9
+Oral cavity cancer	Liver cancer	0.166836981831814	no	#4A74A9
+Oral cavity cancer	Pancreatic cancer	0.392504655555249	no	#4A74A9
+Oral cavity cancer	Lung cancer	0.37074157601952	no	#4A74A9
+Oral cavity cancer	Mesothelioma	0.495922707409522	no	#4A74A9
+Oral cavity cancer	Rhabdoid cancer	0.303450459741186	no	#4A74A9
+Oral cavity cancer	Kidney cancer	0.416030779646914	no	#4A74A9
+Oral cavity cancer	Bladder cancer	0.637742823732089	no	#4A74A9
+Oral cavity cancer	Brain cancer	0.248173213621108	no	#4A74A9
+Oral cavity cancer	Thyroid cancer	0.585010510108554	no	#4A74A9
+Oral cavity cancer	Adrenal cancer	0.424754979542777	no	#4A74A9
+Oral cavity cancer	T-cell lymphoma	0.221405246529358	no	#4A74A9
+Oral cavity cancer	Myeloid leukemia	0.229454913034254	no	#4A74A9
+Oral cavity cancer	Myelodysplastic syndromes	-0.232295207343322	no	#B64539
+Oral cavity cancer	Type 1 diabetes mellitus	-0.254367407764053	no	#B64539
+Oral cavity cancer	Smoker	-0.0861547129629624	no	#B64539
+Oral cavity cancer	Schizophrenia	0.141547094446448	no	#4A74A9
+Oral cavity cancer	Parkinson's disease	0.137888226397789	no	#4A74A9
+Oral cavity cancer	Alzheimer's disease	0.0991975904008006	no	#4A74A9
+Oral cavity cancer	Tibial muscular dystrophy	0.145653255420262	no	#4A74A9
+Oral cavity cancer	Cardiomyopathy	-0.333442826517765	no	#B64539
+Oral cavity cancer	Cerebral infarction	0.128309009603008	no	#4A74A9
+Oral cavity cancer	Aphthous stomatitis	0.730036206594815	no	#4A74A9
+Oral cavity cancer	Oral dysplasia	0.869077433346077	no	#4A74A9
+Oral cavity cancer	Irritable bowel syndrome	0.931354688397265	no	#4A74A9
+Oral cavity cancer	Alcoholic liver disease	0.220960174701772	no	#4A74A9
+Oral cavity cancer	Psoriasis	0.313959096611432	no	#4A74A9
+Oral cavity cancer	Acne	0.548663494516057	no	#4A74A9
+Oral cavity cancer	Rosacea	0.293003629243749	no	#4A74A9
+Oral cavity cancer	IgA nephropathy	0.304424978837312	no	#4A74A9
+Oral cavity cancer	Klinefelter's syndrome	0.155743278000113	no	#4A74A9
+Oral cavity cancer	Septic Shock	0.119613560704758	no	#4A74A9
+Esophageal cancer	Gastric cancer	0.282331840428717	yes	#4A74A9
+Esophageal cancer	Colon cancer	0.546385470429493	no	#4A74A9
+Esophageal cancer	Liver cancer	0.392875858868632	no	#4A74A9
+Esophageal cancer	Pancreatic cancer	0.230985792575222	no	#4A74A9
+Esophageal cancer	Lung cancer	0.749833612227863	no	#4A74A9
+Esophageal cancer	Mesothelioma	0.377333531134512	no	#4A74A9
+Esophageal cancer	Rhabdoid cancer	0.449607020918106	no	#4A74A9
+Esophageal cancer	Prostate cancer	0.362599368723781	no	#4A74A9
+Esophageal cancer	Kidney cancer	0.179722470883579	no	#4A74A9
+Esophageal cancer	Bladder cancer	0.882989628739966	no	#4A74A9
+Esophageal cancer	Brain cancer	0.186423759258983	no	#4A74A9
+Esophageal cancer	Thyroid cancer	0.432871622783533	no	#4A74A9
+Esophageal cancer	Adrenal cancer	0.709389890446868	no	#4A74A9
+Esophageal cancer	Follicular lymphoma	-0.283900845652523	no	#B64539
+Esophageal cancer	T-cell lymphoma	-0.236849552923569	no	#B64539
+Esophageal cancer	Myeloid leukemia	0.511078491966022	no	#4A74A9
+Esophageal cancer	Myelodysplastic syndromes	0.262935558252519	no	#4A74A9
+Esophageal cancer	Smoker	0.320473703332625	no	#4A74A9
+Esophageal cancer	Parkinson's disease	0.352894481200528	no	#4A74A9
+Esophageal cancer	Alzheimer's disease	-0.14085619235234	no	#B64539
+Esophageal cancer	Tibial muscular dystrophy	0.229397833294184	no	#4A74A9
+Esophageal cancer	Cardiomyopathy	-0.217648015124267	no	#B64539
+Esophageal cancer	Chronic Obstructive Pulmonary Disease	0.627885985905161	no	#4A74A9
+Esophageal cancer	Aphthous stomatitis	0.383933042100809	no	#4A74A9
+Esophageal cancer	Oral dysplasia	0.530625338839715	no	#4A74A9
+Esophageal cancer	Irritable bowel syndrome	0.919643251652952	no	#4A74A9
+Esophageal cancer	Alcoholic liver disease	0.350498655738651	no	#4A74A9
+Esophageal cancer	Psoriasis	0.682380265030205	no	#4A74A9
+Esophageal cancer	Acne	0.555902036352483	no	#4A74A9
+Esophageal cancer	Rosacea	0.598170649425423	no	#4A74A9
+Esophageal cancer	IgA nephropathy	-0.310840638969228	no	#B64539
+Esophageal cancer	Klinefelter's syndrome	0.373922695807456	no	#4A74A9
+Esophageal cancer	Septic Shock	0.187055826459915	no	#4A74A9
+Gastric cancer	Colon cancer	0.583646068608446	no	#4A74A9
+Gastric cancer	Liver cancer	0.416330741360988	no	#4A74A9
+Gastric cancer	Pancreatic cancer	0.587554741850014	no	#4A74A9
+Gastric cancer	Lung cancer	0.338542940756305	no	#4A74A9
+Gastric cancer	Mesothelioma	0.508666939060258	no	#4A74A9
+Gastric cancer	Rhabdoid cancer	0.261209033252463	yes	#4A74A9
+Gastric cancer	Prostate cancer	0.172694163839967	no	#4A74A9
+Gastric cancer	Kidney cancer	0.424996799236536	no	#4A74A9
+Gastric cancer	Bladder cancer	0.37121058993262	no	#4A74A9
+Gastric cancer	Brain cancer	0.306921022898533	no	#4A74A9
+Gastric cancer	Thyroid cancer	0.474615965762471	no	#4A74A9
+Gastric cancer	Adrenal cancer	0.491920566749741	no	#4A74A9
+Gastric cancer	T-cell lymphoma	0.231356525381282	no	#4A74A9
+Gastric cancer	JMML	0.234785975186632	no	#4A74A9
+Gastric cancer	Polycythemia vera	-0.232762768101796	no	#B64539
+Gastric cancer	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	-0.289222575862201	no	#B64539
+Gastric cancer	Job's syndrome	-0.270891866926756	no	#B64539
+Gastric cancer	Type 1 diabetes mellitus	0.484848909156613	no	#4A74A9
+Gastric cancer	Smoker	-0.206910187920167	no	#B64539
+Gastric cancer	Cardiomyopathy	-0.309614285783128	no	#B64539
+Gastric cancer	Cerebral infarction	-0.278032893535975	no	#B64539
+Gastric cancer	Other interstitial pulmonary diseases	0.380963527565019	no	#4A74A9
+Gastric cancer	Aphthous stomatitis	0.417999127661525	no	#4A74A9
+Gastric cancer	Oral dysplasia	0.550941482496802	no	#4A74A9
+Gastric cancer	Irritable bowel syndrome	0.845375375703364	no	#4A74A9
+Gastric cancer	Alcoholic liver disease	0.420105898700974	no	#4A74A9
+Gastric cancer	Psoriasis	0.172678210061119	no	#4A74A9
+Gastric cancer	Acne	0.364978642909219	no	#4A74A9
+Gastric cancer	Dermatomyositis	0.409635953458087	no	#4A74A9
+Gastric cancer	IgA nephropathy	0.588519536802391	no	#4A74A9
+Gastric cancer	Uremia	-0.422606130125383	no	#B64539
+Gastric cancer	Klinefelter's syndrome	0.196513751934382	no	#4A74A9
+Gastric cancer	Septic Shock	-0.10321380930658	no	#B64539
+Colon cancer	Liver cancer	0.413316572561252	no	#4A74A9
+Colon cancer	Pancreatic cancer	0.218209613453536	no	#4A74A9
+Colon cancer	Lung cancer	0.428586850707231	no	#4A74A9
+Colon cancer	Mesothelioma	0.3359218549994	no	#4A74A9
+Colon cancer	Rhabdoid cancer	0.309435118254336	no	#4A74A9
+Colon cancer	Prostate cancer	0.176827878818418	no	#4A74A9
+Colon cancer	Kidney cancer	0.178263261854708	no	#4A74A9
+Colon cancer	Bladder cancer	0.576062316649807	no	#4A74A9
+Colon cancer	Brain cancer	0.190964975593277	no	#4A74A9
+Colon cancer	Thyroid cancer	0.222766390716301	no	#4A74A9
+Colon cancer	Adrenal cancer	0.566286518792843	no	#4A74A9
+Colon cancer	T-cell lymphoma	-0.117679678643716	no	#B64539
+Colon cancer	Myeloid leukemia	0.181145822502484	no	#4A74A9
+Colon cancer	JMML	0.361413300014927	no	#4A74A9
+Colon cancer	Polycythemia vera	-0.160455211812736	no	#B64539
+Colon cancer	Myelodysplastic syndromes	0.258636001528568	no	#4A74A9
+Colon cancer	Job's syndrome	-0.166146335999388	no	#B64539
+Colon cancer	Alzheimer's disease	-0.123848953007447	no	#B64539
+Colon cancer	Other interstitial pulmonary diseases	0.105968900627612	no	#4A74A9
+Colon cancer	Oral dysplasia	0.347875418261404	no	#4A74A9
+Colon cancer	Irritable bowel syndrome	0.764115669514721	no	#4A74A9
+Colon cancer	Alcoholic liver disease	0.273972886988177	no	#4A74A9
+Colon cancer	Psoriasis	0.215673543480271	no	#4A74A9
+Colon cancer	Acne	0.191709325482137	no	#4A74A9
+Colon cancer	Rosacea	0.104392229418156	no	#4A74A9
+Colon cancer	Klinefelter's syndrome	0.204204785615313	no	#4A74A9
+Colon cancer	Septic Shock	-0.0977694306552595	no	#B64539
+Liver cancer	Pancreatic cancer	0.20543741173033	no	#4A74A9
+Liver cancer	Lung cancer	0.407697394328657	no	#4A74A9
+Liver cancer	Mesothelioma	0.342766336066405	no	#4A74A9
+Liver cancer	Rhabdoid cancer	0.213654922183929	no	#4A74A9
+Liver cancer	Kidney cancer	0.230717989423969	no	#4A74A9
+Liver cancer	Bladder cancer	0.456577165009136	no	#4A74A9
+Liver cancer	Brain cancer	0.122032335989952	no	#4A74A9
+Liver cancer	Thyroid cancer	0.108454360093953	no	#4A74A9
+Liver cancer	Adrenal cancer	0.635863724077008	no	#4A74A9
+Liver cancer	T-cell lymphoma	-0.062904791179528	no	#B64539
+Liver cancer	Myeloid leukemia	0.297325666211278	no	#4A74A9
+Liver cancer	Polycythemia vera	-0.172873318803111	no	#B64539
+Liver cancer	Myelodysplastic syndromes	0.327437029842704	no	#4A74A9
+Liver cancer	Job's syndrome	-0.148804320621498	no	#B64539
+Liver cancer	Type 1 diabetes mellitus	0.341213002663018	yes	#4A74A9
+Liver cancer	Smoker	0.108318998391102	no	#4A74A9
+Liver cancer	Schizophrenia	-0.365810161204805	no	#B64539
+Liver cancer	Parkinson's disease	-0.277027553127378	no	#B64539
+Liver cancer	Alzheimer's disease	-0.199717102626025	no	#B64539
+Liver cancer	Cerebral infarction	-0.295185140643236	no	#B64539
+Liver cancer	Other interstitial pulmonary diseases	0.413256188474871	no	#4A74A9
+Liver cancer	Aphthous stomatitis	-0.16470718440961	no	#B64539
+Liver cancer	Oral dysplasia	0.166577157761618	no	#4A74A9
+Liver cancer	Alcoholic liver disease	0.632653326567111	yes	#4A74A9
+Liver cancer	Psoriasis	0.101903354919611	no	#4A74A9
+Liver cancer	IgA nephropathy	0.307855454754291	no	#4A74A9
+Liver cancer	Uremia	-0.230567127374214	no	#B64539
+Liver cancer	Klinefelter's syndrome	0.222863380073274	no	#4A74A9
+Liver cancer	Septic Shock	-0.0911890103102183	no	#B64539
+Pancreatic cancer	Lung cancer	0.138751118559006	no	#4A74A9
+Pancreatic cancer	Mesothelioma	0.232598959616686	no	#4A74A9
+Pancreatic cancer	Rhabdoid cancer	0.178051108759538	no	#4A74A9
+Pancreatic cancer	Prostate cancer	0.144558731480837	no	#4A74A9
+Pancreatic cancer	Kidney cancer	0.438822797953116	no	#4A74A9
+Pancreatic cancer	Bladder cancer	0.408988508503053	no	#4A74A9
+Pancreatic cancer	Brain cancer	0.304516716016515	no	#4A74A9
+Pancreatic cancer	Thyroid cancer	0.498686838613719	no	#4A74A9
+Pancreatic cancer	Adrenal cancer	0.339848128607413	no	#4A74A9
+Pancreatic cancer	Follicular lymphoma	0.51214041678456	no	#4A74A9
+Pancreatic cancer	T-cell lymphoma	0.439417212740405	no	#4A74A9
+Pancreatic cancer	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	-0.296502520942693	no	#B64539
+Pancreatic cancer	Type 2 diabetes mellitus	0.434791282912389	yes	#4A74A9
+Pancreatic cancer	Smoker	0.103352282347902	yes	#4A74A9
+Pancreatic cancer	Parkinson's disease	0.0309818860695824	no	#4A74A9
+Pancreatic cancer	Alzheimer's disease	0.192104254454631	no	#4A74A9
+Pancreatic cancer	Cardiomyopathy	-0.376834587374215	no	#B64539
+Pancreatic cancer	Other interstitial pulmonary diseases	0.0904854672322928	no	#4A74A9
+Pancreatic cancer	Aphthous stomatitis	0.467639427456066	no	#4A74A9
+Pancreatic cancer	Oral dysplasia	0.310553678409369	no	#4A74A9
+Pancreatic cancer	Alcoholic liver disease	0.461586213585747	no	#4A74A9
+Pancreatic cancer	Psoriasis	0.232620579282166	no	#4A74A9
+Pancreatic cancer	Acne	0.368422708702194	no	#4A74A9
+Pancreatic cancer	Rosacea	0.0502573407513253	no	#4A74A9
+Pancreatic cancer	IgA nephropathy	0.596238232579495	no	#4A74A9
+Pancreatic cancer	Uremia	-0.380004562744214	no	#B64539
+Pancreatic cancer	Septic Shock	0.192655206716289	no	#4A74A9
+Lung cancer	Mesothelioma	0.690970320483981	yes	#4A74A9
+Lung cancer	Rhabdoid cancer	0.306240113793194	no	#4A74A9
+Lung cancer	Prostate cancer	0.273273732432806	no	#4A74A9
+Lung cancer	Kidney cancer	0.0634875826557509	no	#4A74A9
+Lung cancer	Bladder cancer	0.746989922582006	no	#4A74A9
+Lung cancer	Brain cancer	0.0679360201580759	yes	#4A74A9
+Lung cancer	Thyroid cancer	0.271897279291907	no	#4A74A9
+Lung cancer	Adrenal cancer	0.58755587745148	yes	#4A74A9
+Lung cancer	Follicular lymphoma	-0.175753993221207	no	#B64539
+Lung cancer	T-cell lymphoma	-0.0864935776012893	no	#B64539
+Lung cancer	Myeloid leukemia	0.318200784090851	no	#4A74A9
+Lung cancer	JMML	0.425276239352655	no	#4A74A9
+Lung cancer	Polycythemia vera	-0.154484555179002	no	#B64539
+Lung cancer	Myelodysplastic syndromes	0.264656024350237	no	#4A74A9
+Lung cancer	Job's syndrome	-0.145335517689902	no	#B64539
+Lung cancer	Smoker	0.273135999473315	yes	#4A74A9
+Lung cancer	Schizophrenia	-0.275992042216269	no	#B64539
+Lung cancer	Alzheimer's disease	-0.266934885121987	no	#B64539
+Lung cancer	Tibial muscular dystrophy	0.181347105022031	no	#4A74A9
+Lung cancer	Atrial fibrillation	-0.148686474033435	no	#B64539
+Lung cancer	Cerebral infarction	-0.0910329820111363	no	#B64539
+Lung cancer	Chronic Obstructive Pulmonary Disease	0.674154762218482	yes	#4A74A9
+Lung cancer	Other interstitial pulmonary diseases	0.431288799523083	yes	#4A74A9
+Lung cancer	Aphthous stomatitis	-0.0873134683052041	no	#B64539
+Lung cancer	Oral dysplasia	0.324314444051596	no	#4A74A9
+Lung cancer	Alcoholic liver disease	0.332890961981383	no	#4A74A9
+Lung cancer	Psoriasis	0.427596581132655	no	#4A74A9
+Lung cancer	Acne	0.208920226504163	no	#4A74A9
+Lung cancer	Rosacea	0.324044174865096	no	#4A74A9
+Lung cancer	Klinefelter's syndrome	0.249227504596138	no	#4A74A9
+Lung cancer	Septic Shock	-0.0475803895173974	no	#B64539
+Mesothelioma	Rhabdoid cancer	0.381482547614196	yes	#4A74A9
+Mesothelioma	Prostate cancer	0.18235983129502	no	#4A74A9
+Mesothelioma	Kidney cancer	0.283856524032007	no	#4A74A9
+Mesothelioma	Bladder cancer	0.5197837805812	no	#4A74A9
+Mesothelioma	Brain cancer	0.178274430059784	no	#4A74A9
+Mesothelioma	Thyroid cancer	0.433317782831455	no	#4A74A9
+Mesothelioma	Adrenal cancer	0.567928714068135	no	#4A74A9
+Mesothelioma	Follicular lymphoma	-0.0641817505702795	no	#B64539
+Mesothelioma	T-cell lymphoma	0.132748690600093	no	#4A74A9
+Mesothelioma	Myeloid leukemia	0.313130037859475	no	#4A74A9
+Mesothelioma	JMML	0.355830360941007	no	#4A74A9
+Mesothelioma	Polycythemia vera	-0.239602477099529	no	#B64539
+Mesothelioma	Job's syndrome	-0.150436624353476	no	#B64539
+Mesothelioma	Type 1 diabetes mellitus	0.372443968183403	no	#4A74A9
+Mesothelioma	Smoker	0.207981174605132	no	#4A74A9
+Mesothelioma	Cardiomyopathy	-0.0915774381705511	no	#B64539
+Mesothelioma	Atrial fibrillation	-0.122737801121674	no	#B64539
+Mesothelioma	Cerebral infarction	-0.200413787773922	no	#B64539
+Mesothelioma	Chronic Obstructive Pulmonary Disease	0.533097723423273	no	#4A74A9
+Mesothelioma	Other interstitial pulmonary diseases	0.639231365130389	no	#4A74A9
+Mesothelioma	Aphthous stomatitis	0.183232670151049	no	#4A74A9
+Mesothelioma	Oral dysplasia	0.528493167475763	no	#4A74A9
+Mesothelioma	Alcoholic liver disease	0.235225851571423	no	#4A74A9
+Mesothelioma	Psoriasis	0.179748182011434	no	#4A74A9
+Mesothelioma	Acne	0.208173832221695	no	#4A74A9
+Mesothelioma	Rosacea	0.173879866144109	no	#4A74A9
+Mesothelioma	IgA nephropathy	0.234405029117249	no	#4A74A9
+Mesothelioma	Uremia	-0.143974209028274	no	#B64539
+Mesothelioma	Septic Shock	-0.113900194101813	no	#B64539
+Rhabdoid cancer	Prostate cancer	0.407343583067019	no	#4A74A9
+Rhabdoid cancer	Kidney cancer	0.240233564888278	no	#4A74A9
+Rhabdoid cancer	Bladder cancer	0.564115159769826	no	#4A74A9
+Rhabdoid cancer	Brain cancer	0.855478730335005	no	#4A74A9
+Rhabdoid cancer	Thyroid cancer	0.330619522123124	no	#4A74A9
+Rhabdoid cancer	Adrenal cancer	0.476797866217292	no	#4A74A9
+Rhabdoid cancer	Follicular lymphoma	-0.287867363988985	no	#B64539
+Rhabdoid cancer	Myeloid leukemia	0.314750847222118	yes	#4A74A9
+Rhabdoid cancer	JMML	0.375014660788813	no	#4A74A9
+Rhabdoid cancer	Polycythemia vera	-0.127178422986722	no	#B64539
+Rhabdoid cancer	Job's syndrome	-0.0275829661035985	no	#B64539
+Rhabdoid cancer	Type 1 diabetes mellitus	0.303518784483637	no	#4A74A9
+Rhabdoid cancer	Schizophrenia	0.292316883639022	no	#4A74A9
+Rhabdoid cancer	Parkinson's disease	0.606010731887649	no	#4A74A9
+Rhabdoid cancer	Alzheimer's disease	0.465407404325348	no	#4A74A9
+Rhabdoid cancer	Cardiomyopathy	-0.129484534652045	no	#B64539
+Rhabdoid cancer	Atrial fibrillation	-0.234307432994685	no	#B64539
+Rhabdoid cancer	Chronic Obstructive Pulmonary Disease	0.397331440827196	no	#4A74A9
+Rhabdoid cancer	Aphthous stomatitis	0.050922612863462	no	#4A74A9
+Rhabdoid cancer	Oral dysplasia	0.213315612603239	no	#4A74A9
+Rhabdoid cancer	Alcoholic liver disease	0.243663992300986	no	#4A74A9
+Rhabdoid cancer	Psoriasis	0.272668410343445	no	#4A74A9
+Rhabdoid cancer	Acne	0.309674526260442	no	#4A74A9
+Rhabdoid cancer	Rosacea	0.230638353466009	no	#4A74A9
+Rhabdoid cancer	IgA nephropathy	0.0703832929204223	no	#4A74A9
+Rhabdoid cancer	Klinefelter's syndrome	0.0983855923625521	no	#4A74A9
+Rhabdoid cancer	Septic Shock	0.106146987582948	no	#4A74A9
+Prostate cancer	Bladder cancer	0.699532560875008	no	#4A74A9
+Prostate cancer	Brain cancer	0.174058331929083	no	#4A74A9
+Prostate cancer	Thyroid cancer	0.317367353708401	no	#4A74A9
+Prostate cancer	Adrenal cancer	0.375767983618605	no	#4A74A9
+Prostate cancer	Alzheimer's disease	0.195106489927605	no	#4A74A9
+Prostate cancer	Alcoholic liver disease	0.173095532141521	no	#4A74A9
+Prostate cancer	Septic Shock	0.206241800846694	no	#4A74A9
+Kidney cancer	Bladder cancer	0.395510836729889	yes	#4A74A9
+Kidney cancer	Brain cancer	0.28393141424584	yes	#4A74A9
+Kidney cancer	Thyroid cancer	0.526836265402348	no	#4A74A9
+Kidney cancer	Adrenal cancer	0.409997351169813	no	#4A74A9
+Kidney cancer	T-cell lymphoma	0.214335082067536	no	#4A74A9
+Kidney cancer	Polycythemia vera	-0.135489806612592	no	#B64539
+Kidney cancer	Myelodysplastic syndromes	-0.296897446144278	no	#B64539
+Kidney cancer	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	-0.291050197197105	no	#B64539
+Kidney cancer	Primary myelofibrosis	-0.328449884316773	no	#B64539
+Kidney cancer	Parkinson's disease	0.305193190226009	no	#4A74A9
+Kidney cancer	Alzheimer's disease	0.233498848843639	no	#4A74A9
+Kidney cancer	Cardiomyopathy	-0.320624684383585	no	#B64539
+Kidney cancer	Aphthous stomatitis	0.524973768025393	no	#4A74A9
+Kidney cancer	Oral dysplasia	0.389960680140668	no	#4A74A9
+Kidney cancer	Alcoholic liver disease	0.228604982089283	no	#4A74A9
+Kidney cancer	Psoriasis	0.201554923717562	no	#4A74A9
+Kidney cancer	Acne	0.425196247446044	no	#4A74A9
+Kidney cancer	Rosacea	0.154641317031993	no	#4A74A9
+Kidney cancer	IgA nephropathy	0.629157478328677	yes	#4A74A9
+Kidney cancer	Uremia	-0.271367645591355	no	#B64539
+Bladder cancer	Brain cancer	0.284656615944711	no	#4A74A9
+Bladder cancer	Thyroid cancer	0.662086440369173	no	#4A74A9
+Bladder cancer	Adrenal cancer	0.84777829349289	no	#4A74A9
+Bladder cancer	Myeloid leukemia	0.83067623519877	no	#4A74A9
+Bladder cancer	Polycythemia vera	0.407555889696939	no	#4A74A9
+Bladder cancer	Job's syndrome	0.622265634080694	no	#4A74A9
+Bladder cancer	Chronic Obstructive Pulmonary Disease	0.951596454203724	no	#4A74A9
+Bladder cancer	Other interstitial pulmonary diseases	-0.425902083304959	no	#B64539
+Bladder cancer	Aphthous stomatitis	0.457952617599134	no	#4A74A9
+Bladder cancer	Oral dysplasia	0.277062281831687	no	#4A74A9
+Bladder cancer	Alcoholic liver disease	0.409650483569186	no	#4A74A9
+Bladder cancer	Psoriasis	0.762164108795637	no	#4A74A9
+Bladder cancer	Acne	0.712868124829356	no	#4A74A9
+Bladder cancer	Rosacea	0.759725133976342	no	#4A74A9
+Bladder cancer	Klinefelter's syndrome	0.398456279289759	no	#4A74A9
+Bladder cancer	Septic Shock	0.710534124294913	no	#4A74A9
+Brain cancer	Thyroid cancer	0.218578324760726	no	#4A74A9
+Brain cancer	Adrenal cancer	0.259356596205745	no	#4A74A9
+Brain cancer	T-cell lymphoma	0.187420343146037	no	#4A74A9
+Brain cancer	Myeloid leukemia	0.276161944206032	no	#4A74A9
+Brain cancer	JMML	0.20870929036801	no	#4A74A9
+Brain cancer	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	-0.214137137745419	no	#B64539
+Brain cancer	Job's syndrome	-0.106839941732923	no	#B64539
+Brain cancer	Schizophrenia	0.338173157422942	no	#4A74A9
+Brain cancer	Parkinson's disease	0.595285969340862	no	#4A74A9
+Brain cancer	Alzheimer's disease	0.653533107500964	no	#4A74A9
+Brain cancer	Cardiomyopathy	-0.250486098520288	no	#B64539
+Brain cancer	Cerebral infarction	-0.172985431199628	no	#B64539
+Brain cancer	Aphthous stomatitis	0.307675086949443	no	#4A74A9
+Brain cancer	Oral dysplasia	0.193793729121449	no	#4A74A9
+Brain cancer	Alcoholic liver disease	0.194622080056772	no	#4A74A9
+Brain cancer	Psoriasis	0.175888051613423	no	#4A74A9
+Brain cancer	Acne	0.274063084357007	no	#4A74A9
+Brain cancer	Rosacea	0.0996555962938749	no	#4A74A9
+Brain cancer	IgA nephropathy	0.214107962275861	no	#4A74A9
+Brain cancer	Uremia	-0.185712430883284	no	#B64539
+Brain cancer	Septic Shock	0.0894158488144488	no	#4A74A9
+Thyroid cancer	Adrenal cancer	0.385549244085133	no	#4A74A9
+Thyroid cancer	T-cell lymphoma	0.348006839050964	no	#4A74A9
+Thyroid cancer	Polycythemia vera	0.107673806418463	no	#4A74A9
+Thyroid cancer	Job's syndrome	0.101674798539878	no	#4A74A9
+Thyroid cancer	Smoker	0.204941180413132	no	#4A74A9
+Thyroid cancer	Schizophrenia	0.279457674126283	no	#4A74A9
+Thyroid cancer	Parkinson's disease	0.290572536584842	no	#4A74A9
+Thyroid cancer	Alzheimer's disease	0.241469531965269	no	#4A74A9
+Thyroid cancer	Tibial muscular dystrophy	0.202856768282279	no	#4A74A9
+Thyroid cancer	Cardiomyopathy	-0.475474236825306	no	#B64539
+Thyroid cancer	Cerebral infarction	0.0965183507679927	no	#4A74A9
+Thyroid cancer	Chronic Obstructive Pulmonary Disease	0.344311161934023	no	#4A74A9
+Thyroid cancer	Aphthous stomatitis	0.589929425522609	no	#4A74A9
+Thyroid cancer	Oral dysplasia	0.507973580553364	no	#4A74A9
+Thyroid cancer	Irritable bowel syndrome	0.788072429087894	no	#4A74A9
+Thyroid cancer	Alcoholic liver disease	0.259732887694027	no	#4A74A9
+Thyroid cancer	Psoriasis	0.443756108815671	no	#4A74A9
+Thyroid cancer	Acne	0.613718945409169	no	#4A74A9
+Thyroid cancer	Rosacea	0.436284787157945	no	#4A74A9
+Thyroid cancer	IgA nephropathy	0.543030580316613	no	#4A74A9
+Thyroid cancer	Klinefelter's syndrome	0.290797557566365	no	#4A74A9
+Thyroid cancer	Septic Shock	0.358429261612474	no	#4A74A9
+Adrenal cancer	Myeloid leukemia	0.449486050998284	no	#4A74A9
+Adrenal cancer	Polycythemia vera	-0.288950497982716	no	#B64539
+Adrenal cancer	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	-0.345191254114873	no	#B64539
+Adrenal cancer	Type 1 diabetes mellitus	0.808613011111815	no	#4A74A9
+Adrenal cancer	Tibial muscular dystrophy	-0.251937082445853	no	#B64539
+Adrenal cancer	Cardiomyopathy	0.230494724900963	no	#4A74A9
+Adrenal cancer	Cerebral infarction	-0.214872895425905	no	#B64539
+Adrenal cancer	Other interstitial pulmonary diseases	0.413157554972156	no	#4A74A9
+Adrenal cancer	Aphthous stomatitis	-0.162752196546377	no	#B64539
+Adrenal cancer	Oral dysplasia	0.232023902514591	no	#4A74A9
+Adrenal cancer	Alcoholic liver disease	0.295579834107471	no	#4A74A9
+Adrenal cancer	Psoriasis	0.269077906306309	no	#4A74A9
+Adrenal cancer	Acne	0.131770376825964	no	#4A74A9
+Adrenal cancer	Rosacea	0.226562267342251	no	#4A74A9
+Adrenal cancer	IgA nephropathy	0.0772785296123815	no	#4A74A9
+Adrenal cancer	Uremia	-0.441829878050736	no	#B64539
+Adrenal cancer	Klinefelter's syndrome	0.38378047044289	no	#4A74A9
+Follicular lymphoma	T-cell lymphoma	0.0976299073991697	yes	#4A74A9
+Follicular lymphoma	Atrial fibrillation	0.701491687538881	no	#4A74A9
+Follicular lymphoma	Rosacea	-0.306641454939795	no	#B64539
+Follicular lymphoma	Uremia	-0.669339470641247	no	#B64539
+T-cell lymphoma	Myeloid leukemia	-0.549126565887751	no	#B64539
+T-cell lymphoma	Polycythemia vera	0.470200843622943	no	#4A74A9
+T-cell lymphoma	Myelodysplastic syndromes	0.47303715210884	no	#4A74A9
+T-cell lymphoma	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	0.616412773631548	no	#4A74A9
+T-cell lymphoma	Autosomal dominant monocytopenia	0.394387617471378	no	#4A74A9
+T-cell lymphoma	Primary myelofibrosis	0.577174985924174	no	#4A74A9
+T-cell lymphoma	Job's syndrome	0.142031534218303	no	#4A74A9
+T-cell lymphoma	Type 1 diabetes mellitus	0.540458765372738	no	#4A74A9
+T-cell lymphoma	Type 2 diabetes mellitus	0.683768703805976	no	#4A74A9
+T-cell lymphoma	Schizophrenia	0.485220172262244	no	#4A74A9
+T-cell lymphoma	Alzheimer's disease	0.367290662494997	no	#4A74A9
+T-cell lymphoma	Tibial muscular dystrophy	0.0740325572513254	no	#4A74A9
+T-cell lymphoma	Cardiomyopathy	-0.242095813069076	no	#B64539
+T-cell lymphoma	Cerebral infarction	-0.326528811592512	no	#B64539
+T-cell lymphoma	Other interstitial pulmonary diseases	0.248775475095771	no	#4A74A9
+T-cell lymphoma	Aphthous stomatitis	0.391278843518654	no	#4A74A9
+T-cell lymphoma	Oral dysplasia	0.39314831535625	no	#4A74A9
+T-cell lymphoma	Alcoholic liver disease	0.302697054386524	no	#4A74A9
+T-cell lymphoma	Acne	0.132316241108711	no	#4A74A9
+T-cell lymphoma	IgA nephropathy	0.473165076863758	no	#4A74A9
+T-cell lymphoma	Uremia	0.325368728014609	no	#4A74A9
+T-cell lymphoma	Septic Shock	0.349069097078545	no	#4A74A9
+Myeloid leukemia	Polycythemia vera	-0.544819149584913	no	#B64539
+Myeloid leukemia	Myelodysplastic syndromes	0.758035370415479	yes	#4A74A9
+Myeloid leukemia	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	-0.611849539779674	no	#B64539
+Myeloid leukemia	Tibial muscular dystrophy	-0.508411697636512	no	#B64539
+Myeloid leukemia	Cerebral infarction	-0.585957106715811	no	#B64539
+Myeloid leukemia	Uremia	-0.446737715606754	no	#B64539
+JMML	Polycythemia vera	-0.569857285084075	no	#B64539
+JMML	Job's syndrome	-0.8277125107281	no	#B64539
+JMML	Alcoholic liver disease	0.280143221429763	no	#4A74A9
+JMML	Septic Shock	-0.670464815606528	no	#B64539
+Polycythemia vera	Myelodysplastic syndromes	0.704992065250316	yes	#4A74A9
+Polycythemia vera	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	0.919245200269028	yes	#4A74A9
+Polycythemia vera	Autosomal dominant monocytopenia	0.7797611887989	no	#4A74A9
+Polycythemia vera	Primary myelofibrosis	0.961719079634378	yes	#4A74A9
+Polycythemia vera	Job's syndrome	0.660004108257914	no	#4A74A9
+Polycythemia vera	Schizophrenia	0.616571586313604	no	#4A74A9
+Polycythemia vera	Alzheimer's disease	0.153268218188657	no	#4A74A9
+Polycythemia vera	Tibial muscular dystrophy	0.349462927042086	no	#4A74A9
+Polycythemia vera	Acute myocardial infarction	0.982613108876449	no	#4A74A9
+Polycythemia vera	Cardiomyopathy	-0.218837824477156	no	#B64539
+Polycythemia vera	Chronic Obstructive Pulmonary Disease	0.653382437925611	no	#4A74A9
+Polycythemia vera	Other interstitial pulmonary diseases	-0.48529324177972	no	#B64539
+Polycythemia vera	Psoriasis	0.106818217825882	no	#4A74A9
+Polycythemia vera	Acne	0.0647941365906796	no	#4A74A9
+Polycythemia vera	IgA nephropathy	-0.290425082215199	no	#B64539
+Polycythemia vera	Uremia	0.764699445040147	no	#4A74A9
+Polycythemia vera	Septic Shock	0.780409167954555	no	#4A74A9
+Myelodysplastic syndromes	Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	0.775331934494216	yes	#4A74A9
+Myelodysplastic syndromes	Autosomal dominant monocytopenia	0.909687732669562	yes	#4A74A9
+Myelodysplastic syndromes	Primary myelofibrosis	0.843358306566558	yes	#4A74A9
+Myelodysplastic syndromes	Job's syndrome	0.357355103211583	no	#4A74A9
+Myelodysplastic syndromes	Cerebral infarction	-0.70014778509359	no	#B64539
+Myelodysplastic syndromes	Aphthous stomatitis	-0.535490212076882	no	#B64539
+Myelodysplastic syndromes	Alcoholic liver disease	0.407276206963694	no	#4A74A9
+Myelodysplastic syndromes	Acne	-0.283839387107673	no	#B64539
+Myelodysplastic syndromes	Rosacea	-0.241446915016678	no	#B64539
+Myelodysplastic syndromes	Uremia	0.576334819627598	no	#4A74A9
+Myelodysplastic syndromes	Septic Shock	0.609942921389553	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Autosomal dominant monocytopenia	0.871410374816568	yes	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Primary myelofibrosis	0.935506094912304	yes	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Schizophrenia	0.698200247794892	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Tibial muscular dystrophy	0.570003619691263	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Atrial fibrillation	-0.78359117589933	no	#B64539
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Oral dysplasia	0.17674297093499	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Uremia	0.856391905697557	no	#4A74A9
+Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue	Septic Shock	0.328464736753547	no	#4A74A9
+Autosomal dominant monocytopenia	Primary myelofibrosis	0.888841205697424	yes	#4A74A9
+Autosomal dominant monocytopenia	Uremia	0.662623659437214	no	#4A74A9
+Autosomal dominant monocytopenia	Septic Shock	0.84505942913052	no	#4A74A9
+Primary myelofibrosis	Job's syndrome	0.491159728004825	no	#4A74A9
+Primary myelofibrosis	Tibial muscular dystrophy	0.368057309445965	no	#4A74A9
+Primary myelofibrosis	Aphthous stomatitis	-0.418451642507891	no	#B64539
+Primary myelofibrosis	Oral dysplasia	0.266351637031892	no	#4A74A9
+Primary myelofibrosis	Alcoholic liver disease	0.109084302166407	no	#4A74A9
+Primary myelofibrosis	Acne	-0.203409579626197	no	#B64539
+Primary myelofibrosis	Uremia	0.879401516990884	no	#4A74A9
+Primary myelofibrosis	Septic Shock	0.691673366714957	no	#4A74A9
+Job's syndrome	Schizophrenia	0.51119412755788	no	#4A74A9
+Job's syndrome	Autism	-0.937883024279277	no	#B64539
+Job's syndrome	Parkinson's disease	0.360641329450198	no	#4A74A9
+Job's syndrome	Alzheimer's disease	0.201365851987432	no	#4A74A9
+Job's syndrome	Acute myocardial infarction	0.84060505594591	no	#4A74A9
+Job's syndrome	Chronic Obstructive Pulmonary Disease	0.533597555620588	no	#4A74A9
+Job's syndrome	Other interstitial pulmonary diseases	-0.418065301251551	no	#B64539
+Job's syndrome	Alcoholic liver disease	-0.226742015958847	no	#B64539
+Job's syndrome	Acne	0.0353236896602873	no	#4A74A9
+Job's syndrome	Uremia	0.412357494601139	no	#4A74A9
+Job's syndrome	Septic Shock	0.667541786848246	no	#4A74A9
+Type 1 diabetes mellitus	Type 2 diabetes mellitus	0.962148994762202	yes	#4A74A9
+Type 1 diabetes mellitus	Atrial fibrillation	-0.704870021970459	no	#B64539
+Type 1 diabetes mellitus	Cerebral infarction	-0.502165834414127	no	#B64539
+Type 1 diabetes mellitus	Other interstitial pulmonary diseases	0.744140140308419	no	#4A74A9
+Type 1 diabetes mellitus	Psoriasis	-0.515701605217395	no	#B64539
+Type 1 diabetes mellitus	Acne	-0.558125535293168	no	#B64539
+Type 1 diabetes mellitus	IgA nephropathy	0.831010771140217	no	#4A74A9
+Type 2 diabetes mellitus	Other interstitial pulmonary diseases	0.627879108114942	no	#4A74A9
+Type 2 diabetes mellitus	IgA nephropathy	0.850050583831698	no	#4A74A9
+Smoker	Cerebral infarction	-0.129239294787067	no	#B64539
+Smoker	Chronic Obstructive Pulmonary Disease	0.82240120359673	yes	#4A74A9
+Smoker	Alcoholic liver disease	0.180653404853137	yes	#4A74A9
+Smoker	Psoriasis	0.188024979726845	no	#4A74A9
+Smoker	Rosacea	0.167110875758265	no	#4A74A9
+Smoker	Septic Shock	0.181117334797945	no	#4A74A9
+Schizophrenia	Parkinson's disease	0.923790980690891	no	#4A74A9
+Schizophrenia	Alzheimer's disease	0.907589510007172	no	#4A74A9
+Schizophrenia	Tibial muscular dystrophy	-0.173939860674832	no	#B64539
+Schizophrenia	Cardiomyopathy	-0.222738823606787	no	#B64539
+Schizophrenia	Cerebral infarction	0.625022863846727	no	#4A74A9
+Schizophrenia	Chronic Obstructive Pulmonary Disease	0.859540579224979	no	#4A74A9
+Schizophrenia	Other interstitial pulmonary diseases	-0.524696658769374	no	#B64539
+Schizophrenia	Aphthous stomatitis	0.136507522417518	no	#4A74A9
+Schizophrenia	Alcoholic liver disease	-0.324505422271637	no	#B64539
+Schizophrenia	Acne	0.251300384845163	no	#4A74A9
+Schizophrenia	IgA nephropathy	-0.587515827526103	no	#B64539
+Schizophrenia	Uremia	0.597796641174803	no	#4A74A9
+Schizophrenia	Other specified congenital malformation syndromes affecting multiple systems	-0.766455262749657	no	#B64539
+Schizophrenia	Septic Shock	0.508721466338295	no	#4A74A9
+Parkinson's disease	Alzheimer's disease	0.869579807693724	no	#4A74A9
+Parkinson's disease	Tibial muscular dystrophy	-0.287981857660161	no	#B64539
+Parkinson's disease	Cardiomyopathy	-0.382113625515846	no	#B64539
+Parkinson's disease	Other interstitial pulmonary diseases	-0.417482384941701	no	#B64539
+Parkinson's disease	Aphthous stomatitis	0.264643518421092	no	#4A74A9
+Parkinson's disease	Alcoholic liver disease	-0.346686476194742	no	#B64539
+Parkinson's disease	Psoriasis	0.195961860008028	no	#4A74A9
+Parkinson's disease	Acne	0.400643336538026	no	#4A74A9
+Parkinson's disease	Rosacea	0.249528144224661	no	#4A74A9
+Parkinson's disease	Septic Shock	0.312410103015845	no	#4A74A9
+Alzheimer's disease	Tibial muscular dystrophy	-0.279781818512387	no	#B64539
+Alzheimer's disease	Cardiomyopathy	-0.27411275767349	no	#B64539
+Alzheimer's disease	Other interstitial pulmonary diseases	-0.258197109717465	no	#B64539
+Alzheimer's disease	Aphthous stomatitis	0.341834928603904	no	#4A74A9
+Alzheimer's disease	Alcoholic liver disease	-0.198390052153102	no	#B64539
+Alzheimer's disease	Psoriasis	-0.0922422203957987	no	#B64539
+Alzheimer's disease	Acne	0.169335785434387	no	#4A74A9
+Alzheimer's disease	Septic Shock	0.144657498547068	no	#4A74A9
+Tibial muscular dystrophy	Atrial fibrillation	-0.558166255361938	no	#B64539
+Tibial muscular dystrophy	Other interstitial pulmonary diseases	0.327236882020082	no	#4A74A9
+Tibial muscular dystrophy	Aphthous stomatitis	0.161293594472987	no	#4A74A9
+Tibial muscular dystrophy	Oral dysplasia	0.253280475223833	no	#4A74A9
+Tibial muscular dystrophy	Alcoholic liver disease	0.203332614425151	no	#4A74A9
+Tibial muscular dystrophy	Psoriasis	0.339535217201108	no	#4A74A9
+Tibial muscular dystrophy	Acne	0.274242596094726	no	#4A74A9
+Tibial muscular dystrophy	Rosacea	0.263948420508588	no	#4A74A9
+Tibial muscular dystrophy	Uremia	0.308600892752629	no	#4A74A9
+Tibial muscular dystrophy	Septic Shock	0.140606694225486	no	#4A74A9
+Acute myocardial infarction	Septic Shock	0.941983717715401	no	#4A74A9
+Cardiomyopathy	Atrial fibrillation	0.254083611707757	yes	#4A74A9
+Cardiomyopathy	Cerebral infarction	-0.232199099427629	no	#B64539
+Cardiomyopathy	Other interstitial pulmonary diseases	0.404325348972928	no	#4A74A9
+Cardiomyopathy	Aphthous stomatitis	-0.571221810640829	no	#B64539
+Cardiomyopathy	Oral dysplasia	-0.390389387785168	no	#B64539
+Cardiomyopathy	Psoriasis	-0.361420817947891	no	#B64539
+Cardiomyopathy	Acne	-0.584051392127532	no	#B64539
+Cardiomyopathy	Rosacea	-0.299747012589336	no	#B64539
+Cardiomyopathy	Septic Shock	-0.3713065467171	no	#B64539
+Atrial fibrillation	Other interstitial pulmonary diseases	-0.74875620004355	no	#B64539
+Atrial fibrillation	Uremia	-0.664216825395173	no	#B64539
+Cerebral infarction	Other interstitial pulmonary diseases	-0.590853343717923	no	#B64539
+Cerebral infarction	Aphthous stomatitis	0.0905471148591502	no	#4A74A9
+Cerebral infarction	Alcoholic liver disease	-0.297973130541186	no	#B64539
+Cerebral infarction	Psoriasis	0.117421674069057	no	#4A74A9
+Cerebral infarction	Acne	0.188256961736507	no	#4A74A9
+Cerebral infarction	IgA nephropathy	-0.564451968812934	no	#B64539
+Chronic Obstructive Pulmonary Disease	Other interstitial pulmonary diseases	-0.609956097826397	no	#B64539
+Chronic Obstructive Pulmonary Disease	Aphthous stomatitis	-0.491842218650537	no	#B64539
+Chronic Obstructive Pulmonary Disease	Alcoholic liver disease	0.520821117025566	no	#4A74A9
+Chronic Obstructive Pulmonary Disease	Psoriasis	0.428973164635034	no	#4A74A9
+Chronic Obstructive Pulmonary Disease	Acne	0.304536745589382	no	#4A74A9
+Chronic Obstructive Pulmonary Disease	Rosacea	0.36183669258255	no	#4A74A9
+Chronic Obstructive Pulmonary Disease	Septic Shock	0.700474198991525	no	#4A74A9
+Other interstitial pulmonary diseases	Aphthous stomatitis	-0.340040262878944	no	#B64539
+Other interstitial pulmonary diseases	Oral dysplasia	0.340405028563272	no	#4A74A9
+Other interstitial pulmonary diseases	Alcoholic liver disease	0.375062215676745	no	#4A74A9
+Other interstitial pulmonary diseases	Psoriasis	-0.354132779554383	no	#B64539
+Other interstitial pulmonary diseases	Acne	-0.401461676415905	no	#B64539
+Other interstitial pulmonary diseases	Rosacea	-0.234612350734352	no	#B64539
+Other interstitial pulmonary diseases	IgA nephropathy	0.628120797116381	no	#4A74A9
+Other interstitial pulmonary diseases	Septic Shock	-0.6305128672494	no	#B64539
+Aphthous stomatitis	Oral dysplasia	0.660925302831162	yes	#4A74A9
+Aphthous stomatitis	Irritable bowel syndrome	0.952992674628061	no	#4A74A9
+Aphthous stomatitis	Psoriasis	0.484000934163456	no	#4A74A9
+Aphthous stomatitis	Acne	0.778894388873094	no	#4A74A9
+Aphthous stomatitis	Rosacea	0.558604598830725	no	#4A74A9
+Aphthous stomatitis	IgA nephropathy	0.516617112251308	no	#4A74A9
+Aphthous stomatitis	Septic Shock	0.145979430106014	no	#4A74A9
+Oral dysplasia	Alcoholic liver disease	0.262510359847646	no	#4A74A9
+Oral dysplasia	Psoriasis	0.393608892563395	no	#4A74A9
+Oral dysplasia	Acne	0.430267880828315	no	#4A74A9
+Oral dysplasia	Rosacea	0.164916112124208	no	#4A74A9
+Oral dysplasia	IgA nephropathy	0.582527230870924	no	#4A74A9
+Oral dysplasia	Uremia	0.0722427406645155	no	#4A74A9
+Irritable bowel syndrome	Psoriasis	0.899689101742875	no	#4A74A9
+Irritable bowel syndrome	Acne	0.937899476669006	no	#4A74A9
+Irritable bowel syndrome	Rosacea	0.88200988294075	no	#4A74A9
+Alcoholic liver disease	Psoriasis	0.291320223622755	yes	#4A74A9
+Alcoholic liver disease	Acne	0.299333099064895	no	#4A74A9
+Alcoholic liver disease	Rosacea	0.0920693982441447	yes	#4A74A9
+Alcoholic liver disease	IgA nephropathy	0.496258463837533	no	#4A74A9
+Alcoholic liver disease	Uremia	0.0235898658562851	no	#4A74A9
+Alcoholic liver disease	Septic Shock	0.133842348166635	no	#4A74A9
+Psoriasis	Acne	0.793220457554863	no	#4A74A9
+Psoriasis	Rosacea	0.722384023292368	yes	#4A74A9
+Psoriasis	Uremia	0.146778476040342	no	#4A74A9
+Psoriasis	Klinefelter's syndrome	0.29684777601823	no	#4A74A9
+Psoriasis	Septic Shock	0.347350595187055	no	#4A74A9
+Acne	Rosacea	0.402780751150076	yes	#4A74A9
+Acne	IgA nephropathy	0.283731165690065	no	#4A74A9
+Acne	Uremia	0.044502412146989	no	#4A74A9
+Acne	Klinefelter's syndrome	0.231605624068053	no	#4A74A9
+Acne	Septic Shock	0.378718326114877	no	#4A74A9
+Rosacea	Klinefelter's syndrome	0.292093695587542	no	#4A74A9
+Rosacea	Septic Shock	0.28421987308459	no	#4A74A9
+IgA nephropathy	Uremia	-0.486342915063082	no	#B64539
+Uremia	Septic Shock	0.539764127575382	no	#4A74A9
