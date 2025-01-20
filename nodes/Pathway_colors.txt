@@ -1,0 +1,1678 @@
+pathway	colors
+interleukin 6 signaling	#7D6608
+apoptosis	#F4F6F7
+hemostasis	#7DCEA0
+intrinsic pathway for apoptosis	#F4F6F7
+mapk3 erk1 activation	#1B2631
+translesion synthesis by y family dna polymerases bypasses lesions on dna template	#0E6251
+recognition of dna damage by pcna containing replication complex	#0E6251
+translesion synthesis by polh	#0E6251
+recognition and association of dna glycosylase with site containing an affected purine	#0E6251
+displacement of dna glycosylase by apex1	#0E6251
+polb dependent long patch base excision repair	#0E6251
+resolution of ap sites via the multiple nucleotide patch replacement pathway	#0E6251
+activation of bad and translocation to mitochondria	#F4F6F7
+activation of noxa and translocation to mitochondria	#F4F6F7
+bh3 only proteins associate with and inactivate anti apoptotic bcl 2 members	#F4F6F7
+release of apoptotic factors from the mitochondria	#F4F6F7
+formation of apoptosome	#F4F6F7
+activation of caspases through apoptosome mediated cleavage	#F4F6F7
+cytochrome c mediated apoptotic response	#F4F6F7
+apoptotic cleavage of cellular proteins	#F4F6F7
+smac xiap regulated apoptotic response	#F4F6F7
+apoptotic factor mediated response	#F4F6F7
+opioid signalling	#1B2631
+pka mediated phosphorylation of creb	#1B2631
+camk iv mediated phosphorylation of creb	#1B2631
+ca dependent events	#1B2631
+g protein mediated events	#1B2631
+electric transmission across gap junctions	#7B7D7D
+presynaptic depolarization and calcium channel opening	#7B7D7D
+neurotransmitter release cycle	#7B7D7D
+neurotransmitter clearance	#7B7D7D
+neurotransmitter receptors and postsynaptic signal transmission	#7B7D7D
+transmission across chemical synapses	#7B7D7D
+neuronal system	#7B7D7D
+formation of rna pol ii elongation complex	#2ECC71
+irs mediated signalling	#1B2631
+raf independent mapk1 3 activation	#1B2631
+mapk1 erk2 activation	#1B2631
+sos mediated signalling	#1B2631
+formation of the early elongation complex	#2ECC71
+inhibition of replication initiation of damaged dna by rb1 e2f1	#E74C3C
+e2f enabled inhibition of pre replication complex formation	#E74C3C
+e2f mediated regulation of dna replication	#E74C3C
+activation of bh3 only proteins	#F4F6F7
+effects of pip2 hydrolysis	#7DCEA0
+effects of pip2 hydrolysis	#1B2631
+disinhibition of snare formation	#7DCEA0
+gpvi mediated activation cascade	#7DCEA0
+downstream signaling events of b cell receptor bcr	#7D6608
+activation of ras in b cells	#7D6608
+antiviral mechanism by ifn stimulated genes	#7D6608
+prolactin receptor signaling	#7D6608
+signaling by nodal	#154360
+fertilization	#7F8C8D
+meiotic synapsis	#7F8C8D
+meiotic synapsis	#E74C3C
+ros and rns production in phagocytes	#7D6608
+signaling by fgfr in disease	#7FB3D5
+signaling by erbb2	#1B2631
+signaling by erbb2 in cancer	#7FB3D5
+regulation of gene expression by hypoxia inducible factor	#512E5F
+cellular response to hypoxia	#512E5F
+constitutive signaling by ligand responsive egfr cancer variants	#7FB3D5
+signaling by erbb4	#1B2631
+cross presentation of particulate exogenous antigens phagosomes	#7D6608
+antigen processing cross presentation	#7D6608
+endosomal vacuolar pathway	#7D6608
+cross presentation of soluble exogenous antigens endosomes	#7D6608
+erythrocytes take up carbon dioxide and release oxygen	#2C3E50
+methionine salvage pathway	#F39C12
+erythrocytes take up oxygen and release carbon dioxide	#2C3E50
+shc1 events in erbb2 signaling	#1B2631
+pi3k events in erbb4 signaling	#1B2631
+shc1 events in erbb4 signaling	#1B2631
+nuclear signaling by erbb4	#1B2631
+downregulation of erbb4 signaling	#1B2631
+interleukin 7 signaling	#7D6608
+developmental biology	#154360
+mitochondrial protein import	#4D5656
+cytokine signaling in immune system	#7D6608
+adaptive immune system	#7D6608
+spry regulation of fgf signaling	#1B2631
+ca2 activated k channels	#7B7D7D
+inwardly rectifying k channels	#7B7D7D
+potassium channels	#7B7D7D
+voltage gated potassium channels	#7B7D7D
+tandem pore domain potassium channels	#7B7D7D
+sperm motility and taxes	#7F8C8D
+acrosome reaction and sperm oocyte membrane binding	#7F8C8D
+grb7 events in erbb2 signaling	#1B2631
+downregulation of erbb2 erbb3 signaling	#1B2631
+transcription of e2f targets under negative control by dream complex	#E74C3C
+transcription of e2f targets under negative control by p107 rbl1 and p130 rbl2 in complex with hdac1	#E74C3C
+mitochondrial iron sulfur cluster biogenesis	#F39C12
+rora activates gene expression	#C39BD3
+bmal1 clock npas2 activates circadian gene expression	#C39BD3
+abc transporters in lipid homeostasis	#2C3E50
+elevation of cytosolic ca2 levels	#7DCEA0
+activation of puma and translocation to mitochondria	#F4F6F7
+apoptosis induced dna fragmentation	#F4F6F7
+caspase activation via death receptors in the presence of ligand	#F4F6F7
+extrinsic pathway of fibrin clot formation	#7DCEA0
+intrinsic pathway of fibrin clot formation	#7DCEA0
+common pathway of fibrin clot formation	#7DCEA0
+formation of fibrin clot clotting cascade	#7DCEA0
+inhibition of the proteolytic activity of apc c required for the onset of anaphase by mitotic spindle checkpoint components	#E74C3C
+the citric acid tca cycle and respiratory electron transport	#F39C12
+signaling by scf kit	#1B2631
+regulation of kit signaling	#1B2631
+regulation of signaling by nodal	#154360
+collagen degradation	#145A32
+translocation of slc2a4 glut4 to the plasma membrane	#85929E
+beta defensins	#7D6608
+defensins	#7D6608
+alpha defensins	#7D6608
+tetrahydrobiopterin bh4 synthesis recycling salvage and regulation	#F39C12
+reproduction	#7F8C8D
+degradation of the extracellular matrix	#145A32
+extracellular matrix organization	#145A32
+collagen formation	#145A32
+reversible hydration of carbon dioxide	#F39C12
+acyl chain remodelling of pc	#F39C12
+acyl chain remodeling of cl	#F39C12
+acyl chain remodelling of ps	#F39C12
+acyl chain remodelling of pe	#F39C12
+acyl chain remodeling of dag and tag	#F39C12
+acyl chain remodelling of pi	#F39C12
+acyl chain remodelling of pg	#F39C12
+hydrolysis of lpc	#F39C12
+synthesis of pg	#F39C12
+synthesis of pa	#F39C12
+synthesis of pc	#F39C12
+glycerophospholipid biosynthesis	#F39C12
+synthesis of pe	#F39C12
+synthesis of pi	#F39C12
+synthesis of pips at the er membrane	#F39C12
+inositol phosphate metabolism	#F39C12
+pi metabolism	#F39C12
+phospholipid metabolism	#F39C12
+dag and ip3 signaling	#1B2631
+meiosis	#7F8C8D
+meiosis	#E74C3C
+cell cell communication	#D98880
+signaling by activin	#1B2631
+g0 and early g1	#E74C3C
+phase ii conjugation of compounds	#F39C12
+methylation	#F39C12
+cytosolic sulfonation of small molecules	#F39C12
+amino acid conjugation	#F39C12
+glucuronidation	#F39C12
+glutathione conjugation	#F39C12
+elastic fibre formation	#145A32
+fibronectin matrix formation	#145A32
+polo like kinase mediated events	#E74C3C
+eukaryotic translation elongation	#F7DC6F
+signaling by notch	#1B2631
+telomere maintenance	#E74C3C
+gap junction trafficking and regulation	#85929E
+metabolism of nucleotides	#F39C12
+mitochondrial biogenesis	#BDC3C7
+transport of the slbp dependant mature mrna	#784212
+transport of mature mrnas derived from intronless transcripts	#784212
+activation of matrix metalloproteinases	#145A32
+recycling of bile acids and salts	#F39C12
+removal of aminoterminal propeptides from gamma carboxylated proteins	#F7DC6F
+gamma carboxylation transport and amino terminal cleavage of proteins	#F7DC6F
+zbp1 dai mediated induction of type i ifns	#7D6608
+irf3 mediated activation of type 1 ifn	#7D6608
+sulfide oxidation to sulfate	#F39C12
+degradation of cysteine and homocysteine	#F39C12
+sulfur amino acid metabolism	#F39C12
+hiv life cycle	#7FB3D5
+budding and maturation of hiv virion	#7FB3D5
+integration of provirus	#7FB3D5
+early phase of hiv life cycle	#7FB3D5
+golgi cisternae pericentriolar stack reorganization	#E74C3C
+synthesis of glycosylphosphatidylinositol gpi	#F7DC6F
+attachment of gpi anchor to upar	#F7DC6F
+hiv infection	#7FB3D5
+host interactions of hiv factors	#7FB3D5
+glycosaminoglycan metabolism	#F39C12
+post translational modification synthesis of gpi anchored proteins	#F7DC6F
+respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	#F39C12
+formation of atp by chemiosmotic coupling	#F39C12
+pka mediated phosphorylation of key metabolic factors	#F39C12
+glucagon signaling in metabolic regulation	#F39C12
+triglyceride catabolism	#F39C12
+ampk inhibits chrebp transcriptional activation activity	#F39C12
+integration of energy metabolism	#F39C12
+chrebp activates metabolic gene expression	#F39C12
+pp2a mediated dephosphorylation of key metabolic factors	#F39C12
+keratan sulfate keratin metabolism	#F39C12
+heparan sulfate heparin hs gag metabolism	#F39C12
+gamma carboxylation hypusine formation and arylsulfatase activation	#F7DC6F
+cell cycle	#E74C3C
+signaling by egfr in cancer	#7FB3D5
+pka activation in glucagon signalling	#F39C12
+2 ltr circle formation	#7FB3D5
+nef mediates down modulation of cell surface receptors by recruiting them to clathrin adapters	#7FB3D5
+nef mediated downregulation of mhc class i complex cell surface expression	#7FB3D5
+nef and signal transduction	#7FB3D5
+the role of nef in hiv 1 replication and disease pathogenesis	#7FB3D5
+collagen biosynthesis and modifying enzymes	#145A32
+mtor signalling	#1B2631
+regulation of cholesterol biosynthesis by srebp srebf	#F39C12
+synthesis of pips at the plasma membrane	#F39C12
+synthesis of pips at the golgi membrane	#F39C12
+synthesis of pips at the early endosome membrane	#F39C12
+synthesis of pips at the late endosome membrane	#F39C12
+sphingolipid de novo biosynthesis	#F39C12
+glycosphingolipid metabolism	#F39C12
+myd88 independent tlr4 cascade	#7D6608
+mitochondrial uncoupling	#F39C12
+mtorc1 mediated signalling	#1B2631
+the activation of arylsulfatases	#F7DC6F
+signaling by ntrks	#1B2631
+complement cascade	#7D6608
+lectin pathway of complement activation	#7D6608
+initial triggering of complement	#7D6608
+terminal pathway of complement	#7D6608
+creation of c4 and c2 activators	#7D6608
+signalling to ras	#1B2631
+hiv transcription initiation	#7FB3D5
+hiv transcription elongation	#7FB3D5
+transcription of the hiv genome	#7FB3D5
+abortive elongation of hiv 1 transcript in the absence of tat	#7FB3D5
+hiv elongation arrest and recovery	#7FB3D5
+nef mediated cd4 down regulation	#7FB3D5
+the fatty acid cycling model	#F39C12
+trafficking and processing of endosomal tlr	#7D6608
+toll like receptor 9 tlr9 cascade	#7D6608
+toll like receptor tlr1 tlr2 cascade	#7D6608
+innate immune system	#7D6608
+influenza infection	#7FB3D5
+export of viral ribonucleoproteins from nucleus	#7FB3D5
+ns1 mediated effects on host pathways	#7FB3D5
+viral messenger rna synthesis	#7FB3D5
+nod1 2 signaling pathway	#7D6608
+nucleotide binding domain leucine rich repeat containing receptor nlr signaling pathways	#7D6608
+neurotoxicity of clostridium toxins	#7FB3D5
+toll like receptor cascades	#7D6608
+ticam1 rip1 mediated ikk complex recruitment	#7D6608
+ddx58 ifih1 mediated induction of interferon alpha beta	#7D6608
+prolonged erk activation events	#1B2631
+adenylate cyclase activating pathway	#1B2631
+adenylate cyclase inhibitory pathway	#1B2631
+adenylate cyclase inhibitory pathway	#7B7D7D
+regulation of glucokinase by glucokinase regulatory protein	#F39C12
+signaling by tgf beta receptor complex	#1B2631
+arms mediated activation	#1B2631
+p38mapk events	#1B2631
+telomere extension by telomerase	#E74C3C
+alternative complement activation	#7D6608
+apc c cdc20 mediated degradation of cyclin b	#E74C3C
+scf beta trcp mediated degradation of emi1	#E74C3C
+apc c mediated degradation of cell cycle proteins	#E74C3C
+apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	#E74C3C
+transport and synthesis of paps	#F39C12
+glutathione synthesis and recycling	#F39C12
+polymerase switching on the c strand of the telomere	#E74C3C
+processive synthesis on the c strand of the telomere	#E74C3C
+telomere c strand lagging strand synthesis	#E74C3C
+telomere c strand synthesis initiation	#E74C3C
+activation of c3 and c5	#7D6608
+plasma lipoprotein assembly remodeling and clearance	#2C3E50
+assembly of the hiv virion	#7FB3D5
+interactions of vpr with host cellular proteins	#7FB3D5
+activation of atr in response to replication stress	#E74C3C
+conversion from apc c cdc20 to apc c cdh1 in late anaphase	#E74C3C
+phosphorylation of the apc c	#E74C3C
+phosphorylation of emi1	#E74C3C
+unwinding of dna	#E74C3C
+unwinding of dna	#16A085
+conjugation of benzoate with glycine	#F39C12
+interactions of rev with host cellular proteins	#7FB3D5
+retrograde neurotrophin signalling	#1B2631
+signaling by egfr	#1B2631
+chondroitin sulfate dermatan sulfate metabolism	#F39C12
+apc cdc20 mediated degradation of nek2a	#E74C3C
+srp dependent cotranslational protein targeting to membrane	#F7DC6F
+darpp 32 events	#1B2631
+gab1 signalosome	#1B2631
+shc1 events in egfr signaling	#1B2631
+apobec3g mediated resistance to hiv 1 infection	#7FB3D5
+nuclear import of rev protein	#7FB3D5
+extension of telomeres	#E74C3C
+rip mediated nfkb activation via zbp1	#7D6608
+serotonin neurotransmitter release cycle	#7B7D7D
+norepinephrine neurotransmitter release cycle	#7B7D7D
+acetylcholine binding and downstream events	#7B7D7D
+nef mediated cd8 down regulation	#7FB3D5
+egfr downregulation	#1B2631
+sting mediated induction of host immune responses	#7D6608
+cytosolic sensors of pathogen associated dna	#7D6608
+signaling by cytosolic fgfr1 fusion mutants	#7FB3D5
+fgfr1 mutant receptor activation	#7FB3D5
+fgfr2 mutant receptor activation	#7FB3D5
+organelle biogenesis and maintenance	#BDC3C7
+synthesis of pyrophosphates in the cytosol	#F39C12
+synthesis of ip2 ip and ins in the cytosol	#F39C12
+synthesis of ip3 and ip4 in the cytosol	#F39C12
+regulation of beta cell development	#154360
+downstream signal transduction	#1B2631
+signaling by pdgf	#1B2631
+activation of trka receptors	#1B2631
+ngf independant trka activation	#1B2631
+scf skp2 mediated degradation of p27 p21	#E74C3C
+signalling to erks	#1B2631
+signalling to p38 via rit and rin	#1B2631
+digestion of dietary carbohydrate	#3498DB
+cellular hexose transport	#2C3E50
+metabolism of porphyrins	#F39C12
+heme biosynthesis	#F39C12
+heme degradation	#F39C12
+signaling by fgfr	#1B2631
+fgfr3 ligand binding and activation	#1B2631
+fgfr2 ligand binding and activation	#1B2631
+fgfr1 ligand binding and activation	#1B2631
+fgfr1b ligand binding and activation	#1B2631
+fgfr3b ligand binding and activation	#1B2631
+fgfr1c ligand binding and activation	#1B2631
+fgfr2c ligand binding and activation	#1B2631
+fgfr2b ligand binding and activation	#1B2631
+gap junction assembly	#85929E
+transport of connexons to the plasma membrane	#85929E
+gap junction degradation	#85929E
+pre notch processing in the endoplasmic reticulum	#1B2631
+pre notch processing in golgi	#1B2631
+pre notch expression and processing	#1B2631
+cholesterol biosynthesis	#F39C12
+snrnp assembly	#784212
+synthesis of bile acids and bile salts	#F39C12
+digestion of dietary lipid	#3498DB
+androgen biosynthesis	#F39C12
+estrogen biosynthesis	#F39C12
+synthesis of bile acids and bile salts via 7alpha hydroxycholesterol	#F39C12
+p75ntr signals via nf kb	#1B2631
+nrage signals death through jnk	#1B2631
+p75ntr negatively regulates cell cycle via sc1	#1B2631
+regulated proteolysis of p75ntr	#1B2631
+p75ntr regulates axonogenesis	#1B2631
+p75 ntr receptor mediated signalling	#1B2631
+synthesis of bile acids and bile salts via 24 hydroxycholesterol	#F39C12
+synthesis of bile acids and bile salts via 27 hydroxycholesterol	#F39C12
+mineralocorticoid biosynthesis	#F39C12
+glucocorticoid biosynthesis	#F39C12
+bile acid and bile salt metabolism	#F39C12
+signaling by vegf	#1B2631
+vegf ligand receptor interactions	#1B2631
+degradation of beta catenin by the destruction complex	#1B2631
+rho gtpase effectors	#1B2631
+signaling by wnt	#1B2631
+metabolism of steroid hormones	#F39C12
+pregnenolone biosynthesis	#F39C12
+beta catenin phosphorylation cascade	#1B2631
+grb2 events in erbb2 signaling	#1B2631
+pi3k events in erbb2 signaling	#1B2631
+cobalamin cbl vitamin b12 transport and metabolism	#F39C12
+metabolism of folate and pterines	#F39C12
+biotin transport and metabolism	#F39C12
+coenzyme a biosynthesis	#F39C12
+vitamin d calciferol metabolism	#F39C12
+nicotinate metabolism	#F39C12
+vitamin b1 thiamin metabolism	#F39C12
+vitamin c ascorbate metabolism	#F39C12
+vitamin b2 riboflavin metabolism	#F39C12
+metabolism of water soluble vitamins and cofactors	#F39C12
+metabolism of vitamins and cofactors	#F39C12
+a tetrasaccharide linker sequence is required for gag synthesis	#F39C12
+nicotinamide salvaging	#F39C12
+signaling by notch1	#1B2631
+signaling by notch2	#1B2631
+pi3k akt activation	#1B2631
+akt phosphorylates targets in the cytosol	#1B2631
+akt phosphorylates targets in the nucleus	#1B2631
+nuclear events kinase and transcription factor activation	#1B2631
+erk mapk targets	#1B2631
+erk mapk targets	#7D6608
+immunoregulatory interactions between a lymphoid and a non lymphoid cell	#7D6608
+vitamin b5 pantothenate metabolism	#F39C12
+negative regulation of the pi3k akt network	#1B2631
+creb phosphorylation	#1B2631
+creb phosphorylation	#7D6608
+er to golgi anterograde transport	#F7DC6F
+er to golgi anterograde transport	#85929E
+membrane trafficking	#85929E
+trans golgi network vesicle budding	#85929E
+carnitine metabolism	#F39C12
+signaling by bmp	#1B2631
+signaling by alk	#1B2631
+tcf dependent signaling in response to wnt	#1B2631
+wnt mediated activation of dvl	#1B2631
+formation of the beta catenin tcf transactivating complex	#1B2631
+g protein activation	#1B2631
+metabolism of nitric oxide nos3 activation and regulation	#F39C12
+assembly of collagen fibrils and other multimeric structures	#145A32
+metabolism of angiotensinogen to angiotensins	#F7DC6F
+keratan sulfate biosynthesis	#F39C12
+keratan sulfate degradation	#F39C12
+chondroitin sulfate biosynthesis	#F39C12
+dermatan sulfate biosynthesis	#F39C12
+hs gag biosynthesis	#F39C12
+tcr signaling	#7D6608
+hs gag degradation	#F39C12
+cs ds degradation	#F39C12
+generation of second messenger molecules	#7D6608
+calcineurin activates nfat	#7D6608
+erks are inactivated	#1B2631
+erks are inactivated	#7D6608
+cell surface interactions at the vascular wall	#7DCEA0
+signaling by hippo	#1B2631
+fcgamma receptor fcgr dependent phagocytosis	#7D6608
+fcgr activation	#7D6608
+role of phospholipids in phagocytosis	#7D6608
+yap1 and wwtr1 taz stimulated gene expression	#2ECC71
+enos activation	#F39C12
+nostrin mediated enos trafficking	#F39C12
+microrna mirna biogenesis	#2ECC71
+copii mediated vesicle transport	#F7DC6F
+copii mediated vesicle transport	#85929E
+regulation of pyruvate dehydrogenase pdh complex	#F39C12
+alpha linolenic omega3 and linoleic omega6 acid metabolism	#F39C12
+linoleic acid la metabolism	#F39C12
+cell death signalling via nrage nrif and nade	#1B2631
+nade modulates death signalling	#1B2631
+nrif signals cell death from the nucleus	#1B2631
+p75ntr recruits signalling complexes	#1B2631
+nf kb is activated and signals survival	#1B2631
+metabolism of amine derived hormones	#F39C12
+serotonin and melatonin biosynthesis	#F39C12
+peptide hormone biosynthesis	#F7DC6F
+thyroxine biosynthesis	#F39C12
+glutamate neurotransmitter release cycle	#7B7D7D
+regulation of gene expression in late stage branching morphogenesis pancreatic bud precursor cells	#154360
+regulation of gene expression in beta cells	#154360
+regulation of gene expression in endocrine committed neurog3 progenitor cells	#154360
+regulation of gene expression in early pancreatic precursor cells	#154360
+pecam1 interactions	#7DCEA0
+basigin interactions	#7DCEA0
+tie2 signaling	#7DCEA0
+gene silencing by rna	#2ECC71
+biological oxidations	#F39C12
+cytochrome p450 arranged by substrate type	#F39C12
+vitamins	#F39C12
+fatty acids	#F39C12
+phase i functionalization of compounds	#F39C12
+miscellaneous substrates	#F39C12
+endogenous sterols	#F39C12
+eicosanoids	#F39C12
+xenobiotics	#F39C12
+cyp2e1 reactions	#F39C12
+epigenetic regulation of gene expression	#2ECC71
+notch1 intracellular domain regulates transcription	#1B2631
+activated notch1 transmits signal to the nucleus	#1B2631
+prc2 methylates histones and dna	#2ECC71
+dopamine neurotransmitter release cycle	#7B7D7D
+egfr interacts with phospholipase c gamma	#1B2631
+molecules associated with elastic fibres	#145A32
+mhc class ii antigen presentation	#7D6608
+synthesis of epoxy eet and dihydroxyeicosatrienoic acids dhet	#F39C12
+synthesis of 5 eicosatetraenoic acids	#F39C12
+synthesis of leukotrienes lt and eoxins ex	#F39C12
+synthesis of lipoxins lx	#F39C12
+synthesis of 12 eicosatetraenoic acid derivatives	#F39C12
+arachidonic acid metabolism	#F39C12
+synthesis of 15 eicosatetraenoic acid derivatives	#F39C12
+ubiquinol biosynthesis	#F39C12
+synthesis of 16 20 hydroxyeicosatetraenoic acids hete	#F39C12
+hyaluronan metabolism	#F39C12
+hyaluronan biosynthesis and export	#F39C12
+transcriptional activation of mitochondrial biogenesis	#BDC3C7
+activation of ppargc1a pgc 1alpha by phosphorylation	#BDC3C7
+integrin cell surface interactions	#145A32
+hyaluronan uptake and degradation	#F39C12
+abacavir transmembrane transport	#76D7C4
+abacavir adme	#76D7C4
+synthesis of prostaglandins pg and thromboxanes tx	#F39C12
+scavenging of heme from plasma	#85929E
+dap12 interactions	#7D6608
+binding and uptake of ligands by scavenger receptors	#85929E
+downregulation of tgf beta receptor signaling	#1B2631
+tgf beta receptor signaling activates smads	#1B2631
+tgf beta receptor signaling in emt epithelial to mesenchymal transition	#1B2631
+transcriptional activity of smad2 smad3 smad4 heterotrimer	#2ECC71
+transcriptional activity of smad2 smad3 smad4 heterotrimer	#1B2631
+downregulation of smad2 3 smad4 transcriptional activity	#2ECC71
+downregulation of smad2 3 smad4 transcriptional activity	#1B2631
+smad2 smad3 smad4 heterotrimer regulates transcription	#2ECC71
+smad2 smad3 smad4 heterotrimer regulates transcription	#1B2631
+egfr transactivation by gastrin	#1B2631
+the retinoid cycle in cones daylight vision	#BFC9CA
+visual phototransduction	#BFC9CA
+notch2 intracellular domain regulates transcription	#1B2631
+mucopolysaccharidoses	#7FB3D5
+anchoring fibril formation	#145A32
+pi3k akt signaling in cancer	#7FB3D5
+constitutive signaling by aberrant pi3k in cancer	#7FB3D5
+crosslinking of collagen fibrils	#145A32
+condensation of prophase chromosomes	#E74C3C
+phosphate bond hydrolysis by nudt proteins	#F39C12
+signaling by type 1 insulin like growth factor 1 receptor igf1r	#1B2631
+metabolism of ingested semet sec mesec into h2se	#F39C12
+selenoamino acid metabolism	#F39C12
+dap12 signaling	#7D6608
+activation of gene expression by srebf srebp	#F39C12
+shc related events triggered by igf1r	#1B2631
+retinoid cycle disease events	#7FB3D5
+the canonical retinoid cycle in rods twilight vision	#BFC9CA
+fc epsilon receptor fceri signaling	#7D6608
+mastl facilitates mitotic progression	#E74C3C
+separation of sister chromatids	#E74C3C
+establishment of sister chromatid cohesion	#E74C3C
+cohesin loading onto chromatin	#E74C3C
+activation of the phototransduction cascade	#BFC9CA
+resolution of sister chromatid cohesion	#E74C3C
+condensation of prometaphase chromosomes	#E74C3C
+the phototransduction cascade	#BFC9CA
+interaction with cumulus cells and the zona pellucida	#7F8C8D
+mitotic metaphase and anaphase	#E74C3C
+oxidative stress induced senescence	#512E5F
+senescence associated secretory phenotype sasp	#512E5F
+cellular senescence	#512E5F
+formation of senescence associated heterochromatin foci sahf	#512E5F
+oncogene induced senescence	#512E5F
+dna damage telomere stress induced senescence	#512E5F
+trif mediated programmed cell death	#7D6608
+cytosolic iron sulfur cluster assembly	#F39C12
+regulation of plk1 activity at g2 m transition	#E74C3C
+signaling by leptin	#1B2631
+signaling by notch1 pest domain mutants in cancer	#7FB3D5
+fbxw7 mutants and notch1 in cancer	#7FB3D5
+acetylcholine neurotransmitter release cycle	#7B7D7D
+caspase mediated cleavage of cytoskeletal proteins	#F4F6F7
+insulin processing	#F7DC6F
+signaling by notch1 t 7 9 notch1 m1580 k2555 translocation mutant	#7FB3D5
+stimuli sensing channels	#2C3E50
+eph ephrin signaling	#154360
+signaling by notch1 hd domain mutants in cancer	#7FB3D5
+role of lat2 ntal lab on calcium mobilization	#7D6608
+ficolins bind to repetitive carbohydrate structures on the target cell surface	#7D6608
+fceri mediated mapk activation	#7D6608
+fceri mediated ca 2 mobilization	#7D6608
+fceri mediated nf kb activation	#7D6608
+pou5f1 oct4 sox2 nanog repress genes related to differentiation	#154360
+pou5f1 oct4 sox2 nanog activate genes related to proliferation	#154360
+notch2 activation and transmission of signal to the nucleus	#1B2631
+peptide hormone metabolism	#F7DC6F
+nuclear envelope breakdown	#E74C3C
+activation of nima kinases nek9 nek6 nek7	#E74C3C
+sumoylation	#F7DC6F
+initiation of nuclear envelope ne reformation	#E74C3C
+nuclear envelope ne reassembly	#E74C3C
+laminin interactions	#145A32
+syndecan interactions	#145A32
+non integrin membrane ecm interactions	#145A32
+ecm proteoglycans	#145A32
+scavenging by class b receptors	#85929E
+scavenging by class a receptors	#85929E
+scavenging by class f receptors	#85929E
+sumo is conjugated to e1 uba2 sae1	#F7DC6F
+sumo is transferred from e1 to e2 ube2i ubc9	#F7DC6F
+sumo is proteolytically processed	#F7DC6F
+sumoylation of dna damage response and repair proteins	#F7DC6F
+dex h box helicases activate type i ifn and inflammatory cytokines production	#7D6608
+lrr flii interacting protein 1 lrrfip1 activates type i ifn production	#7D6608
+regulation of innate immune responses to cytosolic dna	#7D6608
+hdacs deacetylate histones	#8E44AD
+pkmts methylate histone lysines	#8E44AD
+hdms demethylate histones	#8E44AD
+hats acetylate histones	#8E44AD
+rmts methylate histone arginines	#8E44AD
+processing and activation of sumo	#F7DC6F
+glycogen storage diseases	#7FB3D5
+sumoylation of transcription factors	#F7DC6F
+sumoylation of ubiquitinylation proteins	#F7DC6F
+wnt ligand biogenesis and trafficking	#1B2631
+chromatin modifying enzymes	#8E44AD
+irf3 mediated induction of type i ifn	#7D6608
+trp channels	#2C3E50
+defects in cobalamin b12 metabolism	#7FB3D5
+defects in vitamin and cofactor metabolism	#7FB3D5
+detoxification of reactive oxygen species	#512E5F
+nuclear pore complex npc disassembly	#E74C3C
+loss of function of smad2 3 in cancer	#7FB3D5
+signaling by tgf beta receptor complex in cancer	#7FB3D5
+glycogen synthesis	#F39C12
+defects in biotin btn metabolism	#7FB3D5
+regulation by c flip	#F4F6F7
+regulation of hsf1 mediated heat shock response	#512E5F
+hsp90 chaperone cycle for steroid hormone receptors shr in the presence of ligand	#512E5F
+hsf1 activation	#512E5F
+cellular response to heat stress	#512E5F
+attenuation phase	#512E5F
+hsf1 dependent transactivation	#512E5F
+notch hlh transcription pathway	#2ECC71
+metabolism of polyamines	#F39C12
+apoptotic cleavage of cell adhesion proteins	#F4F6F7
+amino acid transport across the plasma membrane	#2C3E50
+integrin signaling	#7DCEA0
+integrin signaling	#1B2631
+grb2 sos provides linkage to mapk signaling for integrins	#7DCEA0
+grb2 sos provides linkage to mapk signaling for integrins	#1B2631
+diseases associated with glycosaminoglycan metabolism	#7FB3D5
+defective b4galt7 causes eds progeroid type	#7FB3D5
+defective chst3 causes sedcjd	#7FB3D5
+defective chst14 causes eds musculocontractural type	#7FB3D5
+defective chsy1 causes tpbs	#7FB3D5
+defective chst6 causes mcdc1	#7FB3D5
+defective ext2 causes exostoses 2	#7FB3D5
+defective st3gal3 causes mct12 and eiee15	#7FB3D5
+defective b4galt1 causes b4galt1 cdg cdg 2d	#7FB3D5
+transcriptional regulation by tp53	#2ECC71
+p130cas linkage to mapk signaling for integrins	#7DCEA0
+p130cas linkage to mapk signaling for integrins	#1B2631
+signaling by gpcr	#1B2631
+class a 1 rhodopsin like receptors	#1B2631
+class b 2 secretin family receptors	#1B2631
+netrin 1 signaling	#154360
+nephrin family interactions	#D98880
+semaphorin interactions	#154360
+l1cam interactions	#154360
+ncam signaling for neurite out growth	#154360
+peptide ligand binding receptors	#1B2631
+amine ligand binding receptors	#1B2631
+hormone ligand binding receptors	#1B2631
+dscam interactions	#154360
+signaling by robo receptors	#154360
+deactivation of the beta catenin transactivating complex	#1B2631
+negative regulation of tcf dependent signaling by wnt ligand antagonists	#1B2631
+diseases associated with n glycosylation of proteins	#7FB3D5
+diseases of glycosylation	#7FB3D5
+myoclonic epilepsy of lafora	#7FB3D5
+dopamine clearance from the synaptic cleft	#7B7D7D
+cytosolic trna aminoacylation	#F7DC6F
+trna aminoacylation	#F7DC6F
+mitochondrial trna aminoacylation	#F7DC6F
+tachykinin receptors bind tachykinins	#1B2631
+chemokine receptors bind chemokines	#1B2631
+recruitment of mitotic centrosome proteins and complexes	#E74C3C
+recruitment of numa to mitotic centrosomes	#E74C3C
+energy dependent regulation of mtor by lkb1 ampk	#1B2631
+atf4 activates genes in response to endoplasmic reticulum stress	#512E5F
+atf6 atf6 alpha activates chaperones	#512E5F
+perk regulates gene expression	#512E5F
+ire1alpha activates chaperones	#512E5F
+unfolded protein response upr	#512E5F
+atf6 atf6 alpha activates chaperone genes	#512E5F
+transcriptional regulation of white adipocyte differentiation	#154360
+regulation of insulin like growth factor igf transport and uptake by insulin like growth factor binding proteins igfbps	#F7DC6F
+glucagon like peptide 1 glp1 regulates insulin secretion	#F39C12
+olfactory signaling pathway	#BFC9CA
+synthesis secretion and inactivation of glucagon like peptide 1 glp 1	#F7DC6F
+transport of small molecules	#2C3E50
+abc family proteins mediated transport	#2C3E50
+nuclear receptor transcription pathway	#2ECC71
+beta catenin independent wnt signaling	#1B2631
+vasopressin like receptors	#1B2631
+costimulation by the cd28 family	#7D6608
+receptor type tyrosine protein phosphatases	#7B7D7D
+cd28 co stimulation	#7D6608
+cd28 dependent pi3k akt signaling	#7D6608
+cd28 dependent vav1 pathway	#7D6608
+orexin and neuropeptides ff and qrfp bind to their respective receptors	#1B2631
+ctla4 inhibitory signaling	#7D6608
+alpha oxidation of phytanate	#F39C12
+glyoxylate metabolism and glycine degradation	#F39C12
+beta oxidation of pristanoyl coa	#F39C12
+sumoylation of transcription cofactors	#F7DC6F
+pd 1 signaling	#7D6608
+cooperation of prefoldin and tric cct in actin and tubulin folding	#F7DC6F
+formation of tubulin folding intermediates by cct tric	#F7DC6F
+post chaperonin tubulin folding pathway	#F7DC6F
+beta oxidation of very long chain fatty acids	#F39C12
+folding of actin by cct tric	#F7DC6F
+association of tric cct with target proteins during biosynthesis	#F7DC6F
+striated muscle contraction	#F0B27A
+muscarinic acetylcholine receptors	#1B2631
+dopamine receptors	#1B2631
+serotonin receptors	#1B2631
+adrenoceptors	#1B2631
+diseases associated with o glycosylation of proteins	#7FB3D5
+peroxisomal lipid metabolism	#F39C12
+signal regulatory protein family interactions	#D98880
+protein folding	#F7DC6F
+eicosanoid ligand binding receptors	#1B2631
+leukotriene receptors	#1B2631
+prostanoid ligand receptors	#1B2631
+nitric oxide stimulates guanylate cyclase	#7DCEA0
+adp signalling through p2y purinoceptor 12	#7DCEA0
+g beta gamma signalling through pi3kgamma	#1B2631
+rap1 signalling	#7D6608
+signal amplification	#7DCEA0
+prostacyclin signalling through prostacyclin receptor	#7DCEA0
+ephb mediated forward signaling	#154360
+epha mediated growth cone collapse	#154360
+ephrin signaling	#154360
+eph ephrin mediated repulsion of cells	#154360
+muscle contraction	#F0B27A
+g protein beta gamma signalling	#1B2631
+trafficking of ampa receptors	#7B7D7D
+sema3a pak dependent axon repulsion	#154360
+sema3a plexin repulsion signaling by inhibiting integrin adhesion	#154360
+crmps in sema3a signaling	#154360
+acetylcholine regulates insulin secretion	#F39C12
+adrenaline noradrenaline inhibits insulin secretion	#F39C12
+regulation of lipid metabolism by pparalpha	#F39C12
+circadian clock	#C39BD3
+free fatty acids regulate insulin secretion	#F39C12
+incretin synthesis secretion and inactivation	#F7DC6F
+synthesis secretion and inactivation of glucose dependent insulinotropic polypeptide gip	#F7DC6F
+sema4d in semaphorin signaling	#154360
+sialic acid metabolism	#F7DC6F
+sumoylation of sumoylation proteins	#F7DC6F
+ca2 pathway	#1B2631
+pcp ce pathway	#1B2631
+sumoylation of intracellular receptors	#F7DC6F
+g alpha q signalling events	#1B2631
+g alpha 12 13 signalling events	#1B2631
+sema4d mediated inhibition of cell attachment and migration	#154360
+sema4d induced cell migration and growth cone collapse	#154360
+other semaphorin interactions	#154360
+trafficking of glur2 containing ampa receptors	#7B7D7D
+p2y receptors	#1B2631
+nucleotide like purinergic receptors	#1B2631
+platelet homeostasis	#7DCEA0
+reduction of cytosolic ca levels	#7DCEA0
+platelet calcium homeostasis	#7DCEA0
+cgmp effects	#7DCEA0
+g alpha s signalling events	#1B2631
+adp signalling through p2y purinoceptor 1	#7DCEA0
+g alpha i signalling events	#1B2631
+g alpha z signalling events	#1B2631
+dcc mediated attractive signaling	#154360
+netrin mediated repulsion signals	#154360
+caspase activation via dependence receptors in the absence of ligand	#F4F6F7
+role of second messengers in netrin 1 signaling	#154360
+adherens junctions interactions	#D98880
+ncam1 interactions	#154360
+lysosphingolipid and lpa receptors	#1B2631
+opsins	#1B2631
+calcitonin like ligand receptors	#1B2631
+tight junction interactions	#D98880
+glucagon type ligand receptors	#1B2631
+class c 3 metabotropic glutamate pheromone receptors	#1B2631
+nectin necl trans heterodimerization	#D98880
+cell cell junction organization	#D98880
+synthesis secretion and deacylation of ghrelin	#F7DC6F
+regulation of insulin secretion	#F39C12
+transport of bile salts and organic acids metal ions and amine compounds	#2C3E50
+bicarbonate transporters	#2C3E50
+transport of inorganic cations anions and amino acids oligopeptides	#2C3E50
+transport of vitamins nucleosides and related molecules	#2C3E50
+slc mediated transmembrane transport	#2C3E50
+metal ion slc transporters	#2C3E50
+sodium calcium exchangers	#2C3E50
+sodium proton exchangers	#2C3E50
+arachidonate production from dag	#7DCEA0
+arachidonate production from dag	#1B2631
+cation coupled chloride cotransporters	#2C3E50
+small interfering rna sirna biogenesis	#2ECC71
+post transcriptional silencing by small rnas	#2ECC71
+sirt1 negatively regulates rrna expression	#2ECC71
+ercc6 csb and ehmt2 g9a positively regulate rrna expression	#2ECC71
+multifunctional anion exchangers	#2C3E50
+sodium coupled phosphate cotransporters	#2C3E50
+sphingolipid metabolism	#F39C12
+activation of rac1	#154360
+regulation of commissural axon pathfinding by slit and robo	#154360
+inactivation of cdc42 and rac1	#154360
+organic anion transporters	#2C3E50
+role of abl in robo slit signaling	#154360
+thromboxane signalling through tp receptor	#7DCEA0
+deadenylation dependent mrna decay	#784212
+deadenylation of mrna	#784212
+mrna decay by 3 to 5 exoribonuclease	#784212
+mrna decay by 5 to 3 exoribonuclease	#784212
+gp1b ix v activation signalling	#7DCEA0
+vasopressin regulates renal water homeostasis via aquaporins	#2C3E50
+passive transport by aquaporins	#2C3E50
+platelet sensitization by ldl	#7DCEA0
+lysosome vesicle biogenesis	#85929E
+golgi associated vesicle biogenesis	#85929E
+sodium coupled sulphate di and tri carboxylate transporters	#2C3E50
+proton coupled monocarboxylate transport	#2C3E50
+fatty acids bound to gpr40 ffar1 regulate insulin secretion	#F39C12
+zinc transporters	#2C3E50
+zinc efflux and compartmentalization by the slc30 family	#2C3E50
+recycling pathway of l1	#154360
+unblocking of nmda receptors glutamate binding and activation	#7B7D7D
+binding of tcf lef ctnnb1 to target gene promoters	#1B2631
+depolymerisation of the nuclear lamina	#E74C3C
+zinc influx into cells by the slc39 gene family	#2C3E50
+na cl dependent neurotransmitter transporters	#2C3E50
+creb1 phosphorylation through the activation of adenylate cyclase	#7B7D7D
+creb1 phosphorylation through the activation of camkii camkk camkiv cascasde	#7B7D7D
+creb1 phosphorylation through nmda receptor mediated activation of ras signaling	#7B7D7D
+activation of nmda receptors and postsynaptic events	#7B7D7D
+ras activation upon ca2 influx through nmda receptor	#7B7D7D
+free fatty acid receptors	#1B2631
+rsk activation	#7B7D7D
+formyl peptide receptors bind formyl peptides and many other ligands	#1B2631
+relaxin receptors	#1B2631
+interaction between l1 and ankyrins	#154360
+signal transduction by l1	#154360
+smooth muscle contraction	#F0B27A
+aquaporin mediated transport	#2C3E50
+tak1 dependent ikk and nf kappa b activation	#7D6608
+type i hemidesmosome assembly	#D98880
+biosynthesis of the n glycan precursor dolichol lipid linked oligosaccharide llo and transfer to a nascent protein	#F7DC6F
+synthesis of dolichyl phosphate	#F7DC6F
+asparagine n linked glycosylation	#F7DC6F
+synthesis of gdp mannose	#F7DC6F
+synthesis of udp n acetyl glucosamine	#F7DC6F
+synthesis of substrates in n glycan biosythesis	#F7DC6F
+cell extracellular matrix interactions	#D98880
+regulation of cytoskeletal remodeling and cell spreading by ipp complex components	#D98880
+interleukin 1 family signaling	#7D6608
+cell junction organization	#D98880
+nrcam interactions	#154360
+chl1 interactions	#154360
+neurofascin interactions	#154360
+interleukin 12 family signaling	#7D6608
+interleukin 17 signaling	#7D6608
+interleukin 1 processing	#7D6608
+signaling by interleukins	#7D6608
+other interleukin signaling	#7D6608
+mapk targets nuclear events mediated by map kinases	#7D6608
+activated tak1 mediates p38 mapk activation	#7D6608
+jnk c jun kinases phosphorylation and activation mediated by activated human tak1	#7D6608
+activation of the ap 1 family of transcription factors	#7D6608
+butyrate response factor 1 brf1 binds and destabilizes mrna	#784212
+auf1 hnrnp d0 binds and destabilizes mrna	#784212
+tristetraprolin ttp zfp36 binds and destabilizes mrna	#784212
+hur elavl1 binds and stabilizes mrna	#784212
+regulation of mrna stability by proteins that bind au rich elements	#784212
+ksrp khsrp binds and destabilizes mrna	#784212
+ionotropic activity of kainate receptors	#7B7D7D
+activation of kainate receptors upon glutamate binding	#7B7D7D
+interleukin 2 family signaling	#7D6608
+transcriptional regulation of pluripotent stem cells	#154360
+mitotic g2 g2 m phases	#E74C3C
+mitotic g1 phase and g1 s transition	#E74C3C
+sumoylation of chromatin organization proteins	#F7DC6F
+thrombin signalling through proteinase activated receptors pars	#7DCEA0
+sumoylation of rna binding proteins	#F7DC6F
+asymmetric localization of pcp proteins	#1B2631
+sumoylation of dna replication proteins	#F7DC6F
+degradation of axin	#1B2631
+degradation of dvl	#1B2631
+disassembly of the destruction complex and recruitment of axin to the membrane	#1B2631
+regulation of fzd by ubiquitination	#1B2631
+repression of wnt target genes	#1B2631
+sumoylation of dna methylation proteins	#F7DC6F
+sumoylation of immune response proteins	#F7DC6F
+signaling by wnt in cancer	#7FB3D5
+signaling by ctnnb1 phospho site mutants	#7FB3D5
+interconversion of nucleotide di and triphosphates	#F39C12
+presynaptic function of kainate receptors	#7B7D7D
+gpcr ligand binding	#1B2631
+defective galnt3 causes hftc	#7FB3D5
+defective lfng causes scdo3	#7FB3D5
+defective c1galt1c1 causes tnps	#7FB3D5
+wnt5a dependent internalization of fzd4	#1B2631
+interleukin 3 interleukin 5 and gm csf signaling	#7D6608
+wnt5a dependent internalization of fzd2 fzd5 and ror2	#1B2631
+o linked glycosylation	#F7DC6F
+o glycosylation of tsr domain containing proteins	#F7DC6F
+mitophagy	#641E16
+pink1 prkn mediated mitophagy	#641E16
+uptake and function of anthrax toxins	#7FB3D5
+ripk1 mediated regulated necrosis	#F4F6F7
+regulated necrosis	#F4F6F7
+vegfr2 mediated vascular permeability	#1B2631
+vegfr2 mediated cell proliferation	#1B2631
+miscellaneous transport and binding events	#2C3E50
+positive epigenetic regulation of rrna expression	#2ECC71
+b wich complex positively regulates rrna expression	#2ECC71
+negative epigenetic regulation of rrna expression	#2ECC71
+toxicity of botulinum toxin type d botd	#7FB3D5
+myogenesis	#154360
+diseases of immune system	#7FB3D5
+n glycan trimming in the er and calnexin calreticulin cycle	#F7DC6F
+dna methylation	#2ECC71
+uptake and function of diphtheria toxin	#7FB3D5
+uptake and actions of bacterial toxins	#7FB3D5
+signaling by lrp5 mutants	#7FB3D5
+signaling by rnf43 mutants	#7FB3D5
+caspase activation via extrinsic apoptotic signalling pathway	#F4F6F7
+tnfr1 induced proapoptotic signaling	#1B2631
+programmed cell death	#F4F6F7
+tnfr1 induced nfkappab signaling pathway	#1B2631
+hedgehog ligand biogenesis	#1B2631
+signaling by hedgehog	#1B2631
+synthesis of diphthamide eef2	#F7DC6F
+mismatch repair	#0E6251
+signaling by retinoic acid	#1B2631
+release of hh np from the secreting cell	#1B2631
+ra biosynthesis pathway	#1B2631
+mitochondrial translation	#F7DC6F
+negative regulation of tcf dependent signaling by dvl interacting proteins	#1B2631
+diseases of mismatch repair mmr	#7FB3D5
+aflatoxin activation and detoxification	#F39C12
+organic cation transport	#2C3E50
+organic cation anion zwitterion transport	#2C3E50
+metabolism of lipids	#F39C12
+phase 4 resting membrane potential	#F0B27A
+phase 3 rapid repolarisation	#F0B27A
+cardiac conduction	#F0B27A
+phase 0 rapid depolarisation	#F0B27A
+phase 2 plateau phase	#F0B27A
+phase 1 inactivation of fast na channels	#F0B27A
+transcriptional regulation by small rnas	#2ECC71
+physiological factors	#F0B27A
+ion homeostasis	#F0B27A
+metabolic disorders of biological oxidation enzymes	#7FB3D5
+piwi interacting rna pirna biogenesis	#2ECC71
+ikba variant leads to eda id	#7FB3D5
+irak4 deficiency tlr2 4	#7FB3D5
+dectin 1 mediated noncanonical nf kb signaling	#7D6608
+clec7a dectin 1 induces nfat activation	#7D6608
+clec7a dectin 1 signaling	#7D6608
+diseases associated with glycosylation precursor biosynthesis	#7FB3D5
+organic anion transport	#2C3E50
+degradation of gli1 by the proteasome	#1B2631
+hedgehog off state	#1B2631
+activation of anterior hox genes in hindbrain development during early embryogenesis	#154360
+cilium assembly	#BDC3C7
+abc transporter disorders	#7FB3D5
+slc transporter disorders	#7FB3D5
+disorders of transmembrane transporters	#7FB3D5
+anchoring of the basal body to the plasma membrane	#BDC3C7
+vxpx cargo targeting to cilium	#BDC3C7
+cargo trafficking to the periciliary membrane	#BDC3C7
+bbsome mediated cargo targeting to cilium	#BDC3C7
+intraflagellar transport	#BDC3C7
+pyroptosis	#F4F6F7
+dectin 2 family	#7D6608
+c type lectin receptors clrs	#7D6608
+cd209 dc sign signaling	#7D6608
+trafficking of myristoylated proteins to the cilium	#BDC3C7
+rho gtpases activate pkns	#1B2631
+activated pkn1 stimulates transcription of ar androgen receptor regulated genes klk2 and klk3	#1B2631
+rho gtpases activate cit	#1B2631
+rho gtpases activate ktn1	#1B2631
+rho gtpases activate iqgaps	#1B2631
+tnfr1 mediated ceramide production	#1B2631
+rho gtpases activate rocks	#1B2631
+rho gtpases activate paks	#1B2631
+tp53 regulates metabolic genes	#2ECC71
+ligand receptor interactions	#1B2631
+hedgehog on state	#1B2631
+regulation of tp53 activity	#2ECC71
+tp53 regulates transcription of cell death genes	#2ECC71
+activation of smo	#1B2631
+gli proteins bind promoters of hh responsive genes to promote transcription	#1B2631
+constitutive signaling by egfrviii	#7FB3D5
+apex1 independent resolution of ap sites via the single nucleotide replacement pathway	#0E6251
+pcna dependent long patch base excision repair	#0E6251
+fructose metabolism	#F39C12
+vesicle mediated transport	#85929E
+phospholipase c mediated cascade fgfr2	#1B2631
+phospholipase c mediated cascade fgfr4	#1B2631
+downstream signaling of activated fgfr1	#1B2631
+shc mediated cascade fgfr1	#1B2631
+pi 3k cascade fgfr1	#1B2631
+frs mediated fgfr1 signaling	#1B2631
+pi 3k cascade fgfr2	#1B2631
+downstream signaling of activated fgfr2	#1B2631
+frs mediated fgfr2 signaling	#1B2631
+shc mediated cascade fgfr3	#1B2631
+frs mediated fgfr3 signaling	#1B2631
+downstream signaling of activated fgfr3	#1B2631
+pi 3k cascade fgfr3	#1B2631
+frs mediated fgfr4 signaling	#1B2631
+downstream signaling of activated fgfr4	#1B2631
+shc mediated cascade fgfr4	#1B2631
+pi 3k cascade fgfr4	#1B2631
+negative regulation of fgfr1 signaling	#1B2631
+negative regulation of fgfr2 signaling	#1B2631
+negative regulation of fgfr3 signaling	#1B2631
+negative regulation of fgfr4 signaling	#1B2631
+signaling by fgfr1	#1B2631
+signaling by fgfr2	#1B2631
+signaling by fgfr3	#1B2631
+signaling by fgfr4	#1B2631
+signaling by fgfr2 in disease	#7FB3D5
+signaling by fgfr4 in disease	#7FB3D5
+signaling by fgfr1 in disease	#7FB3D5
+translesion synthesis by polk	#0E6251
+termination of translesion dna synthesis	#0E6251
+regulation of ras by gaps	#1B2631
+fgfrl1 modulation of fgfr1 signaling	#1B2631
+response to metal ions	#512E5F
+clec7a inflammasome pathway	#7D6608
+metallothioneins bind metals	#512E5F
+formation of xylulose 5 phosphate	#F39C12
+melanin biosynthesis	#F39C12
+diseases of carbohydrate metabolism	#7FB3D5
+diseases of signal transduction by growth factor receptors and second messengers	#7FB3D5
+infectious disease	#7FB3D5
+rho gtpases activate wasps and waves	#1B2631
+rho gtpases activate formins	#1B2631
+rho gtpases activate rhotekin and rhophilins	#1B2631
+tnfr2 non canonical nf kb pathway	#7D6608
+rho gtpases activate nadph oxidases	#1B2631
+diseases of metabolism	#7FB3D5
+tnfs bind their physiological receptors	#7D6608
+raf activation	#1B2631
+map2k and mapk activation	#1B2631
+constitutive signaling by akt1 e17k in cancer	#7FB3D5
+negative feedback regulation of mapk pathway	#1B2631
+negative regulation of mapk pathway	#1B2631
+tnf receptor superfamily tnfsf members mediating non canonical nf kb pathway	#7D6608
+protein repair	#F7DC6F
+defective cftr causes cystic fibrosis	#7FB3D5
+lgi adam interactions	#154360
+mapk family signaling cascades	#1B2631
+surfactant metabolism	#F7DC6F
+map3k8 tpl2 dependent mapk1 3 activation	#7D6608
+hdr through single strand annealing ssa	#0E6251
+hdr through mmej alt nhej	#0E6251
+hdr through homologous recombination hrr	#0E6251
+regulation of tlr by endogenous ligand	#7D6608
+mapk6 mapk4 signaling	#1B2631
+diseases associated with surfactant metabolism	#7FB3D5
+deubiquitination	#F7DC6F
+defective csf2rb causes smdp5	#7FB3D5
+uch proteinases	#F7DC6F
+josephin domain dubs	#F7DC6F
+ub specific processing proteases	#F7DC6F
+ovarian tumor domain proteases	#F7DC6F
+metalloprotease dubs	#F7DC6F
+cd22 mediated bcr regulation	#7D6608
+dna double strand break repair	#0E6251
+resolution of d loop structures	#0E6251
+homology directed repair	#0E6251
+sensing of dna double strand breaks	#0E6251
+resolution of d loop structures through synthesis dependent strand annealing sdsa	#0E6251
+nonhomologous end joining nhej	#0E6251
+homologous dna pairing and strand exchange	#0E6251
+dna double strand break response	#0E6251
+processing of dna double strand break ends	#0E6251
+cargo concentration in the er	#F7DC6F
+cargo concentration in the er	#85929E
+dna damage recognition in gg ner	#0E6251
+formation of incision complex in gg ner	#0E6251
+gap filling dna repair synthesis and ligation in gg ner	#0E6251
+nucleotide excision repair	#0E6251
+global genome nucleotide excision repair gg ner	#0E6251
+dual incision in gg ner	#0E6251
+post translational protein modification	#F7DC6F
+deposition of new cenpa containing nucleosomes at the centromere	#E74C3C
+respiratory electron transport	#F39C12
+inflammasomes	#7D6608
+highly sodium permeable postsynaptic acetylcholine nicotinic receptors	#7B7D7D
+highly calcium permeable postsynaptic nicotinic acetylcholine receptors	#7B7D7D
+highly calcium permeable nicotinic acetylcholine receptors	#7B7D7D
+rna polymerase ii pre transcription events	#2ECC71
+formation of tc ner pre incision complex	#0E6251
+transcription coupled nucleotide excision repair tc ner	#0E6251
+dual incision in tc ner	#0E6251
+trna modification in the nucleus and cytosol	#784212
+synthesis of wybutosine at g37 of trna phe	#784212
+fanconi anemia pathway	#0E6251
+interleukin 6 family signaling	#7D6608
+interleukin 10 signaling	#7D6608
+trna processing in the nucleus	#784212
+trna processing in the mitochondrion	#784212
+erbb2 regulates cell motility	#1B2631
+interleukin 4 and interleukin 13 signaling	#7D6608
+trna modification in the mitochondrion	#784212
+gdp fucose biosynthesis	#F7DC6F
+il 6 type cytokine receptor ligand interactions	#7D6608
+rrna modification in the nucleus and cytosol	#784212
+tp53 regulates transcription of cell cycle genes	#2ECC71
+rrna modification in the mitochondrion	#784212
+neurexins and neuroligins	#7B7D7D
+protein protein interactions at synapses	#7B7D7D
+tp53 regulates transcription of dna repair genes	#2ECC71
+choline catabolism	#F39C12
+neutrophil degranulation	#7D6608
+complex i biogenesis	#F39C12
+metal sequestration by antimicrobial proteins	#7D6608
+signaling by moderate kinase activity braf mutants	#7FB3D5
+signaling by braf and raf1 fusions	#7FB3D5
+ras signaling downstream of nf1 loss of function variants	#7FB3D5
+oncogenic mapk signaling	#7FB3D5
+antimicrobial peptides	#7D6608
+tp53 regulates transcription of genes involved in cytochrome c release	#2ECC71
+tp53 regulates transcription of several additional cell death genes whose specific roles in p53 dependent apoptosis remain uncertain	#2ECC71
+tp53 regulates transcription of caspase activators and caspases	#2ECC71
+tp53 regulates transcription of death receptors and ligands	#2ECC71
+fgfr2 alternative splicing	#1B2631
+tp53 regulates transcription of genes involved in g2 cell cycle arrest	#2ECC71
+tp53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain	#2ECC71
+tp53 regulates transcription of genes involved in g1 cell cycle arrest	#2ECC71
+regulation of tp53 activity through phosphorylation	#2ECC71
+regulation of tp53 activity through acetylation	#2ECC71
+regulation of tp53 activity through association with co factors	#2ECC71
+regulation of tp53 activity through methylation	#2ECC71
+keratinization	#154360
+regulation of tp53 expression and degradation	#2ECC71
+metabolism of fat soluble vitamins	#F39C12
+signaling by met	#1B2631
+met receptor activation	#1B2631
+negative regulation of met activity	#1B2631
+pten regulation	#1B2631
+rna polymerase ii transcribes snrna genes	#2ECC71
+copi mediated anterograde transport	#F7DC6F
+copi mediated anterograde transport	#85929E
+formation of the cornified envelope	#154360
+copi dependent golgi to er retrograde traffic	#85929E
+copi independent golgi to er retrograde traffic	#85929E
+intra golgi traffic	#85929E
+retrograde transport at the trans golgi network	#85929E
+intra golgi and retrograde golgi to er traffic	#85929E
+pi5p regulates tp53 acetylation	#2ECC71
+cooperation of pdcl phlp1 and tric cct in g protein beta folding	#F7DC6F
+glycerophospholipid catabolism	#F39C12
+assembly of the orc complex at the origin of replication	#16A085
+cdc6 association with the orc origin complex	#16A085
+mitotic prophase	#E74C3C
+mitotic prometaphase	#E74C3C
+mitotic telophase cytokinesis	#E74C3C
+m phase	#E74C3C
+g2 phase	#E74C3C
+orc1 removal from chromatin	#E74C3C
+orc1 removal from chromatin	#16A085
+dna replication initiation	#E74C3C
+dna replication initiation	#16A085
+activation of the pre replicative complex	#E74C3C
+activation of the pre replicative complex	#16A085
+dna replication pre initiation	#16A085
+switching of origins to a post replicative state	#E74C3C
+switching of origins to a post replicative state	#16A085
+polymerase switching	#E74C3C
+polymerase switching	#16A085
+processive synthesis on the lagging strand	#E74C3C
+processive synthesis on the lagging strand	#16A085
+lagging strand synthesis	#E74C3C
+lagging strand synthesis	#16A085
+dna strand elongation	#E74C3C
+dna strand elongation	#16A085
+g1 s specific transcription	#E74C3C
+cyclin d associated events in g1	#E74C3C
+synthesis of dna	#E74C3C
+synthesis of dna	#16A085
+s phase	#E74C3C
+cyclin a b1 b2 associated events during g2 m transition	#E74C3C
+cell cycle mitotic	#E74C3C
+dna replication	#16A085
+g2 m dna damage checkpoint	#E74C3C
+g2 m dna replication checkpoint	#E74C3C
+g2 m checkpoints	#E74C3C
+stabilization of p53	#E74C3C
+g1 s dna damage checkpoints	#E74C3C
+mitotic spindle checkpoint	#E74C3C
+cell cycle checkpoints	#E74C3C
+cyclin a cdk2 associated events at s phase entry	#E74C3C
+glycolysis	#F39C12
+glycogen breakdown glycogenolysis	#F39C12
+gluconeogenesis	#F39C12
+pyruvate metabolism	#F39C12
+glucose metabolism	#F39C12
+fructose catabolism	#F39C12
+urea cycle	#F39C12
+branched chain amino acid catabolism	#F39C12
+histidine catabolism	#F39C12
+propionyl coa catabolism	#F39C12
+lysine catabolism	#F39C12
+tryptophan catabolism	#F39C12
+creatine metabolism	#F39C12
+metabolism of amino acids and derivatives	#F39C12
+pentose phosphate pathway	#F39C12
+ethanol oxidation	#F39C12
+metabolism of carbohydrates	#F39C12
+citric acid cycle tca cycle	#F39C12
+pyruvate metabolism and citric acid tca cycle	#F39C12
+mrna capping	#784212
+mrna splicing minor pathway	#784212
+mrna splicing	#784212
+mrna editing c to u conversion	#784212
+transport of mature transcript to cytoplasm	#784212
+processing of capped intron containing pre mrna	#784212
+trna processing	#784212
+rrna processing	#784212
+eukaryotic translation initiation	#F7DC6F
+activation of the mrna upon binding of the cap binding complex and eifs and subsequent binding to 43s	#F7DC6F
+recycling of eif2 gdp	#F7DC6F
+translation	#F7DC6F
+transport of nucleotide sugars	#2C3E50
+pyrimidine salvage	#F39C12
+pyrimidine catabolism	#F39C12
+rna polymerase i transcription initiation	#2ECC71
+rna polymerase i promoter escape	#2ECC71
+rna polymerase iii chain elongation	#2ECC71
+purine ribonucleoside monophosphate biosynthesis	#F39C12
+rna polymerase ii transcription termination	#2ECC71
+rna polymerase ii transcription	#2ECC71
+rna polymerase i transcription termination	#2ECC71
+rna polymerase i transcription	#2ECC71
+base excision repair	#0E6251
+chromosome maintenance	#E74C3C
+death receptor signaling	#1B2631
+dna damage bypass	#0E6251
+dna repair	#0E6251
+base excision repair ap site formation	#0E6251
+resolution of abasic sites ap sites	#0E6251
+dna damage reversal	#0E6251
+rna polymerase iii transcription termination	#2ECC71
+rna polymerase iii transcription	#2ECC71
+ketone body metabolism	#F39C12
+purine salvage	#F39C12
+purine catabolism	#F39C12
+irs activation	#1B2631
+signal attenuation	#1B2631
+insulin receptor signalling cascade	#1B2631
+signaling by insulin receptor	#1B2631
+chk1 chk2 cds1 mediated inactivation of cyclin b cdk1 complex	#E74C3C
+processing of capped intronless pre mrna	#784212
+mrna editing	#784212
+fatty acyl coa biosynthesis	#F39C12
+triglyceride biosynthesis	#F39C12
+apoptotic execution phase	#F4F6F7
+fasl cd95l signaling	#1B2631
+trail signaling	#1B2631
+dissolution of fibrin clot	#7DCEA0
+synthesis of very long chain fatty acyl coas	#F39C12
+platelet adhesion to exposed collagen	#7DCEA0
+tnf signaling	#1B2631
+platelet activation signaling and aggregation	#7DCEA0
+response to elevated platelet cytosolic ca2	#7DCEA0
+platelet aggregation plug formation	#7DCEA0
+rna polymerase iii transcription initiation from type 1 promoter	#2ECC71
+rna polymerase iii transcription initiation from type 3 promoter	#2ECC71
+synthesis of ketone bodies	#F39C12
+mitochondrial fatty acid beta oxidation of saturated fatty acids	#F39C12
+mitochondrial fatty acid beta oxidation of unsaturated fatty acids	#F39C12
+mitochondrial fatty acid beta oxidation	#F39C12
+beta oxidation of lauroyl coa to decanoyl coa coa	#F39C12
+beta oxidation of decanoyl coa to octanoyl coa coa	#F39C12
+beta oxidation of octanoyl coa to hexanoyl coa	#F39C12
+beta oxidation of hexanoyl coa to butanoyl coa	#F39C12
+beta oxidation of butanoyl coa to acetyl coa	#F39C12
+insulin receptor recycling	#1B2631
+slbp dependent processing of replication dependent histone pre mrnas	#784212
+processing of intronless pre mrnas	#784212
+transport of fatty acids	#2C3E50
+transport of nucleosides and free purine and pyrimidine bases across the plasma membrane	#2C3E50
+the nlrp3 inflammasome	#7D6608
+interferon gamma signaling	#7D6608
+regulation of ifng signaling	#7D6608
+advanced glycosylation endproduct receptor signaling	#7D6608
+transport of organic anions	#2C3E50
+gastrin creb signalling pathway via pkc and mapk	#1B2631
+erbb2 activates ptk6 signaling	#1B2631
+signaling by ptk6	#1B2631
+wax and plasmalogen biosynthesis	#F39C12
+ptk6 regulates proteins involved in rna processing	#1B2631
+ptk6 regulates rtks and their effectors akt1 and dok1	#1B2631
+ptk6 regulates cell cycle	#1B2631
+ptk6 regulates rho gtpases ras gtpase and map kinases	#1B2631
+ptk6 expression	#1B2631
+synaptic adhesion like molecules	#7B7D7D
+phosphate bond hydrolysis by ntpdase proteins	#F39C12
+butyrophilin btn family interactions	#7D6608
+signaling by fgfr2 iiia tm	#7FB3D5
+met activates ras signaling	#1B2631
+met activates pi3k akt signaling	#1B2631
+protein ubiquitination	#F7DC6F
+the role of gtse1 in g2 m progression after g2 checkpoint	#E74C3C
+signaling by mst1	#1B2631
+ret signaling	#154360
+transcriptional regulation by ventx	#2ECC71
+tbc rabgaps	#85929E
+aurka activation by tpx2	#E74C3C
+interleukin 20 family signaling	#7D6608
+golgi to er retrograde transport	#85929E
+cargo recognition for clathrin mediated endocytosis	#85929E
+clathrin mediated endocytosis	#85929E
+ptk6 promotes hif1a stabilization	#1B2631
+downregulation of erbb2 signaling	#1B2631
+transcriptional regulation by the ap 2 tfap2 family of transcription factors	#2ECC71
+met activates ptpn11	#1B2631
+reelin signalling pathway	#154360
+vldl assembly	#2C3E50
+vldlr internalisation and degradation	#2C3E50
+synthesis of active ubiquitin roles of e1 and e2 enzymes	#F7DC6F
+e3 ubiquitin ligases ubiquitinate target proteins	#F7DC6F
+negative regulation of activity of tfap2 ap 2 family transcription factors	#2ECC71
+activation of the tfap2 ap 2 family of transcription factors	#2ECC71
+tfap2 ap 2 family regulates transcription of growth factors and their receptors	#2ECC71
+tfap2 ap 2 family regulates transcription of cell cycle factors	#2ECC71
+rrna processing in the mitochondrion	#784212
+tfap2a acts as a transcriptional repressor during retinoic acid induced cell differentiation	#2ECC71
+rab geranylgeranylation	#F7DC6F
+met activates ptk2 signaling	#1B2631
+creb3 factors activate genes	#512E5F
+inlb mediated entry of listeria monocytogenes into host cell	#7FB3D5
+met interacts with tns proteins	#1B2631
+met activates rap1 and rac1	#1B2631
+met receptor recycling	#1B2631
+met promotes cell motility	#1B2631
+rab gefs exchange gtp for gdp on rabs	#85929E
+listeria monocytogenes entry into host cells	#7FB3D5
+inla mediated entry of listeria monocytogenes into host cells	#7FB3D5
+protein methylation	#F7DC6F
+runx1 and foxp3 control the development of regulatory t lymphocytes tregs	#2ECC71
+transcriptional regulation by runx3	#2ECC71
+transcriptional regulation by runx2	#2ECC71
+transcriptional regulation by runx1	#2ECC71
+gaba synthesis release reuptake and degradation	#7B7D7D
+runx1 regulates estrogen receptor mediated transcription	#2ECC71
+regulation of runx1 expression and activity	#2ECC71
+receptor mediated mitophagy	#641E16
+digestion	#3498DB
+runx1 regulates expression of components of tight junctions	#2ECC71
+runx1 regulates genes involved in megakaryocyte differentiation and platelet function	#2ECC71
+aryl hydrocarbon receptor signalling	#F39C12
+esr mediated signaling	#1B2631
+runx1 regulates transcription of genes involved in differentiation of hscs	#2ECC71
+runx1 regulates transcription of genes involved in differentiation of keratinocytes	#2ECC71
+runx1 interacts with co factors whose precise effect on runx1 targets is not known	#2ECC71
+runx1 regulates transcription of genes involved in bcr signaling	#2ECC71
+runx1 regulates transcription of genes involved in differentiation of myeloid cells	#2ECC71
+runx1 regulates transcription of genes involved in interleukin signaling	#2ECC71
+runx1 regulates transcription of genes involved in wnt signaling	#2ECC71
+regulation of runx2 expression and activity	#2ECC71
+runx2 regulates osteoblast differentiation	#2ECC71
+runx2 regulates chondrocyte maturation	#2ECC71
+runx2 regulates bone development	#2ECC71
+runx2 regulates genes involved in cell migration	#2ECC71
+runx3 regulates cdkn1a transcription	#2ECC71
+runx3 regulates notch signaling	#2ECC71
+regulation of runx3 expression and activity	#2ECC71
+regulation of pten mrna translation	#1B2631
+regulation of pten gene transcription	#1B2631
+collagen chain trimerization	#145A32
+regulation of pten localization	#1B2631
+regulation of pten stability and activity	#1B2631
+mitochondrial calcium ion transport	#2C3E50
+runx3 regulates immune response and cell migration	#2ECC71
+cristae formation	#BDC3C7
+processing of smdt1	#2C3E50
+gene and protein expression by jak stat signaling after interleukin 12 stimulation	#7D6608
+runx3 regulates wnt signaling	#2ECC71
+neddylation	#F7DC6F
+runx3 regulates yap1 mediated transcription	#2ECC71
+runx3 regulates p14 arf	#2ECC71
+runx3 regulates bcl2l11 bim transcription	#2ECC71
+transcriptional regulation by e2f6	#2ECC71
+metabolism of rna	#784212
+cellular responses to stimuli	#512E5F
+carboxyterminal post translational modifications of tubulin	#F7DC6F
+nucleotide catabolism	#F39C12
+nucleotide biosynthesis	#F39C12
+nucleotide salvage	#F39C12
+metabolism of steroids	#F39C12
+intestinal absorption	#3498DB
+tyrosine catabolism	#F39C12
+phenylalanine and tyrosine metabolism	#F39C12
+aspartate and asparagine metabolism	#F39C12
+digestion and absorption	#3498DB
+chylomicron assembly	#2C3E50
+assembly of active lpl and lipc lipase complexes	#2C3E50
+hdl assembly	#2C3E50
+plasma lipoprotein assembly	#2C3E50
+plasma lipoprotein remodeling	#2C3E50
+chylomicron remodeling	#2C3E50
+hdl clearance	#2C3E50
+chylomicron clearance	#2C3E50
+ldl clearance	#2C3E50
+ldl remodeling	#2C3E50
+plasma lipoprotein clearance	#2C3E50
+vldl clearance	#2C3E50
+hdl remodeling	#2C3E50
+phenylalanine metabolism	#F39C12
+glutamate and glutamine metabolism	#F39C12
+lipid particle organization	#F39C12
+g beta gamma signalling through cdc42	#1B2631
+fatty acid metabolism	#F39C12
+metabolism of cofactors	#F39C12
+triglyceride metabolism	#F39C12
+rhoa gtpase cycle	#1B2631
+glycogen metabolism	#F39C12
+interleukin 15 signaling	#7D6608
+oas antiviral response	#7D6608
+interleukin 35 signalling	#7D6608
+interleukin 9 signaling	#7D6608
+transcriptional regulation by mecp2	#2ECC71
+loss of function of mecp2 in rett syndrome	#7FB3D5
+signaling by ntrk2 trkb	#1B2631
+signaling by erythropoietin	#1B2631
+intracellular signaling by second messengers	#1B2631
+signaling by nuclear receptors	#1B2631
+signaling by receptor tyrosine kinases	#1B2631
+signaling by tgfb family members	#1B2631
+rab regulation of trafficking	#85929E
+interleukin 37 signaling	#7D6608
+extra nuclear estrogen signaling	#1B2631
+er quality control compartment erqc	#F7DC6F
+calnexin calreticulin cycle	#F7DC6F
+regulation of expression of slits and robos	#154360
+robo receptors bind akap5	#154360
+interleukin 18 signaling	#7D6608
+signaling by notch3	#1B2631
+rho gtpase cycle	#1B2631
+rhob gtpase cycle	#1B2631
+rhoc gtpase cycle	#1B2631
+cdc42 gtpase cycle	#1B2631
+rac1 gtpase cycle	#1B2631
+rac2 gtpase cycle	#1B2631
+rhod gtpase cycle	#1B2631
+rhoq gtpase cycle	#1B2631
+rhoh gtpase cycle	#1B2631
+rhog gtpase cycle	#1B2631
+rhoj gtpase cycle	#1B2631
+rhobtb2 gtpase cycle	#1B2631
+rhou gtpase cycle	#1B2631
+rhobtb1 gtpase cycle	#1B2631
+rac3 gtpase cycle	#1B2631
+rhov gtpase cycle	#1B2631
+rhot1 gtpase cycle	#1B2631
+notch3 activation and transmission of signal to the nucleus	#1B2631
+notch3 intracellular domain regulates transcription	#1B2631
+signaling by notch4	#1B2631
+notch4 intracellular domain regulates transcription	#1B2631
+notch4 activation and transmission of signal to the nucleus	#1B2631
+tlr3 mediated ticam1 dependent programmed cell death	#7D6608
+ticam1 dependent activation of irf3 irf7	#7D6608
+ticam1 traf6 dependent induction of tak1 complex	#7D6608
+interleukin 36 pathway	#7D6608
+noncanonical activation of notch3	#1B2631
+estrogen dependent gene expression	#1B2631
+biosynthesis of specialized proresolving mediators spms	#F39C12
+biosynthesis of epa derived spms	#F39C12
+biosynthesis of maresins	#F39C12
+interleukin 2 signaling	#7D6608
+interleukin 12 signaling	#7D6608
+interleukin 1 signaling	#7D6608
+interleukin 23 signaling	#7D6608
+interleukin 27 signaling	#7D6608
+interleukin 21 signaling	#7D6608
+loss of mecp2 binding ability to the ncor smrt complex	#7FB3D5
+regulation of mecp2 expression and activity	#2ECC71
+mecp2 regulates neuronal receptors and channels	#2ECC71
+mecp2 regulates transcription of neuronal ligands	#2ECC71
+mecp2 regulates transcription factors	#2ECC71
+nr1h2 and nr1h3 mediated signaling	#1B2631
+activated ntrk2 signals through ras	#1B2631
+erythropoietin activates phosphoinositide 3 kinase pi3k	#1B2631
+erythropoietin activates phospholipase c gamma plcg	#1B2631
+erythropoietin activates stat5	#1B2631
+erythropoietin activates ras	#1B2631
+biosynthesis of maresin like spms	#F39C12
+activated ntrk2 signals through pi3k	#1B2631
+activated ntrk2 signals through frs2 and frs3	#1B2631
+nr1h2 nr1h3 regulate gene expression linked to lipogenesis	#1B2631
+nr1h3 nr1h2 regulate gene expression linked to cholesterol transport and efflux	#1B2631
+nr1h2 nr1h3 regulate gene expression to limit cholesterol uptake	#1B2631
+nr1h2 nr1h3 regulate gene expression linked to triglyceride lipolysis in adipose	#1B2631
+ngf stimulated transcription	#1B2631
+activated ntrk2 signals through fyn	#1B2631
+ntrk2 activates rac1	#1B2631
+activated ntrk2 signals through cdk5	#1B2631
+peroxisomal protein import	#4D5656
+tysnd1 cleaves peroxisomal proteins	#4D5656
+blood group systems biosynthesis	#F39C12
+signaling by ntrk3 trkc	#1B2631
+activated ntrk3 signals through ras	#1B2631
+rhof gtpase cycle	#1B2631
+interferon alpha beta signaling	#7D6608
+meiotic recombination	#7F8C8D
+meiotic recombination	#E74C3C
+interleukin receptor shc signaling	#7D6608
+regulation of signaling by cbl	#7D6608
+regulation of ifna ifnb signaling	#7D6608
+interferon signaling	#7D6608
+o linked glycosylation of mucins	#F7DC6F
+endosomal sorting complex required for transport escrt	#85929E
+iron uptake and transport	#2C3E50
+transferrin endocytosis and recycling	#2C3E50
+traf3 dependent irf activation pathway	#7D6608
+nonsense mediated decay nmd	#784212
+traf6 mediated irf7 activation	#7D6608
+traf6 mediated nf kb activation	#7D6608
+nf kb activation through fadd rip 1 pathway mediated by caspase 8 and 10	#7D6608
+negative regulators of ddx58 ifih1 signaling	#7D6608
+ion transport by p type atpases	#2C3E50
+activation of irf3 irf7 mediated by tbk1 ikk epsilon	#7D6608
+irak1 recruits ikk complex	#7D6608
+ikk complex recruitment mediated by rip1	#7D6608
+irak2 mediated activation of tak1 complex	#7D6608
+traf6 mediated induction of tak1 complex within tlr4 complex	#7D6608
+molybdenum cofactor biosynthesis	#F39C12
+transport to the golgi and subsequent modification	#F7DC6F
+activated ntrk3 signals through pi3k	#1B2631
+class i peroxisomal membrane protein import	#4D5656
+negative regulation of notch4 signaling	#1B2631
+diseases of base excision repair	#7FB3D5
+flt3 signaling	#7D6608
+protein localization	#4D5656
+insertion of tail anchored proteins into the endoplasmic reticulum membrane	#4D5656
+hcmv infection	#7FB3D5
+hcmv early events	#7FB3D5
+assembly and cell surface presentation of nmda receptors	#7B7D7D
+hcmv late events	#7FB3D5
+autophagy	#641E16
+lipophagy	#641E16
+chaperone mediated autophagy	#641E16
+foxo mediated transcription	#2ECC71
+regulation of localization of foxo transcription factors	#2ECC71
+foxo mediated transcription of cell death genes	#2ECC71
+foxo mediated transcription of oxidative stress metabolic and neuronal genes	#2ECC71
+late endosomal microautophagy	#641E16
+postmitotic nuclear pore complex npc reformation	#E74C3C
+transcriptional regulation of granulopoiesis	#154360
+negative regulation of nmda receptor mediated neuronal transmission	#7B7D7D
+regulation of foxo transcriptional activity by acetylation	#2ECC71
+foxo mediated transcription of cell cycle genes	#2ECC71
+activation of rac1 downstream of nmdars	#7B7D7D
+activation of ampk downstream of nmdars	#7B7D7D
+egr2 and sox10 mediated initiation of schwann cell myelination	#154360
+long term potentiation	#7B7D7D
+nr1h2 nr1h3 regulate gene expression to control bile acid homeostasis	#1B2631
+nr1h2 nr1h3 regulate gene expression linked to gluconeogenesis	#1B2631
+response of eif2ak4 gcn2 to amino acid deficiency	#512E5F
+constitutive signaling by overexpressed erbb2	#7FB3D5
+gper1 signaling	#1B2631
+regulation of glycolysis by fructose 2 6 bisphosphate metabolism	#F39C12
+estrogen stimulated signaling through prkcz	#1B2631
+estrogen dependent nuclear events downstream of esr membrane signaling	#1B2631
+transcriptional regulation by npas4	#2ECC71
+suppression of apoptosis	#7FB3D5
+infection with mycobacterium tuberculosis	#7FB3D5
+prevention of phagosomal lysosomal fusion	#7FB3D5
+modulation by mtb of host immune system	#7FB3D5
+suppression of phagosomal maturation	#7FB3D5
+response of mtb to phagocytosis	#7FB3D5
+amino acids regulate mtorc1	#512E5F
+stat5 activation	#7D6608
+alpha protein kinase 1 signaling pathway	#7D6608
+diseases of programmed cell death	#7FB3D5
+aggrephagy	#641E16
+n glycan trimming and elongation in the cis golgi	#F7DC6F
+ras processing	#1B2631
+response of eif2ak1 hri to heme deficiency	#512E5F
+defects of contact activation system cas and kallikrein kinin system kks	#7FB3D5
+signaling by mapk mutants	#7FB3D5
+leishmania infection	#7FB3D5
+sensory processing of sound	#BFC9CA
+aberrant regulation of mitotic g1 s transition in cancer due to rb1 defects	#7FB3D5
+signaling by mras complex mutants	#7FB3D5
+adora2b mediated anti inflammatory cytokines production	#7FB3D5
+purinergic signaling in leishmaniasis infection	#7FB3D5
+defective factor viii causes hemophilia a	#7FB3D5
+sensory processing of sound by outer hair cells of the cochlea	#BFC9CA
+cd163 mediating an anti inflammatory response	#7FB3D5
+anti inflammatory response favouring leishmania parasite infection	#7FB3D5
+selective autophagy	#641E16
+fcgr3a mediated il10 synthesis	#7FB3D5
+parasite infection	#7FB3D5
+killing mechanisms	#7FB3D5
+ltc4 cysltr mediated il4 production	#7FB3D5
+pexophagy	#641E16
+signaling by erbb2 ecd mutants	#7FB3D5
+acetylcholine inhibits contraction of outer hair cells	#BFC9CA
+defective factor ix causes hemophilia b	#7FB3D5
+sealing of the nuclear envelope ne by escrt iii	#E74C3C
+signaling by kit in disease	#7FB3D5
+inhibition of dna recombination at telomere	#E74C3C
+signaling by pdgfr in disease	#7FB3D5
+defective f9 activation	#7FB3D5
+signaling by pdgfra transmembrane juxtamembrane and kinase domain mutants	#7FB3D5
+signaling by membrane tethered fusions of pdgfra or pdgfrb	#7FB3D5
+signaling by csf3 g csf	#7D6608
+nervous system development	#154360
+diseases of mitotic cell cycle	#7FB3D5
+diseases of dna repair	#7FB3D5
+sars cov 1 infection	#7FB3D5
+potential therapeutics for sars	#7FB3D5
+sars cov infections	#7FB3D5
+signaling by csf1 m csf in myeloid cells	#7D6608
+flt3 signaling in disease	#7FB3D5
+maturation of protein 3a	#7FB3D5
+aberrant regulation of mitotic exit in cancer due to rb1 defects	#7FB3D5
+transcriptional regulation of testis differentiation	#154360
+sars cov 1 host interactions	#7FB3D5
+sars cov 1 activates modulates innate immune responses	#7FB3D5
+defective ripk1 mediated regulated necrosis	#7FB3D5
+sars cov 2 infection	#7FB3D5
+attachment and entry	#7FB3D5
+translation of replicase and assembly of the replication transcription complex	#7FB3D5
+rnd3 gtpase cycle	#1B2631
+rnd2 gtpase cycle	#1B2631
+rnd1 gtpase cycle	#1B2631
+signaling by alk in cancer	#7FB3D5
+alk mutants bind tkis	#7FB3D5
+stat3 nuclear events downstream of alk signaling	#1B2631
+stat5 activation downstream of flt3 itd mutants	#7FB3D5
+signaling by flt3 fusion proteins	#7FB3D5
+signaling by flt3 itd and tkd mutants	#7FB3D5
+inactivation of csf3 g csf signaling	#7D6608
+sars cov 2 activates modulates innate and adaptive immune responses	#7FB3D5
+sars cov 2 targets pdz proteins in cell cell junction	#7FB3D5
+sars cov 2 host interactions	#7FB3D5
+rhobtb3 atpase cycle	#1B2631
+negative regulation of flt3	#7D6608
+flt3 signaling through src family kinases	#7D6608
+flt3 signaling by cbl mutants	#7FB3D5
+rhobtb gtpase cycle	#1B2631
+cytoprotection by hmox1	#512E5F
+regulation of hmox1 expression and activity	#512E5F
+heme signaling	#512E5F
+regulation of bach1 activity	#512E5F
+sensory perception	#BFC9CA
+cellular response to starvation	#512E5F
+cellular response to chemical stress	#512E5F
+miro gtpase cycle	#1B2631
+signaling by rho gtpases miro gtpases and rhobtb3	#1B2631
+sensory perception of taste	#BFC9CA
+nuclear events stimulated by alk signaling in cancer	#7FB3D5
+sensory perception of salty taste	#BFC9CA
+induction of cell cell fusion	#7FB3D5
+defective intrinsic pathway for apoptosis	#7FB3D5
+sars cov 1 modulates host translation machinery	#7FB3D5
+sars cov 1 targets host intracellular signalling and regulatory pathways	#7FB3D5
+drug adme	#76D7C4
+azathioprine adme	#76D7C4
+aspirin adme	#76D7C4
+traf6 mediated irf7 activation in tlr7 8 or 9 signaling	#7D6608
+paracetamol adme	#76D7C4
+drug mediated inhibition of cdk4 cdk6 activity	#E74C3C
+germ layer formation at gastrulation	#154360
+sars cov 2 modulates autophagy	#7FB3D5
+sars cov 2 modulates host translation machinery	#7FB3D5
+atorvastatin adme	#76D7C4
+ribavirin adme	#76D7C4
+keap1 nfe2l2 pathway	#512E5F
+n glycan antennae elongation in the medial trans golgi	#F7DC6F
+n glycan antennae elongation	#F7DC6F
+sars cov 2 targets host intracellular signalling and regulatory pathways	#7FB3D5
+reactions specific to the complex n glycan synthesis pathway	#F7DC6F
+prednisone adme	#76D7C4
+regulation of nf kappa b signaling	#7D6608
+uptake of dietary cobalamins into enterocytes	#F39C12
+transport of rcbl within the body	#F39C12
+epithelial mesenchymal transition emt during gastrulation	#154360
+formation of lateral plate mesoderm	#154360
+gastrulation	#154360
+nuclear events mediated by nfe2l2	#512E5F
+cobalamin cbl metabolism	#F39C12
+regulation of npas4 gene expression	#2ECC71
+regulation of npas4 gene transcription	#2ECC71
+regulation of npas4 mrna translation	#2ECC71
+npas4 regulates expression of target genes	#2ECC71
+termination of o glycan biosynthesis	#F7DC6F
+amyloid fiber formation	#F7DC6F
+early sars cov 2 infection events	#7FB3D5
+late sars cov 2 infection events	#7FB3D5
+serine biosynthesis	#F39C12
+gaba receptor activation	#7B7D7D
+gaba b receptor activation	#7B7D7D
+formation of paraxial mesoderm	#154360
+ciprofloxacin adme	#76D7C4
+formation of axial mesoderm	#154360
+nfe2l2 regulating anti oxidant detoxification enzymes	#512E5F
+nfe2l2 regulates pentose phosphate pathway genes	#512E5F
+growth hormone receptor signaling	#7D6608
+antigen processing ubiquitination proteasome degradation	#7D6608
+class i mhc mediated antigen processing presentation	#7D6608
+antigen presentation folding assembly and peptide loading of class i mhc	#7D6608
+kinesins	#7DCEA0
+factors involved in megakaryocyte development and platelet production	#7DCEA0
+antigen activates b cell receptor bcr leading to generation of second messengers	#7D6608
+signaling by the b cell receptor bcr	#7D6608
+ion channel transport	#2C3E50
