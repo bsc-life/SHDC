@@ -1,0 +1,3287 @@
+Disease	pathway	sex	alteration	colors	id
+K51	host interactions of hiv factors	common	up	#19787F	1
+K51	signaling by the b cell receptor bcr	common	up	#19787F	1
+K51	cross presentation of soluble exogenous antigens endosomes	common	up	#19787F	1
+K51	metabolism of polyamines	common	up	#19787F	1
+K51	apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	common	up	#19787F	1
+K51	antigen processing cross presentation	common	up	#19787F	1
+K51	apc c mediated degradation of cell cycle proteins	common	up	#19787F	1
+K51	separation of sister chromatids	common	up	#19787F	1
+K51	runx1 regulates transcription of genes involved in differentiation of hscs	common	up	#19787F	1
+K51	the role of gtse1 in g2 m progression after g2 checkpoint	common	up	#19787F	1
+K51	dna replication	common	up	#19787F	1
+K51	hedgehog ligand biogenesis	common	up	#19787F	1
+K51	tnfr2 non canonical nf kb pathway	common	up	#19787F	1
+K51	signaling by interleukins	common	up	#19787F	1
+K51	switching of origins to a post replicative state	common	up	#19787F	1
+K51	mitotic metaphase and anaphase	common	up	#19787F	1
+K51	dna replication pre initiation	common	up	#19787F	1
+K51	orc1 removal from chromatin	common	up	#19787F	1
+K51	synthesis of dna	common	up	#19787F	1
+K51	defective cftr causes cystic fibrosis	common	up	#19787F	1
+K51	scf beta trcp mediated degradation of emi1	common	up	#19787F	1
+K51	negative regulation of notch4 signaling	common	up	#19787F	1
+K51	dectin 1 mediated noncanonical nf kb signaling	common	up	#19787F	1
+K51	integrin cell surface interactions	common	up	#19787F	1
+K51	auf1 hnrnp d0 binds and destabilizes mrna	common	up	#19787F	1
+K51	interferon alpha beta signaling	common	up	#19787F	1
+K51	abc transporter disorders	common	up	#19787F	1
+K51	collagen degradation	common	up	#19787F	1
+K51	interleukin 1 family signaling	common	up	#19787F	1
+K51	regulation of runx3 expression and activity	common	up	#19787F	1
+K51	complement cascade	common	up	#19787F	1
+K51	stabilization of p53	common	up	#19787F	1
+K51	regulation of mrna stability by proteins that bind au rich elements	common	up	#19787F	1
+K51	degradation of dvl	common	up	#19787F	1
+K51	unfolded protein response upr	common	up	#19787F	1
+K51	m phase	common	up	#19787F	1
+K51	downstream signaling events of b cell receptor bcr	common	up	#19787F	1
+K51	fceri mediated nf kb activation	common	up	#19787F	1
+K51	clec7a dectin 1 signaling	common	up	#19787F	1
+K51	cell cycle checkpoints	common	up	#19787F	1
+K51	scf skp2 mediated degradation of p27 p21	common	up	#19787F	1
+K51	uch proteinases	common	up	#19787F	1
+K51	degradation of axin	common	up	#19787F	1
+K51	interleukin 1 signaling	common	up	#19787F	1
+K51	pcp ce pathway	common	up	#19787F	1
+K51	asymmetric localization of pcp proteins	common	up	#19787F	1
+K51	g1 s dna damage checkpoints	common	up	#19787F	1
+K51	activation of matrix metalloproteinases	common	up	#19787F	1
+K51	ire1alpha activates chaperones	common	up	#19787F	1
+K51	c type lectin receptors clrs	common	up	#19787F	1
+K51	degradation of gli1 by the proteasome	common	up	#19787F	1
+K51	regulation of runx2 expression and activity	common	up	#19787F	1
+K51	regulation of ras by gaps	common	up	#19787F	1
+K51	interleukin 4 and interleukin 13 signaling	common	up	#19787F	1
+K51	interferon signaling	common	up	#19787F	1
+K51	g2 m checkpoints	common	up	#19787F	1
+K51	cellular response to hypoxia	common	up	#19787F	1
+K51	tcr signaling	common	up	#19787F	1
+K51	regulation of pten stability and activity	common	up	#19787F	1
+K51	nuclear events mediated by nfe2l2	common	up	#19787F	1
+K51	interleukin 10 signaling	common	up	#19787F	1
+K51	fc epsilon receptor fceri signaling	common	up	#19787F	1
+K51	mitotic g2 g2 m phases	common	up	#19787F	1
+K51	chemokine receptors bind chemokines	common	up	#19787F	1
+K51	interleukin 12 family signaling	common	up	#19787F	1
+K51	beta catenin independent wnt signaling	common	up	#19787F	1
+K51	resolution of sister chromatid cohesion	common	up	#19787F	1
+K51	cyclin a cdk2 associated events at s phase entry	common	up	#19787F	1
+K51	hedgehog on state	common	up	#19787F	1
+K51	cargo concentration in the er	common	up	#19787F	1
+K51	collagen formation	women	up	#B6453A	1
+K51	assembly of collagen fibrils and other multimeric structures	women	up	#B6453A	1
+K51	extracellular matrix organization	women	up	#B6453A	1
+K51	collagen biosynthesis and modifying enzymes	women	up	#B6453A	1
+K51	antigen activates b cell receptor bcr leading to generation of second messengers	women	up	#B6453A	1
+K51	glycolysis	women	up	#B6453A	1
+K51	ecm proteoglycans	women	up	#B6453A	1
+K51	interactions of rev with host cellular proteins	women	up	#B6453A	1
+K51	neutrophil degranulation	women	up	#B6453A	1
+K51	nuclear import of rev protein	women	up	#B6453A	1
+K51	regulation of insulin like growth factor igf transport and uptake by insulin like growth factor binding proteins igfbps	women	up	#B6453A	1
+K51	degradation of the extracellular matrix	women	up	#B6453A	1
+K51	collagen chain trimerization	women	up	#B6453A	1
+K51	cell cycle mitotic	women	up	#B6453A	1
+K51	sumoylation of dna replication proteins	women	up	#B6453A	1
+K51	laminin interactions	women	up	#B6453A	1
+K51	immunoregulatory interactions between a lymphoid and a non lymphoid cell	women	up	#B6453A	1
+K51	nuclear envelope breakdown	women	up	#B6453A	1
+K51	s phase	women	up	#B6453A	1
+K51	nuclear pore complex npc disassembly	women	up	#B6453A	1
+K51	gpvi mediated activation cascade	women	up	#B6453A	1
+K51	snrnp assembly	women	up	#B6453A	1
+K51	ros and rns production in phagocytes	women	up	#B6453A	1
+K51	regulation of glucokinase by glucokinase regulatory protein	women	up	#B6453A	1
+K51	keap1 nfe2l2 pathway	women	up	#B6453A	1
+K51	met activates ptk2 signaling	women	up	#B6453A	1
+K51	mitotic g1 phase and g1 s transition	women	up	#B6453A	1
+K51	sumoylation of ubiquitinylation proteins	women	up	#B6453A	1
+K51	binding and uptake of ligands by scavenger receptors	women	up	#B6453A	1
+K51	ncam1 interactions	women	up	#B6453A	1
+K51	elastic fibre formation	women	up	#B6453A	1
+K51	the role of nef in hiv 1 replication and disease pathogenesis	women	up	#B6453A	1
+K51	signaling by notch4	women	up	#B6453A	1
+K51	interleukin 12 signaling	women	up	#B6453A	1
+K51	transcriptional regulation by runx3	women	up	#B6453A	1
+K51	antiviral mechanism by ifn stimulated genes	women	up	#B6453A	1
+K51	transcriptional regulation by runx1	women	up	#B6453A	1
+K51	pd 1 signaling	women	up	#B6453A	1
+K51	dectin 2 family	women	up	#B6453A	1
+K51	tnfs bind their physiological receptors	women	up	#B6453A	1
+K51	cell surface interactions at the vascular wall	women	up	#B6453A	1
+K51	antimicrobial peptides	women	up	#B6453A	1
+K51	sars cov 2 activates modulates innate and adaptive immune responses	women	up	#B6453A	1
+K51	interleukin 2 family signaling	women	up	#B6453A	1
+K51	rho gtpases activate formins	women	up	#B6453A	1
+K51	class i mhc mediated antigen processing presentation	women	up	#B6453A	1
+K51	platelet activation signaling and aggregation	women	up	#B6453A	1
+K51	chondroitin sulfate dermatan sulfate metabolism	women	up	#B6453A	1
+K51	detoxification of reactive oxygen species	women	up	#B6453A	1
+K51	hemostasis	women	up	#B6453A	1
+K51	interferon gamma signaling	women	up	#B6453A	1
+K51	mhc class ii antigen presentation	women	up	#B6453A	1
+K51	non integrin membrane ecm interactions	women	up	#B6453A	1
+K51	meiotic recombination	women	up	#B6453A	1
+K51	glycosaminoglycan metabolism	women	up	#B6453A	1
+K51	syndecan interactions	women	up	#B6453A	1
+K51	perk regulates gene expression	women	up	#B6453A	1
+K51	dna strand elongation	women	up	#B6453A	1
+K51	platelet aggregation plug formation	women	up	#B6453A	1
+K51	response to elevated platelet cytosolic ca2	women	up	#B6453A	1
+K51	signaling by scf kit	women	up	#B6453A	1
+K51	anti inflammatory response favouring leishmania parasite infection	women	up	#B6453A	1
+K51	interleukin 3 interleukin 5 and gm csf signaling	women	up	#B6453A	1
+K51	nef mediates down modulation of cell surface receptors by recruiting them to clathrin adapters	women	up	#B6453A	1
+K51	interleukin 37 signaling	women	up	#B6453A	1
+K51	potential therapeutics for sars	women	up	#B6453A	1
+K51	signaling by csf3 g csf	women	up	#B6453A	1
+K51	sars cov infections	women	up	#B6453A	1
+K51	met promotes cell motility	women	up	#B6453A	1
+K51	leishmania infection	women	up	#B6453A	1
+K51	fceri mediated ca 2 mobilization	women	up	#B6453A	1
+K51	inactivation of csf3 g csf signaling	women	up	#B6453A	1
+K51	er to golgi anterograde transport	men	up	#4A75A9	1
+K51	copii mediated vesicle transport	men	up	#4A75A9	1
+K51	asparagine n linked glycosylation	men	up	#4A75A9	1
+K51	programmed cell death	men	up	#4A75A9	1
+K51	raf independent mapk1 3 activation	men	up	#4A75A9	1
+K51	transcriptional regulation by runx2	men	up	#4A75A9	1
+K51	hedgehog off state	men	up	#4A75A9	1
+K51	mapk6 mapk4 signaling	men	up	#4A75A9	1
+K51	transport to the golgi and subsequent modification	men	up	#4A75A9	1
+K51	abc family proteins mediated transport	men	up	#4A75A9	1
+K51	mitotic spindle checkpoint	men	up	#4A75A9	1
+K51	regulated necrosis	men	up	#4A75A9	1
+K51	apoptosis	men	up	#4A75A9	1
+K51	peroxisomal lipid metabolism	common	down	#19787F	1
+K51	respiratory electron transport	common	down	#19787F	1
+K51	the citric acid tca cycle and respiratory electron transport	common	down	#19787F	1
+K51	respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	common	down	#19787F	1
+K51	peroxisomal protein import	common	down	#19787F	1
+K51	citric acid cycle tca cycle	common	down	#19787F	1
+K51	glyoxylate metabolism and glycine degradation	common	down	#19787F	1
+K51	sars cov 1 modulates host translation machinery	women	down	#B6453A	1
+K51	eukaryotic translation elongation	women	down	#B6453A	1
+K51	selenoamino acid metabolism	women	down	#B6453A	1
+K51	response of eif2ak4 gcn2 to amino acid deficiency	women	down	#B6453A	1
+K51	nonsense mediated decay nmd	women	down	#B6453A	1
+K51	pyruvate metabolism and citric acid tca cycle	men	down	#4A75A9	1
+K51	mitochondrial fatty acid beta oxidation	men	down	#4A75A9	1
+K51	biological oxidations	men	down	#4A75A9	1
+K50	cholesterol biosynthesis	common	up	#19787F	2
+K50	antigen processing cross presentation	common	up	#19787F	2
+K50	interferon alpha beta signaling	common	up	#19787F	2
+K50	cross presentation of soluble exogenous antigens endosomes	common	up	#19787F	2
+K50	metabolism of polyamines	common	up	#19787F	2
+K50	scf skp2 mediated degradation of p27 p21	common	up	#19787F	2
+K50	hedgehog ligand biogenesis	common	up	#19787F	2
+K50	negative regulation of notch4 signaling	common	up	#19787F	2
+K50	g1 s dna damage checkpoints	common	up	#19787F	2
+K50	auf1 hnrnp d0 binds and destabilizes mrna	common	up	#19787F	2
+K50	nuclear events mediated by nfe2l2	common	up	#19787F	2
+K50	defective cftr causes cystic fibrosis	common	up	#19787F	2
+K50	degradation of gli1 by the proteasome	common	up	#19787F	2
+K50	dectin 1 mediated noncanonical nf kb signaling	common	up	#19787F	2
+K50	regulation of runx3 expression and activity	common	up	#19787F	2
+K50	interleukin 10 signaling	common	up	#19787F	2
+K50	apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	common	up	#19787F	2
+K50	gluconeogenesis	common	up	#19787F	2
+K50	scf beta trcp mediated degradation of emi1	common	up	#19787F	2
+K50	cellular response to hypoxia	common	up	#19787F	2
+K50	interferon signaling	common	up	#19787F	2
+K50	interferon gamma signaling	common	up	#19787F	2
+K50	stabilization of p53	common	up	#19787F	2
+K50	orc1 removal from chromatin	common	up	#19787F	2
+K50	signaling by interleukins	common	up	#19787F	2
+K50	abc transporter disorders	common	up	#19787F	2
+K50	neutrophil degranulation	common	up	#19787F	2
+K50	keap1 nfe2l2 pathway	common	up	#19787F	2
+K50	interleukin 1 signaling	common	up	#19787F	2
+K50	degradation of axin	common	up	#19787F	2
+K50	interleukin 1 family signaling	common	up	#19787F	2
+K50	abc family proteins mediated transport	common	up	#19787F	2
+K50	regulation of ras by gaps	common	up	#19787F	2
+K50	the role of gtse1 in g2 m progression after g2 checkpoint	common	up	#19787F	2
+K50	tnfr2 non canonical nf kb pathway	common	up	#19787F	2
+K50	degradation of dvl	common	up	#19787F	2
+K50	clec7a dectin 1 signaling	common	up	#19787F	2
+K50	apc c mediated degradation of cell cycle proteins	common	up	#19787F	2
+K50	regulation of runx2 expression and activity	common	up	#19787F	2
+K50	cyclin a cdk2 associated events at s phase entry	common	up	#19787F	2
+K50	dna replication pre initiation	common	up	#19787F	2
+K50	fceri mediated nf kb activation	common	up	#19787F	2
+K50	downstream signaling events of b cell receptor bcr	common	up	#19787F	2
+K50	switching of origins to a post replicative state	common	up	#19787F	2
+K50	regulation of mrna stability by proteins that bind au rich elements	common	up	#19787F	2
+K50	dna replication	common	up	#19787F	2
+K50	transferrin endocytosis and recycling	women	up	#B6453A	2
+K50	ros and rns production in phagocytes	women	up	#B6453A	2
+K50	metabolism of steroids	women	up	#B6453A	2
+K50	nucleotide catabolism	women	up	#B6453A	2
+K50	caspase activation via extrinsic apoptotic signalling pathway	women	up	#B6453A	2
+K50	fatty acid metabolism	women	up	#B6453A	2
+K50	pyruvate metabolism and citric acid tca cycle	women	up	#B6453A	2
+K50	the citric acid tca cycle and respiratory electron transport	women	up	#B6453A	2
+K50	mitochondrial fatty acid beta oxidation	women	up	#B6453A	2
+K50	peroxisomal lipid metabolism	women	up	#B6453A	2
+K50	fatty acyl coa biosynthesis	women	up	#B6453A	2
+K50	cargo concentration in the er	women	up	#B6453A	2
+K50	iron uptake and transport	women	up	#B6453A	2
+K50	pyruvate metabolism	women	up	#B6453A	2
+K50	copii mediated vesicle transport	women	up	#B6453A	2
+K50	signaling by retinoic acid	women	up	#B6453A	2
+K50	triglyceride metabolism	women	up	#B6453A	2
+K50	runx1 regulates transcription of genes involved in differentiation of hscs	men	up	#4A75A9	2
+K50	regulation of pten stability and activity	men	up	#4A75A9	2
+K50	asymmetric localization of pcp proteins	men	up	#4A75A9	2
+K50	uch proteinases	men	up	#4A75A9	2
+K50	synthesis of dna	men	up	#4A75A9	2
+K50	separation of sister chromatids	men	up	#4A75A9	2
+K50	cellular response to chemical stress	men	up	#4A75A9	2
+K50	host interactions of hiv factors	men	up	#4A75A9	2
+K50	cell cycle checkpoints	men	up	#4A75A9	2
+K50	g2 m checkpoints	men	up	#4A75A9	2
+K50	pcp ce pathway	men	up	#4A75A9	2
+K50	tcr signaling	men	up	#4A75A9	2
+K50	mitotic metaphase and anaphase	men	up	#4A75A9	2
+K50	signaling by the b cell receptor bcr	men	up	#4A75A9	2
+K50	m phase	men	up	#4A75A9	2
+K50	mitotic g1 phase and g1 s transition	men	up	#4A75A9	2
+K50	cell cycle mitotic	men	up	#4A75A9	2
+K50	s phase	men	up	#4A75A9	2
+K50	c type lectin receptors clrs	men	up	#4A75A9	2
+K50	metabolism of vitamins and cofactors	men	up	#4A75A9	2
+K50	disorders of transmembrane transporters	men	up	#4A75A9	2
+K50	metabolism of water soluble vitamins and cofactors	men	up	#4A75A9	2
+K50	mitotic spindle checkpoint	men	up	#4A75A9	2
+K50	dna strand elongation	men	up	#4A75A9	2
+K50	interleukin 2 family signaling	men	up	#4A75A9	2
+K50	synthesis of active ubiquitin roles of e1 and e2 enzymes	men	up	#4A75A9	2
+K50	mitochondrial translation	men	up	#4A75A9	2
+K50	antigen processing cross presentation	common	up	#19787F	3
+K50	interferon alpha beta signaling	common	up	#19787F	3
+K50	cross presentation of soluble exogenous antigens endosomes	common	up	#19787F	3
+K50	metabolism of polyamines	common	up	#19787F	3
+K50	scf skp2 mediated degradation of p27 p21	common	up	#19787F	3
+K50	hedgehog ligand biogenesis	common	up	#19787F	3
+K50	interleukin 12 family signaling	common	up	#19787F	3
+K50	negative regulation of notch4 signaling	common	up	#19787F	3
+K50	antigen presentation folding assembly and peptide loading of class i mhc	common	up	#19787F	3
+K50	g1 s dna damage checkpoints	common	up	#19787F	3
+K50	auf1 hnrnp d0 binds and destabilizes mrna	common	up	#19787F	3
+K50	interleukin 12 signaling	common	up	#19787F	3
+K50	nuclear events mediated by nfe2l2	common	up	#19787F	3
+K50	defective cftr causes cystic fibrosis	common	up	#19787F	3
+K50	degradation of gli1 by the proteasome	common	up	#19787F	3
+K50	dectin 1 mediated noncanonical nf kb signaling	common	up	#19787F	3
+K50	regulation of runx3 expression and activity	common	up	#19787F	3
+K50	interleukin 10 signaling	common	up	#19787F	3
+K50	apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	common	up	#19787F	3
+K50	scf beta trcp mediated degradation of emi1	common	up	#19787F	3
+K50	cellular response to hypoxia	common	up	#19787F	3
+K50	interferon signaling	common	up	#19787F	3
+K50	interferon gamma signaling	common	up	#19787F	3
+K50	stabilization of p53	common	up	#19787F	3
+K50	orc1 removal from chromatin	common	up	#19787F	3
+K50	ire1alpha activates chaperones	common	up	#19787F	3
+K50	signaling by interleukins	common	up	#19787F	3
+K50	abc transporter disorders	common	up	#19787F	3
+K50	neutrophil degranulation	common	up	#19787F	3
+K50	keap1 nfe2l2 pathway	common	up	#19787F	3
+K50	interleukin 1 signaling	common	up	#19787F	3
+K50	degradation of axin	common	up	#19787F	3
+K50	interleukin 1 family signaling	common	up	#19787F	3
+K50	regulation of ras by gaps	common	up	#19787F	3
+K50	cargo concentration in the er	common	up	#19787F	3
+K50	the role of gtse1 in g2 m progression after g2 checkpoint	common	up	#19787F	3
+K50	tnfr2 non canonical nf kb pathway	common	up	#19787F	3
+K50	degradation of dvl	common	up	#19787F	3
+K50	clec7a dectin 1 signaling	common	up	#19787F	3
+K50	apc c mediated degradation of cell cycle proteins	common	up	#19787F	3
+K50	regulation of runx2 expression and activity	common	up	#19787F	3
+K50	cyclin a cdk2 associated events at s phase entry	common	up	#19787F	3
+K50	dna replication pre initiation	common	up	#19787F	3
+K50	fceri mediated nf kb activation	common	up	#19787F	3
+K50	downstream signaling events of b cell receptor bcr	common	up	#19787F	3
+K50	switching of origins to a post replicative state	common	up	#19787F	3
+K50	regulation of mrna stability by proteins that bind au rich elements	common	up	#19787F	3
+K50	dna replication	common	up	#19787F	3
+K50	ros and rns production in phagocytes	women	up	#B6453A	3
+K50	runx1 regulates transcription of genes involved in differentiation of hscs	men	up	#4A75A9	3
+K50	regulation of pten stability and activity	men	up	#4A75A9	3
+K50	asymmetric localization of pcp proteins	men	up	#4A75A9	3
+K50	uch proteinases	men	up	#4A75A9	3
+K50	synthesis of dna	men	up	#4A75A9	3
+K50	mapk6 mapk4 signaling	men	up	#4A75A9	3
+K50	abc family proteins mediated transport	men	up	#4A75A9	3
+K50	separation of sister chromatids	men	up	#4A75A9	3
+K50	cellular response to chemical stress	men	up	#4A75A9	3
+K50	degradation of beta catenin by the destruction complex	men	up	#4A75A9	3
+K50	host interactions of hiv factors	men	up	#4A75A9	3
+K50	programmed cell death	men	up	#4A75A9	3
+K50	transcriptional regulation by runx2	men	up	#4A75A9	3
+K50	cell cycle checkpoints	men	up	#4A75A9	3
+K50	g2 m checkpoints	men	up	#4A75A9	3
+K50	pcp ce pathway	men	up	#4A75A9	3
+K50	tcr signaling	men	up	#4A75A9	3
+K50	hedgehog off state	men	up	#4A75A9	3
+K50	transcriptional regulation by runx3	men	up	#4A75A9	3
+K50	mitotic metaphase and anaphase	men	up	#4A75A9	3
+K50	signaling by notch4	men	up	#4A75A9	3
+K50	signaling by the b cell receptor bcr	men	up	#4A75A9	3
+K50	mitotic g2 g2 m phases	men	up	#4A75A9	3
+K50	hedgehog on state	men	up	#4A75A9	3
+K50	m phase	men	up	#4A75A9	3
+K50	apoptosis	men	up	#4A75A9	3
+K50	signaling by hedgehog	men	up	#4A75A9	3
+K50	ub specific processing proteases	men	up	#4A75A9	3
+K50	class i mhc mediated antigen processing presentation	men	up	#4A75A9	3
+K50	mitotic g1 phase and g1 s transition	men	up	#4A75A9	3
+K50	cell cycle mitotic	men	up	#4A75A9	3
+K50	s phase	men	up	#4A75A9	3
+K50	beta catenin independent wnt signaling	men	up	#4A75A9	3
+K50	c type lectin receptors clrs	men	up	#4A75A9	3
+K50	pten regulation	men	up	#4A75A9	3
+K50	deubiquitination	men	up	#4A75A9	3
+K50	gene and protein expression by jak stat signaling after interleukin 12 stimulation	men	up	#4A75A9	3
+K50	disorders of transmembrane transporters	men	up	#4A75A9	3
+K50	antigen processing ubiquitination proteasome degradation	men	up	#4A75A9	3
+K50	fc epsilon receptor fceri signaling	men	up	#4A75A9	3
+K50	er to golgi anterograde transport	men	up	#4A75A9	3
+K50	metabolism of water soluble vitamins and cofactors	men	up	#4A75A9	3
+K50	hiv infection	men	up	#4A75A9	3
+K50	regulated necrosis	men	up	#4A75A9	3
+K50	intrinsic pathway for apoptosis	men	up	#4A75A9	3
+K50	pyroptosis	men	up	#4A75A9	3
+K50	interleukin 4 and interleukin 13 signaling	men	up	#4A75A9	3
+K50	mitotic spindle checkpoint	men	up	#4A75A9	3
+K50	transport to the golgi and subsequent modification	men	up	#4A75A9	3
+K50	copii mediated vesicle transport	men	up	#4A75A9	3
+K50	transcriptional regulation by runx1	men	up	#4A75A9	3
+K50	interleukin 2 family signaling	men	up	#4A75A9	3
+K50	unfolded protein response upr	men	up	#4A75A9	3
+K50	assembly of collagen fibrils and other multimeric structures	men	up	#4A75A9	3
+K50	signaling by scf kit	men	up	#4A75A9	3
+K50	raf independent mapk1 3 activation	men	up	#4A75A9	3
+K50	antiviral mechanism by ifn stimulated genes	men	up	#4A75A9	3
+K50	platelet aggregation plug formation	men	up	#4A75A9	3
+K50	eukaryotic translation elongation	common	down	#19787F	3
+K50	nonsense mediated decay nmd	common	down	#19787F	3
+K50	response of eif2ak4 gcn2 to amino acid deficiency	common	down	#19787F	3
+K50	eukaryotic translation initiation	common	down	#19787F	3
+K50	selenoamino acid metabolism	common	down	#19787F	3
+K50	sars cov 1 modulates host translation machinery	common	down	#19787F	3
+K50	activation of the mrna upon binding of the cap binding complex and eifs and subsequent binding to 43s	common	down	#19787F	3
+K50	regulation of beta cell development	women	down	#B6453A	3
+K50	antigen processing cross presentation	common	up	#19787F	4
+K50	interferon alpha beta signaling	common	up	#19787F	4
+K50	cross presentation of soluble exogenous antigens endosomes	common	up	#19787F	4
+K50	metabolism of polyamines	common	up	#19787F	4
+K50	scf skp2 mediated degradation of p27 p21	common	up	#19787F	4
+K50	hedgehog ligand biogenesis	common	up	#19787F	4
+K50	interleukin 12 family signaling	common	up	#19787F	4
+K50	negative regulation of notch4 signaling	common	up	#19787F	4
+K50	g1 s dna damage checkpoints	common	up	#19787F	4
+K50	auf1 hnrnp d0 binds and destabilizes mrna	common	up	#19787F	4
+K50	nuclear events mediated by nfe2l2	common	up	#19787F	4
+K50	defective cftr causes cystic fibrosis	common	up	#19787F	4
+K50	degradation of gli1 by the proteasome	common	up	#19787F	4
+K50	dectin 1 mediated noncanonical nf kb signaling	common	up	#19787F	4
+K50	regulation of runx3 expression and activity	common	up	#19787F	4
+K50	interleukin 10 signaling	common	up	#19787F	4
+K50	apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	common	up	#19787F	4
+K50	scf beta trcp mediated degradation of emi1	common	up	#19787F	4
+K50	cellular response to hypoxia	common	up	#19787F	4
+K50	interferon signaling	common	up	#19787F	4
+K50	stabilization of p53	common	up	#19787F	4
+K50	orc1 removal from chromatin	common	up	#19787F	4
+K50	ire1alpha activates chaperones	common	up	#19787F	4
+K50	signaling by interleukins	common	up	#19787F	4
+K50	abc transporter disorders	common	up	#19787F	4
+K50	interleukin 1 signaling	common	up	#19787F	4
+K50	degradation of axin	common	up	#19787F	4
+K50	interleukin 1 family signaling	common	up	#19787F	4
+K50	abc family proteins mediated transport	common	up	#19787F	4
+K50	regulation of ras by gaps	common	up	#19787F	4
+K50	cargo concentration in the er	common	up	#19787F	4
+K50	the role of gtse1 in g2 m progression after g2 checkpoint	common	up	#19787F	4
+K50	tnfr2 non canonical nf kb pathway	common	up	#19787F	4
+K50	degradation of dvl	common	up	#19787F	4
+K50	clec7a dectin 1 signaling	common	up	#19787F	4
+K50	apc c mediated degradation of cell cycle proteins	common	up	#19787F	4
+K50	regulation of runx2 expression and activity	common	up	#19787F	4
+K50	copii mediated vesicle transport	common	up	#19787F	4
+K50	cyclin a cdk2 associated events at s phase entry	common	up	#19787F	4
+K50	dna replication pre initiation	common	up	#19787F	4
+K50	fceri mediated nf kb activation	common	up	#19787F	4
+K50	downstream signaling events of b cell receptor bcr	common	up	#19787F	4
+K50	switching of origins to a post replicative state	common	up	#19787F	4
+K50	regulation of mrna stability by proteins that bind au rich elements	common	up	#19787F	4
+K50	dna replication	common	up	#19787F	4
+K50	ros and rns production in phagocytes	women	up	#B6453A	4
+K50	gene and protein expression by jak stat signaling after interleukin 12 stimulation	women	up	#B6453A	4
+K50	interleukin 12 signaling	women	up	#B6453A	4
+K50	interferon gamma signaling	women	up	#B6453A	4
+K50	neutrophil degranulation	women	up	#B6453A	4
+K50	keap1 nfe2l2 pathway	women	up	#B6453A	4
+K50	metabolism of nucleotides	women	up	#B6453A	4
+K50	interconversion of nucleotide di and triphosphates	women	up	#B6453A	4
+K50	fatty acyl coa biosynthesis	women	up	#B6453A	4
+K50	nucleotide salvage	women	up	#B6453A	4
+K50	runx1 regulates transcription of genes involved in differentiation of hscs	men	up	#4A75A9	4
+K50	regulation of pten stability and activity	men	up	#4A75A9	4
+K50	asymmetric localization of pcp proteins	men	up	#4A75A9	4
+K50	uch proteinases	men	up	#4A75A9	4
+K50	synthesis of dna	men	up	#4A75A9	4
+K50	mapk6 mapk4 signaling	men	up	#4A75A9	4
+K50	separation of sister chromatids	men	up	#4A75A9	4
+K50	host interactions of hiv factors	men	up	#4A75A9	4
+K50	programmed cell death	men	up	#4A75A9	4
+K50	transcriptional regulation by runx2	men	up	#4A75A9	4
+K50	cell cycle checkpoints	men	up	#4A75A9	4
+K50	g2 m checkpoints	men	up	#4A75A9	4
+K50	pcp ce pathway	men	up	#4A75A9	4
+K50	tcr signaling	men	up	#4A75A9	4
+K50	hedgehog off state	men	up	#4A75A9	4
+K50	mitotic metaphase and anaphase	men	up	#4A75A9	4
+K50	signaling by the b cell receptor bcr	men	up	#4A75A9	4
+K50	mitotic g2 g2 m phases	men	up	#4A75A9	4
+K50	hedgehog on state	men	up	#4A75A9	4
+K50	m phase	men	up	#4A75A9	4
+K50	apoptosis	men	up	#4A75A9	4
+K50	beta catenin independent wnt signaling	men	up	#4A75A9	4
+K50	c type lectin receptors clrs	men	up	#4A75A9	4
+K50	fc epsilon receptor fceri signaling	men	up	#4A75A9	4
+K50	er to golgi anterograde transport	men	up	#4A75A9	4
+K50	regulated necrosis	men	up	#4A75A9	4
+K50	interleukin 4 and interleukin 13 signaling	men	up	#4A75A9	4
+K50	mitotic spindle checkpoint	men	up	#4A75A9	4
+K50	copi independent golgi to er retrograde traffic	men	up	#4A75A9	4
+K50	transport to the golgi and subsequent modification	men	up	#4A75A9	4
+K50	unfolded protein response upr	men	up	#4A75A9	4
+K50	golgi to er retrograde transport	men	up	#4A75A9	4
+K50	raf independent mapk1 3 activation	men	up	#4A75A9	4
+K50	eukaryotic translation elongation	women	down	#B6453A	4
+K50	nonsense mediated decay nmd	women	down	#B6453A	4
+K50	response of eif2ak4 gcn2 to amino acid deficiency	women	down	#B6453A	4
+K50	selenoamino acid metabolism	women	down	#B6453A	4
+K50	sars cov 1 modulates host translation machinery	women	down	#B6453A	4
+K50	regulation of beta cell development	men	down	#4A75A9	4
+K12	extracellular matrix organization	common	up	#19787F	5
+K12	ecm proteoglycans	common	up	#19787F	5
+K12	collagen biosynthesis and modifying enzymes	common	up	#19787F	5
+K12	collagen formation	common	up	#19787F	5
+K12	regulation of insulin like growth factor igf transport and uptake by insulin like growth factor binding proteins igfbps	common	up	#19787F	5
+K12	collagen degradation	common	up	#19787F	5
+K12	degradation of the extracellular matrix	common	up	#19787F	5
+K12	binding and uptake of ligands by scavenger receptors	common	up	#19787F	5
+K12	met activates ptk2 signaling	common	up	#19787F	5
+K12	collagen chain trimerization	common	up	#19787F	5
+K12	integrin cell surface interactions	common	up	#19787F	5
+K12	met promotes cell motility	common	up	#19787F	5
+K12	assembly of collagen fibrils and other multimeric structures	common	up	#19787F	5
+K12	non integrin membrane ecm interactions	common	up	#19787F	5
+K12	interferon alpha beta signaling	common	up	#19787F	5
+K12	activation of matrix metalloproteinases	common	up	#19787F	5
+K12	signaling by pdgf	common	up	#19787F	5
+K12	chondroitin sulfate dermatan sulfate metabolism	common	up	#19787F	5
+K12	syndecan interactions	common	up	#19787F	5
+K12	laminin interactions	common	up	#19787F	5
+K12	interferon signaling	common	up	#19787F	5
+K12	immunoregulatory interactions between a lymphoid and a non lymphoid cell	women	up	#B6453A	5
+K12	elastic fibre formation	women	up	#B6453A	5
+K12	ncam signaling for neurite out growth	women	up	#B6453A	5
+K12	ncam1 interactions	women	up	#B6453A	5
+K12	runx2 regulates bone development	women	up	#B6453A	5
+K12	o glycosylation of tsr domain containing proteins	women	up	#B6453A	5
+K12	formation of fibrin clot clotting cascade	women	up	#B6453A	5
+K12	interleukin 6 family signaling	women	up	#B6453A	5
+K12	cell surface interactions at the vascular wall	men	up	#4A75A9	5
+K12	antiviral mechanism by ifn stimulated genes	men	up	#4A75A9	5
+K12	the role of gtse1 in g2 m progression after g2 checkpoint	men	up	#4A75A9	5
+K12	diseases associated with glycosaminoglycan metabolism	men	up	#4A75A9	5
+K12	platelet aggregation plug formation	men	up	#4A75A9	5
+K12	mhc class ii antigen presentation	men	up	#4A75A9	5
+K12	respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	women	down	#B6453A	5
+K12	respiratory electron transport	women	down	#B6453A	5
+K12	complex i biogenesis	women	down	#B6453A	5
+I21	neutrophil degranulation	men	up	#4A75A9	7
+I21	rho gtpases activate nadph oxidases	men	up	#4A75A9	7
+I21	toll like receptor cascades	men	up	#4A75A9	7
+I21	signaling by csf3 g csf	men	up	#4A75A9	7
+I21	interleukin 10 signaling	men	up	#4A75A9	7
+I21	toll like receptor tlr1 tlr2 cascade	men	up	#4A75A9	7
+I21	signaling by interleukins	men	up	#4A75A9	7
+I21	complement cascade	men	up	#4A75A9	7
+I21	signaling by insulin receptor	men	up	#4A75A9	7
+I21	growth hormone receptor signaling	men	up	#4A75A9	7
+I21	leishmania infection	men	up	#4A75A9	7
+I21	neuronal system	men	up	#4A75A9	7
+I21	eph ephrin signaling	men	up	#4A75A9	7
+I21	hsp90 chaperone cycle for steroid hormone receptors shr in the presence of ligand	men	up	#4A75A9	7
+I21	extracellular matrix organization	men	up	#4A75A9	7
+I21	rho gtpases activate wasps and waves	men	up	#4A75A9	7
+I21	signal amplification	men	up	#4A75A9	7
+I21	signaling by vegf	men	up	#4A75A9	7
+F31	respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	women	down	#B6453A	8
+F31	respiratory electron transport	women	down	#B6453A	8
+F31	degradation of dvl	women	down	#B6453A	8
+F31	scf beta trcp mediated degradation of emi1	women	down	#B6453A	8
+F31	negative regulation of notch4 signaling	women	down	#B6453A	8
+F31	degradation of gli1 by the proteasome	women	down	#B6453A	8
+F31	fceri mediated nf kb activation	women	down	#B6453A	8
+F31	the citric acid tca cycle and respiratory electron transport	women	down	#B6453A	8
+F31	dectin 1 mediated noncanonical nf kb signaling	women	down	#B6453A	8
+F31	defective cftr causes cystic fibrosis	women	down	#B6453A	8
+F31	scf skp2 mediated degradation of p27 p21	women	down	#B6453A	8
+F31	apc c mediated degradation of cell cycle proteins	women	down	#B6453A	8
+F31	mitochondrial translation	women	down	#B6453A	8
+F31	clec7a dectin 1 signaling	women	down	#B6453A	8
+F31	cross presentation of soluble exogenous antigens endosomes	women	down	#B6453A	8
+F31	regulation of ras by gaps	women	down	#B6453A	8
+F31	apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	women	down	#B6453A	8
+F31	formation of incision complex in gg ner	women	down	#B6453A	8
+F31	complex i biogenesis	women	down	#B6453A	8
+F31	tcr signaling	women	down	#B6453A	8
+F31	host interactions of hiv factors	women	down	#B6453A	8
+F31	downstream signaling events of b cell receptor bcr	women	down	#B6453A	8
+F31	nuclear events mediated by nfe2l2	women	down	#B6453A	8
+F31	stabilization of p53	women	down	#B6453A	8
+F31	regulation of runx3 expression and activity	women	down	#B6453A	8
+F31	regulation of runx2 expression and activity	women	down	#B6453A	8
+F31	auf1 hnrnp d0 binds and destabilizes mrna	women	down	#B6453A	8
+F31	degradation of axin	women	down	#B6453A	8
+F31	hiv infection	women	down	#B6453A	8
+F31	global genome nucleotide excision repair gg ner	women	down	#B6453A	8
+F31	mhc class ii antigen presentation	women	down	#B6453A	8
+F31	nucleotide excision repair	women	down	#B6453A	8
+F31	fc epsilon receptor fceri signaling	women	down	#B6453A	8
+F31	antigen processing cross presentation	women	down	#B6453A	8
+F31	orc1 removal from chromatin	women	down	#B6453A	8
+F31	cyclin a cdk2 associated events at s phase entry	women	down	#B6453A	8
+F31	signaling by the b cell receptor bcr	women	down	#B6453A	8
+F31	degradation of beta catenin by the destruction complex	women	down	#B6453A	8
+F31	g1 s dna damage checkpoints	women	down	#B6453A	8
+F31	cellular response to chemical stress	women	down	#B6453A	8
+F31	keap1 nfe2l2 pathway	women	down	#B6453A	8
+F31	uch proteinases	women	down	#B6453A	8
+F31	c type lectin receptors clrs	women	down	#B6453A	8
+F31	transcription coupled nucleotide excision repair tc ner	women	down	#B6453A	8
+F31	metabolism of polyamines	women	down	#B6453A	8
+F31	switching of origins to a post replicative state	women	down	#B6453A	8
+F31	runx1 regulates transcription of genes involved in differentiation of hscs	women	down	#B6453A	8
+F31	translation	women	down	#B6453A	8
+F31	mitochondrial protein import	women	down	#B6453A	8
+F31	mitophagy	women	down	#B6453A	8
+F31	inactivation of csf3 g csf signaling	women	down	#B6453A	8
+F31	dna replication pre initiation	women	down	#B6453A	8
+F31	pink1 prkn mediated mitophagy	women	down	#B6453A	8
+F31	tp53 regulates metabolic genes	women	down	#B6453A	8
+F31	rho gtpases activate wasps and waves	women	down	#B6453A	8
+F31	synthesis of dna	women	down	#B6453A	8
+F31	mapk6 mapk4 signaling	women	down	#B6453A	8
+F31	regulation of mrna stability by proteins that bind au rich elements	women	down	#B6453A	8
+F31	neutrophil degranulation	women	down	#B6453A	8
+F31	cholesterol biosynthesis	women	down	#B6453A	8
+F31	protein localization	women	down	#B6453A	8
+F31	processing of capped intronless pre mrna	women	down	#B6453A	8
+F31	parasite infection	women	down	#B6453A	8
+F31	s phase	women	down	#B6453A	8
+F31	separation of sister chromatids	women	down	#B6453A	8
+F31	translesion synthesis by polh	women	down	#B6453A	8
+F20	laminin interactions	women	up	#B6453A	9
+F20	respiratory electron transport	women	down	#B6453A	9
+F20	respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	women	down	#B6453A	9
+F20	the citric acid tca cycle and respiratory electron transport	women	down	#B6453A	9
+F20	mitochondrial translation	women	down	#B6453A	9
+F20	complex i biogenesis	women	down	#B6453A	9
+F20	hedgehog ligand biogenesis	women	down	#B6453A	9
+F20	negative regulation of notch4 signaling	women	down	#B6453A	9
+F20	scf beta trcp mediated degradation of emi1	women	down	#B6453A	9
+F20	cross presentation of soluble exogenous antigens endosomes	women	down	#B6453A	9
+F20	degradation of gli1 by the proteasome	women	down	#B6453A	9
+F20	regulation of ras by gaps	women	down	#B6453A	9
+F20	defective cftr causes cystic fibrosis	women	down	#B6453A	9
+F20	degradation of dvl	women	down	#B6453A	9
+F20	regulation of pten stability and activity	women	down	#B6453A	9
+F20	dectin 1 mediated noncanonical nf kb signaling	women	down	#B6453A	9
+F20	stabilization of p53	women	down	#B6453A	9
+F20	degradation of axin	women	down	#B6453A	9
+F20	scf skp2 mediated degradation of p27 p21	women	down	#B6453A	9
+F20	the role of gtse1 in g2 m progression after g2 checkpoint	women	down	#B6453A	9
+F20	metabolism of polyamines	women	down	#B6453A	9
+F20	apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	women	down	#B6453A	9
+F20	fceri mediated nf kb activation	women	down	#B6453A	9
+F20	downstream signaling events of b cell receptor bcr	women	down	#B6453A	9
+F20	orc1 removal from chromatin	women	down	#B6453A	9
+F20	auf1 hnrnp d0 binds and destabilizes mrna	women	down	#B6453A	9
+F20	pcp ce pathway	women	down	#B6453A	9
+F20	regulation of runx2 expression and activity	women	down	#B6453A	9
+F20	host interactions of hiv factors	women	down	#B6453A	9
+F20	abc transporter disorders	women	down	#B6453A	9
+F20	regulation of runx3 expression and activity	women	down	#B6453A	9
+F20	formation of incision complex in gg ner	women	down	#B6453A	9
+F20	asymmetric localization of pcp proteins	women	down	#B6453A	9
+F20	runx1 regulates transcription of genes involved in differentiation of hscs	women	down	#B6453A	9
+F20	hiv infection	women	down	#B6453A	9
+F20	g1 s dna damage checkpoints	women	down	#B6453A	9
+F20	g2 m checkpoints	women	down	#B6453A	9
+F20	apc c mediated degradation of cell cycle proteins	women	down	#B6453A	9
+F20	dna replication pre initiation	women	down	#B6453A	9
+F20	cellular response to hypoxia	women	down	#B6453A	9
+F20	uch proteinases	women	down	#B6453A	9
+F20	hedgehog off state	women	down	#B6453A	9
+F20	switching of origins to a post replicative state	women	down	#B6453A	9
+F20	degradation of beta catenin by the destruction complex	women	down	#B6453A	9
+F20	separation of sister chromatids	women	down	#B6453A	9
+F20	cyclin a cdk2 associated events at s phase entry	women	down	#B6453A	9
+F20	formation of tc ner pre incision complex	women	down	#B6453A	9
+F20	mitochondrial protein import	women	down	#B6453A	9
+F20	hedgehog on state	women	down	#B6453A	9
+F20	global genome nucleotide excision repair gg ner	women	down	#B6453A	9
+F20	abc family proteins mediated transport	women	down	#B6453A	9
+F20	mitotic g2 g2 m phases	women	down	#B6453A	9
+F20	citric acid cycle tca cycle	women	down	#B6453A	9
+F20	synthesis of dna	women	down	#B6453A	9
+F20	tp53 regulates metabolic genes	women	down	#B6453A	9
+F20	dna damage recognition in gg ner	women	down	#B6453A	9
+F20	tnfr2 non canonical nf kb pathway	women	down	#B6453A	9
+F20	signaling by hedgehog	women	down	#B6453A	9
+F20	dna replication	women	down	#B6453A	9
+F20	vldlr internalisation and degradation	women	down	#B6453A	9
+F20	nucleotide excision repair	women	down	#B6453A	9
+F20	clec7a dectin 1 signaling	women	down	#B6453A	9
+F20	signaling by notch4	women	down	#B6453A	9
+F20	golgi to er retrograde transport	women	down	#B6453A	9
+F20	regulation of mrna stability by proteins that bind au rich elements	women	down	#B6453A	9
+F20	copi mediated anterograde transport	women	down	#B6453A	9
+F20	fc epsilon receptor fceri signaling	women	down	#B6453A	9
+F20	mapk6 mapk4 signaling	women	down	#B6453A	9
+F20	signaling by the b cell receptor bcr	women	down	#B6453A	9
+F20	beta catenin independent wnt signaling	women	down	#B6453A	9
+F20	copi independent golgi to er retrograde traffic	women	down	#B6453A	9
+F20	protein localization	women	down	#B6453A	9
+F20	transcription coupled nucleotide excision repair tc ner	women	down	#B6453A	9
+F20	neddylation	women	down	#B6453A	9
+F20	nuclear events mediated by nfe2l2	women	down	#B6453A	9
+F20	synthesis of active ubiquitin roles of e1 and e2 enzymes	women	down	#B6453A	9
+F20	s phase	women	down	#B6453A	9
+F20	tcr signaling	women	down	#B6453A	9
+F20	mhc class ii antigen presentation	women	down	#B6453A	9
+F20	pten regulation	women	down	#B6453A	9
+F20	cholesterol biosynthesis	women	down	#B6453A	9
+F20	protein ubiquitination	women	down	#B6453A	9
+F20	antigen processing ubiquitination proteasome degradation	women	down	#B6453A	9
+F20	disorders of transmembrane transporters	women	down	#B6453A	9
+F20	mitophagy	women	down	#B6453A	9
+F20	mrna capping	women	down	#B6453A	9
+F20	translation	women	down	#B6453A	9
+F20	cellular response to chemical stress	women	down	#B6453A	9
+F20	formation of the early elongation complex	women	down	#B6453A	9
+F20	keap1 nfe2l2 pathway	women	down	#B6453A	9
+F20	dual incision in tc ner	women	down	#B6453A	9
+F20	transcriptional regulation by runx2	women	down	#B6453A	9
+F20	interleukin 1 signaling	women	down	#B6453A	9
+F20	c type lectin receptors clrs	women	down	#B6453A	9
+F20	apoptosis	women	down	#B6453A	9
+F20	dual incision in gg ner	women	down	#B6453A	9
+F20	eph ephrin signaling	women	down	#B6453A	9
+F20	recognition of dna damage by pcna containing replication complex	women	down	#B6453A	9
+F20	hiv transcription elongation	women	down	#B6453A	9
+F20	antigen processing cross presentation	women	down	#B6453A	9
+F20	pink1 prkn mediated mitophagy	women	down	#B6453A	9
+F20	e3 ubiquitin ligases ubiquitinate target proteins	women	down	#B6453A	9
+F20	rho gtpases activate wasps and waves	women	down	#B6453A	9
+F20	programmed cell death	women	down	#B6453A	9
+F20	wnt5a dependent internalization of fzd4	women	down	#B6453A	9
+F20	transcriptional regulation by runx3	women	down	#B6453A	9
+F17	nuclear events mediated by nfe2l2	common	up	#19787F	10
+F17	keap1 nfe2l2 pathway	common	up	#19787F	10
+F17	cellular response to chemical stress	men	up	#4A75A9	10
+F17	detoxification of reactive oxygen species	men	up	#4A75A9	10
+F17	eukaryotic translation initiation	common	down	#19787F	10
+F17	response of eif2ak4 gcn2 to amino acid deficiency	common	down	#19787F	10
+F17	eukaryotic translation elongation	common	down	#19787F	10
+F17	nonsense mediated decay nmd	common	down	#19787F	10
+F17	influenza infection	common	down	#19787F	10
+F17	cellular response to starvation	common	down	#19787F	10
+F17	activation of the mrna upon binding of the cap binding complex and eifs and subsequent binding to 43s	common	down	#19787F	10
+F17	srp dependent cotranslational protein targeting to membrane	common	down	#19787F	10
+F17	selenoamino acid metabolism	common	down	#19787F	10
+F17	sars cov 1 modulates host translation machinery	common	down	#19787F	10
+F17	rrna processing	women	down	#B6453A	10
+F17	sars cov 2 modulates host translation machinery	men	down	#4A75A9	10
+F17	nfe2l2 regulating anti oxidant detoxification enzymes	women	up	#B6453A	11
+F17	cytochrome p450 arranged by substrate type	women	up	#B6453A	11
+F17	immunoregulatory interactions between a lymphoid and a non lymphoid cell	women	up	#B6453A	11
+F17	mrna splicing	common	down	#19787F	11
+F17	resolution of abasic sites ap sites	common	down	#19787F	11
+F17	chromatin modifying enzymes	common	down	#19787F	11
+F17	rrna processing	women	down	#B6453A	11
+F17	eukaryotic translation initiation	women	down	#B6453A	11
+F17	response of eif2ak4 gcn2 to amino acid deficiency	women	down	#B6453A	11
+F17	regulation of expression of slits and robos	women	down	#B6453A	11
+F17	eukaryotic translation elongation	women	down	#B6453A	11
+F17	nonsense mediated decay nmd	women	down	#B6453A	11
+F17	influenza infection	women	down	#B6453A	11
+F17	translation	women	down	#B6453A	11
+F17	mitochondrial translation	women	down	#B6453A	11
+F17	activation of the mrna upon binding of the cap binding complex and eifs and subsequent binding to 43s	women	down	#B6453A	11
+F17	sars cov 2 modulates host translation machinery	women	down	#B6453A	11
+F17	srp dependent cotranslational protein targeting to membrane	women	down	#B6453A	11
+F17	selenoamino acid metabolism	women	down	#B6453A	11
+F17	dna strand elongation	women	down	#B6453A	11
+F17	sars cov 1 modulates host translation machinery	women	down	#B6453A	11
+F17	resolution of ap sites via the multiple nucleotide patch replacement pathway	women	down	#B6453A	11
+F17	epigenetic regulation of gene expression	women	down	#B6453A	11
+F17	lagging strand synthesis	women	down	#B6453A	11
+F17	rrna modification in the nucleus and cytosol	women	down	#B6453A	11
+F17	trna processing	women	down	#B6453A	11
+F17	sumoylation of transcription cofactors	men	down	#4A75A9	11
+F17	processing of capped intron containing pre mrna	men	down	#4A75A9	11
+F17	base excision repair	men	down	#4A75A9	11
+F17	nfe2l2 regulating anti oxidant detoxification enzymes	women	up	#B6453A	12
+F17	dectin 2 family	women	up	#B6453A	12
+F17	cytochrome p450 arranged by substrate type	women	up	#B6453A	12
+F17	phase i functionalization of compounds	women	up	#B6453A	12
+F17	immunoregulatory interactions between a lymphoid and a non lymphoid cell	women	up	#B6453A	12
+F17	binding and uptake of ligands by scavenger receptors	women	up	#B6453A	12
+F17	translation	common	down	#19787F	12
+F17	mitochondrial translation	common	down	#19787F	12
+F17	respiratory electron transport	common	down	#19787F	12
+F17	base excision repair	common	down	#19787F	12
+F17	respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	common	down	#19787F	12
+F17	complex i biogenesis	common	down	#19787F	12
+F17	s phase	women	down	#B6453A	12
+F17	synthesis of dna	women	down	#B6453A	12
+F17	global genome nucleotide excision repair gg ner	women	down	#B6453A	12
+F17	dna replication	women	down	#B6453A	12
+F17	transcription coupled nucleotide excision repair tc ner	women	down	#B6453A	12
+F17	nucleotide excision repair	women	down	#B6453A	12
+F17	cell cycle mitotic	women	down	#B6453A	12
+F17	dna repair	women	down	#B6453A	12
+F17	dual incision in tc ner	women	down	#B6453A	12
+F17	g2 m dna damage checkpoint	women	down	#B6453A	12
+F17	cell cycle checkpoints	women	down	#B6453A	12
+F17	mitotic spindle checkpoint	women	down	#B6453A	12
+F17	mitotic metaphase and anaphase	women	down	#B6453A	12
+F17	cyclin a cdk2 associated events at s phase entry	women	down	#B6453A	12
+F17	m phase	women	down	#B6453A	12
+F17	transcriptional regulation by runx2	women	down	#B6453A	12
+F17	mitotic g1 phase and g1 s transition	women	down	#B6453A	12
+F17	mitotic prometaphase	women	down	#B6453A	12
+F17	mitochondrial protein import	women	down	#B6453A	12
+F17	g2 m checkpoints	women	down	#B6453A	12
+F17	hiv life cycle	women	down	#B6453A	12
+F17	dual incision in gg ner	women	down	#B6453A	12
+F17	regulation of mrna stability by proteins that bind au rich elements	women	down	#B6453A	12
+F17	dna replication pre initiation	women	down	#B6453A	12
+F17	signaling by notch4	women	down	#B6453A	12
+F17	separation of sister chromatids	women	down	#B6453A	12
+F17	regulation of runx2 expression and activity	women	down	#B6453A	12
+F17	trna processing	women	down	#B6453A	12
+F17	switching of origins to a post replicative state	women	down	#B6453A	12
+F17	recognition of dna damage by pcna containing replication complex	women	down	#B6453A	12
+F17	resolution of sister chromatid cohesion	women	down	#B6453A	12
+F17	regulation of tp53 activity through phosphorylation	women	down	#B6453A	12
+F17	transcriptional regulation by runx3	women	down	#B6453A	12
+F17	apc c mediated degradation of cell cycle proteins	women	down	#B6453A	12
+F17	regulation of pten stability and activity	women	down	#B6453A	12
+F17	orc1 removal from chromatin	women	down	#B6453A	12
+F17	lagging strand synthesis	men	down	#4A75A9	12
+F17	pcna dependent long patch base excision repair	men	down	#4A75A9	12
+F17	resolution of ap sites via the multiple nucleotide patch replacement pathway	men	down	#4A75A9	12
+F17	telomere maintenance	men	down	#4A75A9	12
+F17	processing of capped intron containing pre mrna	men	down	#4A75A9	12
+F17	telomere c strand lagging strand synthesis	men	down	#4A75A9	12
+F17	resolution of abasic sites ap sites	men	down	#4A75A9	12
+F17	mrna splicing	men	down	#4A75A9	12
+D72	respiratory electron transport	women	up	#B6453A	13
+D72	dna replication pre initiation	women	up	#B6453A	13
+D72	translation	women	up	#B6453A	13
+D72	scf skp2 mediated degradation of p27 p21	women	up	#B6453A	13
+D72	apc c mediated degradation of cell cycle proteins	women	up	#B6453A	13
+D72	dna replication	women	up	#B6453A	13
+D72	respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	women	up	#B6453A	13
+D72	synthesis of dna	women	up	#B6453A	13
+D72	the citric acid tca cycle and respiratory electron transport	women	up	#B6453A	13
+D72	switching of origins to a post replicative state	women	up	#B6453A	13
+D72	orc1 removal from chromatin	women	up	#B6453A	13
+D72	g2 m checkpoints	women	up	#B6453A	13
+D72	apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	women	up	#B6453A	13
+D72	mitotic g1 phase and g1 s transition	women	up	#B6453A	13
+D72	neddylation	women	up	#B6453A	13
+D72	srp dependent cotranslational protein targeting to membrane	women	up	#B6453A	13
+D72	s phase	women	up	#B6453A	13
+D72	complex i biogenesis	women	up	#B6453A	13
+D72	mitochondrial translation	women	up	#B6453A	13
+D72	cell cycle checkpoints	women	up	#B6453A	13
+D72	activation of the pre replicative complex	women	up	#B6453A	13
+D72	response of eif2ak4 gcn2 to amino acid deficiency	women	up	#B6453A	13
+D72	collagen degradation	men	up	#4A75A9	13
+D72	interferon alpha beta signaling	women	down	#B6453A	13
+D72	immunoregulatory interactions between a lymphoid and a non lymphoid cell	men	down	#4A75A9	13
+D72	generation of second messenger molecules	men	down	#4A75A9	13
+D72	collagen degradation	men	up	#4A75A9	14
+D72	interferon alpha beta signaling	women	down	#B6453A	14
+D72	eukaryotic translation elongation	men	down	#4A75A9	14
+D72	selenoamino acid metabolism	men	down	#4A75A9	14
+D72	srp dependent cotranslational protein targeting to membrane	men	down	#4A75A9	14
+D72	response of eif2ak4 gcn2 to amino acid deficiency	men	down	#4A75A9	14
+D72	nonsense mediated decay nmd	men	down	#4A75A9	14
+D72	sars cov 1 modulates host translation machinery	men	down	#4A75A9	14
+D72	immunoregulatory interactions between a lymphoid and a non lymphoid cell	men	down	#4A75A9	14
+D72	generation of second messenger molecules	men	down	#4A75A9	14
+D47	collagen degradation	common	up	#19787F	15
+D47	chromatin modifying enzymes	common	down	#19787F	15
+D47	rhobtb2 gtpase cycle	common	down	#19787F	15
+D47	potential therapeutics for sars	common	down	#19787F	15
+D47	interleukin 3 interleukin 5 and gm csf signaling	common	down	#19787F	15
+D47	interleukin 2 family signaling	common	down	#19787F	15
+D47	caspase activation via extrinsic apoptotic signalling pathway	common	down	#19787F	15
+D47	fceri mediated ca 2 mobilization	common	down	#19787F	15
+D47	sumoylation of transcription cofactors	common	down	#19787F	15
+D47	formation of the beta catenin tcf transactivating complex	common	down	#19787F	15
+D47	immunoregulatory interactions between a lymphoid and a non lymphoid cell	common	down	#19787F	15
+D47	antigen activates b cell receptor bcr leading to generation of second messengers	common	down	#19787F	15
+D47	regulation of tp53 activity through acetylation	common	down	#19787F	15
+D47	hdms demethylate histones	common	down	#19787F	15
+D47	costimulation by the cd28 family	common	down	#19787F	15
+D47	generation of second messenger molecules	common	down	#19787F	15
+D47	signaling by scf kit	common	down	#19787F	15
+D47	pd 1 signaling	common	down	#19787F	15
+D47	sars cov 2 activates modulates innate and adaptive immune responses	women	down	#B6453A	15
+D47	sars cov infections	women	down	#B6453A	15
+D47	pkmts methylate histone lysines	women	down	#B6453A	15
+D47	antigen presentation folding assembly and peptide loading of class i mhc	women	down	#B6453A	15
+D47	the role of nef in hiv 1 replication and disease pathogenesis	women	down	#B6453A	15
+D47	leishmania infection	women	down	#B6453A	15
+D47	nucleotide binding domain leucine rich repeat containing receptor nlr signaling pathways	women	down	#B6453A	15
+D47	zbp1 dai mediated induction of type i ifns	women	down	#B6453A	15
+D47	myd88 independent tlr4 cascade	women	down	#B6453A	15
+D47	inflammasomes	women	down	#B6453A	15
+D47	toll like receptor cascades	women	down	#B6453A	15
+D47	fcgamma receptor fcgr dependent phagocytosis	women	down	#B6453A	15
+D47	regulation of mecp2 expression and activity	women	down	#B6453A	15
+D47	interleukin receptor shc signaling	women	down	#B6453A	15
+D47	parasite infection	women	down	#B6453A	15
+D47	signaling by interleukins	women	down	#B6453A	15
+D47	estrogen dependent gene expression	women	down	#B6453A	15
+D47	toll like receptor 9 tlr9 cascade	women	down	#B6453A	15
+D47	fceri mediated mapk activation	women	down	#B6453A	15
+D47	rho gtpase cycle	women	down	#B6453A	15
+D47	cd28 co stimulation	women	down	#B6453A	15
+D47	tak1 dependent ikk and nf kappa b activation	women	down	#B6453A	15
+D47	ripk1 mediated regulated necrosis	women	down	#B6453A	15
+D47	gpvi mediated activation cascade	women	down	#B6453A	15
+D47	toll like receptor tlr1 tlr2 cascade	women	down	#B6453A	15
+D47	death receptor signaling	women	down	#B6453A	15
+D47	ephb mediated forward signaling	women	down	#B6453A	15
+D47	traf6 mediated nf kb activation	women	down	#B6453A	15
+D47	semaphorin interactions	women	down	#B6453A	15
+D47	diseases of immune system	women	down	#B6453A	15
+D47	signaling by kit in disease	women	down	#B6453A	15
+D47	other interleukin signaling	women	down	#B6453A	15
+D47	g beta gamma signalling through pi3kgamma	women	down	#B6453A	15
+D47	pre notch processing in golgi	women	down	#B6453A	15
+D47	regulated necrosis	women	down	#B6453A	15
+D47	nod1 2 signaling pathway	women	down	#B6453A	15
+D47	effects of pip2 hydrolysis	women	down	#B6453A	15
+D47	anti inflammatory response favouring leishmania parasite infection	women	down	#B6453A	15
+D47	signaling by nuclear receptors	women	down	#B6453A	15
+D47	esr mediated signaling	women	down	#B6453A	15
+D47	fcgr3a mediated il10 synthesis	women	down	#B6453A	15
+D47	processing of capped intron containing pre mrna	men	down	#4A75A9	15
+D47	mrna splicing	men	down	#4A75A9	15
+D47	transport of mature transcript to cytoplasm	men	down	#4A75A9	15
+D47	rna polymerase ii transcription termination	men	down	#4A75A9	15
+D47	sumoylation of chromatin organization proteins	men	down	#4A75A9	15
+D47	sumoylation of rna binding proteins	men	down	#4A75A9	15
+D47	signaling by alk in cancer	men	down	#4A75A9	15
+D47	rhobtb gtpase cycle	men	down	#4A75A9	15
+D47	rrna modification in the nucleus and cytosol	men	down	#4A75A9	15
+D47	collagen degradation	men	up	#4A75A9	16
+D47	translation	men	down	#4A75A9	16
+D47	eukaryotic translation initiation	men	down	#4A75A9	16
+D47	nonsense mediated decay nmd	men	down	#4A75A9	16
+D47	influenza infection	men	down	#4A75A9	16
+D47	selenoamino acid metabolism	men	down	#4A75A9	16
+D47	eukaryotic translation elongation	men	down	#4A75A9	16
+D47	srp dependent cotranslational protein targeting to membrane	men	down	#4A75A9	16
+D47	response of eif2ak4 gcn2 to amino acid deficiency	men	down	#4A75A9	16
+D47	cellular response to starvation	men	down	#4A75A9	16
+D47	sars cov 1 modulates host translation machinery	men	down	#4A75A9	16
+D47	generation of second messenger molecules	men	down	#4A75A9	16
+D47	sars cov 2 modulates host translation machinery	men	down	#4A75A9	16
+D47	immunoregulatory interactions between a lymphoid and a non lymphoid cell	men	down	#4A75A9	16
+D46	mitochondrial fatty acid beta oxidation	women	up	#B6453A	17
+D46	mitochondrial translation	women	up	#B6453A	17
+D46	glutathione conjugation	women	up	#B6453A	17
+D46	activation of the pre replicative complex	women	up	#B6453A	17
+D46	metabolism of porphyrins	women	up	#B6453A	17
+D46	global genome nucleotide excision repair gg ner	women	up	#B6453A	17
+D46	synthesis of dna	women	up	#B6453A	17
+D46	dna replication pre initiation	women	up	#B6453A	17
+D46	the citric acid tca cycle and respiratory electron transport	women	up	#B6453A	17
+D46	dual incision in gg ner	women	up	#B6453A	17
+D46	recognition of dna damage by pcna containing replication complex	women	up	#B6453A	17
+D46	dna replication	women	up	#B6453A	17
+D46	pcna dependent long patch base excision repair	women	up	#B6453A	17
+D46	gap filling dna repair synthesis and ligation in gg ner	women	up	#B6453A	17
+D46	respiratory electron transport	women	up	#B6453A	17
+D46	e2f mediated regulation of dna replication	women	up	#B6453A	17
+D46	switching of origins to a post replicative state	women	up	#B6453A	17
+D46	respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	women	up	#B6453A	17
+D46	resolution of ap sites via the multiple nucleotide patch replacement pathway	women	up	#B6453A	17
+D46	orc1 removal from chromatin	women	up	#B6453A	17
+D46	dna strand elongation	women	up	#B6453A	17
+D46	antigen activates b cell receptor bcr leading to generation of second messengers	men	down	#4A75A9	17
+D46	costimulation by the cd28 family	men	down	#4A75A9	17
+D46	immunoregulatory interactions between a lymphoid and a non lymphoid cell	men	down	#4A75A9	17
+D46	formation of the beta catenin tcf transactivating complex	men	down	#4A75A9	17
+D46	interleukin 7 signaling	men	down	#4A75A9	17
+D46	effects of pip2 hydrolysis	men	down	#4A75A9	17
+D46	generation of second messenger molecules	men	down	#4A75A9	17
+D46	pd 1 signaling	men	down	#4A75A9	17
+D46	processing of capped intron containing pre mrna	men	down	#4A75A9	17
+D46	mrna splicing	men	down	#4A75A9	17
+D46	interleukin 2 family signaling	men	down	#4A75A9	17
+D46	hdms demethylate histones	men	down	#4A75A9	17
+D46	sumoylation of transcription cofactors	men	down	#4A75A9	17
+D46	mitochondrial translation	women	up	#B6453A	18
+D46	protein localization	women	up	#B6453A	18
+D46	activation of the pre replicative complex	women	up	#B6453A	18
+D46	nuclear events mediated by nfe2l2	women	up	#B6453A	18
+D46	keap1 nfe2l2 pathway	women	up	#B6453A	18
+D46	synthesis of dna	women	up	#B6453A	18
+D46	pcp ce pathway	women	up	#B6453A	18
+D46	dna replication pre initiation	women	up	#B6453A	18
+D46	the citric acid tca cycle and respiratory electron transport	women	up	#B6453A	18
+D46	metabolism of polyamines	women	up	#B6453A	18
+D46	glucose metabolism	women	up	#B6453A	18
+D46	dna replication	women	up	#B6453A	18
+D46	respiratory electron transport	women	up	#B6453A	18
+D46	switching of origins to a post replicative state	women	up	#B6453A	18
+D46	respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	women	up	#B6453A	18
+D46	orc1 removal from chromatin	women	up	#B6453A	18
+D46	the role of gtse1 in g2 m progression after g2 checkpoint	women	up	#B6453A	18
+D46	immunoregulatory interactions between a lymphoid and a non lymphoid cell	men	down	#4A75A9	18
+D46	generation of second messenger molecules	men	down	#4A75A9	18
+D46	nephrin family interactions	common	down	#19787F	19
+D46	antigen activates b cell receptor bcr leading to generation of second messengers	men	down	#4A75A9	19
+D46	signaling by the b cell receptor bcr	men	down	#4A75A9	19
+D46	costimulation by the cd28 family	men	down	#4A75A9	19
+D46	antigen presentation folding assembly and peptide loading of class i mhc	men	down	#4A75A9	19
+D46	immunoregulatory interactions between a lymphoid and a non lymphoid cell	men	down	#4A75A9	19
+D46	formation of the beta catenin tcf transactivating complex	men	down	#4A75A9	19
+D46	circadian clock	men	down	#4A75A9	19
+D46	tcr signaling	men	down	#4A75A9	19
+D46	generation of second messenger molecules	men	down	#4A75A9	19
+D46	pd 1 signaling	men	down	#4A75A9	19
+D46	processing of capped intron containing pre mrna	men	down	#4A75A9	19
+D46	mrna splicing	men	down	#4A75A9	19
+D46	signaling by cytosolic fgfr1 fusion mutants	men	down	#4A75A9	19
+D46	interleukin 2 family signaling	men	down	#4A75A9	19
+D46	hdms demethylate histones	men	down	#4A75A9	19
+D46	mitochondrial calcium ion transport	men	down	#4A75A9	19
+D46	fc epsilon receptor fceri signaling	men	down	#4A75A9	19
+D46	clec7a dectin 1 signaling	men	down	#4A75A9	19
+D46	ub specific processing proteases	men	down	#4A75A9	19
+D46	sumoylation of transcription cofactors	men	down	#4A75A9	19
+D46	deubiquitination	men	down	#4A75A9	19
+D45	rhobtb2 gtpase cycle	common	down	#19787F	20
+D45	generation of second messenger molecules	common	down	#19787F	20
+D45	chromatin modifying enzymes	common	down	#19787F	20
+D45	effects of pip2 hydrolysis	common	down	#19787F	20
+D45	hdms demethylate histones	women	down	#B6453A	20
+D45	mrna splicing	men	down	#4A75A9	20
+D45	processing of capped intron containing pre mrna	men	down	#4A75A9	20
+D45	transport of mature transcript to cytoplasm	men	down	#4A75A9	20
+D45	rrna modification in the nucleus and cytosol	men	down	#4A75A9	20
+D45	rna polymerase ii transcription termination	men	down	#4A75A9	20
+D45	pd 1 signaling	men	down	#4A75A9	20
+D45	formation of the beta catenin tcf transactivating complex	men	down	#4A75A9	20
+D45	antigen activates b cell receptor bcr leading to generation of second messengers	men	down	#4A75A9	20
+D45	sumoylation of rna binding proteins	men	down	#4A75A9	20
+D45	potential therapeutics for sars	men	down	#4A75A9	20
+D45	sumoylation of chromatin organization proteins	men	down	#4A75A9	20
+D45	heparan sulfate heparin hs gag metabolism	men	up	#4A75A9	21
+D45	mrna splicing	common	down	#19787F	21
+D45	processing of capped intron containing pre mrna	common	down	#19787F	21
+D45	transport of mature transcript to cytoplasm	common	down	#19787F	21
+D45	rna polymerase ii transcription termination	common	down	#19787F	21
+D45	interactions of rev with host cellular proteins	common	down	#19787F	21
+D45	cellular response to heat stress	common	down	#19787F	21
+D45	hcmv early events	common	down	#19787F	21
+D45	nuclear import of rev protein	common	down	#19787F	21
+D45	lagging strand synthesis	common	down	#19787F	21
+D45	interactions of vpr with host cellular proteins	common	down	#19787F	21
+D45	pcna dependent long patch base excision repair	common	down	#19787F	21
+D45	sumoylation of rna binding proteins	common	down	#19787F	21
+D45	trna processing	common	down	#19787F	21
+D45	rhobtb2 gtpase cycle	common	down	#19787F	21
+D45	mitochondrial calcium ion transport	common	down	#19787F	21
+D45	association of tric cct with target proteins during biosynthesis	common	down	#19787F	21
+D45	formation of rna pol ii elongation complex	common	down	#19787F	21
+D45	trna processing in the nucleus	common	down	#19787F	21
+D45	rna polymerase ii pre transcription events	common	down	#19787F	21
+D45	nuclear pore complex npc disassembly	common	down	#19787F	21
+D45	transport of the slbp dependant mature mrna	common	down	#19787F	21
+D45	generation of second messenger molecules	common	down	#19787F	21
+D45	rna polymerase i transcription initiation	common	down	#19787F	21
+D45	chromatin modifying enzymes	common	down	#19787F	21
+D45	transport of mature mrnas derived from intronless transcripts	common	down	#19787F	21
+D45	export of viral ribonucleoproteins from nucleus	common	down	#19787F	21
+D45	sumoylation of dna damage response and repair proteins	common	down	#19787F	21
+D45	resolution of ap sites via the multiple nucleotide patch replacement pathway	common	down	#19787F	21
+D45	formation of tubulin folding intermediates by cct tric	women	down	#B6453A	21
+D45	ire1alpha activates chaperones	women	down	#B6453A	21
+D45	dna strand elongation	women	down	#B6453A	21
+D45	darpp 32 events	women	down	#B6453A	21
+D45	hdms demethylate histones	women	down	#B6453A	21
+D45	hcmv infection	women	down	#B6453A	21
+D45	rhobtb gtpase cycle	women	down	#B6453A	21
+D45	hsf1 activation	women	down	#B6453A	21
+D45	rna polymerase i transcription termination	women	down	#B6453A	21
+D45	hsf1 dependent transactivation	women	down	#B6453A	21
+D45	hdacs deacetylate histones	women	down	#B6453A	21
+D45	effects of pip2 hydrolysis	women	down	#B6453A	21
+D45	translation	men	down	#4A75A9	21
+D45	rrna processing	men	down	#4A75A9	21
+D45	eukaryotic translation initiation	men	down	#4A75A9	21
+D45	activation of the mrna upon binding of the cap binding complex and eifs and subsequent binding to 43s	men	down	#4A75A9	21
+D45	rrna modification in the nucleus and cytosol	men	down	#4A75A9	21
+D45	positive epigenetic regulation of rrna expression	men	down	#4A75A9	21
+D45	rna polymerase i transcription	men	down	#4A75A9	21
+D45	resolution of abasic sites ap sites	men	down	#4A75A9	21
+D45	influenza infection	men	down	#4A75A9	21
+D45	srp dependent cotranslational protein targeting to membrane	men	down	#4A75A9	21
+D45	nonsense mediated decay nmd	men	down	#4A75A9	21
+D45	regulation of expression of slits and robos	men	down	#4A75A9	21
+D45	base excision repair	men	down	#4A75A9	21
+D45	host interactions of hiv factors	men	down	#4A75A9	21
+D45	mitochondrial translation	men	down	#4A75A9	21
+D45	citric acid cycle tca cycle	men	down	#4A75A9	21
+D45	signaling by robo receptors	men	down	#4A75A9	21
+D45	hiv infection	men	down	#4A75A9	21
+D45	hiv transcription elongation	men	down	#4A75A9	21
+D45	eukaryotic translation elongation	men	down	#4A75A9	21
+D45	pd 1 signaling	men	down	#4A75A9	21
+D45	sars cov 1 modulates host translation machinery	men	down	#4A75A9	21
+D45	mrna splicing minor pathway	men	down	#4A75A9	21
+D45	formation of the beta catenin tcf transactivating complex	men	down	#4A75A9	21
+D45	antigen activates b cell receptor bcr leading to generation of second messengers	men	down	#4A75A9	21
+D45	signaling by the b cell receptor bcr	men	down	#4A75A9	21
+D45	pyruvate metabolism and citric acid tca cycle	men	down	#4A75A9	21
+D45	potential therapeutics for sars	men	down	#4A75A9	21
+D45	mitochondrial protein import	men	down	#4A75A9	21
+D45	regulation of hsf1 mediated heat shock response	men	down	#4A75A9	21
+D45	hiv life cycle	men	down	#4A75A9	21
+D45	fgfr2 alternative splicing	men	down	#4A75A9	21
+D45	downstream signaling events of b cell receptor bcr	men	down	#4A75A9	21
+D45	response of eif2ak4 gcn2 to amino acid deficiency	men	down	#4A75A9	21
+D45	viral messenger rna synthesis	men	down	#4A75A9	21
+D45	sumoylation of dna replication proteins	men	down	#4A75A9	21
+D45	deadenylation of mrna	men	down	#4A75A9	21
+D45	polymerase switching on the c strand of the telomere	men	down	#4A75A9	21
+D45	cross presentation of soluble exogenous antigens endosomes	men	down	#4A75A9	21
+D45	interleukin 12 family signaling	men	down	#4A75A9	21
+D45	sumoylation of ubiquitinylation proteins	men	down	#4A75A9	21
+D45	chromosome maintenance	men	down	#4A75A9	21
+D45	transcription of the hiv genome	men	down	#4A75A9	21
+D45	sumoylation of chromatin organization proteins	men	down	#4A75A9	21
+D45	sars cov 2 modulates host translation machinery	men	down	#4A75A9	21
+D45	sumoylation	men	down	#4A75A9	21
+D45	epigenetic regulation of gene expression	men	down	#4A75A9	21
+D45	mrna capping	men	down	#4A75A9	21
+D45	transcriptional regulation by small rnas	men	down	#4A75A9	21
+D45	sumoylation of sumoylation proteins	men	down	#4A75A9	21
+D45	dna repair	men	down	#4A75A9	21
+D45	snrnp assembly	men	down	#4A75A9	21
+D45	telomere c strand lagging strand synthesis	men	down	#4A75A9	21
+D45	selenoamino acid metabolism	men	down	#4A75A9	21
+D45	regulation of glucokinase by glucokinase regulatory protein	men	down	#4A75A9	21
+D45	rna polymerase i promoter escape	men	down	#4A75A9	21
+D45	tp53 regulates transcription of dna repair genes	men	down	#4A75A9	21
+D45	pkmts methylate histone lysines	men	down	#4A75A9	21
+D45	processing of capped intronless pre mrna	men	down	#4A75A9	21
+D45	hiv elongation arrest and recovery	men	down	#4A75A9	21
+D45	mrna splicing	men	down	#4A75A9	22
+D45	processing of capped intron containing pre mrna	men	down	#4A75A9	22
+D45	effects of pip2 hydrolysis	men	down	#4A75A9	22
+D45	generation of second messenger molecules	men	down	#4A75A9	22
+D45	pd 1 signaling	men	down	#4A75A9	22
+D45	formation of the beta catenin tcf transactivating complex	men	down	#4A75A9	22
+D45	antigen activates b cell receptor bcr leading to generation of second messengers	men	down	#4A75A9	22
+D45	signaling by the b cell receptor bcr	men	down	#4A75A9	22
+D45	mitochondrial calcium ion transport	men	down	#4A75A9	22
+C92	mitochondrial translation	common	up	#19787F	23
+C92	formation of the early elongation complex	women	up	#B6453A	23
+C92	mrna capping	women	up	#B6453A	23
+C92	hiv transcription elongation	women	up	#B6453A	23
+C92	respiratory electron transport	women	up	#B6453A	23
+C92	branched chain amino acid catabolism	women	up	#B6453A	23
+C92	abortive elongation of hiv 1 transcript in the absence of tat	women	up	#B6453A	23
+C92	peroxisomal protein import	women	up	#B6453A	23
+C92	formation of tc ner pre incision complex	women	up	#B6453A	23
+C92	formation of incision complex in gg ner	women	up	#B6453A	23
+C92	metabolism of polyamines	women	up	#B6453A	23
+C92	protein localization	women	up	#B6453A	23
+C92	dna damage recognition in gg ner	women	up	#B6453A	23
+C92	respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	women	up	#B6453A	23
+C92	signaling by bmp	women	down	#B6453A	23
+C92	chemokine receptors bind chemokines	men	down	#4A75A9	23
+C64	interferon alpha beta signaling	men	up	#4A75A9	24
+C64	cell cycle mitotic	men	up	#4A75A9	24
+C64	cell cycle checkpoints	men	up	#4A75A9	24
+C64	interferon signaling	men	up	#4A75A9	24
+C64	sars cov 2 activates modulates innate and adaptive immune responses	men	up	#4A75A9	24
+C64	dna strand elongation	men	up	#4A75A9	24
+C64	homologous dna pairing and strand exchange	men	up	#4A75A9	24
+C64	activation of atr in response to replication stress	men	up	#4A75A9	24
+C64	activation of the pre replicative complex	men	up	#4A75A9	24
+C64	g2 m dna damage checkpoint	men	up	#4A75A9	24
+C64	hdr through homologous recombination hrr	men	up	#4A75A9	24
+C64	regulation of tp53 activity through phosphorylation	men	up	#4A75A9	24
+C64	signaling by interleukins	men	up	#4A75A9	24
+C64	g2 m checkpoints	men	up	#4A75A9	24
+C64	chromosome maintenance	men	up	#4A75A9	24
+C64	mitotic prometaphase	men	up	#4A75A9	24
+C64	diseases of dna repair	men	up	#4A75A9	24
+C64	neutrophil degranulation	men	up	#4A75A9	24
+C64	interleukin 10 signaling	men	up	#4A75A9	24
+C64	diseases of immune system	men	up	#4A75A9	24
+C64	dna replication	men	up	#4A75A9	24
+C64	toll like receptor cascades	men	up	#4A75A9	24
+C64	tp53 regulates transcription of cell death genes	men	up	#4A75A9	24
+C64	interferon gamma signaling	men	up	#4A75A9	24
+C64	m phase	men	up	#4A75A9	24
+C64	mitotic g1 phase and g1 s transition	men	up	#4A75A9	24
+C64	antigen presentation folding assembly and peptide loading of class i mhc	men	up	#4A75A9	24
+C64	mitotic spindle checkpoint	men	up	#4A75A9	24
+C64	dna double strand break repair	men	up	#4A75A9	24
+C64	processing of dna double strand break ends	men	up	#4A75A9	24
+C64	synthesis of dna	men	up	#4A75A9	24
+C64	antigen processing cross presentation	men	up	#4A75A9	24
+C64	s phase	men	up	#4A75A9	24
+C64	myd88 independent tlr4 cascade	men	up	#4A75A9	24
+C64	tp53 regulates transcription of cell cycle genes	men	up	#4A75A9	24
+C64	parasite infection	men	up	#4A75A9	24
+C64	rho gtpase effectors	men	up	#4A75A9	24
+C64	irak4 deficiency tlr2 4	men	up	#4A75A9	24
+C64	resolution of sister chromatid cohesion	men	up	#4A75A9	24
+C64	mitotic metaphase and anaphase	men	up	#4A75A9	24
+C64	mitotic prophase	men	up	#4A75A9	24
+C64	diseases of programmed cell death	men	up	#4A75A9	24
+C64	chemokine receptors bind chemokines	men	up	#4A75A9	24
+C64	rho gtpases activate formins	men	up	#4A75A9	24
+C64	nucleotide binding domain leucine rich repeat containing receptor nlr signaling pathways	men	up	#4A75A9	24
+C64	meiotic recombination	men	up	#4A75A9	24
+C64	sars cov 1 activates modulates innate immune responses	men	up	#4A75A9	24
+C64	deposition of new cenpa containing nucleosomes at the centromere	men	up	#4A75A9	24
+C64	nuclear envelope breakdown	men	up	#4A75A9	24
+C64	interleukin 12 family signaling	men	up	#4A75A9	24
+C64	sumoylation of dna replication proteins	men	up	#4A75A9	24
+C64	leishmania infection	men	up	#4A75A9	24
+C64	antiviral mechanism by ifn stimulated genes	men	up	#4A75A9	24
+C64	resolution of d loop structures through synthesis dependent strand annealing sdsa	men	up	#4A75A9	24
+C64	interleukin 12 signaling	men	up	#4A75A9	24
+C64	glycolysis	men	up	#4A75A9	24
+C64	toll like receptor tlr1 tlr2 cascade	men	up	#4A75A9	24
+C64	interleukin 4 and interleukin 13 signaling	men	up	#4A75A9	24
+C64	gene and protein expression by jak stat signaling after interleukin 12 stimulation	men	up	#4A75A9	24
+C64	resolution of d loop structures	men	up	#4A75A9	24
+C64	separation of sister chromatids	men	up	#4A75A9	24
+C64	dna replication pre initiation	men	up	#4A75A9	24
+C64	dap12 interactions	men	up	#4A75A9	24
+C64	rac3 gtpase cycle	men	up	#4A75A9	24
+C64	initiation of nuclear envelope ne reformation	men	up	#4A75A9	24
+C64	regulated necrosis	men	up	#4A75A9	24
+C64	traf6 mediated irf7 activation	men	up	#4A75A9	24
+C64	rho gtpases activate wasps and waves	men	up	#4A75A9	24
+C64	programmed cell death	men	up	#4A75A9	24
+C64	tnfr2 non canonical nf kb pathway	men	up	#4A75A9	24
+C64	cyclin d associated events in g1	men	up	#4A75A9	24
+C64	signaling by notch4	men	up	#4A75A9	24
+C64	g0 and early g1	men	up	#4A75A9	24
+C64	transcriptional regulation by tp53	men	up	#4A75A9	24
+C64	cell surface interactions at the vascular wall	men	up	#4A75A9	24
+C64	ddx58 ifih1 mediated induction of interferon alpha beta	men	up	#4A75A9	24
+C64	mitotic g2 g2 m phases	men	up	#4A75A9	24
+C64	host interactions of hiv factors	men	up	#4A75A9	24
+C64	fcgamma receptor fcgr dependent phagocytosis	men	up	#4A75A9	24
+C64	signaling by scf kit	men	up	#4A75A9	24
+C64	apc c mediated degradation of cell cycle proteins	men	up	#4A75A9	24
+C64	nod1 2 signaling pathway	men	up	#4A75A9	24
+C64	apoptosis	men	up	#4A75A9	24
+C64	cyclin a b1 b2 associated events during g2 m transition	men	up	#4A75A9	24
+C64	switching of origins to a post replicative state	men	up	#4A75A9	24
+C64	class i mhc mediated antigen processing presentation	men	up	#4A75A9	24
+C64	interleukin 1 signaling	men	up	#4A75A9	24
+C64	e2f mediated regulation of dna replication	men	up	#4A75A9	24
+C64	g1 s specific transcription	men	up	#4A75A9	24
+C64	interleukin 1 family signaling	men	up	#4A75A9	24
+C64	orc1 removal from chromatin	men	up	#4A75A9	24
+C64	dap12 signaling	men	up	#4A75A9	24
+C64	ephb mediated forward signaling	men	up	#4A75A9	24
+C64	signaling by erythropoietin	men	up	#4A75A9	24
+C64	pyroptosis	men	up	#4A75A9	24
+C64	signaling by csf3 g csf	men	up	#4A75A9	24
+C64	signaling by the b cell receptor bcr	men	up	#4A75A9	24
+C64	regulation of ifna ifnb signaling	men	up	#4A75A9	24
+C64	deubiquitination	men	up	#4A75A9	24
+C64	scf skp2 mediated degradation of p27 p21	men	up	#4A75A9	24
+C64	fc epsilon receptor fceri signaling	men	up	#4A75A9	24
+C64	inactivation of csf3 g csf signaling	men	up	#4A75A9	24
+C64	g1 s dna damage checkpoints	men	up	#4A75A9	24
+C64	regulation of runx3 expression and activity	men	up	#4A75A9	24
+C64	signalling to erks	men	up	#4A75A9	24
+C64	cellular response to hypoxia	men	up	#4A75A9	24
+C64	interaction between l1 and ankyrins	men	down	#4A75A9	24
+C34	cell cycle checkpoints	common	up	#19787F	25
+C34	g2 m checkpoints	common	up	#19787F	25
+C34	dna replication	common	up	#19787F	25
+C34	synthesis of dna	common	up	#19787F	25
+C34	cell cycle mitotic	common	up	#19787F	25
+C34	activation of atr in response to replication stress	common	up	#19787F	25
+C34	chromosome maintenance	common	up	#19787F	25
+C34	dna strand elongation	common	up	#19787F	25
+C34	homology directed repair	common	up	#19787F	25
+C34	s phase	common	up	#19787F	25
+C34	homologous dna pairing and strand exchange	common	up	#19787F	25
+C34	mitotic spindle checkpoint	common	up	#19787F	25
+C34	dna replication pre initiation	common	up	#19787F	25
+C34	mitotic metaphase and anaphase	common	up	#19787F	25
+C34	hdr through homologous recombination hrr	common	up	#19787F	25
+C34	mitotic g1 phase and g1 s transition	common	up	#19787F	25
+C34	activation of the pre replicative complex	common	up	#19787F	25
+C34	deposition of new cenpa containing nucleosomes at the centromere	common	up	#19787F	25
+C34	switching of origins to a post replicative state	common	up	#19787F	25
+C34	dna double strand break repair	common	up	#19787F	25
+C34	separation of sister chromatids	common	up	#19787F	25
+C34	g2 m dna damage checkpoint	common	up	#19787F	25
+C34	m phase	common	up	#19787F	25
+C34	g1 s specific transcription	common	up	#19787F	25
+C34	dna repair	common	up	#19787F	25
+C34	diseases of dna repair	common	up	#19787F	25
+C34	apc c mediated degradation of cell cycle proteins	common	up	#19787F	25
+C34	processing of dna double strand break ends	common	up	#19787F	25
+C34	resolution of abasic sites ap sites	common	up	#19787F	25
+C34	resolution of sister chromatid cohesion	common	up	#19787F	25
+C34	resolution of d loop structures through synthesis dependent strand annealing sdsa	common	up	#19787F	25
+C34	resolution of d loop structures	common	up	#19787F	25
+C34	mitotic prometaphase	common	up	#19787F	25
+C34	interactions of rev with host cellular proteins	common	up	#19787F	25
+C34	sumoylation of dna replication proteins	common	up	#19787F	25
+C34	telomere maintenance	common	up	#19787F	25
+C34	hdr through single strand annealing ssa	common	up	#19787F	25
+C34	base excision repair	common	up	#19787F	25
+C34	nuclear import of rev protein	common	up	#19787F	25
+C34	glucose metabolism	common	up	#19787F	25
+C34	polo like kinase mediated events	common	up	#19787F	25
+C34	g0 and early g1	common	up	#19787F	25
+C34	rho gtpases activate formins	common	up	#19787F	25
+C34	regulation of tp53 activity through phosphorylation	common	up	#19787F	25
+C34	export of viral ribonucleoproteins from nucleus	common	up	#19787F	25
+C34	glycolysis	common	up	#19787F	25
+C34	resolution of ap sites via the multiple nucleotide patch replacement pathway	common	up	#19787F	25
+C34	nuclear envelope breakdown	common	up	#19787F	25
+C34	copi dependent golgi to er retrograde traffic	common	up	#19787F	25
+C34	fanconi anemia pathway	common	up	#19787F	25
+C34	pcna dependent long patch base excision repair	common	up	#19787F	25
+C34	postmitotic nuclear pore complex npc reformation	common	up	#19787F	25
+C34	cyclin a b1 b2 associated events during g2 m transition	common	up	#19787F	25
+C34	nuclear pore complex npc disassembly	common	up	#19787F	25
+C34	extension of telomeres	common	up	#19787F	25
+C34	telomere c strand lagging strand synthesis	common	up	#19787F	25
+C34	mitotic g2 g2 m phases	common	up	#19787F	25
+C34	lagging strand synthesis	common	up	#19787F	25
+C34	apc cdc20 mediated degradation of nek2a	common	up	#19787F	25
+C34	tp53 regulates transcription of genes involved in g2 cell cycle arrest	common	up	#19787F	25
+C34	kinesins	common	up	#19787F	25
+C34	transcriptional regulation by tp53	common	up	#19787F	25
+C34	transcription of e2f targets under negative control by p107 rbl1 and p130 rbl2 in complex with hdac1	common	up	#19787F	25
+C34	regulation of tp53 activity	common	up	#19787F	25
+C34	transcription of e2f targets under negative control by dream complex	common	up	#19787F	25
+C34	golgi to er retrograde transport	common	up	#19787F	25
+C34	inhibition of the proteolytic activity of apc c required for the onset of anaphase by mitotic spindle checkpoint components	common	up	#19787F	25
+C34	tp53 regulates transcription of cell cycle genes	common	up	#19787F	25
+C34	processive synthesis on the lagging strand	common	up	#19787F	25
+C34	transcriptional regulation by e2f6	common	up	#19787F	25
+C34	mitotic prophase	common	up	#19787F	25
+C34	aurka activation by tpx2	common	up	#19787F	25
+C34	meiotic recombination	common	up	#19787F	25
+C34	gap filling dna repair synthesis and ligation in gg ner	common	up	#19787F	25
+C34	phosphorylation of the apc c	common	up	#19787F	25
+C34	processive synthesis on the c strand of the telomere	common	up	#19787F	25
+C34	recognition of dna damage by pcna containing replication complex	common	up	#19787F	25
+C34	polymerase switching on the c strand of the telomere	common	up	#19787F	25
+C34	nuclear envelope ne reassembly	common	up	#19787F	25
+C34	e2f mediated regulation of dna replication	common	up	#19787F	25
+C34	intra golgi and retrograde golgi to er traffic	common	up	#19787F	25
+C34	diseases of programmed cell death	common	up	#19787F	25
+C34	rho gtpase effectors	common	up	#19787F	25
+C34	apc c cdc20 mediated degradation of cyclin b	common	up	#19787F	25
+C34	hcmv early events	common	up	#19787F	25
+C34	regulation of plk1 activity at g2 m transition	common	up	#19787F	25
+C34	synthesis of active ubiquitin roles of e1 and e2 enzymes	women	up	#B6453A	25
+C34	trna processing	men	up	#4A75A9	25
+C34	orc1 removal from chromatin	men	up	#4A75A9	25
+C34	snrnp assembly	men	up	#4A75A9	25
+C34	trna processing in the nucleus	men	up	#4A75A9	25
+C34	transcriptional regulation by small rnas	men	up	#4A75A9	25
+C34	viral messenger rna synthesis	men	up	#4A75A9	25
+C34	transport of mature mrnas derived from intronless transcripts	men	up	#4A75A9	25
+C34	transport of the slbp dependant mature mrna	men	up	#4A75A9	25
+C34	interactions of vpr with host cellular proteins	men	up	#4A75A9	25
+C34	ns1 mediated effects on host pathways	men	up	#4A75A9	25
+C34	hiv life cycle	men	up	#4A75A9	25
+C34	sumoylation of rna binding proteins	men	up	#4A75A9	25
+C34	transcription coupled nucleotide excision repair tc ner	men	up	#4A75A9	25
+C34	regulation of glucokinase by glucokinase regulatory protein	men	up	#4A75A9	25
+C34	processing of capped intronless pre mrna	men	up	#4A75A9	25
+C34	dual incision in tc ner	men	up	#4A75A9	25
+C34	sumoylation of sumoylation proteins	men	up	#4A75A9	25
+C34	gene silencing by rna	men	up	#4A75A9	25
+C34	nucleotide excision repair	men	up	#4A75A9	25
+C34	processing of capped intron containing pre mrna	men	up	#4A75A9	25
+C34	transport of mature transcript to cytoplasm	men	up	#4A75A9	25
+C34	transcription of the hiv genome	men	up	#4A75A9	25
+C34	sumoylation of dna damage response and repair proteins	men	up	#4A75A9	25
+C34	sumoylation of chromatin organization proteins	men	up	#4A75A9	25
+C34	dual incision in gg ner	men	up	#4A75A9	25
+C34	sumoylation	men	up	#4A75A9	25
+C34	sumoylation of ubiquitinylation proteins	men	up	#4A75A9	25
+C34	tp53 regulates transcription of dna repair genes	men	up	#4A75A9	25
+C34	rna polymerase ii transcription termination	men	up	#4A75A9	25
+C34	global genome nucleotide excision repair gg ner	men	up	#4A75A9	25
+C34	deadenylation dependent mrna decay	men	up	#4A75A9	25
+C34	diseases of mitotic cell cycle	men	up	#4A75A9	25
+C34	mrna splicing	men	up	#4A75A9	25
+C34	dna damage bypass	men	up	#4A75A9	25
+C34	epigenetic regulation of gene expression	men	up	#4A75A9	25
+C34	rmts methylate histone arginines	men	up	#4A75A9	25
+C34	termination of translesion dna synthesis	men	up	#4A75A9	25
+C34	translesion synthesis by y family dna polymerases bypasses lesions on dna template	men	up	#4A75A9	25
+C34	aberrant regulation of mitotic g1 s transition in cancer due to rb1 defects	men	up	#4A75A9	25
+C34	initiation of nuclear envelope ne reformation	men	up	#4A75A9	25
+C34	recruitment of mitotic centrosome proteins and complexes	men	up	#4A75A9	25
+C34	activation of bh3 only proteins	men	up	#4A75A9	25
+C34	activation of anterior hox genes in hindbrain development during early embryogenesis	men	up	#4A75A9	25
+C34	complement cascade	common	down	#19787F	25
+C34	class a 1 rhodopsin like receptors	common	down	#19787F	25
+C34	gpcr ligand binding	common	down	#19787F	25
+C34	initial triggering of complement	common	down	#19787F	25
+C34	sumoylation of intracellular receptors	women	down	#B6453A	25
+C34	rho gtpases activate nadph oxidases	women	down	#B6453A	25
+C34	biosynthesis of specialized proresolving mediators spms	women	down	#B6453A	25
+C34	phase i functionalization of compounds	women	down	#B6453A	25
+C34	regulation of fzd by ubiquitination	women	down	#B6453A	25
+C34	muscle contraction	men	down	#4A75A9	25
+C34	cardiac conduction	men	down	#4A75A9	25
+C34	g alpha s signalling events	men	down	#4A75A9	25
+C34	cell extracellular matrix interactions	men	down	#4A75A9	25
+C34	generation of second messenger molecules	men	down	#4A75A9	25
+C34	ngf stimulated transcription	men	down	#4A75A9	25
+C34	integration of energy metabolism	men	down	#4A75A9	25
+C34	interaction between l1 and ankyrins	men	down	#4A75A9	25
+C34	g alpha i signalling events	men	down	#4A75A9	25
+C34	nuclear events mediated by nfe2l2	common	up	#19787F	26
+C34	keap1 nfe2l2 pathway	men	up	#4A75A9	26
+C34	cellular response to chemical stress	men	up	#4A75A9	26
+C34	signaling by cytosolic fgfr1 fusion mutants	women	down	#B6453A	26
+C34	notch4 intracellular domain regulates transcription	women	down	#B6453A	26
+C34	dna strand elongation	common	up	#19787F	27
+C34	homologous dna pairing and strand exchange	common	up	#19787F	27
+C34	deposition of new cenpa containing nucleosomes at the centromere	common	up	#19787F	27
+C34	g1 s specific transcription	common	up	#19787F	27
+C34	resolution of d loop structures	common	up	#19787F	27
+C34	mitochondrial translation	women	up	#B6453A	27
+C34	fanconi anemia pathway	women	up	#B6453A	27
+C34	cell cycle checkpoints	men	up	#4A75A9	27
+C34	g2 m checkpoints	men	up	#4A75A9	27
+C34	synthesis of dna	men	up	#4A75A9	27
+C34	dna replication	men	up	#4A75A9	27
+C34	cell cycle mitotic	men	up	#4A75A9	27
+C34	activation of atr in response to replication stress	men	up	#4A75A9	27
+C34	s phase	men	up	#4A75A9	27
+C34	chromosome maintenance	men	up	#4A75A9	27
+C34	mitotic spindle checkpoint	men	up	#4A75A9	27
+C34	diseases of dna repair	men	up	#4A75A9	27
+C34	mitotic metaphase and anaphase	men	up	#4A75A9	27
+C34	hdr through homologous recombination hrr	men	up	#4A75A9	27
+C34	dna replication pre initiation	men	up	#4A75A9	27
+C34	mitotic g1 phase and g1 s transition	men	up	#4A75A9	27
+C34	homology directed repair	men	up	#4A75A9	27
+C34	separation of sister chromatids	men	up	#4A75A9	27
+C34	activation of the pre replicative complex	men	up	#4A75A9	27
+C34	switching of origins to a post replicative state	men	up	#4A75A9	27
+C34	trna processing	men	up	#4A75A9	27
+C34	resolution of sister chromatid cohesion	men	up	#4A75A9	27
+C34	orc1 removal from chromatin	men	up	#4A75A9	27
+C34	apc c mediated degradation of cell cycle proteins	men	up	#4A75A9	27
+C34	m phase	men	up	#4A75A9	27
+C34	snrnp assembly	men	up	#4A75A9	27
+C34	g2 m dna damage checkpoint	men	up	#4A75A9	27
+C34	rrna modification in the nucleus and cytosol	men	up	#4A75A9	27
+C34	dna double strand break repair	men	up	#4A75A9	27
+C34	dna repair	men	up	#4A75A9	27
+C34	trna processing in the nucleus	men	up	#4A75A9	27
+C34	rho gtpases activate formins	men	up	#4A75A9	27
+C34	mitotic prometaphase	men	up	#4A75A9	27
+C34	hdr through single strand annealing ssa	men	up	#4A75A9	27
+C34	sumoylation of dna replication proteins	men	up	#4A75A9	27
+C34	interactions of rev with host cellular proteins	men	up	#4A75A9	27
+C34	resolution of ap sites via the multiple nucleotide patch replacement pathway	men	up	#4A75A9	27
+C34	regulation of tp53 activity through phosphorylation	men	up	#4A75A9	27
+C34	transport of mature mrnas derived from intronless transcripts	men	up	#4A75A9	27
+C34	translation	men	up	#4A75A9	27
+C34	resolution of abasic sites ap sites	men	up	#4A75A9	27
+C34	processing of dna double strand break ends	men	up	#4A75A9	27
+C34	extension of telomeres	men	up	#4A75A9	27
+C34	g0 and early g1	men	up	#4A75A9	27
+C34	export of viral ribonucleoproteins from nucleus	men	up	#4A75A9	27
+C34	lagging strand synthesis	men	up	#4A75A9	27
+C34	nuclear import of rev protein	men	up	#4A75A9	27
+C34	base excision repair	men	up	#4A75A9	27
+C34	telomere c strand lagging strand synthesis	men	up	#4A75A9	27
+C34	rrna processing	men	up	#4A75A9	27
+C34	resolution of d loop structures through synthesis dependent strand annealing sdsa	men	up	#4A75A9	27
+C34	nuclear envelope breakdown	men	up	#4A75A9	27
+C34	nuclear pore complex npc disassembly	men	up	#4A75A9	27
+C34	copi dependent golgi to er retrograde traffic	men	up	#4A75A9	27
+C34	tp53 regulates transcription of genes involved in g2 cell cycle arrest	men	up	#4A75A9	27
+C34	metabolism of nucleotides	men	up	#4A75A9	27
+C34	meiotic recombination	men	up	#4A75A9	27
+C34	collagen formation	men	up	#4A75A9	27
+C34	influenza infection	men	up	#4A75A9	27
+C34	dual incision in gg ner	men	up	#4A75A9	27
+C34	assembly of collagen fibrils and other multimeric structures	men	up	#4A75A9	27
+C34	tp53 regulates transcription of dna repair genes	men	up	#4A75A9	27
+C34	processive synthesis on the c strand of the telomere	men	up	#4A75A9	27
+C34	syndecan interactions	men	up	#4A75A9	27
+C34	collagen degradation	men	up	#4A75A9	27
+C34	collagen biosynthesis and modifying enzymes	men	up	#4A75A9	27
+C34	diseases of programmed cell death	men	up	#4A75A9	27
+C34	met activates ptk2 signaling	men	up	#4A75A9	27
+C34	sars cov 2 modulates host translation machinery	men	up	#4A75A9	27
+C34	srp dependent cotranslational protein targeting to membrane	men	up	#4A75A9	27
+C34	interconversion of nucleotide di and triphosphates	men	up	#4A75A9	27
+C34	nuclear events kinase and transcription factor activation	common	down	#19787F	27
+C34	surfactant metabolism	common	down	#19787F	27
+C34	signaling by bmp	women	down	#B6453A	27
+C34	g alpha s signalling events	men	down	#4A75A9	27
+C34	regulation of insulin secretion	men	down	#4A75A9	27
+C34	sumoylation of intracellular receptors	men	down	#4A75A9	27
+C34	integration of energy metabolism	men	down	#4A75A9	27
+C34	sema4d in semaphorin signaling	men	down	#4A75A9	27
+C25	gpvi mediated activation cascade	common	up	#19787F	28
+C25	mitotic metaphase and anaphase	women	up	#B6453A	28
+C25	syndecan interactions	women	up	#B6453A	28
+C25	neutrophil degranulation	women	up	#B6453A	28
+C25	antiviral mechanism by ifn stimulated genes	women	up	#B6453A	28
+C25	regulation of ras by gaps	women	up	#B6453A	28
+C25	dna replication pre initiation	women	up	#B6453A	28
+C25	s phase	women	up	#B6453A	28
+C25	dna replication	women	up	#B6453A	28
+C25	transcriptional regulation by ventx	women	up	#B6453A	28
+C25	fcgamma receptor fcgr dependent phagocytosis	women	up	#B6453A	28
+C25	purinergic signaling in leishmaniasis infection	women	up	#B6453A	28
+C25	role of lat2 ntal lab on calcium mobilization	women	up	#B6453A	28
+C25	sphingolipid de novo biosynthesis	women	up	#B6453A	28
+C25	regulation of cholesterol biosynthesis by srebp srebf	women	up	#B6453A	28
+C25	esr mediated signaling	women	up	#B6453A	28
+C25	met activates ptk2 signaling	men	up	#4A75A9	28
+C25	collagen biosynthesis and modifying enzymes	men	up	#4A75A9	28
+C25	collagen chain trimerization	men	up	#4A75A9	28
+C25	laminin interactions	men	up	#4A75A9	28
+C25	integrin cell surface interactions	men	up	#4A75A9	28
+C25	ecm proteoglycans	men	up	#4A75A9	28
+C11	cell cycle checkpoints	common	up	#19787F	29
+C11	activation of the pre replicative complex	common	up	#19787F	29
+C11	dna replication	common	up	#19787F	29
+C11	activation of atr in response to replication stress	common	up	#19787F	29
+C11	cell cycle mitotic	common	up	#19787F	29
+C11	mitotic g1 phase and g1 s transition	common	up	#19787F	29
+C11	synthesis of dna	common	up	#19787F	29
+C11	g2 m checkpoints	common	up	#19787F	29
+C11	s phase	common	up	#19787F	29
+C11	mitotic spindle checkpoint	common	up	#19787F	29
+C11	dna strand elongation	common	up	#19787F	29
+C11	mitotic metaphase and anaphase	common	up	#19787F	29
+C11	ns1 mediated effects on host pathways	common	up	#19787F	29
+C11	dna replication pre initiation	common	up	#19787F	29
+C11	antiviral mechanism by ifn stimulated genes	common	up	#19787F	29
+C11	transport of mature mrnas derived from intronless transcripts	common	up	#19787F	29
+C11	dna double strand break repair	common	up	#19787F	29
+C11	chromosome maintenance	common	up	#19787F	29
+C11	transport of the slbp dependant mature mrna	common	up	#19787F	29
+C11	sumoylation of dna replication proteins	common	up	#19787F	29
+C11	resolution of sister chromatid cohesion	common	up	#19787F	29
+C11	snrnp assembly	common	up	#19787F	29
+C11	homology directed repair	common	up	#19787F	29
+C11	mitotic prometaphase	common	up	#19787F	29
+C11	m phase	common	up	#19787F	29
+C11	hdr through homologous recombination hrr	common	up	#19787F	29
+C11	g2 m dna damage checkpoint	common	up	#19787F	29
+C11	dna repair	common	up	#19787F	29
+C11	nuclear pore complex npc disassembly	common	up	#19787F	29
+C11	processing of dna double strand break ends	common	up	#19787F	29
+C11	separation of sister chromatids	common	up	#19787F	29
+C11	telomere c strand lagging strand synthesis	common	up	#19787F	29
+C11	diseases of dna repair	common	up	#19787F	29
+C11	deposition of new cenpa containing nucleosomes at the centromere	common	up	#19787F	29
+C11	switching of origins to a post replicative state	common	up	#19787F	29
+C11	collagen biosynthesis and modifying enzymes	common	up	#19787F	29
+C11	homologous dna pairing and strand exchange	common	up	#19787F	29
+C11	lagging strand synthesis	common	up	#19787F	29
+C11	extension of telomeres	common	up	#19787F	29
+C11	orc1 removal from chromatin	common	up	#19787F	29
+C11	collagen chain trimerization	common	up	#19787F	29
+C11	rho gtpases activate formins	common	up	#19787F	29
+C11	syndecan interactions	common	up	#19787F	29
+C11	sumoylation of dna damage response and repair proteins	common	up	#19787F	29
+C11	collagen degradation	common	up	#19787F	29
+C11	regulation of tp53 activity through phosphorylation	common	up	#19787F	29
+C11	telomere maintenance	common	up	#19787F	29
+C11	collagen formation	common	up	#19787F	29
+C11	non integrin membrane ecm interactions	common	up	#19787F	29
+C11	apc c mediated degradation of cell cycle proteins	common	up	#19787F	29
+C11	host interactions of hiv factors	common	up	#19787F	29
+C11	resolution of d loop structures	common	up	#19787F	29
+C11	interferon signaling	common	up	#19787F	29
+C11	binding and uptake of ligands by scavenger receptors	common	up	#19787F	29
+C11	polymerase switching on the c strand of the telomere	common	up	#19787F	29
+C11	g1 s specific transcription	common	up	#19787F	29
+C11	hdr through single strand annealing ssa	common	up	#19787F	29
+C11	base excision repair	common	up	#19787F	29
+C11	resolution of ap sites via the multiple nucleotide patch replacement pathway	common	up	#19787F	29
+C11	g0 and early g1	common	up	#19787F	29
+C11	met activates ptk2 signaling	common	up	#19787F	29
+C11	ncam1 interactions	common	up	#19787F	29
+C11	pcna dependent long patch base excision repair	common	up	#19787F	29
+C11	cyclin a cdk2 associated events at s phase entry	common	up	#19787F	29
+C11	resolution of d loop structures through synthesis dependent strand annealing sdsa	common	up	#19787F	29
+C11	ecm proteoglycans	common	up	#19787F	29
+C11	hiv life cycle	common	up	#19787F	29
+C11	resolution of abasic sites ap sites	common	up	#19787F	29
+C11	met promotes cell motility	common	up	#19787F	29
+C11	meiotic recombination	common	up	#19787F	29
+C11	integrin cell surface interactions	common	up	#19787F	29
+C11	scf skp2 mediated degradation of p27 p21	common	up	#19787F	29
+C11	extracellular matrix organization	common	up	#19787F	29
+C11	assembly of collagen fibrils and other multimeric structures	common	up	#19787F	29
+C11	hiv infection	common	up	#19787F	29
+C11	transcriptional regulation by e2f6	common	up	#19787F	29
+C11	apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	common	up	#19787F	29
+C11	ncam signaling for neurite out growth	common	up	#19787F	29
+C11	perk regulates gene expression	common	up	#19787F	29
+C11	mitotic g2 g2 m phases	common	up	#19787F	29
+C11	degradation of the extracellular matrix	common	up	#19787F	29
+C11	laminin interactions	common	up	#19787F	29
+C11	tp53 regulates transcription of genes involved in g2 cell cycle arrest	common	up	#19787F	29
+C11	diseases of mitotic cell cycle	common	up	#19787F	29
+C11	g1 s dna damage checkpoints	common	up	#19787F	29
+C11	transcription of e2f targets under negative control by dream complex	common	up	#19787F	29
+C11	signaling by pdgf	common	up	#19787F	29
+C11	aberrant regulation of mitotic g1 s transition in cancer due to rb1 defects	common	up	#19787F	29
+C11	negative regulation of notch4 signaling	common	up	#19787F	29
+C11	rho gtpase effectors	common	up	#19787F	29
+C11	cross presentation of soluble exogenous antigens endosomes	common	up	#19787F	29
+C11	transcriptional regulation by runx2	common	up	#19787F	29
+C11	asymmetric localization of pcp proteins	common	up	#19787F	29
+C11	interferon alpha beta signaling	common	up	#19787F	29
+C11	regulation of runx2 expression and activity	common	up	#19787F	29
+C11	interactions of rev with host cellular proteins	women	up	#B6453A	29
+C11	export of viral ribonucleoproteins from nucleus	women	up	#B6453A	29
+C11	nuclear import of rev protein	women	up	#B6453A	29
+C11	nuclear envelope breakdown	women	up	#B6453A	29
+C11	transcriptional regulation by small rnas	women	up	#B6453A	29
+C11	viral messenger rna synthesis	women	up	#B6453A	29
+C11	rrna modification in the nucleus and cytosol	women	up	#B6453A	29
+C11	trna processing	women	up	#B6453A	29
+C11	processing of capped intronless pre mrna	women	up	#B6453A	29
+C11	mrna splicing minor pathway	women	up	#B6453A	29
+C11	aurka activation by tpx2	women	up	#B6453A	29
+C11	cyclin a b1 b2 associated events during g2 m transition	women	up	#B6453A	29
+C11	regulation of plk1 activity at g2 m transition	women	up	#B6453A	29
+C11	sars cov 2 activates modulates innate and adaptive immune responses	women	up	#B6453A	29
+C11	recruitment of mitotic centrosome proteins and complexes	women	up	#B6453A	29
+C11	disorders of transmembrane transporters	women	up	#B6453A	29
+C11	tp53 regulates transcription of dna repair genes	women	up	#B6453A	29
+C11	apoptosis	women	up	#B6453A	29
+C11	tp53 regulates transcription of cell cycle genes	men	up	#4A75A9	29
+C11	regulation of tp53 activity	men	up	#4A75A9	29
+C11	atf4 activates genes in response to endoplasmic reticulum stress	men	up	#4A75A9	29
+C11	scf beta trcp mediated degradation of emi1	men	up	#4A75A9	29
+C11	auf1 hnrnp d0 binds and destabilizes mrna	men	up	#4A75A9	29
+C11	sumoylation	men	up	#4A75A9	29
+C11	translesion synthesis by y family dna polymerases bypasses lesions on dna template	men	up	#4A75A9	29
+C11	regulation of mrna stability by proteins that bind au rich elements	men	up	#4A75A9	29
+C11	transcription of the hiv genome	men	up	#4A75A9	29
+C11	signaling by fgfr2 iiia tm	men	up	#4A75A9	29
+C11	hiv transcription elongation	men	up	#4A75A9	29
+C11	processive synthesis on the c strand of the telomere	men	up	#4A75A9	29
+C11	degradation of dvl	men	up	#4A75A9	29
+C11	termination of translesion dna synthesis	men	up	#4A75A9	29
+C11	hedgehog ligand biogenesis	men	up	#4A75A9	29
+C11	rna polymerase ii pre transcription events	men	up	#4A75A9	29
+C11	hiv transcription initiation	men	up	#4A75A9	29
+C11	stabilization of p53	men	up	#4A75A9	29
+C11	regulation of runx3 expression and activity	men	up	#4A75A9	29
+C11	sars cov 1 activates modulates innate immune responses	men	up	#4A75A9	29
+C11	dectin 1 mediated noncanonical nf kb signaling	men	up	#4A75A9	29
+C11	downstream signaling events of b cell receptor bcr	men	up	#4A75A9	29
+C11	interleukin 10 signaling	men	up	#4A75A9	29
+C11	defective cftr causes cystic fibrosis	men	up	#4A75A9	29
+C11	uch proteinases	men	up	#4A75A9	29
+C11	tnfr2 non canonical nf kb pathway	men	up	#4A75A9	29
+C11	degradation of gli1 by the proteasome	men	up	#4A75A9	29
+C11	runx1 regulates transcription of genes involved in differentiation of hscs	men	up	#4A75A9	29
+C11	sars cov 2 infection	men	up	#4A75A9	29
+C11	regulation of pten stability and activity	men	up	#4A75A9	29
+C11	phase i functionalization of compounds	common	down	#19787F	29
+K58	host interactions of hiv factors	common	up	#19787F	1
+K58	signaling by the b cell receptor bcr	common	up	#19787F	1
+K58	cross presentation of soluble exogenous antigens endosomes	common	up	#19787F	1
+K58	metabolism of polyamines	common	up	#19787F	1
+K58	apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	common	up	#19787F	1
+K58	antigen processing cross presentation	common	up	#19787F	1
+K58	apc c mediated degradation of cell cycle proteins	common	up	#19787F	1
+K58	separation of sister chromatids	common	up	#19787F	1
+K58	runx1 regulates transcription of genes involved in differentiation of hscs	common	up	#19787F	1
+K58	the role of gtse1 in g2 m progression after g2 checkpoint	common	up	#19787F	1
+K58	dna replication	common	up	#19787F	1
+K58	hedgehog ligand biogenesis	common	up	#19787F	1
+K58	tnfr2 non canonical nf kb pathway	common	up	#19787F	1
+K58	signaling by interleukins	common	up	#19787F	1
+K58	switching of origins to a post replicative state	common	up	#19787F	1
+K58	mitotic metaphase and anaphase	common	up	#19787F	1
+K58	dna replication pre initiation	common	up	#19787F	1
+K58	orc1 removal from chromatin	common	up	#19787F	1
+K58	synthesis of dna	common	up	#19787F	1
+K58	defective cftr causes cystic fibrosis	common	up	#19787F	1
+K58	scf beta trcp mediated degradation of emi1	common	up	#19787F	1
+K58	negative regulation of notch4 signaling	common	up	#19787F	1
+K58	dectin 1 mediated noncanonical nf kb signaling	common	up	#19787F	1
+K58	integrin cell surface interactions	common	up	#19787F	1
+K58	auf1 hnrnp d0 binds and destabilizes mrna	common	up	#19787F	1
+K58	interferon alpha beta signaling	common	up	#19787F	1
+K58	abc transporter disorders	common	up	#19787F	1
+K58	collagen degradation	common	up	#19787F	1
+K58	interleukin 1 family signaling	common	up	#19787F	1
+K58	regulation of runx3 expression and activity	common	up	#19787F	1
+K58	complement cascade	common	up	#19787F	1
+K58	stabilization of p53	common	up	#19787F	1
+K58	regulation of mrna stability by proteins that bind au rich elements	common	up	#19787F	1
+K58	degradation of dvl	common	up	#19787F	1
+K58	unfolded protein response upr	common	up	#19787F	1
+K58	m phase	common	up	#19787F	1
+K58	downstream signaling events of b cell receptor bcr	common	up	#19787F	1
+K58	fceri mediated nf kb activation	common	up	#19787F	1
+K58	clec7a dectin 1 signaling	common	up	#19787F	1
+K58	cell cycle checkpoints	common	up	#19787F	1
+K58	scf skp2 mediated degradation of p27 p21	common	up	#19787F	1
+K58	uch proteinases	common	up	#19787F	1
+K58	degradation of axin	common	up	#19787F	1
+K58	interleukin 1 signaling	common	up	#19787F	1
+K58	pcp ce pathway	common	up	#19787F	1
+K58	asymmetric localization of pcp proteins	common	up	#19787F	1
+K58	g1 s dna damage checkpoints	common	up	#19787F	1
+K58	activation of matrix metalloproteinases	common	up	#19787F	1
+K58	ire1alpha activates chaperones	common	up	#19787F	1
+K58	c type lectin receptors clrs	common	up	#19787F	1
+K58	degradation of gli1 by the proteasome	common	up	#19787F	1
+K58	regulation of runx2 expression and activity	common	up	#19787F	1
+K58	regulation of ras by gaps	common	up	#19787F	1
+K58	interleukin 4 and interleukin 13 signaling	common	up	#19787F	1
+K58	interferon signaling	common	up	#19787F	1
+K58	g2 m checkpoints	common	up	#19787F	1
+K58	cellular response to hypoxia	common	up	#19787F	1
+K58	tcr signaling	common	up	#19787F	1
+K58	regulation of pten stability and activity	common	up	#19787F	1
+K58	nuclear events mediated by nfe2l2	common	up	#19787F	1
+K58	interleukin 10 signaling	common	up	#19787F	1
+K58	fc epsilon receptor fceri signaling	common	up	#19787F	1
+K58	mitotic g2 g2 m phases	common	up	#19787F	1
+K58	chemokine receptors bind chemokines	common	up	#19787F	1
+K58	interleukin 12 family signaling	common	up	#19787F	1
+K58	beta catenin independent wnt signaling	common	up	#19787F	1
+K58	resolution of sister chromatid cohesion	common	up	#19787F	1
+K58	cyclin a cdk2 associated events at s phase entry	common	up	#19787F	1
+K58	hedgehog on state	common	up	#19787F	1
+K58	cargo concentration in the er	common	up	#19787F	1
+K58	collagen formation	women	up	#B6453A	1
+K58	assembly of collagen fibrils and other multimeric structures	women	up	#B6453A	1
+K58	extracellular matrix organization	women	up	#B6453A	1
+K58	collagen biosynthesis and modifying enzymes	women	up	#B6453A	1
+K58	antigen activates b cell receptor bcr leading to generation of second messengers	women	up	#B6453A	1
+K58	glycolysis	women	up	#B6453A	1
+K58	ecm proteoglycans	women	up	#B6453A	1
+K58	interactions of rev with host cellular proteins	women	up	#B6453A	1
+K58	neutrophil degranulation	women	up	#B6453A	1
+K58	nuclear import of rev protein	women	up	#B6453A	1
+K58	regulation of insulin like growth factor igf transport and uptake by insulin like growth factor binding proteins igfbps	women	up	#B6453A	1
+K58	degradation of the extracellular matrix	women	up	#B6453A	1
+K58	collagen chain trimerization	women	up	#B6453A	1
+K58	cell cycle mitotic	women	up	#B6453A	1
+K58	sumoylation of dna replication proteins	women	up	#B6453A	1
+K58	laminin interactions	women	up	#B6453A	1
+K58	immunoregulatory interactions between a lymphoid and a non lymphoid cell	women	up	#B6453A	1
+K58	nuclear envelope breakdown	women	up	#B6453A	1
+K58	s phase	women	up	#B6453A	1
+K58	nuclear pore complex npc disassembly	women	up	#B6453A	1
+K58	gpvi mediated activation cascade	women	up	#B6453A	1
+K58	snrnp assembly	women	up	#B6453A	1
+K58	ros and rns production in phagocytes	women	up	#B6453A	1
+K58	regulation of glucokinase by glucokinase regulatory protein	women	up	#B6453A	1
+K58	keap1 nfe2l2 pathway	women	up	#B6453A	1
+K58	met activates ptk2 signaling	women	up	#B6453A	1
+K58	mitotic g1 phase and g1 s transition	women	up	#B6453A	1
+K58	sumoylation of ubiquitinylation proteins	women	up	#B6453A	1
+K58	binding and uptake of ligands by scavenger receptors	women	up	#B6453A	1
+K58	ncam1 interactions	women	up	#B6453A	1
+K58	elastic fibre formation	women	up	#B6453A	1
+K58	the role of nef in hiv 1 replication and disease pathogenesis	women	up	#B6453A	1
+K58	signaling by notch4	women	up	#B6453A	1
+K58	interleukin 12 signaling	women	up	#B6453A	1
+K58	transcriptional regulation by runx3	women	up	#B6453A	1
+K58	antiviral mechanism by ifn stimulated genes	women	up	#B6453A	1
+K58	transcriptional regulation by runx1	women	up	#B6453A	1
+K58	pd 1 signaling	women	up	#B6453A	1
+K58	dectin 2 family	women	up	#B6453A	1
+K58	tnfs bind their physiological receptors	women	up	#B6453A	1
+K58	cell surface interactions at the vascular wall	women	up	#B6453A	1
+K58	antimicrobial peptides	women	up	#B6453A	1
+K58	sars cov 2 activates modulates innate and adaptive immune responses	women	up	#B6453A	1
+K58	interleukin 2 family signaling	women	up	#B6453A	1
+K58	rho gtpases activate formins	women	up	#B6453A	1
+K58	class i mhc mediated antigen processing presentation	women	up	#B6453A	1
+K58	platelet activation signaling and aggregation	women	up	#B6453A	1
+K58	chondroitin sulfate dermatan sulfate metabolism	women	up	#B6453A	1
+K58	detoxification of reactive oxygen species	women	up	#B6453A	1
+K58	hemostasis	women	up	#B6453A	1
+K58	interferon gamma signaling	women	up	#B6453A	1
+K58	mhc class ii antigen presentation	women	up	#B6453A	1
+K58	non integrin membrane ecm interactions	women	up	#B6453A	1
+K58	meiotic recombination	women	up	#B6453A	1
+K58	glycosaminoglycan metabolism	women	up	#B6453A	1
+K58	syndecan interactions	women	up	#B6453A	1
+K58	perk regulates gene expression	women	up	#B6453A	1
+K58	dna strand elongation	women	up	#B6453A	1
+K58	platelet aggregation plug formation	women	up	#B6453A	1
+K58	response to elevated platelet cytosolic ca2	women	up	#B6453A	1
+K58	signaling by scf kit	women	up	#B6453A	1
+K58	anti inflammatory response favouring leishmania parasite infection	women	up	#B6453A	1
+K58	interleukin 3 interleukin 5 and gm csf signaling	women	up	#B6453A	1
+K58	nef mediates down modulation of cell surface receptors by recruiting them to clathrin adapters	women	up	#B6453A	1
+K58	interleukin 37 signaling	women	up	#B6453A	1
+K58	potential therapeutics for sars	women	up	#B6453A	1
+K58	signaling by csf3 g csf	women	up	#B6453A	1
+K58	sars cov infections	women	up	#B6453A	1
+K58	met promotes cell motility	women	up	#B6453A	1
+K58	leishmania infection	women	up	#B6453A	1
+K58	fceri mediated ca 2 mobilization	women	up	#B6453A	1
+K58	inactivation of csf3 g csf signaling	women	up	#B6453A	1
+K58	er to golgi anterograde transport	men	up	#4A75A9	1
+K58	copii mediated vesicle transport	men	up	#4A75A9	1
+K58	asparagine n linked glycosylation	men	up	#4A75A9	1
+K58	programmed cell death	men	up	#4A75A9	1
+K58	raf independent mapk1 3 activation	men	up	#4A75A9	1
+K58	transcriptional regulation by runx2	men	up	#4A75A9	1
+K58	hedgehog off state	men	up	#4A75A9	1
+K58	mapk6 mapk4 signaling	men	up	#4A75A9	1
+K58	transport to the golgi and subsequent modification	men	up	#4A75A9	1
+K58	abc family proteins mediated transport	men	up	#4A75A9	1
+K58	mitotic spindle checkpoint	men	up	#4A75A9	1
+K58	regulated necrosis	men	up	#4A75A9	1
+K58	apoptosis	men	up	#4A75A9	1
+K58	peroxisomal lipid metabolism	common	down	#19787F	1
+K58	respiratory electron transport	common	down	#19787F	1
+K58	the citric acid tca cycle and respiratory electron transport	common	down	#19787F	1
+K58	respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	common	down	#19787F	1
+K58	peroxisomal protein import	common	down	#19787F	1
+K58	citric acid cycle tca cycle	common	down	#19787F	1
+K58	glyoxylate metabolism and glycine degradation	common	down	#19787F	1
+K58	sars cov 1 modulates host translation machinery	women	down	#B6453A	1
+K58	eukaryotic translation elongation	women	down	#B6453A	1
+K58	selenoamino acid metabolism	women	down	#B6453A	1
+K58	response of eif2ak4 gcn2 to amino acid deficiency	women	down	#B6453A	1
+K58	nonsense mediated decay nmd	women	down	#B6453A	1
+K58	pyruvate metabolism and citric acid tca cycle	men	down	#4A75A9	1
+K58	mitochondrial fatty acid beta oxidation	men	down	#4A75A9	1
+K58	biological oxidations	men	down	#4A75A9	1
+L71	cholesterol biosynthesis	common	up	#19787F	2
+L71	antigen processing cross presentation	common	up	#19787F	2
+L71	interferon alpha beta signaling	common	up	#19787F	2
+L71	cross presentation of soluble exogenous antigens endosomes	common	up	#19787F	2
+L71	metabolism of polyamines	common	up	#19787F	2
+L71	scf skp2 mediated degradation of p27 p21	common	up	#19787F	2
+L71	hedgehog ligand biogenesis	common	up	#19787F	2
+L71	negative regulation of notch4 signaling	common	up	#19787F	2
+L71	g1 s dna damage checkpoints	common	up	#19787F	2
+L71	auf1 hnrnp d0 binds and destabilizes mrna	common	up	#19787F	2
+L71	nuclear events mediated by nfe2l2	common	up	#19787F	2
+L71	defective cftr causes cystic fibrosis	common	up	#19787F	2
+L71	degradation of gli1 by the proteasome	common	up	#19787F	2
+L71	dectin 1 mediated noncanonical nf kb signaling	common	up	#19787F	2
+L71	regulation of runx3 expression and activity	common	up	#19787F	2
+L71	interleukin 10 signaling	common	up	#19787F	2
+L71	apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	common	up	#19787F	2
+L71	gluconeogenesis	common	up	#19787F	2
+L71	scf beta trcp mediated degradation of emi1	common	up	#19787F	2
+L71	cellular response to hypoxia	common	up	#19787F	2
+L71	interferon signaling	common	up	#19787F	2
+L71	interferon gamma signaling	common	up	#19787F	2
+L71	stabilization of p53	common	up	#19787F	2
+L71	orc1 removal from chromatin	common	up	#19787F	2
+L71	signaling by interleukins	common	up	#19787F	2
+L71	abc transporter disorders	common	up	#19787F	2
+L71	neutrophil degranulation	common	up	#19787F	2
+L71	keap1 nfe2l2 pathway	common	up	#19787F	2
+L71	interleukin 1 signaling	common	up	#19787F	2
+L71	degradation of axin	common	up	#19787F	2
+L71	interleukin 1 family signaling	common	up	#19787F	2
+L71	abc family proteins mediated transport	common	up	#19787F	2
+L71	regulation of ras by gaps	common	up	#19787F	2
+L71	the role of gtse1 in g2 m progression after g2 checkpoint	common	up	#19787F	2
+L71	tnfr2 non canonical nf kb pathway	common	up	#19787F	2
+L71	degradation of dvl	common	up	#19787F	2
+L71	clec7a dectin 1 signaling	common	up	#19787F	2
+L71	apc c mediated degradation of cell cycle proteins	common	up	#19787F	2
+L71	regulation of runx2 expression and activity	common	up	#19787F	2
+L71	cyclin a cdk2 associated events at s phase entry	common	up	#19787F	2
+L71	dna replication pre initiation	common	up	#19787F	2
+L71	fceri mediated nf kb activation	common	up	#19787F	2
+L71	downstream signaling events of b cell receptor bcr	common	up	#19787F	2
+L71	switching of origins to a post replicative state	common	up	#19787F	2
+L71	regulation of mrna stability by proteins that bind au rich elements	common	up	#19787F	2
+L71	dna replication	common	up	#19787F	2
+L71	transferrin endocytosis and recycling	women	up	#B6453A	2
+L71	ros and rns production in phagocytes	women	up	#B6453A	2
+L71	metabolism of steroids	women	up	#B6453A	2
+L71	nucleotide catabolism	women	up	#B6453A	2
+L71	caspase activation via extrinsic apoptotic signalling pathway	women	up	#B6453A	2
+L71	fatty acid metabolism	women	up	#B6453A	2
+L71	pyruvate metabolism and citric acid tca cycle	women	up	#B6453A	2
+L71	the citric acid tca cycle and respiratory electron transport	women	up	#B6453A	2
+L71	mitochondrial fatty acid beta oxidation	women	up	#B6453A	2
+L71	peroxisomal lipid metabolism	women	up	#B6453A	2
+L71	fatty acyl coa biosynthesis	women	up	#B6453A	2
+L71	cargo concentration in the er	women	up	#B6453A	2
+L71	iron uptake and transport	women	up	#B6453A	2
+L71	pyruvate metabolism	women	up	#B6453A	2
+L71	copii mediated vesicle transport	women	up	#B6453A	2
+L71	signaling by retinoic acid	women	up	#B6453A	2
+L71	triglyceride metabolism	women	up	#B6453A	2
+L71	runx1 regulates transcription of genes involved in differentiation of hscs	men	up	#4A75A9	2
+L71	regulation of pten stability and activity	men	up	#4A75A9	2
+L71	asymmetric localization of pcp proteins	men	up	#4A75A9	2
+L71	uch proteinases	men	up	#4A75A9	2
+L71	synthesis of dna	men	up	#4A75A9	2
+L71	separation of sister chromatids	men	up	#4A75A9	2
+L71	cellular response to chemical stress	men	up	#4A75A9	2
+L71	host interactions of hiv factors	men	up	#4A75A9	2
+L71	cell cycle checkpoints	men	up	#4A75A9	2
+L71	g2 m checkpoints	men	up	#4A75A9	2
+L71	pcp ce pathway	men	up	#4A75A9	2
+L71	tcr signaling	men	up	#4A75A9	2
+L71	mitotic metaphase and anaphase	men	up	#4A75A9	2
+L71	signaling by the b cell receptor bcr	men	up	#4A75A9	2
+L71	m phase	men	up	#4A75A9	2
+L71	mitotic g1 phase and g1 s transition	men	up	#4A75A9	2
+L71	cell cycle mitotic	men	up	#4A75A9	2
+L71	s phase	men	up	#4A75A9	2
+L71	c type lectin receptors clrs	men	up	#4A75A9	2
+L71	metabolism of vitamins and cofactors	men	up	#4A75A9	2
+L71	disorders of transmembrane transporters	men	up	#4A75A9	2
+L71	metabolism of water soluble vitamins and cofactors	men	up	#4A75A9	2
+L71	mitotic spindle checkpoint	men	up	#4A75A9	2
+L71	dna strand elongation	men	up	#4A75A9	2
+L71	interleukin 2 family signaling	men	up	#4A75A9	2
+L71	synthesis of active ubiquitin roles of e1 and e2 enzymes	men	up	#4A75A9	2
+L71	mitochondrial translation	men	up	#4A75A9	2
+K58	antigen processing cross presentation	common	up	#19787F	3
+K58	interferon alpha beta signaling	common	up	#19787F	3
+K58	cross presentation of soluble exogenous antigens endosomes	common	up	#19787F	3
+K58	metabolism of polyamines	common	up	#19787F	3
+K58	scf skp2 mediated degradation of p27 p21	common	up	#19787F	3
+K58	hedgehog ligand biogenesis	common	up	#19787F	3
+K58	interleukin 12 family signaling	common	up	#19787F	3
+K58	negative regulation of notch4 signaling	common	up	#19787F	3
+K58	antigen presentation folding assembly and peptide loading of class i mhc	common	up	#19787F	3
+K58	g1 s dna damage checkpoints	common	up	#19787F	3
+K58	auf1 hnrnp d0 binds and destabilizes mrna	common	up	#19787F	3
+K58	interleukin 12 signaling	common	up	#19787F	3
+K58	nuclear events mediated by nfe2l2	common	up	#19787F	3
+K58	defective cftr causes cystic fibrosis	common	up	#19787F	3
+K58	degradation of gli1 by the proteasome	common	up	#19787F	3
+K58	dectin 1 mediated noncanonical nf kb signaling	common	up	#19787F	3
+K58	regulation of runx3 expression and activity	common	up	#19787F	3
+K58	interleukin 10 signaling	common	up	#19787F	3
+K58	apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	common	up	#19787F	3
+K58	scf beta trcp mediated degradation of emi1	common	up	#19787F	3
+K58	cellular response to hypoxia	common	up	#19787F	3
+K58	interferon signaling	common	up	#19787F	3
+K58	interferon gamma signaling	common	up	#19787F	3
+K58	stabilization of p53	common	up	#19787F	3
+K58	orc1 removal from chromatin	common	up	#19787F	3
+K58	ire1alpha activates chaperones	common	up	#19787F	3
+K58	signaling by interleukins	common	up	#19787F	3
+K58	abc transporter disorders	common	up	#19787F	3
+K58	neutrophil degranulation	common	up	#19787F	3
+K58	keap1 nfe2l2 pathway	common	up	#19787F	3
+K58	interleukin 1 signaling	common	up	#19787F	3
+K58	degradation of axin	common	up	#19787F	3
+K58	interleukin 1 family signaling	common	up	#19787F	3
+K58	regulation of ras by gaps	common	up	#19787F	3
+K58	cargo concentration in the er	common	up	#19787F	3
+K58	the role of gtse1 in g2 m progression after g2 checkpoint	common	up	#19787F	3
+K58	tnfr2 non canonical nf kb pathway	common	up	#19787F	3
+K58	degradation of dvl	common	up	#19787F	3
+K58	clec7a dectin 1 signaling	common	up	#19787F	3
+K58	apc c mediated degradation of cell cycle proteins	common	up	#19787F	3
+K58	regulation of runx2 expression and activity	common	up	#19787F	3
+K58	cyclin a cdk2 associated events at s phase entry	common	up	#19787F	3
+K58	dna replication pre initiation	common	up	#19787F	3
+K58	fceri mediated nf kb activation	common	up	#19787F	3
+K58	downstream signaling events of b cell receptor bcr	common	up	#19787F	3
+K58	switching of origins to a post replicative state	common	up	#19787F	3
+K58	regulation of mrna stability by proteins that bind au rich elements	common	up	#19787F	3
+K58	dna replication	common	up	#19787F	3
+K58	ros and rns production in phagocytes	women	up	#B6453A	3
+K58	runx1 regulates transcription of genes involved in differentiation of hscs	men	up	#4A75A9	3
+K58	regulation of pten stability and activity	men	up	#4A75A9	3
+K58	asymmetric localization of pcp proteins	men	up	#4A75A9	3
+K58	uch proteinases	men	up	#4A75A9	3
+K58	synthesis of dna	men	up	#4A75A9	3
+K58	mapk6 mapk4 signaling	men	up	#4A75A9	3
+K58	abc family proteins mediated transport	men	up	#4A75A9	3
+K58	separation of sister chromatids	men	up	#4A75A9	3
+K58	cellular response to chemical stress	men	up	#4A75A9	3
+K58	degradation of beta catenin by the destruction complex	men	up	#4A75A9	3
+K58	host interactions of hiv factors	men	up	#4A75A9	3
+K58	programmed cell death	men	up	#4A75A9	3
+K58	transcriptional regulation by runx2	men	up	#4A75A9	3
+K58	cell cycle checkpoints	men	up	#4A75A9	3
+K58	g2 m checkpoints	men	up	#4A75A9	3
+K58	pcp ce pathway	men	up	#4A75A9	3
+K58	tcr signaling	men	up	#4A75A9	3
+K58	hedgehog off state	men	up	#4A75A9	3
+K58	transcriptional regulation by runx3	men	up	#4A75A9	3
+K58	mitotic metaphase and anaphase	men	up	#4A75A9	3
+K58	signaling by notch4	men	up	#4A75A9	3
+K58	signaling by the b cell receptor bcr	men	up	#4A75A9	3
+K58	mitotic g2 g2 m phases	men	up	#4A75A9	3
+K58	hedgehog on state	men	up	#4A75A9	3
+K58	m phase	men	up	#4A75A9	3
+K58	apoptosis	men	up	#4A75A9	3
+K58	signaling by hedgehog	men	up	#4A75A9	3
+K58	ub specific processing proteases	men	up	#4A75A9	3
+K58	class i mhc mediated antigen processing presentation	men	up	#4A75A9	3
+K58	mitotic g1 phase and g1 s transition	men	up	#4A75A9	3
+K58	cell cycle mitotic	men	up	#4A75A9	3
+K58	s phase	men	up	#4A75A9	3
+K58	beta catenin independent wnt signaling	men	up	#4A75A9	3
+K58	c type lectin receptors clrs	men	up	#4A75A9	3
+K58	pten regulation	men	up	#4A75A9	3
+K58	deubiquitination	men	up	#4A75A9	3
+K58	gene and protein expression by jak stat signaling after interleukin 12 stimulation	men	up	#4A75A9	3
+K58	disorders of transmembrane transporters	men	up	#4A75A9	3
+K58	antigen processing ubiquitination proteasome degradation	men	up	#4A75A9	3
+K58	fc epsilon receptor fceri signaling	men	up	#4A75A9	3
+K58	er to golgi anterograde transport	men	up	#4A75A9	3
+K58	metabolism of water soluble vitamins and cofactors	men	up	#4A75A9	3
+K58	hiv infection	men	up	#4A75A9	3
+K58	regulated necrosis	men	up	#4A75A9	3
+K58	intrinsic pathway for apoptosis	men	up	#4A75A9	3
+K58	pyroptosis	men	up	#4A75A9	3
+K58	interleukin 4 and interleukin 13 signaling	men	up	#4A75A9	3
+K58	mitotic spindle checkpoint	men	up	#4A75A9	3
+K58	transport to the golgi and subsequent modification	men	up	#4A75A9	3
+K58	copii mediated vesicle transport	men	up	#4A75A9	3
+K58	transcriptional regulation by runx1	men	up	#4A75A9	3
+K58	interleukin 2 family signaling	men	up	#4A75A9	3
+K58	unfolded protein response upr	men	up	#4A75A9	3
+K58	assembly of collagen fibrils and other multimeric structures	men	up	#4A75A9	3
+K58	signaling by scf kit	men	up	#4A75A9	3
+K58	raf independent mapk1 3 activation	men	up	#4A75A9	3
+K58	antiviral mechanism by ifn stimulated genes	men	up	#4A75A9	3
+K58	platelet aggregation plug formation	men	up	#4A75A9	3
+K58	eukaryotic translation elongation	common	down	#19787F	3
+K58	nonsense mediated decay nmd	common	down	#19787F	3
+K58	response of eif2ak4 gcn2 to amino acid deficiency	common	down	#19787F	3
+K58	eukaryotic translation initiation	common	down	#19787F	3
+K58	selenoamino acid metabolism	common	down	#19787F	3
+K58	sars cov 1 modulates host translation machinery	common	down	#19787F	3
+K58	activation of the mrna upon binding of the cap binding complex and eifs and subsequent binding to 43s	common	down	#19787F	3
+K58	regulation of beta cell development	women	down	#B6453A	3
+K51	antigen processing cross presentation	common	up	#19787F	4
+K51	interferon alpha beta signaling	common	up	#19787F	4
+K51	cross presentation of soluble exogenous antigens endosomes	common	up	#19787F	4
+K51	metabolism of polyamines	common	up	#19787F	4
+K51	scf skp2 mediated degradation of p27 p21	common	up	#19787F	4
+K51	hedgehog ligand biogenesis	common	up	#19787F	4
+K51	interleukin 12 family signaling	common	up	#19787F	4
+K51	negative regulation of notch4 signaling	common	up	#19787F	4
+K51	g1 s dna damage checkpoints	common	up	#19787F	4
+K51	auf1 hnrnp d0 binds and destabilizes mrna	common	up	#19787F	4
+K51	nuclear events mediated by nfe2l2	common	up	#19787F	4
+K51	defective cftr causes cystic fibrosis	common	up	#19787F	4
+K51	degradation of gli1 by the proteasome	common	up	#19787F	4
+K51	dectin 1 mediated noncanonical nf kb signaling	common	up	#19787F	4
+K51	regulation of runx3 expression and activity	common	up	#19787F	4
+K51	interleukin 10 signaling	common	up	#19787F	4
+K51	apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	common	up	#19787F	4
+K51	scf beta trcp mediated degradation of emi1	common	up	#19787F	4
+K51	cellular response to hypoxia	common	up	#19787F	4
+K51	interferon signaling	common	up	#19787F	4
+K51	stabilization of p53	common	up	#19787F	4
+K51	orc1 removal from chromatin	common	up	#19787F	4
+K51	ire1alpha activates chaperones	common	up	#19787F	4
+K51	signaling by interleukins	common	up	#19787F	4
+K51	abc transporter disorders	common	up	#19787F	4
+K51	interleukin 1 signaling	common	up	#19787F	4
+K51	degradation of axin	common	up	#19787F	4
+K51	interleukin 1 family signaling	common	up	#19787F	4
+K51	abc family proteins mediated transport	common	up	#19787F	4
+K51	regulation of ras by gaps	common	up	#19787F	4
+K51	cargo concentration in the er	common	up	#19787F	4
+K51	the role of gtse1 in g2 m progression after g2 checkpoint	common	up	#19787F	4
+K51	tnfr2 non canonical nf kb pathway	common	up	#19787F	4
+K51	degradation of dvl	common	up	#19787F	4
+K51	clec7a dectin 1 signaling	common	up	#19787F	4
+K51	apc c mediated degradation of cell cycle proteins	common	up	#19787F	4
+K51	regulation of runx2 expression and activity	common	up	#19787F	4
+K51	copii mediated vesicle transport	common	up	#19787F	4
+K51	cyclin a cdk2 associated events at s phase entry	common	up	#19787F	4
+K51	dna replication pre initiation	common	up	#19787F	4
+K51	fceri mediated nf kb activation	common	up	#19787F	4
+K51	downstream signaling events of b cell receptor bcr	common	up	#19787F	4
+K51	switching of origins to a post replicative state	common	up	#19787F	4
+K51	regulation of mrna stability by proteins that bind au rich elements	common	up	#19787F	4
+K51	dna replication	common	up	#19787F	4
+K51	ros and rns production in phagocytes	women	up	#B6453A	4
+K51	gene and protein expression by jak stat signaling after interleukin 12 stimulation	women	up	#B6453A	4
+K51	interleukin 12 signaling	women	up	#B6453A	4
+K51	interferon gamma signaling	women	up	#B6453A	4
+K51	neutrophil degranulation	women	up	#B6453A	4
+K51	keap1 nfe2l2 pathway	women	up	#B6453A	4
+K51	metabolism of nucleotides	women	up	#B6453A	4
+K51	interconversion of nucleotide di and triphosphates	women	up	#B6453A	4
+K51	fatty acyl coa biosynthesis	women	up	#B6453A	4
+K51	nucleotide salvage	women	up	#B6453A	4
+K51	runx1 regulates transcription of genes involved in differentiation of hscs	men	up	#4A75A9	4
+K51	regulation of pten stability and activity	men	up	#4A75A9	4
+K51	asymmetric localization of pcp proteins	men	up	#4A75A9	4
+K51	uch proteinases	men	up	#4A75A9	4
+K51	synthesis of dna	men	up	#4A75A9	4
+K51	mapk6 mapk4 signaling	men	up	#4A75A9	4
+K51	separation of sister chromatids	men	up	#4A75A9	4
+K51	host interactions of hiv factors	men	up	#4A75A9	4
+K51	programmed cell death	men	up	#4A75A9	4
+K51	transcriptional regulation by runx2	men	up	#4A75A9	4
+K51	cell cycle checkpoints	men	up	#4A75A9	4
+K51	g2 m checkpoints	men	up	#4A75A9	4
+K51	pcp ce pathway	men	up	#4A75A9	4
+K51	tcr signaling	men	up	#4A75A9	4
+K51	hedgehog off state	men	up	#4A75A9	4
+K51	mitotic metaphase and anaphase	men	up	#4A75A9	4
+K51	signaling by the b cell receptor bcr	men	up	#4A75A9	4
+K51	mitotic g2 g2 m phases	men	up	#4A75A9	4
+K51	hedgehog on state	men	up	#4A75A9	4
+K51	m phase	men	up	#4A75A9	4
+K51	apoptosis	men	up	#4A75A9	4
+K51	beta catenin independent wnt signaling	men	up	#4A75A9	4
+K51	c type lectin receptors clrs	men	up	#4A75A9	4
+K51	fc epsilon receptor fceri signaling	men	up	#4A75A9	4
+K51	er to golgi anterograde transport	men	up	#4A75A9	4
+K51	regulated necrosis	men	up	#4A75A9	4
+K51	interleukin 4 and interleukin 13 signaling	men	up	#4A75A9	4
+K51	mitotic spindle checkpoint	men	up	#4A75A9	4
+K51	copi independent golgi to er retrograde traffic	men	up	#4A75A9	4
+K51	transport to the golgi and subsequent modification	men	up	#4A75A9	4
+K51	unfolded protein response upr	men	up	#4A75A9	4
+K51	golgi to er retrograde transport	men	up	#4A75A9	4
+K51	raf independent mapk1 3 activation	men	up	#4A75A9	4
+K51	eukaryotic translation elongation	women	down	#B6453A	4
+K51	nonsense mediated decay nmd	women	down	#B6453A	4
+K51	response of eif2ak4 gcn2 to amino acid deficiency	women	down	#B6453A	4
+K51	selenoamino acid metabolism	women	down	#B6453A	4
+K51	sars cov 1 modulates host translation machinery	women	down	#B6453A	4
+K51	regulation of beta cell development	men	down	#4A75A9	4
+K13	extracellular matrix organization	common	up	#19787F	5
+K13	ecm proteoglycans	common	up	#19787F	5
+K13	collagen biosynthesis and modifying enzymes	common	up	#19787F	5
+K13	collagen formation	common	up	#19787F	5
+K13	regulation of insulin like growth factor igf transport and uptake by insulin like growth factor binding proteins igfbps	common	up	#19787F	5
+K13	collagen degradation	common	up	#19787F	5
+K13	degradation of the extracellular matrix	common	up	#19787F	5
+K13	binding and uptake of ligands by scavenger receptors	common	up	#19787F	5
+K13	met activates ptk2 signaling	common	up	#19787F	5
+K13	collagen chain trimerization	common	up	#19787F	5
+K13	integrin cell surface interactions	common	up	#19787F	5
+K13	met promotes cell motility	common	up	#19787F	5
+K13	assembly of collagen fibrils and other multimeric structures	common	up	#19787F	5
+K13	non integrin membrane ecm interactions	common	up	#19787F	5
+K13	interferon alpha beta signaling	common	up	#19787F	5
+K13	activation of matrix metalloproteinases	common	up	#19787F	5
+K13	signaling by pdgf	common	up	#19787F	5
+K13	chondroitin sulfate dermatan sulfate metabolism	common	up	#19787F	5
+K13	syndecan interactions	common	up	#19787F	5
+K13	laminin interactions	common	up	#19787F	5
+K13	interferon signaling	common	up	#19787F	5
+K13	immunoregulatory interactions between a lymphoid and a non lymphoid cell	women	up	#B6453A	5
+K13	elastic fibre formation	women	up	#B6453A	5
+K13	ncam signaling for neurite out growth	women	up	#B6453A	5
+K13	ncam1 interactions	women	up	#B6453A	5
+K13	runx2 regulates bone development	women	up	#B6453A	5
+K13	o glycosylation of tsr domain containing proteins	women	up	#B6453A	5
+K13	formation of fibrin clot clotting cascade	women	up	#B6453A	5
+K13	interleukin 6 family signaling	women	up	#B6453A	5
+K13	cell surface interactions at the vascular wall	men	up	#4A75A9	5
+K13	antiviral mechanism by ifn stimulated genes	men	up	#4A75A9	5
+K13	the role of gtse1 in g2 m progression after g2 checkpoint	men	up	#4A75A9	5
+K13	diseases associated with glycosaminoglycan metabolism	men	up	#4A75A9	5
+K13	platelet aggregation plug formation	men	up	#4A75A9	5
+K13	mhc class ii antigen presentation	men	up	#4A75A9	5
+K13	respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	women	down	#B6453A	5
+K13	respiratory electron transport	women	down	#B6453A	5
+K13	complex i biogenesis	women	down	#B6453A	5
+I73	neutrophil degranulation	men	up	#4A75A9	7
+I73	rho gtpases activate nadph oxidases	men	up	#4A75A9	7
+I73	toll like receptor cascades	men	up	#4A75A9	7
+I73	signaling by csf3 g csf	men	up	#4A75A9	7
+I73	interleukin 10 signaling	men	up	#4A75A9	7
+I73	toll like receptor tlr1 tlr2 cascade	men	up	#4A75A9	7
+I73	signaling by interleukins	men	up	#4A75A9	7
+I73	complement cascade	men	up	#4A75A9	7
+I73	signaling by insulin receptor	men	up	#4A75A9	7
+I73	growth hormone receptor signaling	men	up	#4A75A9	7
+I73	leishmania infection	men	up	#4A75A9	7
+I73	neuronal system	men	up	#4A75A9	7
+I73	eph ephrin signaling	men	up	#4A75A9	7
+I73	hsp90 chaperone cycle for steroid hormone receptors shr in the presence of ligand	men	up	#4A75A9	7
+I73	extracellular matrix organization	men	up	#4A75A9	7
+I73	rho gtpases activate wasps and waves	men	up	#4A75A9	7
+I73	signal amplification	men	up	#4A75A9	7
+I73	signaling by vegf	men	up	#4A75A9	7
+F33	respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	women	down	#B6453A	8
+F33	respiratory electron transport	women	down	#B6453A	8
+F33	degradation of dvl	women	down	#B6453A	8
+F33	scf beta trcp mediated degradation of emi1	women	down	#B6453A	8
+F33	negative regulation of notch4 signaling	women	down	#B6453A	8
+F33	degradation of gli1 by the proteasome	women	down	#B6453A	8
+F33	fceri mediated nf kb activation	women	down	#B6453A	8
+F33	the citric acid tca cycle and respiratory electron transport	women	down	#B6453A	8
+F33	dectin 1 mediated noncanonical nf kb signaling	women	down	#B6453A	8
+F33	defective cftr causes cystic fibrosis	women	down	#B6453A	8
+F33	scf skp2 mediated degradation of p27 p21	women	down	#B6453A	8
+F33	apc c mediated degradation of cell cycle proteins	women	down	#B6453A	8
+F33	mitochondrial translation	women	down	#B6453A	8
+F33	clec7a dectin 1 signaling	women	down	#B6453A	8
+F33	cross presentation of soluble exogenous antigens endosomes	women	down	#B6453A	8
+F33	regulation of ras by gaps	women	down	#B6453A	8
+F33	apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	women	down	#B6453A	8
+F33	formation of incision complex in gg ner	women	down	#B6453A	8
+F33	complex i biogenesis	women	down	#B6453A	8
+F33	tcr signaling	women	down	#B6453A	8
+F33	host interactions of hiv factors	women	down	#B6453A	8
+F33	downstream signaling events of b cell receptor bcr	women	down	#B6453A	8
+F33	nuclear events mediated by nfe2l2	women	down	#B6453A	8
+F33	stabilization of p53	women	down	#B6453A	8
+F33	regulation of runx3 expression and activity	women	down	#B6453A	8
+F33	regulation of runx2 expression and activity	women	down	#B6453A	8
+F33	auf1 hnrnp d0 binds and destabilizes mrna	women	down	#B6453A	8
+F33	degradation of axin	women	down	#B6453A	8
+F33	hiv infection	women	down	#B6453A	8
+F33	global genome nucleotide excision repair gg ner	women	down	#B6453A	8
+F33	mhc class ii antigen presentation	women	down	#B6453A	8
+F33	nucleotide excision repair	women	down	#B6453A	8
+F33	fc epsilon receptor fceri signaling	women	down	#B6453A	8
+F33	antigen processing cross presentation	women	down	#B6453A	8
+F33	orc1 removal from chromatin	women	down	#B6453A	8
+F33	cyclin a cdk2 associated events at s phase entry	women	down	#B6453A	8
+F33	signaling by the b cell receptor bcr	women	down	#B6453A	8
+F33	degradation of beta catenin by the destruction complex	women	down	#B6453A	8
+F33	g1 s dna damage checkpoints	women	down	#B6453A	8
+F33	cellular response to chemical stress	women	down	#B6453A	8
+F33	keap1 nfe2l2 pathway	women	down	#B6453A	8
+F33	uch proteinases	women	down	#B6453A	8
+F33	c type lectin receptors clrs	women	down	#B6453A	8
+F33	transcription coupled nucleotide excision repair tc ner	women	down	#B6453A	8
+F33	metabolism of polyamines	women	down	#B6453A	8
+F33	switching of origins to a post replicative state	women	down	#B6453A	8
+F33	runx1 regulates transcription of genes involved in differentiation of hscs	women	down	#B6453A	8
+F33	translation	women	down	#B6453A	8
+F33	mitochondrial protein import	women	down	#B6453A	8
+F33	mitophagy	women	down	#B6453A	8
+F33	inactivation of csf3 g csf signaling	women	down	#B6453A	8
+F33	dna replication pre initiation	women	down	#B6453A	8
+F33	pink1 prkn mediated mitophagy	women	down	#B6453A	8
+F33	tp53 regulates metabolic genes	women	down	#B6453A	8
+F33	rho gtpases activate wasps and waves	women	down	#B6453A	8
+F33	synthesis of dna	women	down	#B6453A	8
+F33	mapk6 mapk4 signaling	women	down	#B6453A	8
+F33	regulation of mrna stability by proteins that bind au rich elements	women	down	#B6453A	8
+F33	neutrophil degranulation	women	down	#B6453A	8
+F33	cholesterol biosynthesis	women	down	#B6453A	8
+F33	protein localization	women	down	#B6453A	8
+F33	processing of capped intronless pre mrna	women	down	#B6453A	8
+F33	parasite infection	women	down	#B6453A	8
+F33	s phase	women	down	#B6453A	8
+F33	separation of sister chromatids	women	down	#B6453A	8
+F33	translesion synthesis by polh	women	down	#B6453A	8
+F31	laminin interactions	women	up	#B6453A	9
+F31	respiratory electron transport	women	down	#B6453A	9
+F31	respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	women	down	#B6453A	9
+F31	the citric acid tca cycle and respiratory electron transport	women	down	#B6453A	9
+F31	mitochondrial translation	women	down	#B6453A	9
+F31	complex i biogenesis	women	down	#B6453A	9
+F31	hedgehog ligand biogenesis	women	down	#B6453A	9
+F31	negative regulation of notch4 signaling	women	down	#B6453A	9
+F31	scf beta trcp mediated degradation of emi1	women	down	#B6453A	9
+F31	cross presentation of soluble exogenous antigens endosomes	women	down	#B6453A	9
+F31	degradation of gli1 by the proteasome	women	down	#B6453A	9
+F31	regulation of ras by gaps	women	down	#B6453A	9
+F31	defective cftr causes cystic fibrosis	women	down	#B6453A	9
+F31	degradation of dvl	women	down	#B6453A	9
+F31	regulation of pten stability and activity	women	down	#B6453A	9
+F31	dectin 1 mediated noncanonical nf kb signaling	women	down	#B6453A	9
+F31	stabilization of p53	women	down	#B6453A	9
+F31	degradation of axin	women	down	#B6453A	9
+F31	scf skp2 mediated degradation of p27 p21	women	down	#B6453A	9
+F31	the role of gtse1 in g2 m progression after g2 checkpoint	women	down	#B6453A	9
+F31	metabolism of polyamines	women	down	#B6453A	9
+F31	apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	women	down	#B6453A	9
+F31	fceri mediated nf kb activation	women	down	#B6453A	9
+F31	downstream signaling events of b cell receptor bcr	women	down	#B6453A	9
+F31	orc1 removal from chromatin	women	down	#B6453A	9
+F31	auf1 hnrnp d0 binds and destabilizes mrna	women	down	#B6453A	9
+F31	pcp ce pathway	women	down	#B6453A	9
+F31	regulation of runx2 expression and activity	women	down	#B6453A	9
+F31	host interactions of hiv factors	women	down	#B6453A	9
+F31	abc transporter disorders	women	down	#B6453A	9
+F31	regulation of runx3 expression and activity	women	down	#B6453A	9
+F31	formation of incision complex in gg ner	women	down	#B6453A	9
+F31	asymmetric localization of pcp proteins	women	down	#B6453A	9
+F31	runx1 regulates transcription of genes involved in differentiation of hscs	women	down	#B6453A	9
+F31	hiv infection	women	down	#B6453A	9
+F31	g1 s dna damage checkpoints	women	down	#B6453A	9
+F31	g2 m checkpoints	women	down	#B6453A	9
+F31	apc c mediated degradation of cell cycle proteins	women	down	#B6453A	9
+F31	dna replication pre initiation	women	down	#B6453A	9
+F31	cellular response to hypoxia	women	down	#B6453A	9
+F31	uch proteinases	women	down	#B6453A	9
+F31	hedgehog off state	women	down	#B6453A	9
+F31	switching of origins to a post replicative state	women	down	#B6453A	9
+F31	degradation of beta catenin by the destruction complex	women	down	#B6453A	9
+F31	separation of sister chromatids	women	down	#B6453A	9
+F31	cyclin a cdk2 associated events at s phase entry	women	down	#B6453A	9
+F31	formation of tc ner pre incision complex	women	down	#B6453A	9
+F31	mitochondrial protein import	women	down	#B6453A	9
+F31	hedgehog on state	women	down	#B6453A	9
+F31	global genome nucleotide excision repair gg ner	women	down	#B6453A	9
+F31	abc family proteins mediated transport	women	down	#B6453A	9
+F31	mitotic g2 g2 m phases	women	down	#B6453A	9
+F31	citric acid cycle tca cycle	women	down	#B6453A	9
+F31	synthesis of dna	women	down	#B6453A	9
+F31	tp53 regulates metabolic genes	women	down	#B6453A	9
+F31	dna damage recognition in gg ner	women	down	#B6453A	9
+F31	tnfr2 non canonical nf kb pathway	women	down	#B6453A	9
+F31	signaling by hedgehog	women	down	#B6453A	9
+F31	dna replication	women	down	#B6453A	9
+F31	vldlr internalisation and degradation	women	down	#B6453A	9
+F31	nucleotide excision repair	women	down	#B6453A	9
+F31	clec7a dectin 1 signaling	women	down	#B6453A	9
+F31	signaling by notch4	women	down	#B6453A	9
+F31	golgi to er retrograde transport	women	down	#B6453A	9
+F31	regulation of mrna stability by proteins that bind au rich elements	women	down	#B6453A	9
+F31	copi mediated anterograde transport	women	down	#B6453A	9
+F31	fc epsilon receptor fceri signaling	women	down	#B6453A	9
+F31	mapk6 mapk4 signaling	women	down	#B6453A	9
+F31	signaling by the b cell receptor bcr	women	down	#B6453A	9
+F31	beta catenin independent wnt signaling	women	down	#B6453A	9
+F31	copi independent golgi to er retrograde traffic	women	down	#B6453A	9
+F31	protein localization	women	down	#B6453A	9
+F31	transcription coupled nucleotide excision repair tc ner	women	down	#B6453A	9
+F31	neddylation	women	down	#B6453A	9
+F31	nuclear events mediated by nfe2l2	women	down	#B6453A	9
+F31	synthesis of active ubiquitin roles of e1 and e2 enzymes	women	down	#B6453A	9
+F31	s phase	women	down	#B6453A	9
+F31	tcr signaling	women	down	#B6453A	9
+F31	mhc class ii antigen presentation	women	down	#B6453A	9
+F31	pten regulation	women	down	#B6453A	9
+F31	cholesterol biosynthesis	women	down	#B6453A	9
+F31	protein ubiquitination	women	down	#B6453A	9
+F31	antigen processing ubiquitination proteasome degradation	women	down	#B6453A	9
+F31	disorders of transmembrane transporters	women	down	#B6453A	9
+F31	mitophagy	women	down	#B6453A	9
+F31	mrna capping	women	down	#B6453A	9
+F31	translation	women	down	#B6453A	9
+F31	cellular response to chemical stress	women	down	#B6453A	9
+F31	formation of the early elongation complex	women	down	#B6453A	9
+F31	keap1 nfe2l2 pathway	women	down	#B6453A	9
+F31	dual incision in tc ner	women	down	#B6453A	9
+F31	transcriptional regulation by runx2	women	down	#B6453A	9
+F31	interleukin 1 signaling	women	down	#B6453A	9
+F31	c type lectin receptors clrs	women	down	#B6453A	9
+F31	apoptosis	women	down	#B6453A	9
+F31	dual incision in gg ner	women	down	#B6453A	9
+F31	eph ephrin signaling	women	down	#B6453A	9
+F31	recognition of dna damage by pcna containing replication complex	women	down	#B6453A	9
+F31	hiv transcription elongation	women	down	#B6453A	9
+F31	antigen processing cross presentation	women	down	#B6453A	9
+F31	pink1 prkn mediated mitophagy	women	down	#B6453A	9
+F31	e3 ubiquitin ligases ubiquitinate target proteins	women	down	#B6453A	9
+F31	rho gtpases activate wasps and waves	women	down	#B6453A	9
+F31	programmed cell death	women	down	#B6453A	9
+F31	wnt5a dependent internalization of fzd4	women	down	#B6453A	9
+F31	transcriptional regulation by runx3	women	down	#B6453A	9
+K50	nuclear events mediated by nfe2l2	common	up	#19787F	10
+K50	keap1 nfe2l2 pathway	common	up	#19787F	10
+K50	cellular response to chemical stress	men	up	#4A75A9	10
+K50	detoxification of reactive oxygen species	men	up	#4A75A9	10
+K50	eukaryotic translation initiation	common	down	#19787F	10
+K50	response of eif2ak4 gcn2 to amino acid deficiency	common	down	#19787F	10
+K50	eukaryotic translation elongation	common	down	#19787F	10
+K50	nonsense mediated decay nmd	common	down	#19787F	10
+K50	influenza infection	common	down	#19787F	10
+K50	cellular response to starvation	common	down	#19787F	10
+K50	activation of the mrna upon binding of the cap binding complex and eifs and subsequent binding to 43s	common	down	#19787F	10
+K50	srp dependent cotranslational protein targeting to membrane	common	down	#19787F	10
+K50	selenoamino acid metabolism	common	down	#19787F	10
+K50	sars cov 1 modulates host translation machinery	common	down	#19787F	10
+K50	rrna processing	women	down	#B6453A	10
+K50	sars cov 2 modulates host translation machinery	men	down	#4A75A9	10
+J44	nfe2l2 regulating anti oxidant detoxification enzymes	women	up	#B6453A	11
+J44	cytochrome p450 arranged by substrate type	women	up	#B6453A	11
+J44	immunoregulatory interactions between a lymphoid and a non lymphoid cell	women	up	#B6453A	11
+J44	mrna splicing	common	down	#19787F	11
+J44	resolution of abasic sites ap sites	common	down	#19787F	11
+J44	chromatin modifying enzymes	common	down	#19787F	11
+J44	rrna processing	women	down	#B6453A	11
+J44	eukaryotic translation initiation	women	down	#B6453A	11
+J44	response of eif2ak4 gcn2 to amino acid deficiency	women	down	#B6453A	11
+J44	regulation of expression of slits and robos	women	down	#B6453A	11
+J44	eukaryotic translation elongation	women	down	#B6453A	11
+J44	nonsense mediated decay nmd	women	down	#B6453A	11
+J44	influenza infection	women	down	#B6453A	11
+J44	translation	women	down	#B6453A	11
+J44	mitochondrial translation	women	down	#B6453A	11
+J44	activation of the mrna upon binding of the cap binding complex and eifs and subsequent binding to 43s	women	down	#B6453A	11
+J44	sars cov 2 modulates host translation machinery	women	down	#B6453A	11
+J44	srp dependent cotranslational protein targeting to membrane	women	down	#B6453A	11
+J44	selenoamino acid metabolism	women	down	#B6453A	11
+J44	dna strand elongation	women	down	#B6453A	11
+J44	sars cov 1 modulates host translation machinery	women	down	#B6453A	11
+J44	resolution of ap sites via the multiple nucleotide patch replacement pathway	women	down	#B6453A	11
+J44	epigenetic regulation of gene expression	women	down	#B6453A	11
+J44	lagging strand synthesis	women	down	#B6453A	11
+J44	rrna modification in the nucleus and cytosol	women	down	#B6453A	11
+J44	trna processing	women	down	#B6453A	11
+J44	sumoylation of transcription cofactors	men	down	#4A75A9	11
+J44	processing of capped intron containing pre mrna	men	down	#4A75A9	11
+J44	base excision repair	men	down	#4A75A9	11
+F20	nfe2l2 regulating anti oxidant detoxification enzymes	women	up	#B6453A	12
+F20	dectin 2 family	women	up	#B6453A	12
+F20	cytochrome p450 arranged by substrate type	women	up	#B6453A	12
+F20	phase i functionalization of compounds	women	up	#B6453A	12
+F20	immunoregulatory interactions between a lymphoid and a non lymphoid cell	women	up	#B6453A	12
+F20	binding and uptake of ligands by scavenger receptors	women	up	#B6453A	12
+F20	translation	common	down	#19787F	12
+F20	mitochondrial translation	common	down	#19787F	12
+F20	respiratory electron transport	common	down	#19787F	12
+F20	base excision repair	common	down	#19787F	12
+F20	respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	common	down	#19787F	12
+F20	complex i biogenesis	common	down	#19787F	12
+F20	s phase	women	down	#B6453A	12
+F20	synthesis of dna	women	down	#B6453A	12
+F20	global genome nucleotide excision repair gg ner	women	down	#B6453A	12
+F20	dna replication	women	down	#B6453A	12
+F20	transcription coupled nucleotide excision repair tc ner	women	down	#B6453A	12
+F20	nucleotide excision repair	women	down	#B6453A	12
+F20	cell cycle mitotic	women	down	#B6453A	12
+F20	dna repair	women	down	#B6453A	12
+F20	dual incision in tc ner	women	down	#B6453A	12
+F20	g2 m dna damage checkpoint	women	down	#B6453A	12
+F20	cell cycle checkpoints	women	down	#B6453A	12
+F20	mitotic spindle checkpoint	women	down	#B6453A	12
+F20	mitotic metaphase and anaphase	women	down	#B6453A	12
+F20	cyclin a cdk2 associated events at s phase entry	women	down	#B6453A	12
+F20	m phase	women	down	#B6453A	12
+F20	transcriptional regulation by runx2	women	down	#B6453A	12
+F20	mitotic g1 phase and g1 s transition	women	down	#B6453A	12
+F20	mitotic prometaphase	women	down	#B6453A	12
+F20	mitochondrial protein import	women	down	#B6453A	12
+F20	g2 m checkpoints	women	down	#B6453A	12
+F20	hiv life cycle	women	down	#B6453A	12
+F20	dual incision in gg ner	women	down	#B6453A	12
+F20	regulation of mrna stability by proteins that bind au rich elements	women	down	#B6453A	12
+F20	dna replication pre initiation	women	down	#B6453A	12
+F20	signaling by notch4	women	down	#B6453A	12
+F20	separation of sister chromatids	women	down	#B6453A	12
+F20	regulation of runx2 expression and activity	women	down	#B6453A	12
+F20	trna processing	women	down	#B6453A	12
+F20	switching of origins to a post replicative state	women	down	#B6453A	12
+F20	recognition of dna damage by pcna containing replication complex	women	down	#B6453A	12
+F20	resolution of sister chromatid cohesion	women	down	#B6453A	12
+F20	regulation of tp53 activity through phosphorylation	women	down	#B6453A	12
+F20	transcriptional regulation by runx3	women	down	#B6453A	12
+F20	apc c mediated degradation of cell cycle proteins	women	down	#B6453A	12
+F20	regulation of pten stability and activity	women	down	#B6453A	12
+F20	orc1 removal from chromatin	women	down	#B6453A	12
+F20	lagging strand synthesis	men	down	#4A75A9	12
+F20	pcna dependent long patch base excision repair	men	down	#4A75A9	12
+F20	resolution of ap sites via the multiple nucleotide patch replacement pathway	men	down	#4A75A9	12
+F20	telomere maintenance	men	down	#4A75A9	12
+F20	processing of capped intron containing pre mrna	men	down	#4A75A9	12
+F20	telomere c strand lagging strand synthesis	men	down	#4A75A9	12
+F20	resolution of abasic sites ap sites	men	down	#4A75A9	12
+F20	mrna splicing	men	down	#4A75A9	12
+D75	respiratory electron transport	women	up	#B6453A	13
+D75	dna replication pre initiation	women	up	#B6453A	13
+D75	translation	women	up	#B6453A	13
+D75	scf skp2 mediated degradation of p27 p21	women	up	#B6453A	13
+D75	apc c mediated degradation of cell cycle proteins	women	up	#B6453A	13
+D75	dna replication	women	up	#B6453A	13
+D75	respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	women	up	#B6453A	13
+D75	synthesis of dna	women	up	#B6453A	13
+D75	the citric acid tca cycle and respiratory electron transport	women	up	#B6453A	13
+D75	switching of origins to a post replicative state	women	up	#B6453A	13
+D75	orc1 removal from chromatin	women	up	#B6453A	13
+D75	g2 m checkpoints	women	up	#B6453A	13
+D75	apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	women	up	#B6453A	13
+D75	mitotic g1 phase and g1 s transition	women	up	#B6453A	13
+D75	neddylation	women	up	#B6453A	13
+D75	srp dependent cotranslational protein targeting to membrane	women	up	#B6453A	13
+D75	s phase	women	up	#B6453A	13
+D75	complex i biogenesis	women	up	#B6453A	13
+D75	mitochondrial translation	women	up	#B6453A	13
+D75	cell cycle checkpoints	women	up	#B6453A	13
+D75	activation of the pre replicative complex	women	up	#B6453A	13
+D75	response of eif2ak4 gcn2 to amino acid deficiency	women	up	#B6453A	13
+D75	collagen degradation	men	up	#4A75A9	13
+D75	interferon alpha beta signaling	women	down	#B6453A	13
+D75	immunoregulatory interactions between a lymphoid and a non lymphoid cell	men	down	#4A75A9	13
+D75	generation of second messenger molecules	men	down	#4A75A9	13
+J45	collagen degradation	men	up	#4A75A9	14
+J45	interferon alpha beta signaling	women	down	#B6453A	14
+J45	eukaryotic translation elongation	men	down	#4A75A9	14
+J45	selenoamino acid metabolism	men	down	#4A75A9	14
+J45	srp dependent cotranslational protein targeting to membrane	men	down	#4A75A9	14
+J45	response of eif2ak4 gcn2 to amino acid deficiency	men	down	#4A75A9	14
+J45	nonsense mediated decay nmd	men	down	#4A75A9	14
+J45	sars cov 1 modulates host translation machinery	men	down	#4A75A9	14
+J45	immunoregulatory interactions between a lymphoid and a non lymphoid cell	men	down	#4A75A9	14
+J45	generation of second messenger molecules	men	down	#4A75A9	14
+D75	collagen degradation	common	up	#19787F	15
+D75	chromatin modifying enzymes	common	down	#19787F	15
+D75	rhobtb2 gtpase cycle	common	down	#19787F	15
+D75	potential therapeutics for sars	common	down	#19787F	15
+D75	interleukin 3 interleukin 5 and gm csf signaling	common	down	#19787F	15
+D75	interleukin 2 family signaling	common	down	#19787F	15
+D75	caspase activation via extrinsic apoptotic signalling pathway	common	down	#19787F	15
+D75	fceri mediated ca 2 mobilization	common	down	#19787F	15
+D75	sumoylation of transcription cofactors	common	down	#19787F	15
+D75	formation of the beta catenin tcf transactivating complex	common	down	#19787F	15
+D75	immunoregulatory interactions between a lymphoid and a non lymphoid cell	common	down	#19787F	15
+D75	antigen activates b cell receptor bcr leading to generation of second messengers	common	down	#19787F	15
+D75	regulation of tp53 activity through acetylation	common	down	#19787F	15
+D75	hdms demethylate histones	common	down	#19787F	15
+D75	costimulation by the cd28 family	common	down	#19787F	15
+D75	generation of second messenger molecules	common	down	#19787F	15
+D75	signaling by scf kit	common	down	#19787F	15
+D75	pd 1 signaling	common	down	#19787F	15
+D75	sars cov 2 activates modulates innate and adaptive immune responses	women	down	#B6453A	15
+D75	sars cov infections	women	down	#B6453A	15
+D75	pkmts methylate histone lysines	women	down	#B6453A	15
+D75	antigen presentation folding assembly and peptide loading of class i mhc	women	down	#B6453A	15
+D75	the role of nef in hiv 1 replication and disease pathogenesis	women	down	#B6453A	15
+D75	leishmania infection	women	down	#B6453A	15
+D75	nucleotide binding domain leucine rich repeat containing receptor nlr signaling pathways	women	down	#B6453A	15
+D75	zbp1 dai mediated induction of type i ifns	women	down	#B6453A	15
+D75	myd88 independent tlr4 cascade	women	down	#B6453A	15
+D75	inflammasomes	women	down	#B6453A	15
+D75	toll like receptor cascades	women	down	#B6453A	15
+D75	fcgamma receptor fcgr dependent phagocytosis	women	down	#B6453A	15
+D75	regulation of mecp2 expression and activity	women	down	#B6453A	15
+D75	interleukin receptor shc signaling	women	down	#B6453A	15
+D75	parasite infection	women	down	#B6453A	15
+D75	signaling by interleukins	women	down	#B6453A	15
+D75	estrogen dependent gene expression	women	down	#B6453A	15
+D75	toll like receptor 9 tlr9 cascade	women	down	#B6453A	15
+D75	fceri mediated mapk activation	women	down	#B6453A	15
+D75	rho gtpase cycle	women	down	#B6453A	15
+D75	cd28 co stimulation	women	down	#B6453A	15
+D75	tak1 dependent ikk and nf kappa b activation	women	down	#B6453A	15
+D75	ripk1 mediated regulated necrosis	women	down	#B6453A	15
+D75	gpvi mediated activation cascade	women	down	#B6453A	15
+D75	toll like receptor tlr1 tlr2 cascade	women	down	#B6453A	15
+D75	death receptor signaling	women	down	#B6453A	15
+D75	ephb mediated forward signaling	women	down	#B6453A	15
+D75	traf6 mediated nf kb activation	women	down	#B6453A	15
+D75	semaphorin interactions	women	down	#B6453A	15
+D75	diseases of immune system	women	down	#B6453A	15
+D75	signaling by kit in disease	women	down	#B6453A	15
+D75	other interleukin signaling	women	down	#B6453A	15
+D75	g beta gamma signalling through pi3kgamma	women	down	#B6453A	15
+D75	pre notch processing in golgi	women	down	#B6453A	15
+D75	regulated necrosis	women	down	#B6453A	15
+D75	nod1 2 signaling pathway	women	down	#B6453A	15
+D75	effects of pip2 hydrolysis	women	down	#B6453A	15
+D75	anti inflammatory response favouring leishmania parasite infection	women	down	#B6453A	15
+D75	signaling by nuclear receptors	women	down	#B6453A	15
+D75	esr mediated signaling	women	down	#B6453A	15
+D75	fcgr3a mediated il10 synthesis	women	down	#B6453A	15
+D75	processing of capped intron containing pre mrna	men	down	#4A75A9	15
+D75	mrna splicing	men	down	#4A75A9	15
+D75	transport of mature transcript to cytoplasm	men	down	#4A75A9	15
+D75	rna polymerase ii transcription termination	men	down	#4A75A9	15
+D75	sumoylation of chromatin organization proteins	men	down	#4A75A9	15
+D75	sumoylation of rna binding proteins	men	down	#4A75A9	15
+D75	signaling by alk in cancer	men	down	#4A75A9	15
+D75	rhobtb gtpase cycle	men	down	#4A75A9	15
+D75	rrna modification in the nucleus and cytosol	men	down	#4A75A9	15
+D72	collagen degradation	men	up	#4A75A9	16
+D72	translation	men	down	#4A75A9	16
+D72	eukaryotic translation initiation	men	down	#4A75A9	16
+D72	nonsense mediated decay nmd	men	down	#4A75A9	16
+D72	influenza infection	men	down	#4A75A9	16
+D72	selenoamino acid metabolism	men	down	#4A75A9	16
+D72	eukaryotic translation elongation	men	down	#4A75A9	16
+D72	srp dependent cotranslational protein targeting to membrane	men	down	#4A75A9	16
+D72	response of eif2ak4 gcn2 to amino acid deficiency	men	down	#4A75A9	16
+D72	cellular response to starvation	men	down	#4A75A9	16
+D72	sars cov 1 modulates host translation machinery	men	down	#4A75A9	16
+D72	generation of second messenger molecules	men	down	#4A75A9	16
+D72	sars cov 2 modulates host translation machinery	men	down	#4A75A9	16
+D72	immunoregulatory interactions between a lymphoid and a non lymphoid cell	men	down	#4A75A9	16
+D75	mitochondrial fatty acid beta oxidation	women	up	#B6453A	17
+D75	mitochondrial translation	women	up	#B6453A	17
+D75	glutathione conjugation	women	up	#B6453A	17
+D75	activation of the pre replicative complex	women	up	#B6453A	17
+D75	metabolism of porphyrins	women	up	#B6453A	17
+D75	global genome nucleotide excision repair gg ner	women	up	#B6453A	17
+D75	synthesis of dna	women	up	#B6453A	17
+D75	dna replication pre initiation	women	up	#B6453A	17
+D75	the citric acid tca cycle and respiratory electron transport	women	up	#B6453A	17
+D75	dual incision in gg ner	women	up	#B6453A	17
+D75	recognition of dna damage by pcna containing replication complex	women	up	#B6453A	17
+D75	dna replication	women	up	#B6453A	17
+D75	pcna dependent long patch base excision repair	women	up	#B6453A	17
+D75	gap filling dna repair synthesis and ligation in gg ner	women	up	#B6453A	17
+D75	respiratory electron transport	women	up	#B6453A	17
+D75	e2f mediated regulation of dna replication	women	up	#B6453A	17
+D75	switching of origins to a post replicative state	women	up	#B6453A	17
+D75	respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	women	up	#B6453A	17
+D75	resolution of ap sites via the multiple nucleotide patch replacement pathway	women	up	#B6453A	17
+D75	orc1 removal from chromatin	women	up	#B6453A	17
+D75	dna strand elongation	women	up	#B6453A	17
+D75	antigen activates b cell receptor bcr leading to generation of second messengers	men	down	#4A75A9	17
+D75	costimulation by the cd28 family	men	down	#4A75A9	17
+D75	immunoregulatory interactions between a lymphoid and a non lymphoid cell	men	down	#4A75A9	17
+D75	formation of the beta catenin tcf transactivating complex	men	down	#4A75A9	17
+D75	interleukin 7 signaling	men	down	#4A75A9	17
+D75	effects of pip2 hydrolysis	men	down	#4A75A9	17
+D75	generation of second messenger molecules	men	down	#4A75A9	17
+D75	pd 1 signaling	men	down	#4A75A9	17
+D75	processing of capped intron containing pre mrna	men	down	#4A75A9	17
+D75	mrna splicing	men	down	#4A75A9	17
+D75	interleukin 2 family signaling	men	down	#4A75A9	17
+D75	hdms demethylate histones	men	down	#4A75A9	17
+D75	sumoylation of transcription cofactors	men	down	#4A75A9	17
+D72	mitochondrial translation	women	up	#B6453A	18
+D72	protein localization	women	up	#B6453A	18
+D72	activation of the pre replicative complex	women	up	#B6453A	18
+D72	nuclear events mediated by nfe2l2	women	up	#B6453A	18
+D72	keap1 nfe2l2 pathway	women	up	#B6453A	18
+D72	synthesis of dna	women	up	#B6453A	18
+D72	pcp ce pathway	women	up	#B6453A	18
+D72	dna replication pre initiation	women	up	#B6453A	18
+D72	the citric acid tca cycle and respiratory electron transport	women	up	#B6453A	18
+D72	metabolism of polyamines	women	up	#B6453A	18
+D72	glucose metabolism	women	up	#B6453A	18
+D72	dna replication	women	up	#B6453A	18
+D72	respiratory electron transport	women	up	#B6453A	18
+D72	switching of origins to a post replicative state	women	up	#B6453A	18
+D72	respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	women	up	#B6453A	18
+D72	orc1 removal from chromatin	women	up	#B6453A	18
+D72	the role of gtse1 in g2 m progression after g2 checkpoint	women	up	#B6453A	18
+D72	immunoregulatory interactions between a lymphoid and a non lymphoid cell	men	down	#4A75A9	18
+D72	generation of second messenger molecules	men	down	#4A75A9	18
+D47	nephrin family interactions	common	down	#19787F	19
+D47	antigen activates b cell receptor bcr leading to generation of second messengers	men	down	#4A75A9	19
+D47	signaling by the b cell receptor bcr	men	down	#4A75A9	19
+D47	costimulation by the cd28 family	men	down	#4A75A9	19
+D47	antigen presentation folding assembly and peptide loading of class i mhc	men	down	#4A75A9	19
+D47	immunoregulatory interactions between a lymphoid and a non lymphoid cell	men	down	#4A75A9	19
+D47	formation of the beta catenin tcf transactivating complex	men	down	#4A75A9	19
+D47	circadian clock	men	down	#4A75A9	19
+D47	tcr signaling	men	down	#4A75A9	19
+D47	generation of second messenger molecules	men	down	#4A75A9	19
+D47	pd 1 signaling	men	down	#4A75A9	19
+D47	processing of capped intron containing pre mrna	men	down	#4A75A9	19
+D47	mrna splicing	men	down	#4A75A9	19
+D47	signaling by cytosolic fgfr1 fusion mutants	men	down	#4A75A9	19
+D47	interleukin 2 family signaling	men	down	#4A75A9	19
+D47	hdms demethylate histones	men	down	#4A75A9	19
+D47	mitochondrial calcium ion transport	men	down	#4A75A9	19
+D47	fc epsilon receptor fceri signaling	men	down	#4A75A9	19
+D47	clec7a dectin 1 signaling	men	down	#4A75A9	19
+D47	ub specific processing proteases	men	down	#4A75A9	19
+D47	sumoylation of transcription cofactors	men	down	#4A75A9	19
+D47	deubiquitination	men	down	#4A75A9	19
+D75	rhobtb2 gtpase cycle	common	down	#19787F	20
+D75	generation of second messenger molecules	common	down	#19787F	20
+D75	chromatin modifying enzymes	common	down	#19787F	20
+D75	effects of pip2 hydrolysis	common	down	#19787F	20
+D75	hdms demethylate histones	women	down	#B6453A	20
+D75	mrna splicing	men	down	#4A75A9	20
+D75	processing of capped intron containing pre mrna	men	down	#4A75A9	20
+D75	transport of mature transcript to cytoplasm	men	down	#4A75A9	20
+D75	rrna modification in the nucleus and cytosol	men	down	#4A75A9	20
+D75	rna polymerase ii transcription termination	men	down	#4A75A9	20
+D75	pd 1 signaling	men	down	#4A75A9	20
+D75	formation of the beta catenin tcf transactivating complex	men	down	#4A75A9	20
+D75	antigen activates b cell receptor bcr leading to generation of second messengers	men	down	#4A75A9	20
+D75	sumoylation of rna binding proteins	men	down	#4A75A9	20
+D75	potential therapeutics for sars	men	down	#4A75A9	20
+D75	sumoylation of chromatin organization proteins	men	down	#4A75A9	20
+D47	heparan sulfate heparin hs gag metabolism	men	up	#4A75A9	21
+D47	mrna splicing	common	down	#19787F	21
+D47	processing of capped intron containing pre mrna	common	down	#19787F	21
+D47	transport of mature transcript to cytoplasm	common	down	#19787F	21
+D47	rna polymerase ii transcription termination	common	down	#19787F	21
+D47	interactions of rev with host cellular proteins	common	down	#19787F	21
+D47	cellular response to heat stress	common	down	#19787F	21
+D47	hcmv early events	common	down	#19787F	21
+D47	nuclear import of rev protein	common	down	#19787F	21
+D47	lagging strand synthesis	common	down	#19787F	21
+D47	interactions of vpr with host cellular proteins	common	down	#19787F	21
+D47	pcna dependent long patch base excision repair	common	down	#19787F	21
+D47	sumoylation of rna binding proteins	common	down	#19787F	21
+D47	trna processing	common	down	#19787F	21
+D47	rhobtb2 gtpase cycle	common	down	#19787F	21
+D47	mitochondrial calcium ion transport	common	down	#19787F	21
+D47	association of tric cct with target proteins during biosynthesis	common	down	#19787F	21
+D47	formation of rna pol ii elongation complex	common	down	#19787F	21
+D47	trna processing in the nucleus	common	down	#19787F	21
+D47	rna polymerase ii pre transcription events	common	down	#19787F	21
+D47	nuclear pore complex npc disassembly	common	down	#19787F	21
+D47	transport of the slbp dependant mature mrna	common	down	#19787F	21
+D47	generation of second messenger molecules	common	down	#19787F	21
+D47	rna polymerase i transcription initiation	common	down	#19787F	21
+D47	chromatin modifying enzymes	common	down	#19787F	21
+D47	transport of mature mrnas derived from intronless transcripts	common	down	#19787F	21
+D47	export of viral ribonucleoproteins from nucleus	common	down	#19787F	21
+D47	sumoylation of dna damage response and repair proteins	common	down	#19787F	21
+D47	resolution of ap sites via the multiple nucleotide patch replacement pathway	common	down	#19787F	21
+D47	formation of tubulin folding intermediates by cct tric	women	down	#B6453A	21
+D47	ire1alpha activates chaperones	women	down	#B6453A	21
+D47	dna strand elongation	women	down	#B6453A	21
+D47	darpp 32 events	women	down	#B6453A	21
+D47	hdms demethylate histones	women	down	#B6453A	21
+D47	hcmv infection	women	down	#B6453A	21
+D47	rhobtb gtpase cycle	women	down	#B6453A	21
+D47	hsf1 activation	women	down	#B6453A	21
+D47	rna polymerase i transcription termination	women	down	#B6453A	21
+D47	hsf1 dependent transactivation	women	down	#B6453A	21
+D47	hdacs deacetylate histones	women	down	#B6453A	21
+D47	effects of pip2 hydrolysis	women	down	#B6453A	21
+D47	translation	men	down	#4A75A9	21
+D47	rrna processing	men	down	#4A75A9	21
+D47	eukaryotic translation initiation	men	down	#4A75A9	21
+D47	activation of the mrna upon binding of the cap binding complex and eifs and subsequent binding to 43s	men	down	#4A75A9	21
+D47	rrna modification in the nucleus and cytosol	men	down	#4A75A9	21
+D47	positive epigenetic regulation of rrna expression	men	down	#4A75A9	21
+D47	rna polymerase i transcription	men	down	#4A75A9	21
+D47	resolution of abasic sites ap sites	men	down	#4A75A9	21
+D47	influenza infection	men	down	#4A75A9	21
+D47	srp dependent cotranslational protein targeting to membrane	men	down	#4A75A9	21
+D47	nonsense mediated decay nmd	men	down	#4A75A9	21
+D47	regulation of expression of slits and robos	men	down	#4A75A9	21
+D47	base excision repair	men	down	#4A75A9	21
+D47	host interactions of hiv factors	men	down	#4A75A9	21
+D47	mitochondrial translation	men	down	#4A75A9	21
+D47	citric acid cycle tca cycle	men	down	#4A75A9	21
+D47	signaling by robo receptors	men	down	#4A75A9	21
+D47	hiv infection	men	down	#4A75A9	21
+D47	hiv transcription elongation	men	down	#4A75A9	21
+D47	eukaryotic translation elongation	men	down	#4A75A9	21
+D47	pd 1 signaling	men	down	#4A75A9	21
+D47	sars cov 1 modulates host translation machinery	men	down	#4A75A9	21
+D47	mrna splicing minor pathway	men	down	#4A75A9	21
+D47	formation of the beta catenin tcf transactivating complex	men	down	#4A75A9	21
+D47	antigen activates b cell receptor bcr leading to generation of second messengers	men	down	#4A75A9	21
+D47	signaling by the b cell receptor bcr	men	down	#4A75A9	21
+D47	pyruvate metabolism and citric acid tca cycle	men	down	#4A75A9	21
+D47	potential therapeutics for sars	men	down	#4A75A9	21
+D47	mitochondrial protein import	men	down	#4A75A9	21
+D47	regulation of hsf1 mediated heat shock response	men	down	#4A75A9	21
+D47	hiv life cycle	men	down	#4A75A9	21
+D47	fgfr2 alternative splicing	men	down	#4A75A9	21
+D47	downstream signaling events of b cell receptor bcr	men	down	#4A75A9	21
+D47	response of eif2ak4 gcn2 to amino acid deficiency	men	down	#4A75A9	21
+D47	viral messenger rna synthesis	men	down	#4A75A9	21
+D47	sumoylation of dna replication proteins	men	down	#4A75A9	21
+D47	deadenylation of mrna	men	down	#4A75A9	21
+D47	polymerase switching on the c strand of the telomere	men	down	#4A75A9	21
+D47	cross presentation of soluble exogenous antigens endosomes	men	down	#4A75A9	21
+D47	interleukin 12 family signaling	men	down	#4A75A9	21
+D47	sumoylation of ubiquitinylation proteins	men	down	#4A75A9	21
+D47	chromosome maintenance	men	down	#4A75A9	21
+D47	transcription of the hiv genome	men	down	#4A75A9	21
+D47	sumoylation of chromatin organization proteins	men	down	#4A75A9	21
+D47	sars cov 2 modulates host translation machinery	men	down	#4A75A9	21
+D47	sumoylation	men	down	#4A75A9	21
+D47	epigenetic regulation of gene expression	men	down	#4A75A9	21
+D47	mrna capping	men	down	#4A75A9	21
+D47	transcriptional regulation by small rnas	men	down	#4A75A9	21
+D47	sumoylation of sumoylation proteins	men	down	#4A75A9	21
+D47	dna repair	men	down	#4A75A9	21
+D47	snrnp assembly	men	down	#4A75A9	21
+D47	telomere c strand lagging strand synthesis	men	down	#4A75A9	21
+D47	selenoamino acid metabolism	men	down	#4A75A9	21
+D47	regulation of glucokinase by glucokinase regulatory protein	men	down	#4A75A9	21
+D47	rna polymerase i promoter escape	men	down	#4A75A9	21
+D47	tp53 regulates transcription of dna repair genes	men	down	#4A75A9	21
+D47	pkmts methylate histone lysines	men	down	#4A75A9	21
+D47	processing of capped intronless pre mrna	men	down	#4A75A9	21
+D47	hiv elongation arrest and recovery	men	down	#4A75A9	21
+D46	mrna splicing	men	down	#4A75A9	22
+D46	processing of capped intron containing pre mrna	men	down	#4A75A9	22
+D46	effects of pip2 hydrolysis	men	down	#4A75A9	22
+D46	generation of second messenger molecules	men	down	#4A75A9	22
+D46	pd 1 signaling	men	down	#4A75A9	22
+D46	formation of the beta catenin tcf transactivating complex	men	down	#4A75A9	22
+D46	antigen activates b cell receptor bcr leading to generation of second messengers	men	down	#4A75A9	22
+D46	signaling by the b cell receptor bcr	men	down	#4A75A9	22
+D46	mitochondrial calcium ion transport	men	down	#4A75A9	22
+D46	mitochondrial translation	common	up	#19787F	23
+D46	formation of the early elongation complex	women	up	#B6453A	23
+D46	mrna capping	women	up	#B6453A	23
+D46	hiv transcription elongation	women	up	#B6453A	23
+D46	respiratory electron transport	women	up	#B6453A	23
+D46	branched chain amino acid catabolism	women	up	#B6453A	23
+D46	abortive elongation of hiv 1 transcript in the absence of tat	women	up	#B6453A	23
+D46	peroxisomal protein import	women	up	#B6453A	23
+D46	formation of tc ner pre incision complex	women	up	#B6453A	23
+D46	formation of incision complex in gg ner	women	up	#B6453A	23
+D46	metabolism of polyamines	women	up	#B6453A	23
+D46	protein localization	women	up	#B6453A	23
+D46	dna damage recognition in gg ner	women	up	#B6453A	23
+D46	respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	women	up	#B6453A	23
+D46	signaling by bmp	women	down	#B6453A	23
+D46	chemokine receptors bind chemokines	men	down	#4A75A9	23
+C67	interferon alpha beta signaling	men	up	#4A75A9	24
+C67	cell cycle mitotic	men	up	#4A75A9	24
+C67	cell cycle checkpoints	men	up	#4A75A9	24
+C67	interferon signaling	men	up	#4A75A9	24
+C67	sars cov 2 activates modulates innate and adaptive immune responses	men	up	#4A75A9	24
+C67	dna strand elongation	men	up	#4A75A9	24
+C67	homologous dna pairing and strand exchange	men	up	#4A75A9	24
+C67	activation of atr in response to replication stress	men	up	#4A75A9	24
+C67	activation of the pre replicative complex	men	up	#4A75A9	24
+C67	g2 m dna damage checkpoint	men	up	#4A75A9	24
+C67	hdr through homologous recombination hrr	men	up	#4A75A9	24
+C67	regulation of tp53 activity through phosphorylation	men	up	#4A75A9	24
+C67	signaling by interleukins	men	up	#4A75A9	24
+C67	g2 m checkpoints	men	up	#4A75A9	24
+C67	chromosome maintenance	men	up	#4A75A9	24
+C67	mitotic prometaphase	men	up	#4A75A9	24
+C67	diseases of dna repair	men	up	#4A75A9	24
+C67	neutrophil degranulation	men	up	#4A75A9	24
+C67	interleukin 10 signaling	men	up	#4A75A9	24
+C67	diseases of immune system	men	up	#4A75A9	24
+C67	dna replication	men	up	#4A75A9	24
+C67	toll like receptor cascades	men	up	#4A75A9	24
+C67	tp53 regulates transcription of cell death genes	men	up	#4A75A9	24
+C67	interferon gamma signaling	men	up	#4A75A9	24
+C67	m phase	men	up	#4A75A9	24
+C67	mitotic g1 phase and g1 s transition	men	up	#4A75A9	24
+C67	antigen presentation folding assembly and peptide loading of class i mhc	men	up	#4A75A9	24
+C67	mitotic spindle checkpoint	men	up	#4A75A9	24
+C67	dna double strand break repair	men	up	#4A75A9	24
+C67	processing of dna double strand break ends	men	up	#4A75A9	24
+C67	synthesis of dna	men	up	#4A75A9	24
+C67	antigen processing cross presentation	men	up	#4A75A9	24
+C67	s phase	men	up	#4A75A9	24
+C67	myd88 independent tlr4 cascade	men	up	#4A75A9	24
+C67	tp53 regulates transcription of cell cycle genes	men	up	#4A75A9	24
+C67	parasite infection	men	up	#4A75A9	24
+C67	rho gtpase effectors	men	up	#4A75A9	24
+C67	irak4 deficiency tlr2 4	men	up	#4A75A9	24
+C67	resolution of sister chromatid cohesion	men	up	#4A75A9	24
+C67	mitotic metaphase and anaphase	men	up	#4A75A9	24
+C67	mitotic prophase	men	up	#4A75A9	24
+C67	diseases of programmed cell death	men	up	#4A75A9	24
+C67	chemokine receptors bind chemokines	men	up	#4A75A9	24
+C67	rho gtpases activate formins	men	up	#4A75A9	24
+C67	nucleotide binding domain leucine rich repeat containing receptor nlr signaling pathways	men	up	#4A75A9	24
+C67	meiotic recombination	men	up	#4A75A9	24
+C67	sars cov 1 activates modulates innate immune responses	men	up	#4A75A9	24
+C67	deposition of new cenpa containing nucleosomes at the centromere	men	up	#4A75A9	24
+C67	nuclear envelope breakdown	men	up	#4A75A9	24
+C67	interleukin 12 family signaling	men	up	#4A75A9	24
+C67	sumoylation of dna replication proteins	men	up	#4A75A9	24
+C67	leishmania infection	men	up	#4A75A9	24
+C67	antiviral mechanism by ifn stimulated genes	men	up	#4A75A9	24
+C67	resolution of d loop structures through synthesis dependent strand annealing sdsa	men	up	#4A75A9	24
+C67	interleukin 12 signaling	men	up	#4A75A9	24
+C67	glycolysis	men	up	#4A75A9	24
+C67	toll like receptor tlr1 tlr2 cascade	men	up	#4A75A9	24
+C67	interleukin 4 and interleukin 13 signaling	men	up	#4A75A9	24
+C67	gene and protein expression by jak stat signaling after interleukin 12 stimulation	men	up	#4A75A9	24
+C67	resolution of d loop structures	men	up	#4A75A9	24
+C67	separation of sister chromatids	men	up	#4A75A9	24
+C67	dna replication pre initiation	men	up	#4A75A9	24
+C67	dap12 interactions	men	up	#4A75A9	24
+C67	rac3 gtpase cycle	men	up	#4A75A9	24
+C67	initiation of nuclear envelope ne reformation	men	up	#4A75A9	24
+C67	regulated necrosis	men	up	#4A75A9	24
+C67	traf6 mediated irf7 activation	men	up	#4A75A9	24
+C67	rho gtpases activate wasps and waves	men	up	#4A75A9	24
+C67	programmed cell death	men	up	#4A75A9	24
+C67	tnfr2 non canonical nf kb pathway	men	up	#4A75A9	24
+C67	cyclin d associated events in g1	men	up	#4A75A9	24
+C67	signaling by notch4	men	up	#4A75A9	24
+C67	g0 and early g1	men	up	#4A75A9	24
+C67	transcriptional regulation by tp53	men	up	#4A75A9	24
+C67	cell surface interactions at the vascular wall	men	up	#4A75A9	24
+C67	ddx58 ifih1 mediated induction of interferon alpha beta	men	up	#4A75A9	24
+C67	mitotic g2 g2 m phases	men	up	#4A75A9	24
+C67	host interactions of hiv factors	men	up	#4A75A9	24
+C67	fcgamma receptor fcgr dependent phagocytosis	men	up	#4A75A9	24
+C67	signaling by scf kit	men	up	#4A75A9	24
+C67	apc c mediated degradation of cell cycle proteins	men	up	#4A75A9	24
+C67	nod1 2 signaling pathway	men	up	#4A75A9	24
+C67	apoptosis	men	up	#4A75A9	24
+C67	cyclin a b1 b2 associated events during g2 m transition	men	up	#4A75A9	24
+C67	switching of origins to a post replicative state	men	up	#4A75A9	24
+C67	class i mhc mediated antigen processing presentation	men	up	#4A75A9	24
+C67	interleukin 1 signaling	men	up	#4A75A9	24
+C67	e2f mediated regulation of dna replication	men	up	#4A75A9	24
+C67	g1 s specific transcription	men	up	#4A75A9	24
+C67	interleukin 1 family signaling	men	up	#4A75A9	24
+C67	orc1 removal from chromatin	men	up	#4A75A9	24
+C67	dap12 signaling	men	up	#4A75A9	24
+C67	ephb mediated forward signaling	men	up	#4A75A9	24
+C67	signaling by erythropoietin	men	up	#4A75A9	24
+C67	pyroptosis	men	up	#4A75A9	24
+C67	signaling by csf3 g csf	men	up	#4A75A9	24
+C67	signaling by the b cell receptor bcr	men	up	#4A75A9	24
+C67	regulation of ifna ifnb signaling	men	up	#4A75A9	24
+C67	deubiquitination	men	up	#4A75A9	24
+C67	scf skp2 mediated degradation of p27 p21	men	up	#4A75A9	24
+C67	fc epsilon receptor fceri signaling	men	up	#4A75A9	24
+C67	inactivation of csf3 g csf signaling	men	up	#4A75A9	24
+C67	g1 s dna damage checkpoints	men	up	#4A75A9	24
+C67	regulation of runx3 expression and activity	men	up	#4A75A9	24
+C67	signalling to erks	men	up	#4A75A9	24
+C67	cellular response to hypoxia	men	up	#4A75A9	24
+C67	interaction between l1 and ankyrins	men	down	#4A75A9	24
+C74	cell cycle checkpoints	common	up	#19787F	25
+C74	g2 m checkpoints	common	up	#19787F	25
+C74	dna replication	common	up	#19787F	25
+C74	synthesis of dna	common	up	#19787F	25
+C74	cell cycle mitotic	common	up	#19787F	25
+C74	activation of atr in response to replication stress	common	up	#19787F	25
+C74	chromosome maintenance	common	up	#19787F	25
+C74	dna strand elongation	common	up	#19787F	25
+C74	homology directed repair	common	up	#19787F	25
+C74	s phase	common	up	#19787F	25
+C74	homologous dna pairing and strand exchange	common	up	#19787F	25
+C74	mitotic spindle checkpoint	common	up	#19787F	25
+C74	dna replication pre initiation	common	up	#19787F	25
+C74	mitotic metaphase and anaphase	common	up	#19787F	25
+C74	hdr through homologous recombination hrr	common	up	#19787F	25
+C74	mitotic g1 phase and g1 s transition	common	up	#19787F	25
+C74	activation of the pre replicative complex	common	up	#19787F	25
+C74	deposition of new cenpa containing nucleosomes at the centromere	common	up	#19787F	25
+C74	switching of origins to a post replicative state	common	up	#19787F	25
+C74	dna double strand break repair	common	up	#19787F	25
+C74	separation of sister chromatids	common	up	#19787F	25
+C74	g2 m dna damage checkpoint	common	up	#19787F	25
+C74	m phase	common	up	#19787F	25
+C74	g1 s specific transcription	common	up	#19787F	25
+C74	dna repair	common	up	#19787F	25
+C74	diseases of dna repair	common	up	#19787F	25
+C74	apc c mediated degradation of cell cycle proteins	common	up	#19787F	25
+C74	processing of dna double strand break ends	common	up	#19787F	25
+C74	resolution of abasic sites ap sites	common	up	#19787F	25
+C74	resolution of sister chromatid cohesion	common	up	#19787F	25
+C74	resolution of d loop structures through synthesis dependent strand annealing sdsa	common	up	#19787F	25
+C74	resolution of d loop structures	common	up	#19787F	25
+C74	mitotic prometaphase	common	up	#19787F	25
+C74	interactions of rev with host cellular proteins	common	up	#19787F	25
+C74	sumoylation of dna replication proteins	common	up	#19787F	25
+C74	telomere maintenance	common	up	#19787F	25
+C74	hdr through single strand annealing ssa	common	up	#19787F	25
+C74	base excision repair	common	up	#19787F	25
+C74	nuclear import of rev protein	common	up	#19787F	25
+C74	glucose metabolism	common	up	#19787F	25
+C74	polo like kinase mediated events	common	up	#19787F	25
+C74	g0 and early g1	common	up	#19787F	25
+C74	rho gtpases activate formins	common	up	#19787F	25
+C74	regulation of tp53 activity through phosphorylation	common	up	#19787F	25
+C74	export of viral ribonucleoproteins from nucleus	common	up	#19787F	25
+C74	glycolysis	common	up	#19787F	25
+C74	resolution of ap sites via the multiple nucleotide patch replacement pathway	common	up	#19787F	25
+C74	nuclear envelope breakdown	common	up	#19787F	25
+C74	copi dependent golgi to er retrograde traffic	common	up	#19787F	25
+C74	fanconi anemia pathway	common	up	#19787F	25
+C74	pcna dependent long patch base excision repair	common	up	#19787F	25
+C74	postmitotic nuclear pore complex npc reformation	common	up	#19787F	25
+C74	cyclin a b1 b2 associated events during g2 m transition	common	up	#19787F	25
+C74	nuclear pore complex npc disassembly	common	up	#19787F	25
+C74	extension of telomeres	common	up	#19787F	25
+C74	telomere c strand lagging strand synthesis	common	up	#19787F	25
+C74	mitotic g2 g2 m phases	common	up	#19787F	25
+C74	lagging strand synthesis	common	up	#19787F	25
+C74	apc cdc20 mediated degradation of nek2a	common	up	#19787F	25
+C74	tp53 regulates transcription of genes involved in g2 cell cycle arrest	common	up	#19787F	25
+C74	kinesins	common	up	#19787F	25
+C74	transcriptional regulation by tp53	common	up	#19787F	25
+C74	transcription of e2f targets under negative control by p107 rbl1 and p130 rbl2 in complex with hdac1	common	up	#19787F	25
+C74	regulation of tp53 activity	common	up	#19787F	25
+C74	transcription of e2f targets under negative control by dream complex	common	up	#19787F	25
+C74	golgi to er retrograde transport	common	up	#19787F	25
+C74	inhibition of the proteolytic activity of apc c required for the onset of anaphase by mitotic spindle checkpoint components	common	up	#19787F	25
+C74	tp53 regulates transcription of cell cycle genes	common	up	#19787F	25
+C74	processive synthesis on the lagging strand	common	up	#19787F	25
+C74	transcriptional regulation by e2f6	common	up	#19787F	25
+C74	mitotic prophase	common	up	#19787F	25
+C74	aurka activation by tpx2	common	up	#19787F	25
+C74	meiotic recombination	common	up	#19787F	25
+C74	gap filling dna repair synthesis and ligation in gg ner	common	up	#19787F	25
+C74	phosphorylation of the apc c	common	up	#19787F	25
+C74	processive synthesis on the c strand of the telomere	common	up	#19787F	25
+C74	recognition of dna damage by pcna containing replication complex	common	up	#19787F	25
+C74	polymerase switching on the c strand of the telomere	common	up	#19787F	25
+C74	nuclear envelope ne reassembly	common	up	#19787F	25
+C74	e2f mediated regulation of dna replication	common	up	#19787F	25
+C74	intra golgi and retrograde golgi to er traffic	common	up	#19787F	25
+C74	diseases of programmed cell death	common	up	#19787F	25
+C74	rho gtpase effectors	common	up	#19787F	25
+C74	apc c cdc20 mediated degradation of cyclin b	common	up	#19787F	25
+C74	hcmv early events	common	up	#19787F	25
+C74	regulation of plk1 activity at g2 m transition	common	up	#19787F	25
+C74	synthesis of active ubiquitin roles of e1 and e2 enzymes	women	up	#B6453A	25
+C74	trna processing	men	up	#4A75A9	25
+C74	orc1 removal from chromatin	men	up	#4A75A9	25
+C74	snrnp assembly	men	up	#4A75A9	25
+C74	trna processing in the nucleus	men	up	#4A75A9	25
+C74	transcriptional regulation by small rnas	men	up	#4A75A9	25
+C74	viral messenger rna synthesis	men	up	#4A75A9	25
+C74	transport of mature mrnas derived from intronless transcripts	men	up	#4A75A9	25
+C74	transport of the slbp dependant mature mrna	men	up	#4A75A9	25
+C74	interactions of vpr with host cellular proteins	men	up	#4A75A9	25
+C74	ns1 mediated effects on host pathways	men	up	#4A75A9	25
+C74	hiv life cycle	men	up	#4A75A9	25
+C74	sumoylation of rna binding proteins	men	up	#4A75A9	25
+C74	transcription coupled nucleotide excision repair tc ner	men	up	#4A75A9	25
+C74	regulation of glucokinase by glucokinase regulatory protein	men	up	#4A75A9	25
+C74	processing of capped intronless pre mrna	men	up	#4A75A9	25
+C74	dual incision in tc ner	men	up	#4A75A9	25
+C74	sumoylation of sumoylation proteins	men	up	#4A75A9	25
+C74	gene silencing by rna	men	up	#4A75A9	25
+C74	nucleotide excision repair	men	up	#4A75A9	25
+C74	processing of capped intron containing pre mrna	men	up	#4A75A9	25
+C74	transport of mature transcript to cytoplasm	men	up	#4A75A9	25
+C74	transcription of the hiv genome	men	up	#4A75A9	25
+C74	sumoylation of dna damage response and repair proteins	men	up	#4A75A9	25
+C74	sumoylation of chromatin organization proteins	men	up	#4A75A9	25
+C74	dual incision in gg ner	men	up	#4A75A9	25
+C74	sumoylation	men	up	#4A75A9	25
+C74	sumoylation of ubiquitinylation proteins	men	up	#4A75A9	25
+C74	tp53 regulates transcription of dna repair genes	men	up	#4A75A9	25
+C74	rna polymerase ii transcription termination	men	up	#4A75A9	25
+C74	global genome nucleotide excision repair gg ner	men	up	#4A75A9	25
+C74	deadenylation dependent mrna decay	men	up	#4A75A9	25
+C74	diseases of mitotic cell cycle	men	up	#4A75A9	25
+C74	mrna splicing	men	up	#4A75A9	25
+C74	dna damage bypass	men	up	#4A75A9	25
+C74	epigenetic regulation of gene expression	men	up	#4A75A9	25
+C74	rmts methylate histone arginines	men	up	#4A75A9	25
+C74	termination of translesion dna synthesis	men	up	#4A75A9	25
+C74	translesion synthesis by y family dna polymerases bypasses lesions on dna template	men	up	#4A75A9	25
+C74	aberrant regulation of mitotic g1 s transition in cancer due to rb1 defects	men	up	#4A75A9	25
+C74	initiation of nuclear envelope ne reformation	men	up	#4A75A9	25
+C74	recruitment of mitotic centrosome proteins and complexes	men	up	#4A75A9	25
+C74	activation of bh3 only proteins	men	up	#4A75A9	25
+C74	activation of anterior hox genes in hindbrain development during early embryogenesis	men	up	#4A75A9	25
+C74	complement cascade	common	down	#19787F	25
+C74	class a 1 rhodopsin like receptors	common	down	#19787F	25
+C74	gpcr ligand binding	common	down	#19787F	25
+C74	initial triggering of complement	common	down	#19787F	25
+C74	sumoylation of intracellular receptors	women	down	#B6453A	25
+C74	rho gtpases activate nadph oxidases	women	down	#B6453A	25
+C74	biosynthesis of specialized proresolving mediators spms	women	down	#B6453A	25
+C74	phase i functionalization of compounds	women	down	#B6453A	25
+C74	regulation of fzd by ubiquitination	women	down	#B6453A	25
+C74	muscle contraction	men	down	#4A75A9	25
+C74	cardiac conduction	men	down	#4A75A9	25
+C74	g alpha s signalling events	men	down	#4A75A9	25
+C74	cell extracellular matrix interactions	men	down	#4A75A9	25
+C74	generation of second messenger molecules	men	down	#4A75A9	25
+C74	ngf stimulated transcription	men	down	#4A75A9	25
+C74	integration of energy metabolism	men	down	#4A75A9	25
+C74	interaction between l1 and ankyrins	men	down	#4A75A9	25
+C74	g alpha i signalling events	men	down	#4A75A9	25
+F17	nuclear events mediated by nfe2l2	common	up	#19787F	26
+F17	keap1 nfe2l2 pathway	men	up	#4A75A9	26
+F17	cellular response to chemical stress	men	up	#4A75A9	26
+F17	signaling by cytosolic fgfr1 fusion mutants	women	down	#B6453A	26
+F17	notch4 intracellular domain regulates transcription	women	down	#B6453A	26
+C38	dna strand elongation	common	up	#19787F	27
+C38	homologous dna pairing and strand exchange	common	up	#19787F	27
+C38	deposition of new cenpa containing nucleosomes at the centromere	common	up	#19787F	27
+C38	g1 s specific transcription	common	up	#19787F	27
+C38	resolution of d loop structures	common	up	#19787F	27
+C38	mitochondrial translation	women	up	#B6453A	27
+C38	fanconi anemia pathway	women	up	#B6453A	27
+C38	cell cycle checkpoints	men	up	#4A75A9	27
+C38	g2 m checkpoints	men	up	#4A75A9	27
+C38	synthesis of dna	men	up	#4A75A9	27
+C38	dna replication	men	up	#4A75A9	27
+C38	cell cycle mitotic	men	up	#4A75A9	27
+C38	activation of atr in response to replication stress	men	up	#4A75A9	27
+C38	s phase	men	up	#4A75A9	27
+C38	chromosome maintenance	men	up	#4A75A9	27
+C38	mitotic spindle checkpoint	men	up	#4A75A9	27
+C38	diseases of dna repair	men	up	#4A75A9	27
+C38	mitotic metaphase and anaphase	men	up	#4A75A9	27
+C38	hdr through homologous recombination hrr	men	up	#4A75A9	27
+C38	dna replication pre initiation	men	up	#4A75A9	27
+C38	mitotic g1 phase and g1 s transition	men	up	#4A75A9	27
+C38	homology directed repair	men	up	#4A75A9	27
+C38	separation of sister chromatids	men	up	#4A75A9	27
+C38	activation of the pre replicative complex	men	up	#4A75A9	27
+C38	switching of origins to a post replicative state	men	up	#4A75A9	27
+C38	trna processing	men	up	#4A75A9	27
+C38	resolution of sister chromatid cohesion	men	up	#4A75A9	27
+C38	orc1 removal from chromatin	men	up	#4A75A9	27
+C38	apc c mediated degradation of cell cycle proteins	men	up	#4A75A9	27
+C38	m phase	men	up	#4A75A9	27
+C38	snrnp assembly	men	up	#4A75A9	27
+C38	g2 m dna damage checkpoint	men	up	#4A75A9	27
+C38	rrna modification in the nucleus and cytosol	men	up	#4A75A9	27
+C38	dna double strand break repair	men	up	#4A75A9	27
+C38	dna repair	men	up	#4A75A9	27
+C38	trna processing in the nucleus	men	up	#4A75A9	27
+C38	rho gtpases activate formins	men	up	#4A75A9	27
+C38	mitotic prometaphase	men	up	#4A75A9	27
+C38	hdr through single strand annealing ssa	men	up	#4A75A9	27
+C38	sumoylation of dna replication proteins	men	up	#4A75A9	27
+C38	interactions of rev with host cellular proteins	men	up	#4A75A9	27
+C38	resolution of ap sites via the multiple nucleotide patch replacement pathway	men	up	#4A75A9	27
+C38	regulation of tp53 activity through phosphorylation	men	up	#4A75A9	27
+C38	transport of mature mrnas derived from intronless transcripts	men	up	#4A75A9	27
+C38	translation	men	up	#4A75A9	27
+C38	resolution of abasic sites ap sites	men	up	#4A75A9	27
+C38	processing of dna double strand break ends	men	up	#4A75A9	27
+C38	extension of telomeres	men	up	#4A75A9	27
+C38	g0 and early g1	men	up	#4A75A9	27
+C38	export of viral ribonucleoproteins from nucleus	men	up	#4A75A9	27
+C38	lagging strand synthesis	men	up	#4A75A9	27
+C38	nuclear import of rev protein	men	up	#4A75A9	27
+C38	base excision repair	men	up	#4A75A9	27
+C38	telomere c strand lagging strand synthesis	men	up	#4A75A9	27
+C38	rrna processing	men	up	#4A75A9	27
+C38	resolution of d loop structures through synthesis dependent strand annealing sdsa	men	up	#4A75A9	27
+C38	nuclear envelope breakdown	men	up	#4A75A9	27
+C38	nuclear pore complex npc disassembly	men	up	#4A75A9	27
+C38	copi dependent golgi to er retrograde traffic	men	up	#4A75A9	27
+C38	tp53 regulates transcription of genes involved in g2 cell cycle arrest	men	up	#4A75A9	27
+C38	metabolism of nucleotides	men	up	#4A75A9	27
+C38	meiotic recombination	men	up	#4A75A9	27
+C38	collagen formation	men	up	#4A75A9	27
+C38	influenza infection	men	up	#4A75A9	27
+C38	dual incision in gg ner	men	up	#4A75A9	27
+C38	assembly of collagen fibrils and other multimeric structures	men	up	#4A75A9	27
+C38	tp53 regulates transcription of dna repair genes	men	up	#4A75A9	27
+C38	processive synthesis on the c strand of the telomere	men	up	#4A75A9	27
+C38	syndecan interactions	men	up	#4A75A9	27
+C38	collagen degradation	men	up	#4A75A9	27
+C38	collagen biosynthesis and modifying enzymes	men	up	#4A75A9	27
+C38	diseases of programmed cell death	men	up	#4A75A9	27
+C38	met activates ptk2 signaling	men	up	#4A75A9	27
+C38	sars cov 2 modulates host translation machinery	men	up	#4A75A9	27
+C38	srp dependent cotranslational protein targeting to membrane	men	up	#4A75A9	27
+C38	interconversion of nucleotide di and triphosphates	men	up	#4A75A9	27
+C38	nuclear events kinase and transcription factor activation	common	down	#19787F	27
+C38	surfactant metabolism	common	down	#19787F	27
+C38	signaling by bmp	women	down	#B6453A	27
+C38	g alpha s signalling events	men	down	#4A75A9	27
+C38	regulation of insulin secretion	men	down	#4A75A9	27
+C38	sumoylation of intracellular receptors	men	down	#4A75A9	27
+C38	integration of energy metabolism	men	down	#4A75A9	27
+C38	sema4d in semaphorin signaling	men	down	#4A75A9	27
+E11	gpvi mediated activation cascade	common	up	#19787F	28
+E11	mitotic metaphase and anaphase	women	up	#B6453A	28
+E11	syndecan interactions	women	up	#B6453A	28
+E11	neutrophil degranulation	women	up	#B6453A	28
+E11	antiviral mechanism by ifn stimulated genes	women	up	#B6453A	28
+E11	regulation of ras by gaps	women	up	#B6453A	28
+E11	dna replication pre initiation	women	up	#B6453A	28
+E11	s phase	women	up	#B6453A	28
+E11	dna replication	women	up	#B6453A	28
+E11	transcriptional regulation by ventx	women	up	#B6453A	28
+E11	fcgamma receptor fcgr dependent phagocytosis	women	up	#B6453A	28
+E11	purinergic signaling in leishmaniasis infection	women	up	#B6453A	28
+E11	role of lat2 ntal lab on calcium mobilization	women	up	#B6453A	28
+E11	sphingolipid de novo biosynthesis	women	up	#B6453A	28
+E11	regulation of cholesterol biosynthesis by srebp srebf	women	up	#B6453A	28
+E11	esr mediated signaling	women	up	#B6453A	28
+E11	met activates ptk2 signaling	men	up	#4A75A9	28
+E11	collagen biosynthesis and modifying enzymes	men	up	#4A75A9	28
+E11	collagen chain trimerization	men	up	#4A75A9	28
+E11	laminin interactions	men	up	#4A75A9	28
+E11	integrin cell surface interactions	men	up	#4A75A9	28
+E11	ecm proteoglycans	men	up	#4A75A9	28
+C14	cell cycle checkpoints	common	up	#19787F	29
+C14	activation of the pre replicative complex	common	up	#19787F	29
+C14	dna replication	common	up	#19787F	29
+C14	activation of atr in response to replication stress	common	up	#19787F	29
+C14	cell cycle mitotic	common	up	#19787F	29
+C14	mitotic g1 phase and g1 s transition	common	up	#19787F	29
+C14	synthesis of dna	common	up	#19787F	29
+C14	g2 m checkpoints	common	up	#19787F	29
+C14	s phase	common	up	#19787F	29
+C14	mitotic spindle checkpoint	common	up	#19787F	29
+C14	dna strand elongation	common	up	#19787F	29
+C14	mitotic metaphase and anaphase	common	up	#19787F	29
+C14	ns1 mediated effects on host pathways	common	up	#19787F	29
+C14	dna replication pre initiation	common	up	#19787F	29
+C14	antiviral mechanism by ifn stimulated genes	common	up	#19787F	29
+C14	transport of mature mrnas derived from intronless transcripts	common	up	#19787F	29
+C14	dna double strand break repair	common	up	#19787F	29
+C14	chromosome maintenance	common	up	#19787F	29
+C14	transport of the slbp dependant mature mrna	common	up	#19787F	29
+C14	sumoylation of dna replication proteins	common	up	#19787F	29
+C14	resolution of sister chromatid cohesion	common	up	#19787F	29
+C14	snrnp assembly	common	up	#19787F	29
+C14	homology directed repair	common	up	#19787F	29
+C14	mitotic prometaphase	common	up	#19787F	29
+C14	m phase	common	up	#19787F	29
+C14	hdr through homologous recombination hrr	common	up	#19787F	29
+C14	g2 m dna damage checkpoint	common	up	#19787F	29
+C14	dna repair	common	up	#19787F	29
+C14	nuclear pore complex npc disassembly	common	up	#19787F	29
+C14	processing of dna double strand break ends	common	up	#19787F	29
+C14	separation of sister chromatids	common	up	#19787F	29
+C14	telomere c strand lagging strand synthesis	common	up	#19787F	29
+C14	diseases of dna repair	common	up	#19787F	29
+C14	deposition of new cenpa containing nucleosomes at the centromere	common	up	#19787F	29
+C14	switching of origins to a post replicative state	common	up	#19787F	29
+C14	collagen biosynthesis and modifying enzymes	common	up	#19787F	29
+C14	homologous dna pairing and strand exchange	common	up	#19787F	29
+C14	lagging strand synthesis	common	up	#19787F	29
+C14	extension of telomeres	common	up	#19787F	29
+C14	orc1 removal from chromatin	common	up	#19787F	29
+C14	collagen chain trimerization	common	up	#19787F	29
+C14	rho gtpases activate formins	common	up	#19787F	29
+C14	syndecan interactions	common	up	#19787F	29
+C14	sumoylation of dna damage response and repair proteins	common	up	#19787F	29
+C14	collagen degradation	common	up	#19787F	29
+C14	regulation of tp53 activity through phosphorylation	common	up	#19787F	29
+C14	telomere maintenance	common	up	#19787F	29
+C14	collagen formation	common	up	#19787F	29
+C14	non integrin membrane ecm interactions	common	up	#19787F	29
+C14	apc c mediated degradation of cell cycle proteins	common	up	#19787F	29
+C14	host interactions of hiv factors	common	up	#19787F	29
+C14	resolution of d loop structures	common	up	#19787F	29
+C14	interferon signaling	common	up	#19787F	29
+C14	binding and uptake of ligands by scavenger receptors	common	up	#19787F	29
+C14	polymerase switching on the c strand of the telomere	common	up	#19787F	29
+C14	g1 s specific transcription	common	up	#19787F	29
+C14	hdr through single strand annealing ssa	common	up	#19787F	29
+C14	base excision repair	common	up	#19787F	29
+C14	resolution of ap sites via the multiple nucleotide patch replacement pathway	common	up	#19787F	29
+C14	g0 and early g1	common	up	#19787F	29
+C14	met activates ptk2 signaling	common	up	#19787F	29
+C14	ncam1 interactions	common	up	#19787F	29
+C14	pcna dependent long patch base excision repair	common	up	#19787F	29
+C14	cyclin a cdk2 associated events at s phase entry	common	up	#19787F	29
+C14	resolution of d loop structures through synthesis dependent strand annealing sdsa	common	up	#19787F	29
+C14	ecm proteoglycans	common	up	#19787F	29
+C14	hiv life cycle	common	up	#19787F	29
+C14	resolution of abasic sites ap sites	common	up	#19787F	29
+C14	met promotes cell motility	common	up	#19787F	29
+C14	meiotic recombination	common	up	#19787F	29
+C14	integrin cell surface interactions	common	up	#19787F	29
+C14	scf skp2 mediated degradation of p27 p21	common	up	#19787F	29
+C14	extracellular matrix organization	common	up	#19787F	29
+C14	assembly of collagen fibrils and other multimeric structures	common	up	#19787F	29
+C14	hiv infection	common	up	#19787F	29
+C14	transcriptional regulation by e2f6	common	up	#19787F	29
+C14	apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	common	up	#19787F	29
+C14	ncam signaling for neurite out growth	common	up	#19787F	29
+C14	perk regulates gene expression	common	up	#19787F	29
+C14	mitotic g2 g2 m phases	common	up	#19787F	29
+C14	degradation of the extracellular matrix	common	up	#19787F	29
+C14	laminin interactions	common	up	#19787F	29
+C14	tp53 regulates transcription of genes involved in g2 cell cycle arrest	common	up	#19787F	29
+C14	diseases of mitotic cell cycle	common	up	#19787F	29
+C14	g1 s dna damage checkpoints	common	up	#19787F	29
+C14	transcription of e2f targets under negative control by dream complex	common	up	#19787F	29
+C14	signaling by pdgf	common	up	#19787F	29
+C14	aberrant regulation of mitotic g1 s transition in cancer due to rb1 defects	common	up	#19787F	29
+C14	negative regulation of notch4 signaling	common	up	#19787F	29
+C14	rho gtpase effectors	common	up	#19787F	29
+C14	cross presentation of soluble exogenous antigens endosomes	common	up	#19787F	29
+C14	transcriptional regulation by runx2	common	up	#19787F	29
+C14	asymmetric localization of pcp proteins	common	up	#19787F	29
+C14	interferon alpha beta signaling	common	up	#19787F	29
+C14	regulation of runx2 expression and activity	common	up	#19787F	29
+C14	interactions of rev with host cellular proteins	women	up	#B6453A	29
+C14	export of viral ribonucleoproteins from nucleus	women	up	#B6453A	29
+C14	nuclear import of rev protein	women	up	#B6453A	29
+C14	nuclear envelope breakdown	women	up	#B6453A	29
+C14	transcriptional regulation by small rnas	women	up	#B6453A	29
+C14	viral messenger rna synthesis	women	up	#B6453A	29
+C14	rrna modification in the nucleus and cytosol	women	up	#B6453A	29
+C14	trna processing	women	up	#B6453A	29
+C14	processing of capped intronless pre mrna	women	up	#B6453A	29
+C14	mrna splicing minor pathway	women	up	#B6453A	29
+C14	aurka activation by tpx2	women	up	#B6453A	29
+C14	cyclin a b1 b2 associated events during g2 m transition	women	up	#B6453A	29
+C14	regulation of plk1 activity at g2 m transition	women	up	#B6453A	29
+C14	sars cov 2 activates modulates innate and adaptive immune responses	women	up	#B6453A	29
+C14	recruitment of mitotic centrosome proteins and complexes	women	up	#B6453A	29
+C14	disorders of transmembrane transporters	women	up	#B6453A	29
+C14	tp53 regulates transcription of dna repair genes	women	up	#B6453A	29
+C14	apoptosis	women	up	#B6453A	29
+C14	tp53 regulates transcription of cell cycle genes	men	up	#4A75A9	29
+C14	regulation of tp53 activity	men	up	#4A75A9	29
+C14	atf4 activates genes in response to endoplasmic reticulum stress	men	up	#4A75A9	29
+C14	scf beta trcp mediated degradation of emi1	men	up	#4A75A9	29
+C14	auf1 hnrnp d0 binds and destabilizes mrna	men	up	#4A75A9	29
+C14	sumoylation	men	up	#4A75A9	29
+C14	translesion synthesis by y family dna polymerases bypasses lesions on dna template	men	up	#4A75A9	29
+C14	regulation of mrna stability by proteins that bind au rich elements	men	up	#4A75A9	29
+C14	transcription of the hiv genome	men	up	#4A75A9	29
+C14	signaling by fgfr2 iiia tm	men	up	#4A75A9	29
+C14	hiv transcription elongation	men	up	#4A75A9	29
+C14	processive synthesis on the c strand of the telomere	men	up	#4A75A9	29
+C14	degradation of dvl	men	up	#4A75A9	29
+C14	termination of translesion dna synthesis	men	up	#4A75A9	29
+C14	hedgehog ligand biogenesis	men	up	#4A75A9	29
+C14	rna polymerase ii pre transcription events	men	up	#4A75A9	29
+C14	hiv transcription initiation	men	up	#4A75A9	29
+C14	stabilization of p53	men	up	#4A75A9	29
+C14	regulation of runx3 expression and activity	men	up	#4A75A9	29
+C14	sars cov 1 activates modulates innate immune responses	men	up	#4A75A9	29
+C14	dectin 1 mediated noncanonical nf kb signaling	men	up	#4A75A9	29
+C14	downstream signaling events of b cell receptor bcr	men	up	#4A75A9	29
+C14	interleukin 10 signaling	men	up	#4A75A9	29
+C14	defective cftr causes cystic fibrosis	men	up	#4A75A9	29
+C14	uch proteinases	men	up	#4A75A9	29
+C14	tnfr2 non canonical nf kb pathway	men	up	#4A75A9	29
+C14	degradation of gli1 by the proteasome	men	up	#4A75A9	29
+C14	runx1 regulates transcription of genes involved in differentiation of hscs	men	up	#4A75A9	29
+C14	sars cov 2 infection	men	up	#4A75A9	29
+C14	regulation of pten stability and activity	men	up	#4A75A9	29
+C14	phase i functionalization of compounds	common	down	#19787F	29
